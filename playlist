@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo=“logo” group-title=“movies”, Justice League 2017
+https://www.googleapis.com/drive/v3/files/1EF9NEw6zbtyfQ_dE0gDXkniMyyMUG0kP?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
+
+#EXTINF:-1 tvg-logo=“logo” group-title=“movies”, Beauty and The Beast 2017
+https://www.googleapis.com/drive/v3/files/0B63UcWCQWAYmZGl1enE2QTFzeGs?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
