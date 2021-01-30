@@ -1,13 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo=“logo” group-title=“movies”, Justice League 2017
+#EXTINF:-1 tvg-logo=“logo” group-title=“MOVIES”, Justice League (2017)
 https://www.googleapis.com/drive/v3/files/1EF9NEw6zbtyfQ_dE0gDXkniMyyMUG0kP?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
 
-#EXTINF:-1 tvg-logo=“logo” group-title=“movies”, Beauty and The Beast 2017
+#EXTINF:-1 tvg-logo=“logo” group-title=“MOVIES”, Beauty and The Beast (2017)
 https://www.googleapis.com/drive/v3/files/0B63UcWCQWAYmZGl1enE2QTFzeGs?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
 
-#EXTINF:-1 tvg-logo=“logo” group-title=“movies”, The Boss Baby 2017
+#EXTINF:-1 tvg-logo=“logo” group-title=“MOVIES”, The Boss Baby (2017)
 https://www.googleapis.com/drive/v3/files/1fdk-AebQZfx-rz_RrtjTahBf4TCgz3wf?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
 
-#EXTINF:-1 tvg-logo=“logo” group-title=“movies”, Minions Holiday Special 2020
+#EXTINF:-1 tvg-logo=“logo” group-title=“MOVIES”, John Wick: Chapter 3 - Parabellum (2019)
+https://www.googleapis.com/drive/v3/files/1ZlXxSonVcFpWbnhAhxl43ZyD_ncgY4eP?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
+
+#EXTINF:-1 tvg-logo=“logo” group-title=“MOVIES”, Minions Holiday Special (2020)
 https://www.googleapis.com/drive/v3/files/1rG9MmgQ2JxuVB7UQoUXyWhKFT_fv0YRW?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
+
+#EXTINF:-1 tvg-logo=“logo” group-title=“MOVIES”, The SpongBob Movie: Sponge on The Run (2020)
+https://www.googleapis.com/drive/v3/files/17-1Pu1FV9Gj0-riZSX4M1GCnV6h7Ec6k?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
+
+#EXTINF:-1 tvg-logo=“logo” group-title=“MOVIES”, Wonder Woman 1984 (2020)
+https://www.googleapis.com/drive/v3/files/16iFcaMQH5XJdYZREpYfEH4WcXy_LaeTM?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
