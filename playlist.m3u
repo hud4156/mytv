@@ -1,18 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo=“logo” group-title=“MOVIES”, Justice League (2017)
+#EXTINF:-1 tvg-logo=“logo” group-title=“VOD”, Justice League (2017)
 https://www.googleapis.com/drive/v3/files/1EF9NEw6zbtyfQ_dE0gDXkniMyyMUG0kP?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
-#EXTINF:-1 tvg-logo=“logo” group-title=“MOVIES”, Beauty and The Beast (2017)
+#EXTINF:-1 tvg-logo=“logo” group-title=“VOD”, Beauty and The Beast (2017)
 https://www.googleapis.com/drive/v3/files/0B63UcWCQWAYmZGl1enE2QTFzeGs?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
-#EXTINF:-1 tvg-logo=“logo” group-title=“MOVIES”, The Boss Baby (2017)
+#EXTINF:-1 tvg-logo=“logo” group-title=“VOD”, The Boss Baby (2017)
 https://www.googleapis.com/drive/v3/files/1fdk-AebQZfx-rz_RrtjTahBf4TCgz3wf?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
-#EXTINF:-1 tvg-logo=“logo” group-title=“MOVIES”, John Wick: Chapter 3 - Parabellum (2019)
+#EXTINF:-1 tvg-logo=“logo” group-title=“VOD”, John Wick: Chapter 3 - Parabellum (2019)
 https://www.googleapis.com/drive/v3/files/1ZlXxSonVcFpWbnhAhxl43ZyD_ncgY4eP?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
-#EXTINF:-1 tvg-logo=“logo” group-title=“MOVIES”, Minions Holiday Special (2020)
+#EXTINF:-1 tvg-logo=“logo” group-title=“VOD”, Minions Holiday Special (2020)
 https://www.googleapis.com/drive/v3/files/1rG9MmgQ2JxuVB7UQoUXyWhKFT_fv0YRW?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
-#EXTINF:-1 tvg-logo=“logo” group-title=“MOVIES”, The SpongBob Movie: Sponge on The Run (2020)
+#EXTINF:-1 tvg-logo=“logo” group-title=“VOD”, The SpongBob Movie: Sponge on The Run (2020)
 https://www.googleapis.com/drive/v3/files/17-1Pu1FV9Gj0-riZSX4M1GCnV6h7Ec6k?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
-#EXTINF:-1 tvg-logo=“logo” group-title=“MOVIES”, Wonder Woman 1984 (2020)
+#EXTINF:-1 tvg-logo=“logo” group-title=“VOD”, Wonder Woman 1984 (2020)
 https://www.googleapis.com/drive/v3/files/16iFcaMQH5XJdYZREpYfEH4WcXy_LaeTM?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
 
 #EXTINF:-1 tvg-id="tv.101002210224" tvg-logo="https://i.mjh.nz/.images/tv.101002210224.png" group-title="KIDS",ABC Me
@@ -28,33 +28,33 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c
 #EXTINF:-1 tvg-id="NJR.US" tvg-logo="http://static.epg.best/sa/NickJr.sa.png" group-title="KIDS",Nick Jr
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-id="Fli.IN" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movies",&Flix
+#EXTINF:-1 tvg-id="Fli.IN" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="MOVIES",&Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="Cin.Asia" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="Movies",Cinemax
+#EXTINF:-1 tvg-id="Cin.Asia" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="MOVIES",Cinemax
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
-#EXTINF:-1 tvg-id="FXM.Asia" tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="Movies",FOX Movies
+#EXTINF:-1 tvg-id="FXM.Asia" tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="MOVIES",FOX Movies
 http://103.47.132.164/PLTV/88888888/224/3221227119/index.m3u8
-#EXTINF:-1 tvg-id="FFM.Asia" tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.png" group-title="Movies",Fox Family Movies
+#EXTINF:-1 tvg-id="FFM.Asia" tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.png" group-title="MOVIES",Fox Family Movies
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="FXX.Asia" tvg-logo="http://static.epg.best/us/FX.us.png" group-title="Movies",FX
+#EXTINF:-1 tvg-id="FXX.Asia" tvg-logo="http://static.epg.best/us/FX.us.png" group-title="MOVIES",FX
 http://103.47.132.164/PLTV/88888888/224/3221227139/index.m3u8
-#EXTINF:-1 tvg-id="FAM.Asia" tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png" group-title="Movies",Fox Action Movies
+#EXTINF:-1 tvg-id="FAM.Asia" tvg-logo="https://foxactionmovies.foxmoviesasia.com/images/fam.png" group-title="MOVIES",Fox Action Movies
 http://103.47.132.164/PLTV/88888888/224/3221227121/index.m3u8
-#EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="Movies",HBO
+#EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="MOVIES",HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-#EXTINF:-1 tvg-id="Hbf.Asia" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" group-title="Movies",HBO Family
+#EXTINF:-1 tvg-id="Hbf.Asia" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" group-title="MOVIES",HBO Family
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-#EXTINF:-1 tvg-id="Hbh.Asia" tvg-logo="https://static.epg.best/id/HBOHits.id.png" group-title="Movies",HBO Hits
+#EXTINF:-1 tvg-id="Hbh.Asia" tvg-logo="https://static.epg.best/id/HBOHits.id.png" group-title="MOVIES",HBO Hits
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-#EXTINF:-1 tvg-id="Hbs.Asia" tvg-logo="https://static.epg.best/us/HBOSignature.us.png" group-title="Movies",HBO Signature
+#EXTINF:-1 tvg-id="Hbs.Asia" tvg-logo="https://static.epg.best/us/HBOSignature.us.png" group-title="MOVIES",HBO Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-#EXTINF:-1 tvg-id="Red.Asia" tvg-logo="https://www.mewatch.sg/image/11230416/16x9/947/533/25177e0a801178d5b705f85f42655107/sh/red-by-hbo.png" group-title="Movies",Red by HBO
+#EXTINF:-1 tvg-id="Red.Asia" tvg-logo="https://www.mewatch.sg/image/11230416/16x9/947/533/25177e0a801178d5b705f85f42655107/sh/red-by-hbo.png" group-title="MOVIES",Red by HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
-#EXTINF:-1 tvg-id="PAR.US" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png" group-title="Movies",Paramount Network
+#EXTINF:-1 tvg-id="PAR.US" tvg-logo="https://static.epg.best/us/ParamountNetwork.us.png" group-title="MOVIES",Paramount Network
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=fdb5e6bd-6102-4712-bf51-a879469a0d4b&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
-#EXTINF:-1 tvg-id="SMA.UK" tvg-logo="https://static.epg.best/gb/SonyMoviesAction.uk.png" group-title="Movies",Sony Movies Action
+#EXTINF:-1 tvg-id="SMA.UK" tvg-logo="https://static.epg.best/gb/SonyMoviesAction.uk.png" group-title="MOVIES",Sony Movies Action
 http://51.52.156.22:8888/http/009
-#EXTINF:-1 tvg-id="SMC.UK" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2019/09/SONY-MOVIES-CLASSIC.png" group-title="Movies",Sony Movies Classic
+#EXTINF:-1 tvg-id="SMC.UK" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2019/09/SONY-MOVIES-CLASSIC.png" group-title="MOVIES",Sony Movies Classic
 https://uk.easyview.eu/hls/truemovies.m3u8|Referer=https://easyview.eu/watch.php?stream=5star-2
 
 #EXTINF:-1 tvg-id="Fox.Asia" tvg-logo="https://static.epg.best/es/Fox.es.png" group-title="FAMILY",Fox
@@ -118,7 +118,7 @@ https://dl.dropbox.com/s/epjbhhbgl8dmtdt/family.m3u8?dl=1
 https://dl.dropbox.com/s/buj1qa1o55s4ln7/signatur.m3u8?dl=1
 #EXTINF:-1 tvg-ID="CineMax.2" group-title="HBO" tvg-logo="http://cekker.masuk.web.id/logo/CMAX4.png", Cinemax by HBO 
 https://dl.dropbox.com/s/lopcwe16r7c6flw/cinemax.m3u8?dl=1
-#EXTINF:-1 tvg-id="RED by HBO.2" tvg-name="RED by HBO" group-title="MOVIES" tvg-logo="https://macan.live/img/red_hbo.png", RED by HBO 
+#EXTINF:-1 tvg-id="RED by HBO.2" tvg-name="RED by HBO" group-title="HBO" tvg-logo="https://macan.live/img/red_hbo.png", RED by HBO 
 https://dl.dropbox.com/s/w1sroagglp9ebkv/red.m3u8?dl=1
 #EXTINF:-1 tvg-ID="HBOSignature.3" group-title="HBO" tvg-logo="http://cekker.masuk.web.id/logo/hbosig.png", HBO Signature
 https://www.dropbox.com/s/dllbdpdkssknyjp/HBOSIGX.m3u8?dl=1
