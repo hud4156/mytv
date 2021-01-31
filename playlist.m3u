@@ -45,3 +45,32 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1448.ts
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1449.ts
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sports 15 HD (Match Days Only)" tvg-logo="" group-title="BEIN SPORTS 1080",Bein Sports 15 HD (Match Days Only)
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1450.ts
+
+#EXTINF:0 tvg-id="" tvg-name="HBO.1" tvg-logo="https://pmcvariety.files.wordpress.com/2019/11/hbo-logo.jpg" group-title="HBO",HBO
+https://dl.dropbox.com/s/mz1iezbism3zjy6/hbo.m3u8?dl=1
+#EXTINF:0 tvg-name="HBOHits.1" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/hbohits-logo.jpg" group-title="HBO",HBO Hits 
+https://www.dropbox.com/s/dl/6wm74beyzd0w9xo/mkctv_hbohit.m3u8
+#EXTINF:0 tvg-name="HBOFamily.1" tvg-logo="https://e7.pngegg.com/pngimages/826/731/png-clipart-hbo-family-television-channel-others-television-blue.png" group-title="HBO",HBO Family
+https://www.dropbox.com/s/dl/o9397gnmm0s44ar/mkctv_hbofam.m3u8
+#EXTINF:0 tvg-name="HBOSignature.1" tvg-logo="https://live.staticflickr.com/4285/34502331824_fb033edd47_c.jpg" group-title="HBO",HBO Signature
+https://www.dropbox.com/s/dl/fvu91fvkr31yngd/mkctv_hbosig.m3u8
+#EXTINF:0 tvg-name="Cinemax.1" tvg-logo="http://cekker.masuk.web.id/logo/CMAX4.png" group-title="HBO",Cinemax
+https://www.dropbox.com/s/dl/zz3he1mu3lilgiz/mkctv_cinemax.m3u8
+#EXTINF:0 tvg-name="Red By HBO.1" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9b/Screen_RED_%28logo%29.jpg" group-title="HBO",Red By HBO
+https://www.dropbox.com/s/dl/q09u7xcrpjwi2e4/mkctv_red.m3u8
+#EXTINF:-1 tvg-ID="HBO.2" group-title="HBO" tvg-logo="http://cekker.masuk.web.id/logo/HBO4.png",HBO 
+https://dl.dropbox.com/s/mz1iezbism3zjy6/hbo.m3u8?dl=1
+#EXTINF:-1 tvg-ID="HBOHits.2" tvg-name="HBOHits.id" group-title="HBO" tvg-logo="http://cekker.masuk.web.id/logo/hbohits4.png", HBO Hits 
+https://dl.dropbox.com/s/b2krhkx9ydxh2z5/hit.m3u8?dl=1
+#EXTINF:-1 tvg-ID="HBOFamily.2" group-title="HBO" tvg-logo="http://cekker.masuk.web.id/logo/hbofam.png", HBO Family 
+https://dl.dropbox.com/s/epjbhhbgl8dmtdt/family.m3u8?dl=1
+#EXTINF:-1 tvg-ID="HBOSignature.2" group-title="HBO" tvg-logo="http://cekker.masuk.web.id/logo/hbosig.png", HBO Signature 
+https://dl.dropbox.com/s/buj1qa1o55s4ln7/signatur.m3u8?dl=1
+#EXTINF:-1 tvg-ID="CineMax.2" group-title="HBO" tvg-logo="http://cekker.masuk.web.id/logo/CMAX4.png", Cinemax by HBO 
+https://dl.dropbox.com/s/lopcwe16r7c6flw/cinemax.m3u8?dl=1
+#EXTINF:-1 tvg-id="RED by HBO.2" tvg-name="RED by HBO" group-title="MOVIES" tvg-logo="https://macan.live/img/red_hbo.png", RED by HBO 
+https://dl.dropbox.com/s/w1sroagglp9ebkv/red.m3u8?dl=1
+#EXTINF:-1 tvg-ID="HBOSignature.3" group-title="HBO" tvg-logo="http://cekker.masuk.web.id/logo/hbosig.png", HBO Signature
+https://www.dropbox.com/s/dllbdpdkssknyjp/HBOSIGX.m3u8?dl=1
+#EXTINF:-1 tvg-ID="HBOHits.3" tvg-name="HBOHits.id" group-title="HBO" tvg-logo="http://cekker.masuk.web.id/logo/hbohits4.png", HBO Hits
+https://www.dropbox.com/s/y1p3h8qlgfvctx8/HBOHITSS.m3u8?dl=1
