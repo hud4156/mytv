@@ -1,18 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo=“logo” group-title=“VOD”, Justice League (2017)
+#EXTINF:-1 tvg-id="2017" tvg-logo="" group-title="VOD",Justice League (2017)
 https://www.googleapis.com/drive/v3/files/1EF9NEw6zbtyfQ_dE0gDXkniMyyMUG0kP?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
-#EXTINF:-1 tvg-logo=“logo” group-title=“VOD”, Beauty and The Beast (2017)
+#EXTINF:-1 tvg-id="2017" tvg-logo="" group-title="VOD",Beauty and The Beast (2017)
 https://www.googleapis.com/drive/v3/files/0B63UcWCQWAYmZGl1enE2QTFzeGs?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
-#EXTINF:-1 tvg-logo=“logo” group-title=“VOD”, The Boss Baby (2017)
+#EXTINF:-1 tvg-id="2017" tvg-logo="" group-title="VOD",The Boss Baby (2017)
 https://www.googleapis.com/drive/v3/files/1fdk-AebQZfx-rz_RrtjTahBf4TCgz3wf?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
-#EXTINF:-1 tvg-logo=“logo” group-title=“VOD”, John Wick: Chapter 3 - Parabellum (2019)
+#EXTINF:-1 tvg-id="2019" tvg-logo="" group-title="VOD",John Wick: Chapter 3 - Parabellum (2019)
 https://www.googleapis.com/drive/v3/files/1ZlXxSonVcFpWbnhAhxl43ZyD_ncgY4eP?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
-#EXTINF:-1 tvg-logo=“logo” group-title=“VOD”, Minions Holiday Special (2020)
+#EXTINF:-1 tvg-id="2020" tvg-logo="" group-title="VOD",Minions Holiday Special (2020)
 https://www.googleapis.com/drive/v3/files/1rG9MmgQ2JxuVB7UQoUXyWhKFT_fv0YRW?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
-#EXTINF:-1 tvg-logo=“logo” group-title=“VOD”, The SpongBob Movie: Sponge on The Run (2020)
+#EXTINF:-1 tvg-id="2020" tvg-logo="" group-title="VOD",The SpongBob Movie: Sponge on The Run (2020)
 https://www.googleapis.com/drive/v3/files/17-1Pu1FV9Gj0-riZSX4M1GCnV6h7Ec6k?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
-#EXTINF:-1 tvg-logo=“logo” group-title=“VOD”, Wonder Woman 1984 (2020)
+#EXTINF:-1 tvg-id="2020" tvg-logo="" group-title="VOD",Wonder Woman 1984 (2020)
 https://www.googleapis.com/drive/v3/files/16iFcaMQH5XJdYZREpYfEH4WcXy_LaeTM?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
 
 #EXTINF:-1 tvg-id="tv.101002210224" tvg-logo="https://i.mjh.nz/.images/tv.101002210224.png" group-title="KIDS",ABC Me
@@ -63,7 +63,6 @@ https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221227165/index.m3u8
 #EXTINF:-1 tvg-id="FXL.Asia" tvg-logo="https://static.epg.best/in/FOXLife.in.png" group-title="FAMILY",Fox Life
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
-
 
 #EXTINF:-1 tvg-id="" tvg-name="AR ||  Bein Sports 1 HD" tvg-logo="" group-title="BEIN SPORTS 1080",AR ||  Bein Sports 1 HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1436.ts
