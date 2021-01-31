@@ -2,21 +2,46 @@
 
 #EXTINF:-1 tvg-logo=“logo” group-title=“MOVIES”, Justice League (2017)
 https://www.googleapis.com/drive/v3/files/1EF9NEw6zbtyfQ_dE0gDXkniMyyMUG0kP?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
-
 #EXTINF:-1 tvg-logo=“logo” group-title=“MOVIES”, Beauty and The Beast (2017)
 https://www.googleapis.com/drive/v3/files/0B63UcWCQWAYmZGl1enE2QTFzeGs?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
-
 #EXTINF:-1 tvg-logo=“logo” group-title=“MOVIES”, The Boss Baby (2017)
 https://www.googleapis.com/drive/v3/files/1fdk-AebQZfx-rz_RrtjTahBf4TCgz3wf?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
-
 #EXTINF:-1 tvg-logo=“logo” group-title=“MOVIES”, John Wick: Chapter 3 - Parabellum (2019)
 https://www.googleapis.com/drive/v3/files/1ZlXxSonVcFpWbnhAhxl43ZyD_ncgY4eP?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
-
 #EXTINF:-1 tvg-logo=“logo” group-title=“MOVIES”, Minions Holiday Special (2020)
 https://www.googleapis.com/drive/v3/files/1rG9MmgQ2JxuVB7UQoUXyWhKFT_fv0YRW?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
-
 #EXTINF:-1 tvg-logo=“logo” group-title=“MOVIES”, The SpongBob Movie: Sponge on The Run (2020)
 https://www.googleapis.com/drive/v3/files/17-1Pu1FV9Gj0-riZSX4M1GCnV6h7Ec6k?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
-
 #EXTINF:-1 tvg-logo=“logo” group-title=“MOVIES”, Wonder Woman 1984 (2020)
 https://www.googleapis.com/drive/v3/files/16iFcaMQH5XJdYZREpYfEH4WcXy_LaeTM?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
+
+#EXTINF:-1 tvg-id="" tvg-name="AR ||  Bein Sports 1 HD" tvg-logo="" group-title="BEIN SPORTS 1080",AR ||  Bein Sports 1 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1436.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR ||  Bein Sports 2 HD" tvg-logo="" group-title="BEIN SPORTS 1080",AR ||  Bein Sports 2 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1437.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR ||  Bein Sports 3 HD" tvg-logo="" group-title="BEIN SPORTS 1080",AR ||  Bein Sports 3 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1438.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR ||  Bein Sports 4 HD" tvg-logo="" group-title="BEIN SPORTS 1080",AR ||  Bein Sports 4 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1439.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR ||  Bein Sports 5 HD" tvg-logo="" group-title="BEIN SPORTS 1080",AR ||  Bein Sports 5 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1440.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR ||  Bein Sports 6 HD" tvg-logo="" group-title="BEIN SPORTS 1080",AR ||  Bein Sports 6 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1441.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR ||  Bein Sports 7 HD" tvg-logo="" group-title="BEIN SPORTS 1080",AR ||  Bein Sports 7 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1442.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR ||  Bein Sports 8 HD" tvg-logo="" group-title="BEIN SPORTS 1080",AR ||  Bein Sports 8 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1443.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR ||  Bein Sports 9 HD" tvg-logo="" group-title="BEIN SPORTS 1080",AR ||  Bein Sports 9 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1444.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR ||  Bein Sports 10 HD" tvg-logo="" group-title="BEIN SPORTS 1080",AR ||  Bein Sports 10 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1445.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR || Bein Sports 11 HD" tvg-logo="" group-title="BEIN SPORTS 1080",AR || Bein Sports 11 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1446.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR ||  Bein Sports 12 English HD" tvg-logo="" group-title="BEIN SPORTS 1080",AR ||  Bein Sports 12 English HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1447.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 13 HD" tvg-logo="" group-title="BEIN SPORTS 1080",Bein Sports 13 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1448.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 14 HD (Match Days Only)" tvg-logo="" group-title="BEIN SPORTS 1080",Bein Sports 14 HD (Match Days Only)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1449.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 15 HD (Match Days Only)" tvg-logo="" group-title="BEIN SPORTS 1080",Bein Sports 15 HD (Match Days Only)
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1450.ts
