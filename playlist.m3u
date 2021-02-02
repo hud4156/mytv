@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="2020" tvg-logo="" group-title="VOD MOVIE",Wonder Woman 1984 (2020)
+#EXTINF:-1 tvg-id="2020" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWY2NWE0NWEtZGUwMC00NWMwLTkyNzUtNmIxMmIyYzA0MjNiXkEyXkFqcGdeQXVyMTA2OTQ3MTUy._V1_FMjpg_UX1000_.jpg" group-title="VOD MOVIE",Wonder Woman 1984 (2020)
 https://www.googleapis.com/drive/v3/files/16iFcaMQH5XJdYZREpYfEH4WcXy_LaeTM?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
-#EXTINF:-1 tvg-id="2020" tvg-logo="" group-title="VOD MOVIE",The SpongBob Movie: Sponge on The Run (2020)
+#EXTINF:-1 tvg-id="2020" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGYxYzZkMWQtNjJkMy00NTlkLWExNWMtOTNhMTg4MDcxNmU3XkEyXkFqcGdeQXVyMDk5Mzc5MQ@@._V1_FMjpg_UX1000_.jpg" group-title="VOD MOVIE",The SpongBob Movie: Sponge on The Run (2020)
 https://www.googleapis.com/drive/v3/files/17-1Pu1FV9Gj0-riZSX4M1GCnV6h7Ec6k?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
-#EXTINF:-1 tvg-id="2020" tvg-logo="" group-title="VOD MOVIE",Minions Holiday Special (2020)
+#EXTINF:-1 tvg-id="2020" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjFjMzUwZjYtZTM2MC00NThiLTllN2UtNzhmMGE5YjkyYzllXkEyXkFqcGdeQXVyMzY3MDEzMTA@._V1_FMjpg_UX1000_.jpg" group-title="VOD MOVIE",Minions Holiday Special (2020)
 https://www.googleapis.com/drive/v3/files/1rG9MmgQ2JxuVB7UQoUXyWhKFT_fv0YRW?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
-#EXTINF:-1 tvg-id="2020" tvg-logo="" group-title="VOD MOVIE",Birds of Prey: And The Fantabulous Eemancipation of One Harley Quinn (2020)
+#EXTINF:-1 tvg-id="2020" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzQ3NTQxMjItODBjYi00YzUzLWE1NzQtZTBlY2Y2NjZlNzkyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="VOD MOVIE",Birds of Prey: And The Fantabulous Eemancipation of One Harley Quinn (2020)
 https://www.googleapis.com/drive/v3/files/16xA2PyGzJMaQzOZaUboA63-HacO6IAGF?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
 #EXTINF:-1 tvg-id="2019" tvg-logo="" group-title="VOD MOVIE",Aladdin (2019)
 https://www.googleapis.com/drive/v3/files/1pcEKBLJT4gXMQljNkGYGwcVRU38tA-JN?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
