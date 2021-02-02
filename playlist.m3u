@@ -1,36 +1,38 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="2020" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWY2NWE0NWEtZGUwMC00NWMwLTkyNzUtNmIxMmIyYzA0MjNiXkEyXkFqcGdeQXVyMTA2OTQ3MTUy._V1_FMjpg_UX1000_.jpg" group-title="VOD MOVIE",Wonder Woman 1984 (2020)
+#EXTINF:-1 tvg-id="2020" tvg-logo="https://cdn.shopify.com/s/files/1/0057/3728/3618/products/wonderwoman1984.styled.ar.jpg" group-title="VOD MOVIE",Wonder Woman 1984 (2020)
 https://www.googleapis.com/drive/v3/files/16iFcaMQH5XJdYZREpYfEH4WcXy_LaeTM?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
-#EXTINF:-1 tvg-id="2020" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGYxYzZkMWQtNjJkMy00NTlkLWExNWMtOTNhMTg4MDcxNmU3XkEyXkFqcGdeQXVyMDk5Mzc5MQ@@._V1_FMjpg_UX1000_.jpg" group-title="VOD MOVIE",The SpongBob Movie: Sponge on The Run (2020)
+#EXTINF:-1 tvg-id="2020" tvg-logo="https://cdn.shopify.com/s/files/1/0057/3728/3618/products/spongebobmovie.spongeonrun.adv.ar.jpg?" group-title="VOD MOVIE",The SpongBob Movie: Sponge on The Run (2020)
 https://www.googleapis.com/drive/v3/files/17-1Pu1FV9Gj0-riZSX4M1GCnV6h7Ec6k?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
 #EXTINF:-1 tvg-id="2020" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjFjMzUwZjYtZTM2MC00NThiLTllN2UtNzhmMGE5YjkyYzllXkEyXkFqcGdeQXVyMzY3MDEzMTA@._V1_FMjpg_UX1000_.jpg" group-title="VOD MOVIE",Minions Holiday Special (2020)
 https://www.googleapis.com/drive/v3/files/1rG9MmgQ2JxuVB7UQoUXyWhKFT_fv0YRW?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
+#EXTINF:-1 tvg-id="2020" tvg-logo="" group-title="VOD MOVIE",Doraemon: Nobita’s New Dinosaur (2020)
+https://www.googleapis.com/drive/v3/files/1tJwbu4v26VFPh3wIGXxfMLYS5CH_N93B?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
 #EXTINF:-1 tvg-id="2020" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzQ3NTQxMjItODBjYi00YzUzLWE1NzQtZTBlY2Y2NjZlNzkyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg" group-title="VOD MOVIE",Birds of Prey: And The Fantabulous Eemancipation of One Harley Quinn (2020)
 https://www.googleapis.com/drive/v3/files/16xA2PyGzJMaQzOZaUboA63-HacO6IAGF?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
-#EXTINF:-1 tvg-id="2019" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ2ODIyMjY4MF5BMl5BanBnXkFtZTgwNzY4ODI2NzM@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD MOVIE",Aladdin (2019)
+#EXTINF:-1 tvg-id="2019" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ2ODIyMjY4MF5BMl5BanBnXkFtZTgwNzY4ODI2NzM@._V1_UX182_.jpg" group-title="VOD MOVIE",Aladdin (2019)
 https://www.googleapis.com/drive/v3/files/1pcEKBLJT4gXMQljNkGYGwcVRU38tA-JN?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
-#EXTINF:-1 tvg-id="2019" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTIzYmUyMmEtMWQzNC00YzExLTk3MzYtZTUzYjMyMmRiYzIwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UY268_CR1,0,182,268_AL_.jpg" group-title="VOD MOVIE",Fast & Furious Presents: Hobbs & Shaw (2019)
+#EXTINF:-1 tvg-id="2019" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTIzYmUyMmEtMWQzNC00YzExLTk3MzYtZTUzYjMyMmRiYzIwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UY268_.jpg" group-title="VOD MOVIE",Fast & Furious Presents: Hobbs & Shaw (2019)
 https://www.googleapis.com/drive/v3/files/1Uckwg2pIPt91xztgmDTjtzYQyDryqwKn?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
-#EXTINF:-1 tvg-id="2019" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2UwMDVmMDItM2I2Yi00NGZmLTk4ZTUtY2JjNTQ3OGQ5ZjM2XkEyXkFqcGdeQXVyMTA1OTYzOTUx._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD MOVIE",Ford v Ferrari (2019)
+#EXTINF:-1 tvg-id="2019" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2UwMDVmMDItM2I2Yi00NGZmLTk4ZTUtY2JjNTQ3OGQ5ZjM2XkEyXkFqcGdeQXVyMTA1OTYzOTUx._V1_UX182_.jpg" group-title="VOD MOVIE",Ford v Ferrari (2019)
 https://www.googleapis.com/drive/v3/files/1ISb68rV6zmd6upPcY1Q0_HKvGY00jVOu?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
 #EXTINF:-1 tvg-id="2019" tvg-logo="https://i.ibb.co/LxYgccf/frozen2.jpg" group-title="VOD MOVIE",Frozen II (2019)
 https://www.googleapis.com/drive/v3/files/1ELpIUF2la33yub9ebSBGy84L75QJivA4?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
-#EXTINF:-1 tvg-id="2019" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTVjMmFiMDUtOWQ4My00YzhmLWE3MzEtODM1NDFjMWEwZTRkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD MOVIE",Jumanji: The Next Level (2019)
+#EXTINF:-1 tvg-id="2019" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTVjMmFiMDUtOWQ4My00YzhmLWE3MzEtODM1NDFjMWEwZTRkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_.jpg" group-title="VOD MOVIE",Jumanji: The Next Level (2019)
 https://www.googleapis.com/drive/v3/files/1LbfSXvYEO3MXNiv74fMM9kcEz3IUSBqb?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
-#EXTINF:-1 tvg-id="2019" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD MOVIE",Joker (2019)
+#EXTINF:-1 tvg-id="2019" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_.jpg" group-title="VOD MOVIE",Joker (2019)
 https://www.googleapis.com/drive/v3/files/1oEPbPa9JtteGhgIatPvDg52hvUElJY52?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
-#EXTINF:-1 tvg-id="2019" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDg2YzI0ODctYjliMy00NTU0LTkxODYtYTNkNjQwMzVmOTcxXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD MOVIE",John Wick: Chapter 3 - Parabellum (2019)
+#EXTINF:-1 tvg-id="2019" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDg2YzI0ODctYjliMy00NTU0LTkxODYtYTNkNjQwMzVmOTcxXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_UX182_.jpg" group-title="VOD MOVIE",John Wick: Chapter 3 - Parabellum (2019)
 https://www.googleapis.com/drive/v3/files/1ZlXxSonVcFpWbnhAhxl43ZyD_ncgY4eP?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
-#EXTINF:-1 tvg-id="2019" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDZkODI2ZGItYTY5Yi00MTA4LWExY2ItM2ZmNjczYjM0NDg1XkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD MOVIE",Men In Black: International (2019)
+#EXTINF:-1 tvg-id="2019" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDZkODI2ZGItYTY5Yi00MTA4LWExY2ItM2ZmNjczYjM0NDg1XkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_UX182_.jpg" group-title="VOD MOVIE",Men In Black: International (2019)
 https://www.googleapis.com/drive/v3/files/14GEY5HDSzlrkDEBO3xo0OfAObq_KQAxs?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
-#EXTINF:-1 tvg-id="2019" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzYyZWIwZjQtZGVjZi00NWIxLTk0ODMtNzA3YzE5MWM3OWI0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD MOVIE",IP Man 4: The Finale (2019)
+#EXTINF:-1 tvg-id="2019" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzYyZWIwZjQtZGVjZi00NWIxLTk0ODMtNzA3YzE5MWM3OWI0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_.jpg" group-title="VOD MOVIE",IP Man 4: The Finale (2019)
 https://www.googleapis.com/drive/v3/files/1u8hYEPd2STj4cma0Hz6qkB0sUwDOTmhi?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
-#EXTINF:-1 tvg-id="2017" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWVhZjZkYTItOGIwYS00NmRkLWJlYjctMWM0ZjFmMDU4ZjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD MOVIE",Justice League (2017)
+#EXTINF:-1 tvg-id="2017" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWVhZjZkYTItOGIwYS00NmRkLWJlYjctMWM0ZjFmMDU4ZjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_.jpg" group-title="VOD MOVIE",Justice League (2017)
 https://www.googleapis.com/drive/v3/files/1EF9NEw6zbtyfQ_dE0gDXkniMyyMUG0kP?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
-#EXTINF:-1 tvg-id="2017" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUwNjUxMTM4NV5BMl5BanBnXkFtZTgwODExMDQzMTI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD MOVIE",Beauty and The Beast (2017)
+#EXTINF:-1 tvg-id="2017" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUwNjUxMTM4NV5BMl5BanBnXkFtZTgwODExMDQzMTI@._V1_UX182_.jpg" group-title="VOD MOVIE",Beauty and The Beast (2017)
 https://www.googleapis.com/drive/v3/files/0B63UcWCQWAYmZGl1enE2QTFzeGs?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
-#EXTINF:-1 tvg-id="2017" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg5MzUxNzgxNV5BMl5BanBnXkFtZTgwMTM2NzQ3MjI@._V1_UY268_CR1,0,182,268_AL_.jpg" group-title="VOD MOVIE",The Boss Baby (2017)
+#EXTINF:-1 tvg-id="2017" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg5MzUxNzgxNV5BMl5BanBnXkFtZTgwMTM2NzQ3MjI@._V1_UY268_.jpg" group-title="VOD MOVIE",The Boss Baby (2017)
 https://www.googleapis.com/drive/v3/files/1fdk-AebQZfx-rz_RrtjTahBf4TCgz3wf?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
 
 #EXTINF:-1 tvg-id="tv.101002210224" tvg-logo="https://i.mjh.nz/.images/tv.101002210224.png" group-title="KIDS",ABC Me
