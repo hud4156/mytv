@@ -135,15 +135,15 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1443.ts
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1444.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR ||  Bein Sports 10 HD" tvg-logo="" group-title="BEIN SPORTS 1080",AR ||  Bein Sports 10 HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1445.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR || Bein Sports 11 HD" tvg-logo="" group-title="BEIN SPORTS 1080",AR || Bein Sports 11 HD
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 11 EN HD" tvg-logo="" group-title="BEIN SPORTS 1080",Bein Sports 11 EN HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1446.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR ||  Bein Sports 12 English HD" tvg-logo="" group-title="BEIN SPORTS 1080",AR ||  Bein Sports 12 English HD
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 12 EN HD" tvg-logo="" group-title="BEIN SPORTS 1080",Bein Sports 12 EN HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1447.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 13 HD" tvg-logo="" group-title="BEIN SPORTS 1080",Bein Sports 13 HD
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 13 EN HD" tvg-logo="" group-title="BEIN SPORTS 1080",Bein Sports 13 EN HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1448.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 14 HD (Match Days Only)" tvg-logo="" group-title="BEIN SPORTS 1080",Bein Sports 14 HD (Match Days Only)
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 14 FR HD" tvg-logo="" group-title="BEIN SPORTS 1080",Bein Sports 14 FR HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1449.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 15 HD (Match Days Only)" tvg-logo="" group-title="BEIN SPORTS 1080",Bein Sports 15 HD (Match Days Only)
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 15 FR HD" tvg-logo="" group-title="BEIN SPORTS 1080",Bein Sports 15 FR HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1450.ts
 
 #EXTINF:-1 tvg-ID="HBO.id" group-title="HBO" tvg-logo="https://static.epg.best/us/HBO.us.png",HBO 
