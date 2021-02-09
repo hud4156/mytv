@@ -159,56 +159,76 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #EXTINF:-1 tvg-id="RED by HBO.id" tvg-name="RED by HBO" group-title="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/Screen_RED_%28logo%29.jpg", RED by HBO 
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="OSN: Yahala HD-↺" tvg-logo="" group-title="OSN&BEIN&ART",OSN: Yahala HD-↺
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE3422/BEST-LIVE3422/26
-#EXTINF:-1 tvg-id="" tvg-name="OSN: Yahala 1 ALOLA HD-↺" tvg-logo="" group-title="OSN&BEIN&ART",OSN: Yahala 1 ALOLA HD-↺
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE3422/BEST-LIVE3422/27
-#EXTINF:-1 tvg-id="" tvg-name="OSN: ART Hekayat HD-↺" tvg-logo="" group-title="OSN&BEIN&ART",OSN: ART Hekayat HD-↺
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE3422/BEST-LIVE3422/28
-#EXTINF:-1 tvg-id="" tvg-name="OSN: ART Hekayat 2 HD-↺" tvg-logo="" group-title="OSN&BEIN&ART",OSN: ART Hekayat 2 HD-↺
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE3422/BEST-LIVE3422/29
-#EXTINF:-1 tvg-id="" tvg-name="OSN: Yahala Cinema HD-♎" tvg-logo="" group-title="OSN&BEIN&ART",OSN: Yahala Cinema HD-♎
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE3422/BEST-LIVE3422/30
-#EXTINF:-1 tvg-id="" tvg-name="OSN: ART Aflam 2 HD-≢" tvg-logo="" group-title="OSN&BEIN&ART",OSN: ART Aflam 2 HD-≢
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE3422/BEST-LIVE3422/31
-#EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 1 HD-╪" tvg-logo="" group-title="OSN&BEIN&ART",BEIN: BEIN MOVIES 1 HD-╪
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE3422/BEST-LIVE3422/32
-#EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 2 HD" tvg-logo="" group-title="OSN&BEIN&ART",BEIN: BEIN MOVIES 2 HD
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE3422/BEST-LIVE3422/33
-#EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 3 HD-↺" tvg-logo="" group-title="OSN&BEIN&ART",BEIN: BEIN MOVIES 3 HD-↺
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE3422/BEST-LIVE3422/34
-#EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 4 HD-╪" tvg-logo="" group-title="OSN&BEIN&ART",BEIN: BEIN MOVIES 4 HD-╪
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE3422/BEST-LIVE3422/35
-#EXTINF:-1 tvg-id="" tvg-name="BEIN: BeIN Series 1 HD-Ⅻ" tvg-logo="" group-title="OSN&BEIN&ART",BEIN: BeIN Series 1 HD-Ⅻ
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE3422/BEST-LIVE3422/36
-#EXTINF:-1 tvg-id="" tvg-name="BEIN: BeIN Series 2 HD-Ⅻ" tvg-logo="" group-title="OSN&BEIN&ART",BEIN: BeIN Series 2 HD-Ⅻ
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE3422/BEST-LIVE3422/37
-#EXTINF:-1 tvg-id="" tvg-name="WWE" tvg-logo="" group-title="OSN&BEIN&ART",WWE
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE3422/BEST-LIVE3422/38
-#EXTINF:-1 tvg-id="" tvg-name="OSN: Action HD-↺" tvg-logo="" group-title="OSN&BEIN&ART",OSN: Action HD-↺
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE3422/BEST-LIVE3422/39
-#EXTINF:-1 tvg-id="" tvg-name="OSN: ART Cinema HD-↺" tvg-logo="" group-title="OSN&BEIN&ART",OSN: ART Cinema HD-↺
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE3422/BEST-LIVE3422/40
-#EXTINF:-1 tvg-id="" tvg-name="OSN :ALFA ALYOUM" tvg-logo="" group-title="OSN&BEIN&ART",OSN :ALFA ALYOUM
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE3422/BEST-LIVE3422/41
-#EXTINF:-1 tvg-id="" tvg-name="OSN: Disney Junior HD-↺" tvg-logo="" group-title="OSN&BEIN&ART",OSN: Disney Junior HD-↺
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE3422/BEST-LIVE3422/42
-#EXTINF:-1 tvg-id="" tvg-name="BEIN: BARAEM" tvg-logo="" group-title="OSN&BEIN&ART",BEIN: BARAEM
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE3422/BEST-LIVE3422/43
-#EXTINF:-1 tvg-id="" tvg-name="BEIN: Nat Geo Wild HD-↹" tvg-logo="" group-title="OSN&BEIN&ART",BEIN: Nat Geo Wild HD-↹
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE3422/BEST-LIVE3422/44
-#EXTINF:-1 tvg-id="" tvg-name="OSN: Alfa Cinema 1 HD-↹" tvg-logo="" group-title="OSN&BEIN&ART",OSN: Alfa Cinema 1 HD-↹
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE3422/BEST-LIVE3422/45
-#EXTINF:-1 tvg-id="" tvg-name="OSN: Discovery HD-◢" tvg-logo="" group-title="OSN&BEIN&ART",OSN: Discovery HD-◢
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE3422/BEST-LIVE3422/46
-#EXTINF:-1 tvg-id="" tvg-name="OSN: The Movies HD-◢" tvg-logo="" group-title="OSN&BEIN&ART",OSN: The Movies HD-◢
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE3422/BEST-LIVE3422/47
-#EXTINF:-1 tvg-id="" tvg-name="|AR| beIN JEEM" tvg-logo="" group-title="OSN&BEIN&ART",|AR| beIN JEEM
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE3422/BEST-LIVE3422/48
-#EXTINF:-1 tvg-id="" tvg-name="BeIN FATAFEAT" tvg-logo="" group-title="OSN&BEIN&ART",BeIN FATAFEAT
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE3422/BEST-LIVE3422/49
-#EXTINF:-1 tvg-id="" tvg-name="OSN: ART Aflam 1" tvg-logo="" group-title="OSN&BEIN&ART",OSN: ART Aflam 1
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE3422/BEST-LIVE3422/54
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACITON" tvg-logo="" group-title="MOVIES",NETFLIX ACITON
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/123
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR" tvg-logo="" group-title="MOVIES",NETFLIX HORROR
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/124
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX COMEDY" tvg-logo="" group-title="MOVIES",NETFLIX COMEDY
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/126
+#EXTINF:-1 tvg-id="" tvg-name="MEGA HINDI" tvg-logo="" group-title="MOVIES",MEGA HINDI
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/127
+#EXTINF:-1 tvg-id="" tvg-name="MEGA HORROR" tvg-logo="" group-title="MOVIES",MEGA HORROR
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/128
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX DRAMA" tvg-logo="" group-title="MOVIES",NETFLIX DRAMA
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/125
+#EXTINF:-1 tvg-id="" tvg-name="OSN: Yahala HD-↺" tvg-logo="" group-title="OSN & BEIN-entre",OSN: Yahala HD-↺
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/25
+#EXTINF:-1 tvg-id="" tvg-name="OSN: Yahala 1 ALOLA HD-↺" tvg-logo="" group-title="OSN & BEIN-entre",OSN: Yahala 1 ALOLA HD-↺
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/26
+#EXTINF:-1 tvg-id="" tvg-name="OSN: ART Hekayat HD-↺" tvg-logo="" group-title="OSN & BEIN-entre",OSN: ART Hekayat HD-↺
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/27
+#EXTINF:-1 tvg-id="" tvg-name="OSN: ART Hekayat 2 HD-↺" tvg-logo="" group-title="OSN & BEIN-entre",OSN: ART Hekayat 2 HD-↺
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/28
+#EXTINF:-1 tvg-id="" tvg-name="OSN: Yahala Cinema HD-♎" tvg-logo="" group-title="OSN & BEIN-entre",OSN: Yahala Cinema HD-♎
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/29
+#EXTINF:-1 tvg-id="" tvg-name="OSN: ART Aflam 2 HD-≢" tvg-logo="" group-title="OSN & BEIN-entre",OSN: ART Aflam 2 HD-≢
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/30
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 1 HD-╪" tvg-logo="" group-title="OSN & BEIN-entre",BEIN: BEIN MOVIES 1 HD-╪
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/31
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 2 HD" tvg-logo="" group-title="OSN & BEIN-entre",BEIN: BEIN MOVIES 2 HD
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/32
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 3 HD-↺" tvg-logo="" group-title="OSN & BEIN-entre",BEIN: BEIN MOVIES 3 HD-↺
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/33
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 4 HD-╪" tvg-logo="" group-title="OSN & BEIN-entre",BEIN: BEIN MOVIES 4 HD-╪
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/34
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BeIN Series 1 HD-Ⅻ" tvg-logo="" group-title="OSN & BEIN-entre",BEIN: BeIN Series 1 HD-Ⅻ
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/35
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BeIN Series 2 HD-Ⅻ" tvg-logo="" group-title="OSN & BEIN-entre",BEIN: BeIN Series 2 HD-Ⅻ
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/36
+#EXTINF:-1 tvg-id="" tvg-name="WWE" tvg-logo="" group-title="OSN & BEIN-entre",WWE
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/37
+#EXTINF:-1 tvg-id="" tvg-name="OSN: Action HD-↺" tvg-logo="" group-title="OSN & BEIN-entre",OSN: Action HD-↺
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/38
+#EXTINF:-1 tvg-id="" tvg-name="OSN :ALFA ALYOUM" tvg-logo="" group-title="OSN & BEIN-entre",OSN :ALFA ALYOUM
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/40
+#EXTINF:-1 tvg-id="" tvg-name="OSN: Disney Junior HD-↺" tvg-logo="" group-title="OSN & BEIN-entre",OSN: Disney Junior HD-↺
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/41
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: BARAEM" tvg-logo="" group-title="OSN & BEIN-entre",BEIN: BARAEM
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/42
+#EXTINF:-1 tvg-id="" tvg-name="BEIN: Nat Geo Wild HD-↹" tvg-logo="" group-title="OSN & BEIN-entre",BEIN: Nat Geo Wild HD-↹
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/43
+#EXTINF:-1 tvg-id="" tvg-name="OSN: Alfa Cinema 1 HD-↹" tvg-logo="" group-title="OSN & BEIN-entre",OSN: Alfa Cinema 1 HD-↹
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/44
+#EXTINF:-1 tvg-id="" tvg-name="OSN: Discovery HD-◢" tvg-logo="" group-title="OSN & BEIN-entre",OSN: Discovery HD-◢
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/45
+#EXTINF:-1 tvg-id="" tvg-name="OSN: The Movies HD-◢" tvg-logo="" group-title="OSN & BEIN-entre",OSN: The Movies HD-◢
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/46
+#EXTINF:-1 tvg-id="" tvg-name="|AR| beIN JEEM" tvg-logo="" group-title="OSN & BEIN-entre",|AR| beIN JEEM
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/47
+#EXTINF:-1 tvg-id="" tvg-name="BeIN FATAFEAT" tvg-logo="" group-title="OSN & BEIN-entre",BeIN FATAFEAT
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/48
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID| ARABIA 1-Ⅻ" tvg-logo="" group-title="OSN & BEIN-entre",SHAHID| ARABIA 1-Ⅻ
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/49
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID| BOLLYWOOD" tvg-logo="" group-title="OSN & BEIN-entre",SHAHID| BOLLYWOOD
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/50
+#EXTINF:-1 tvg-id="" tvg-name="SHAHID| ACTION11" tvg-logo="" group-title="OSN & BEIN-entre",SHAHID| ACTION11
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/51
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Horror" tvg-logo="" group-title="OSN & BEIN-entre",Shahid Horror
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/52
+#EXTINF:-1 tvg-id="" tvg-name="ART AFLAM 1" tvg-logo="" group-title="OSN & BEIN-entre",ART AFLAM 1
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/53
+#EXTINF:-1 tvg-id="" tvg-name="OSN: ART Cinema HD-↺" tvg-logo="" group-title="OSN & BEIN-entre",OSN: ART Cinema HD-↺
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/39
 
 #EXTINF:-1 tvg-id="" tvg-name="MAJESTIC MOVIES " tvg-logo="" group-title="Majestic&NETFLIX",MAJESTIC MOVIES 
 http://jo.best-live-iptv.xyz:25461/BEST-LIVE3422/BEST-LIVE3422/104
