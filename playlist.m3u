@@ -1,5 +1,27 @@
 #EXTM3U
 
+==========TEST==========
+#EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" tvg-name="HBO" group-title="Test",HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" tvg-name="HBO" group-title="Test",HBO 960p
+https://github.com/badboys88888/IPTV/raw/main/hbo.m3u8
+#EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" tvg-name="HBO" group-title="Test",HBO 1080P
+https://github.com/badboys88888/IPTV/raw/main/hbohd.m3u8
+#EXTINF:-1 tvg-id="Hbf.Asia" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" tvg-name="HBOFamily" group-title="Test",HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="Hbh.Asia" tvg-logo="https://static.epg.best/id/HBOHits.id.png" tvg-name="HBOHits" group-title="Test",HBO Hits
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#EXTINF:-1 tvg-id="Hbs.Asia" tvg-logo="https://static.epg.best/us/HBOSignature.us.png" tvg-name="HBOSignature" group-title="Test",HBO Signature
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+#EXTINF:-1 tvg-id="CNX.Asia" tvg-logo="https://poster.starhubgo.com/Linear_channels2/611_1920x1080_HTV.png" tvg-name="CINEMAX" group-title="Test",CINEMAX
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+#EXTINF:-1 tvg-id="CNX.Asia" tvg-logo="https://poster.starhubgo.com/Linear_channels2/611_1920x1080_HTV.png" tvg-name="CINEMAX" group-title="Test",CINEMAX
+https://github.com/badboys88888/IPTV/raw/main/CINEMAX.m3u8
+#EXTINF:-1 tvg-id="Red.Asia" tvg-logo="https://www.mewatch.sg/image/11230416/16x9/947/533/25177e0a801178d5b705f85f42655107/sh/red-by-hbo.png" group-title="Test",Red by HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+==========TEST==========
+
+==========VOD MOVIE==========
 #EXTINF:-1 tvg-id="2020" tvg-logo="https://cdn.shopify.com/s/files/1/0057/3728/3618/products/wonderwoman1984.styled.ar.jpg" group-title="VOD MOVIE",Wonder Woman 1984 (2020)
 https://www.googleapis.com/drive/v3/files/16iFcaMQH5XJdYZREpYfEH4WcXy_LaeTM?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
 #EXTINF:-1 tvg-id="2020" tvg-logo="https://cdn.shopify.com/s/files/1/0057/3728/3618/products/spongebobmovie.spongeonrun.adv.ar.jpg?" group-title="VOD MOVIE",The SpongBob Movie: Sponge on The Run (2020)
@@ -34,7 +56,9 @@ https://www.googleapis.com/drive/v3/files/1EF9NEw6zbtyfQ_dE0gDXkniMyyMUG0kP?alt=
 https://www.googleapis.com/drive/v3/files/0B63UcWCQWAYmZGl1enE2QTFzeGs?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
 #EXTINF:-1 tvg-id="2017" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg5MzUxNzgxNV5BMl5BanBnXkFtZTgwMTM2NzQ3MjI@._V1_UY268_.jpg" group-title="VOD MOVIE",The Boss Baby (2017)
 https://www.googleapis.com/drive/v3/files/1fdk-AebQZfx-rz_RrtjTahBf4TCgz3wf?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
+==========VOD MOVIE==========
 
+==========KIDS==========
 #EXTINF:-1 tvg-id="tv.101002210224" tvg-logo="https://i.mjh.nz/.images/tv.101002210224.png" group-title="KIDS",ABC Me
 https://c.mjh.nz/101002210224/
 #EXTINF:-1 tvg-id="tv.101002210222" tvg-logo="https://i.mjh.nz/.images/tv.abckids.png" group-title="KIDS",ABC KIDS
@@ -47,7 +71,33 @@ http://51.52.156.22:8888/http/003
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="NJR.US" tvg-logo="http://static.epg.best/sa/NickJr.sa.png" group-title="KIDS",Nick Jr
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="BF1.Asia" tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="KIDS",Baby First
+https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="BOM.Asia" tvg-logo="https://static.epg.best/br/Boomerang.br.png" group-title="KIDS",Boomerang
+https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="CBE.UK" tvg-logo="https://static.epg.best/gb/CBeebies.uk.png" group-title="KIDS",CBeebies
+http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/823.m3u8
+#EXTINF:-1 tvg-id="DAV.Asia" tvg-logo="https://static.epg.best/ua/DaVinciLearningEurope.ua.png" group-title="KIDS",Da Vinci
+https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="DIS.MY" tvg-logo="https://static.epg.best/es/DisneyChannel.es.png" group-title="KIDS",Disney Channel
+http://103.47.132.164/PLTV/88888888/224/3221227183/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.squarespace-cdn.com/content/569ff0561115e0973545a242/1453322587420-THFQ3VWPKVSYVDXE0MYJ/bPOP+logo+medium.png" group-title="KIDS",Battery Pop
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="POP.UK" tvg-logo="http://static.epg.best/gb/Pop.uk.png" group-title="KIDS",Pop UK
+https://edge-1192-ch-gv.filmon.com/live/320.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="PMX.UK" tvg-logo="https://static.epg.best/gb/POPMax.uk.png" group-title="KIDS",POP Max
+https://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="NIC.IN" tvg-logo="http://static.epg.best/sa/NickJr.sa.png" group-title="KIDS",Nick Jr
+https://itpolly.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
+#EXTINF:-1 tvg-id="TPO.UK" tvg-logo="https://static.epg.best/gb/Tinypop.uk.png" group-title="KIDS",Tiny Pop
+https://edge-1192-ch-gv.filmon.com/live/318.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tvokids-logo.svg/1920px-Tvokids-logo.svg.png" group-title="KIDS",tvo KIDS
+https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+#EXTINF:-1 tvg-id="TRE.NZ" tvg-logo="https://images.squarespace-cdn.com/content/5313acf2e4b0ff95a87283a8/1575342477559-XKHTVQD59I8XDQD71U3A/NEW+ZOOMOO+LOGO.png" group-title="KIDS",ZooMoo
+http://103.47.132.164/PLTV/88888888/224/3221227323/index.m3u8
+==========KIDS==========
 
+==========MOVIES==========
 #EXTINF:-1 tvg-id="Fli.IN" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="MOVIES",&Flix HD 1
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="Fli.IN" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="MOVIES",&Flix HD 2
@@ -98,14 +148,30 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3
 http://51.52.156.22:8888/http/009
 #EXTINF:-1 tvg-id="SMC.UK" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2019/09/SONY-MOVIES-CLASSIC.png" group-title="MOVIES",Sony Movies Classic
 https://uk.easyview.eu/hls/truemovies.m3u8|Referer=https://easyview.eu/watch.php?stream=5star-2
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACITON" tvg-logo="" group-title="MOVIES",NETFLIX ACITON
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/123
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR" tvg-logo="" group-title="MOVIES",NETFLIX HORROR
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/124
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX COMEDY" tvg-logo="" group-title="MOVIES",NETFLIX COMEDY
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/126
+#EXTINF:-1 tvg-id="" tvg-name="MEGA HINDI" tvg-logo="" group-title="MOVIES",MEGA HINDI
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/127
+#EXTINF:-1 tvg-id="" tvg-name="MEGA HORROR" tvg-logo="" group-title="MOVIES",MEGA HORROR
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/128
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX DRAMA" tvg-logo="" group-title="MOVIES",NETFLIX DRAMA
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/125
+==========MOVIES==========
 
+==========FOX==========
 #EXTINF:-1 tvg-id="Fox.Asia" tvg-logo="https://static.epg.best/es/Fox.es.png" group-title="FOX",Fox
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="FXC.Asia" tvg-logo="https://static.epg.best/qa/FoxCrime.qa.png" group-title="FOX",FOX Crime
 http://103.47.132.164/PLTV/88888888/224/3221227165/index.m3u8
 #EXTINF:-1 tvg-id="FXL.Asia" tvg-logo="https://static.epg.best/in/FOXLife.in.png" group-title="FOX",Fox Life
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+==========FOX==========
 
+==========ENTERTAINMENT==========
 #EXTINF:-1 tvg-id="NG.Asia" tvg-logo="https://imgur.com/download/F2NjQ17/" group-title="ENTERTAINMENT",National Geographic
 http://rv.imax.re:80/live/307221124532/307221124532/83956.m3u8
 #EXTINF:-1 tvg-id="AP.Asia" tvg-logo="https://i.imgur.com/6hqqTuq.jpeg" group-title="ENTERTAINMENT",Animal Planet
@@ -114,7 +180,27 @@ http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4210
 http://telegram.teknoyardim.ml:80/live/AO0RKgAr3S/XEJ7yJaA2a/83957.m3u8
 #EXTINF:-1 tvg-id="Sony BBC.Asia" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="ENTERTAINMENT",Sony BBC Earth HD
 http://rv.imax.re:80/live/307221124532/307221124532/83702.m3u8
+#EXTINF:-1 tvg-ID="AFN.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/709_300.png" group-title="ENTERTAINMENT",Asian Food Network
+https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="ANI.US" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/556_300.png" group-title="ENTERTAINMENT",Animal Planet
+https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="BBE.UK" tvg-logo="https://static.epg.best/kr/BBCEarth.kr.png" group-title="ENTERTAINMENT",BBC Earth
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="DIS.US" tvg-logo="http://i.imgur.com/lB0VeoB.png" group-title="ENTERTAINMENT",Discovery
+https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-ID="DIS.Asia" tvg-logo="https://stagingcms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="ENTERTAINMENT",Discovery Asia
+https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="FON.UK" tvg-logo="http://static.epg.best/bg/FoodNetwork.bg.png" group-title="ENTERTAINMENT",Food Network
+http://5.135.92.133:52841/out/u/502_1.m3u8
+#EXTINF:-1 tvg-id="national-geographic" group-title="ENTERTAINMENT",National Geographic HD
+http://live-ng-01.more.tv/hls/NGC_HD/master.m3u8
+#EXTINF:-1 tvg-id="nat-geo-wild-hd" group-title="ENTERTAINMENT",National Geographic Wild HD
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="discovery-science" group-title="ENTERTAINMENT",Discovery Science HD
+http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/04/plst.m3u8
+==========ENTERTAINMENT==========
 
+==========BEIN SPORTS 1080==========
 #EXTINF:-1 tvg-id="" tvg-name="AR ||  Bein Sports 1 HD" tvg-logo="" group-title="BEIN SPORTS 1080",AR ||  Bein Sports 1 HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1436.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR ||  Bein Sports 2 HD" tvg-logo="" group-title="BEIN SPORTS 1080",AR ||  Bein Sports 2 HD
@@ -145,7 +231,9 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1448.ts
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1449.ts
 #EXTINF:-1 tvg-id="" tvg-name="Bein Sports 15 FR HD" tvg-logo="" group-title="BEIN SPORTS 1080",Bein Sports 15 FR HD
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1450.ts
+==========BEIN SPORTS 1080==========
 
+==========HBO==========
 #EXTINF:-1 tvg-ID="HBO.id" group-title="HBO" tvg-logo="https://static.epg.best/us/HBO.us.png",HBO 
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1 tvg-ID="HBOHits.id" tvg-name="HBOHits.id" group-title="HBO" tvg-logo="https://static.epg.best/id/HBOHits.id.png", HBO Hits 
@@ -158,78 +246,70 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #EXTINF:-1 tvg-id="RED by HBO.id" tvg-name="RED by HBO" group-title="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/Screen_RED_%28logo%29.jpg", RED by HBO 
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+==========HBO==========
 
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACITON" tvg-logo="" group-title="MOVIES",NETFLIX ACITON
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/123
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR" tvg-logo="" group-title="MOVIES",NETFLIX HORROR
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/124
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX COMEDY" tvg-logo="" group-title="MOVIES",NETFLIX COMEDY
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/126
-#EXTINF:-1 tvg-id="" tvg-name="MEGA HINDI" tvg-logo="" group-title="MOVIES",MEGA HINDI
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/127
-#EXTINF:-1 tvg-id="" tvg-name="MEGA HORROR" tvg-logo="" group-title="MOVIES",MEGA HORROR
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/128
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX DRAMA" tvg-logo="" group-title="MOVIES",NETFLIX DRAMA
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/125
+==========OSN & BEIN-entre==========
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Yahala HD-↺" tvg-logo="" group-title="OSN & BEIN-entre",OSN: Yahala HD-↺
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/25
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/25
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Yahala 1 ALOLA HD-↺" tvg-logo="" group-title="OSN & BEIN-entre",OSN: Yahala 1 ALOLA HD-↺
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/26
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/26
 #EXTINF:-1 tvg-id="" tvg-name="OSN: ART Hekayat HD-↺" tvg-logo="" group-title="OSN & BEIN-entre",OSN: ART Hekayat HD-↺
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/27
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/27
 #EXTINF:-1 tvg-id="" tvg-name="OSN: ART Hekayat 2 HD-↺" tvg-logo="" group-title="OSN & BEIN-entre",OSN: ART Hekayat 2 HD-↺
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/28
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/28
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Yahala Cinema HD-♎" tvg-logo="" group-title="OSN & BEIN-entre",OSN: Yahala Cinema HD-♎
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/29
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/29
 #EXTINF:-1 tvg-id="" tvg-name="OSN: ART Aflam 2 HD-≢" tvg-logo="" group-title="OSN & BEIN-entre",OSN: ART Aflam 2 HD-≢
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/30
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/30
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 1 HD-╪" tvg-logo="" group-title="OSN & BEIN-entre",BEIN: BEIN MOVIES 1 HD-╪
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/31
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/31
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 2 HD" tvg-logo="" group-title="OSN & BEIN-entre",BEIN: BEIN MOVIES 2 HD
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/32
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/32
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 3 HD-↺" tvg-logo="" group-title="OSN & BEIN-entre",BEIN: BEIN MOVIES 3 HD-↺
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/33
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/33
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 4 HD-╪" tvg-logo="" group-title="OSN & BEIN-entre",BEIN: BEIN MOVIES 4 HD-╪
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/34
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/34
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BeIN Series 1 HD-Ⅻ" tvg-logo="" group-title="OSN & BEIN-entre",BEIN: BeIN Series 1 HD-Ⅻ
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/35
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/35
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BeIN Series 2 HD-Ⅻ" tvg-logo="" group-title="OSN & BEIN-entre",BEIN: BeIN Series 2 HD-Ⅻ
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/36
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/36
 #EXTINF:-1 tvg-id="" tvg-name="WWE" tvg-logo="" group-title="OSN & BEIN-entre",WWE
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/37
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/37
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Action HD-↺" tvg-logo="" group-title="OSN & BEIN-entre",OSN: Action HD-↺
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/38
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/38
 #EXTINF:-1 tvg-id="" tvg-name="OSN :ALFA ALYOUM" tvg-logo="" group-title="OSN & BEIN-entre",OSN :ALFA ALYOUM
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/40
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/40
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Disney Junior HD-↺" tvg-logo="" group-title="OSN & BEIN-entre",OSN: Disney Junior HD-↺
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/41
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/41
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: BARAEM" tvg-logo="" group-title="OSN & BEIN-entre",BEIN: BARAEM
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/42
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/42
 #EXTINF:-1 tvg-id="" tvg-name="BEIN: Nat Geo Wild HD-↹" tvg-logo="" group-title="OSN & BEIN-entre",BEIN: Nat Geo Wild HD-↹
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/43
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/43
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Alfa Cinema 1 HD-↹" tvg-logo="" group-title="OSN & BEIN-entre",OSN: Alfa Cinema 1 HD-↹
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/44
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/44
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Discovery HD-◢" tvg-logo="" group-title="OSN & BEIN-entre",OSN: Discovery HD-◢
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/45
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/45
 #EXTINF:-1 tvg-id="" tvg-name="OSN: The Movies HD-◢" tvg-logo="" group-title="OSN & BEIN-entre",OSN: The Movies HD-◢
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/46
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/46
 #EXTINF:-1 tvg-id="" tvg-name="|AR| beIN JEEM" tvg-logo="" group-title="OSN & BEIN-entre",|AR| beIN JEEM
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/47
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/47
 #EXTINF:-1 tvg-id="" tvg-name="BeIN FATAFEAT" tvg-logo="" group-title="OSN & BEIN-entre",BeIN FATAFEAT
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/48
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/48
 #EXTINF:-1 tvg-id="" tvg-name="SHAHID| ARABIA 1-Ⅻ" tvg-logo="" group-title="OSN & BEIN-entre",SHAHID| ARABIA 1-Ⅻ
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/49
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/49
 #EXTINF:-1 tvg-id="" tvg-name="SHAHID| BOLLYWOOD" tvg-logo="" group-title="OSN & BEIN-entre",SHAHID| BOLLYWOOD
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/50
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/50
 #EXTINF:-1 tvg-id="" tvg-name="SHAHID| ACTION11" tvg-logo="" group-title="OSN & BEIN-entre",SHAHID| ACTION11
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/51
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/51
 #EXTINF:-1 tvg-id="" tvg-name="Shahid Horror" tvg-logo="" group-title="OSN & BEIN-entre",Shahid Horror
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/52
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/52
 #EXTINF:-1 tvg-id="" tvg-name="ART AFLAM 1" tvg-logo="" group-title="OSN & BEIN-entre",ART AFLAM 1
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/53
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/53
 #EXTINF:-1 tvg-id="" tvg-name="OSN: ART Cinema HD-↺" tvg-logo="" group-title="OSN & BEIN-entre",OSN: ART Cinema HD-↺
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1177/BEST-LIVE1177/39
+http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/39
+==========OSN & BEIN-entre==========
 
+==========Majestic&NETFLIX==========
 #EXTINF:-1 tvg-id="" tvg-name="MAJESTIC MOVIES " tvg-logo="" group-title="Majestic&NETFLIX",MAJESTIC MOVIES 
 http://jo.best-live-iptv.xyz:25461/BEST-LIVE3422/BEST-LIVE3422/104
 #EXTINF:-1 tvg-id="" tvg-name="MAJESTIC ARABIC" tvg-logo="" group-title="Majestic&NETFLIX",MAJESTIC ARABIC
@@ -254,3 +334,33 @@ http://jo.best-live-iptv.xyz:25461/BEST-LIVE3422/BEST-LIVE3422/52
 http://jo.best-live-iptv.xyz:25461/BEST-LIVE3422/BEST-LIVE3422/51
 #EXTINF:-1 tvg-id="" tvg-name="SHAHID| ARABIA 1-Ⅻ" tvg-logo="" group-title="Majestic&NETFLIX",SHAHID| ARABIA 1-Ⅻ
 http://jo.best-live-iptv.xyz:25461/BEST-LIVE3422/BEST-LIVE3422/50
+==========Majestic&NETFLIX==========
+
+==========OSN==========
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ART Aflam 1 | SD" tvg-logo="https://i.ibb.co/L0DNBjy/OSN-ART-Aflam-1.png" group-title="OSN",AR: OSN ART Aflam 1 | SD
+https://qsplaylist.com:443/paul754james3/hjeknu89UJKi/104584
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ART Cinema | SD" tvg-logo="https://i.ibb.co/jJjRT5L/OSN-ART-Cinema.png" group-title="OSN",AR: OSN ART Cinema | SD
+https://qsplaylist.com:443/paul754james3/hjeknu89UJKi/104586
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ART Hekayat 1 | SD" tvg-logo="https://i.ibb.co/k5RHBmY/OSN-ART-Hekayat-1.png" group-title="OSN",AR: OSN ART Hekayat 1 | SD
+https://qsplaylist.com:443/paul754james3/hjeknu89UJKi/104587
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN BOX OFFICE 1 | HD" tvg-logo="https://i.ibb.co/302NCrS/OSN-BOX-OFFICE-1.png" group-title="OSN",AR: OSN BOX OFFICE 1 | HD
+https://qsplaylist.com:443/paul754james3/hjeknu89UJKi/104601
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN BOX OFFICE 2 | SD" tvg-logo="https://i.ibb.co/jVV6h0J/OSN-BOX-OFFICE-2.png" group-title="OSN",AR: OSN BOX OFFICE 2 | SD
+https://qsplaylist.com:443/paul754james3/hjeknu89UJKi/104602
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN BOX OFFICE 2 | UHD" tvg-logo="https://i.ibb.co/jVV6h0J/OSN-BOX-OFFICE-2.png" group-title="OSN",AR: OSN BOX OFFICE 2 | UHD
+https://qsplaylist.com:443/paul754james3/hjeknu89UJKi/104580
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Movies Comedy | HD" tvg-logo="https://i.ibb.co/0VfHCpB/OSN-Movies-Comedy.png" group-title="OSN",AR: OSN Movies Comedy | HD
+https://qsplaylist.com:443/paul754james3/hjeknu89UJKi/104606
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Movies Family | HD" tvg-logo="https://i.ibb.co/L5vd75G/OSN-Movies-Family.png" group-title="OSN",AR: OSN Movies Family | HD
+https://qsplaylist.com:443/paul754james3/hjeknu89UJKi/104605
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES FIRST | HD" tvg-logo="https://i.ibb.co/t3YZYMz/OSN-MOVIES-FIRST.png" group-title="OSN",AR: OSN MOVIES FIRST | HD
+https://qsplaylist.com:443/paul754james3/hjeknu89UJKi/104603
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Movies Thriller | HD" tvg-logo="https://i.ibb.co/Xjc18Lf/OSN-Movies-Thriller.png" group-title="OSN",AR: OSN Movies Thriller | HD
+https://qsplaylist.com:443/paul754james3/hjeknu89UJKi/104611
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Movies | HD" tvg-logo="https://i.ibb.co/n6Hyn6p/OSN-Movies.png" group-title="OSN",AR: OSN Movies | HD
+https://qsplaylist.com:443/paul754james3/hjeknu89UJKi/104607
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Star World | HD" tvg-logo="https://i.ibb.co/5rQT3TG/OSN-Star-World.png" group-title="OSN",AR: OSN Star World | HD
+https://qsplaylist.com:443/paul754james3/hjeknu89UJKi/104609
+#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Yahala Cinema | HD" tvg-logo="https://i.ibb.co/N3kyJRY/OSN-Yahala-Cinema.png" group-title="OSN",AR: OSN Yahala Cinema | HD
+https://qsplaylist.com:443/paul754james3/hjeknu89UJKi/104608
+==========OSN==========
