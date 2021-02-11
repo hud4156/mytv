@@ -19,6 +19,38 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 https://github.com/badboys88888/IPTV/raw/main/CINEMAX.m3u8
 #EXTINF:-1 tvg-id="Red.Asia" tvg-logo="https://www.mewatch.sg/image/11230416/16x9/947/533/25177e0a801178d5b705f85f42655107/sh/red-by-hbo.png" group-title="Test",Red by HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/hbohd.png" group-title ="Test",HBO HD
+https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/hbohits.png" group-title ="Test",HBO Hit
+https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/foxfamily.png" group-title ="Test",FoxMovies_TH
+https://www.livedoomovies.com/02_FoxMoviesTH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/foxfamily.png" group-title ="Test",FoxMovies
+https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/foxthai.png" group-title ="Test",FoxThai_TH
+https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/red.png" group-title ="Test",RedbyHBO
+https://www.livedoomovies.com/02_RedbyHBO_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/axn.png" group-title ="Test",AXN HD
+https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/warner.png" group-title ="Test",WarnerTV HD
+https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/history.png" group-title ="Test",HISTORY HD
+https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/h2hd.png" group-title ="Test",H2 HD
+https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/discovery.png" group-title ="Test",DiscoveryChannel
+https://www.livedoomovies.com/02_DiscoveryChannel/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/discovery.png" group-title ="Test",DiscoveryHDWorld
+https://www.livedoomovies.com/02_DiscoveryHDWorld/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/animalplanet.png" group-title ="Test",AnimalPlanet
+https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.livedoomovies.com/sumrujlok_goodtv/chunklist.m3u8" group-title ="Test",Sumrujlok
+https://www.livedoomovies.com/sumrujlok_goodtv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/cartoonnetwork.png" group-title ="Test",CartoonNetwork
+https://www.livedoomovies.com/02_CartoonNetwork_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/disneyxd.png" group-title ="Test",DisneyXD
+https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
 ==========TEST==========
 
 ==========VOD MOVIE==========
