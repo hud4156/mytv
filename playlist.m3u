@@ -54,8 +54,16 @@ https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
 ==========TEST==========
 
 ==========VOD MOVIE==========
+#EXTINF:-1 tvg-id="2020" tvg-logo="https://image.filemanager.work/poster/tt12361974.jpg" group-title="VOD MOVIE",Zack Snyder’s Justice League (2021)
+https://www.googleapis.com/drive/v3/files/1Hkl6furgZsB5TYcPcgH1j1SuT753Xf5d?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
+#EXTINF:-1 tvg-id="2020" tvg-logo="https://image.filemanager.work/poster/tt5034838.jpg" group-title="VOD MOVIE",Godzilla vs. Kong (2021)
+https://www.googleapis.com/drive/v3/files/1d79ER3-8kp8OjWdsd8mrtatPVx9N5P0k?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
+#EXTINF:-1 tvg-id="2020" tvg-logo="https://image.filemanager.work/poster/tt1361336.jpg" group-title="VOD MOVIE",Tom and Jerry (2021)
+https://www.googleapis.com/drive/v3/files/1c1IfoYZP-HeEjBaEDxGBHsYV68qTskSK?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
 #EXTINF:-1 tvg-id="2020" tvg-logo="https://image.filemanager.work/poster/tt13428402.jpg" group-title="VOD MOVIE",Doraemon: Stand By Me 2 (2020)
-https://www.googleapis.com/drive/v3/files/1rS3te_Tm40CznSB6t8LMNPILICKtpIwU?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
+https://www.googleapis.com/drive/v3/files/1rKf45wXFTqmYbQwW_nyY3tuvjARgWD6P?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
+#EXTINF:-1 tvg-id="2020" tvg-logo="https://image.filemanager.work/poster/tt2948372.jpg" group-title="VOD MOVIE",Soul (2020)
+https://www.googleapis.com/drive/v3/files/1LiTDUq8fECfjAjTam1qJBFcn-GHsNZc0?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
 #EXTINF:-1 tvg-id="2020" tvg-logo="https://cdn.shopify.com/s/files/1/0057/3728/3618/products/wonderwoman1984.styled.ar.jpg" group-title="VOD MOVIE",Wonder Woman 1984 (2020)
 https://www.googleapis.com/drive/v3/files/16iFcaMQH5XJdYZREpYfEH4WcXy_LaeTM?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
 #EXTINF:-1 tvg-id="2020" tvg-logo="https://cdn.shopify.com/s/files/1/0057/3728/3618/products/spongebobmovie.spongeonrun.adv.ar.jpg?" group-title="VOD MOVIE",The SpongBob Movie: Sponge on The Run (2020)
