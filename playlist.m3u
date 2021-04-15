@@ -54,6 +54,8 @@ https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
 ==========TEST==========
 
 ==========VOD MOVIE==========
+#EXTINF:-1 tvg-id="2020" tvg-logo="https://image.filemanager.work/poster/tt13428402.jpg" group-title="VOD MOVIE",Doraemon: Stand By Me 2 (2020)
+https://www.googleapis.com/drive/v3/files/1rS3te_Tm40CznSB6t8LMNPILICKtpIwU?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
 #EXTINF:-1 tvg-id="2020" tvg-logo="https://cdn.shopify.com/s/files/1/0057/3728/3618/products/wonderwoman1984.styled.ar.jpg" group-title="VOD MOVIE",Wonder Woman 1984 (2020)
 https://www.googleapis.com/drive/v3/files/16iFcaMQH5XJdYZREpYfEH4WcXy_LaeTM?alt=media&key=AIzaSyAuas5TUwTZQE3i_jBi7Wn04O8g6mqZPtk
 #EXTINF:-1 tvg-id="2020" tvg-logo="https://cdn.shopify.com/s/files/1/0057/3728/3618/products/spongebobmovie.spongeonrun.adv.ar.jpg?" group-title="VOD MOVIE",The SpongBob Movie: Sponge on The Run (2020)
@@ -232,39 +234,6 @@ https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/04/plst.m3u8
 ==========ENTERTAINMENT==========
 
-==========BEIN SPORTS 1080==========
-#EXTINF:-1 tvg-id="" tvg-name="AR ||  Bein Sports 1 HD" tvg-logo="" group-title="BEIN SPORTS 1080",AR ||  Bein Sports 1 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1436.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR ||  Bein Sports 2 HD" tvg-logo="" group-title="BEIN SPORTS 1080",AR ||  Bein Sports 2 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1437.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR ||  Bein Sports 3 HD" tvg-logo="" group-title="BEIN SPORTS 1080",AR ||  Bein Sports 3 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1438.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR ||  Bein Sports 4 HD" tvg-logo="" group-title="BEIN SPORTS 1080",AR ||  Bein Sports 4 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1439.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR ||  Bein Sports 5 HD" tvg-logo="" group-title="BEIN SPORTS 1080",AR ||  Bein Sports 5 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1440.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR ||  Bein Sports 6 HD" tvg-logo="" group-title="BEIN SPORTS 1080",AR ||  Bein Sports 6 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1441.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR ||  Bein Sports 7 HD" tvg-logo="" group-title="BEIN SPORTS 1080",AR ||  Bein Sports 7 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1442.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR ||  Bein Sports 8 HD" tvg-logo="" group-title="BEIN SPORTS 1080",AR ||  Bein Sports 8 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1443.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR ||  Bein Sports 9 HD" tvg-logo="" group-title="BEIN SPORTS 1080",AR ||  Bein Sports 9 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1444.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR ||  Bein Sports 10 HD" tvg-logo="" group-title="BEIN SPORTS 1080",AR ||  Bein Sports 10 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1445.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 11 EN HD" tvg-logo="" group-title="BEIN SPORTS 1080",Bein Sports 11 EN HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1446.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 12 EN HD" tvg-logo="" group-title="BEIN SPORTS 1080",Bein Sports 12 EN HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1447.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 13 EN HD" tvg-logo="" group-title="BEIN SPORTS 1080",Bein Sports 13 EN HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1448.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 14 FR HD" tvg-logo="" group-title="BEIN SPORTS 1080",Bein Sports 14 FR HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1449.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 15 FR HD" tvg-logo="" group-title="BEIN SPORTS 1080",Bein Sports 15 FR HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1450.ts
-==========BEIN SPORTS 1080==========
-
 ==========HBO==========
 #EXTINF:-1 tvg-ID="HBO.id" group-title="HBO" tvg-logo="https://static.epg.best/us/HBO.us.png",HBO 
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
@@ -279,120 +248,3 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #EXTINF:-1 tvg-id="RED by HBO.id" tvg-name="RED by HBO" group-title="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/Screen_RED_%28logo%29.jpg", RED by HBO 
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 ==========HBO==========
-
-==========OSN & BEIN-entre==========
-#EXTINF:-1 tvg-id="" tvg-name="OSN: Yahala HD-↺" tvg-logo="" group-title="OSN & BEIN-entre",OSN: Yahala HD-↺
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/25
-#EXTINF:-1 tvg-id="" tvg-name="OSN: Yahala 1 ALOLA HD-↺" tvg-logo="" group-title="OSN & BEIN-entre",OSN: Yahala 1 ALOLA HD-↺
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/26
-#EXTINF:-1 tvg-id="" tvg-name="OSN: ART Hekayat HD-↺" tvg-logo="" group-title="OSN & BEIN-entre",OSN: ART Hekayat HD-↺
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/27
-#EXTINF:-1 tvg-id="" tvg-name="OSN: ART Hekayat 2 HD-↺" tvg-logo="" group-title="OSN & BEIN-entre",OSN: ART Hekayat 2 HD-↺
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/28
-#EXTINF:-1 tvg-id="" tvg-name="OSN: Yahala Cinema HD-♎" tvg-logo="" group-title="OSN & BEIN-entre",OSN: Yahala Cinema HD-♎
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/29
-#EXTINF:-1 tvg-id="" tvg-name="OSN: ART Aflam 2 HD-≢" tvg-logo="" group-title="OSN & BEIN-entre",OSN: ART Aflam 2 HD-≢
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/30
-#EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 1 HD-╪" tvg-logo="" group-title="OSN & BEIN-entre",BEIN: BEIN MOVIES 1 HD-╪
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/31
-#EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 2 HD" tvg-logo="" group-title="OSN & BEIN-entre",BEIN: BEIN MOVIES 2 HD
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/32
-#EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 3 HD-↺" tvg-logo="" group-title="OSN & BEIN-entre",BEIN: BEIN MOVIES 3 HD-↺
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/33
-#EXTINF:-1 tvg-id="" tvg-name="BEIN: BEIN MOVIES 4 HD-╪" tvg-logo="" group-title="OSN & BEIN-entre",BEIN: BEIN MOVIES 4 HD-╪
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/34
-#EXTINF:-1 tvg-id="" tvg-name="BEIN: BeIN Series 1 HD-Ⅻ" tvg-logo="" group-title="OSN & BEIN-entre",BEIN: BeIN Series 1 HD-Ⅻ
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/35
-#EXTINF:-1 tvg-id="" tvg-name="BEIN: BeIN Series 2 HD-Ⅻ" tvg-logo="" group-title="OSN & BEIN-entre",BEIN: BeIN Series 2 HD-Ⅻ
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/36
-#EXTINF:-1 tvg-id="" tvg-name="WWE" tvg-logo="" group-title="OSN & BEIN-entre",WWE
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/37
-#EXTINF:-1 tvg-id="" tvg-name="OSN: Action HD-↺" tvg-logo="" group-title="OSN & BEIN-entre",OSN: Action HD-↺
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/38
-#EXTINF:-1 tvg-id="" tvg-name="OSN :ALFA ALYOUM" tvg-logo="" group-title="OSN & BEIN-entre",OSN :ALFA ALYOUM
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/40
-#EXTINF:-1 tvg-id="" tvg-name="OSN: Disney Junior HD-↺" tvg-logo="" group-title="OSN & BEIN-entre",OSN: Disney Junior HD-↺
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/41
-#EXTINF:-1 tvg-id="" tvg-name="BEIN: BARAEM" tvg-logo="" group-title="OSN & BEIN-entre",BEIN: BARAEM
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/42
-#EXTINF:-1 tvg-id="" tvg-name="BEIN: Nat Geo Wild HD-↹" tvg-logo="" group-title="OSN & BEIN-entre",BEIN: Nat Geo Wild HD-↹
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/43
-#EXTINF:-1 tvg-id="" tvg-name="OSN: Alfa Cinema 1 HD-↹" tvg-logo="" group-title="OSN & BEIN-entre",OSN: Alfa Cinema 1 HD-↹
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/44
-#EXTINF:-1 tvg-id="" tvg-name="OSN: Discovery HD-◢" tvg-logo="" group-title="OSN & BEIN-entre",OSN: Discovery HD-◢
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/45
-#EXTINF:-1 tvg-id="" tvg-name="OSN: The Movies HD-◢" tvg-logo="" group-title="OSN & BEIN-entre",OSN: The Movies HD-◢
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/46
-#EXTINF:-1 tvg-id="" tvg-name="|AR| beIN JEEM" tvg-logo="" group-title="OSN & BEIN-entre",|AR| beIN JEEM
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/47
-#EXTINF:-1 tvg-id="" tvg-name="BeIN FATAFEAT" tvg-logo="" group-title="OSN & BEIN-entre",BeIN FATAFEAT
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/48
-#EXTINF:-1 tvg-id="" tvg-name="SHAHID| ARABIA 1-Ⅻ" tvg-logo="" group-title="OSN & BEIN-entre",SHAHID| ARABIA 1-Ⅻ
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/49
-#EXTINF:-1 tvg-id="" tvg-name="SHAHID| BOLLYWOOD" tvg-logo="" group-title="OSN & BEIN-entre",SHAHID| BOLLYWOOD
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/50
-#EXTINF:-1 tvg-id="" tvg-name="SHAHID| ACTION11" tvg-logo="" group-title="OSN & BEIN-entre",SHAHID| ACTION11
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/51
-#EXTINF:-1 tvg-id="" tvg-name="Shahid Horror" tvg-logo="" group-title="OSN & BEIN-entre",Shahid Horror
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/52
-#EXTINF:-1 tvg-id="" tvg-name="ART AFLAM 1" tvg-logo="" group-title="OSN & BEIN-entre",ART AFLAM 1
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/53
-#EXTINF:-1 tvg-id="" tvg-name="OSN: ART Cinema HD-↺" tvg-logo="" group-title="OSN & BEIN-entre",OSN: ART Cinema HD-↺
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE1414/BEST-LIVE1414/39
-==========OSN & BEIN-entre==========
-
-==========Majestic&NETFLIX==========
-#EXTINF:-1 tvg-id="" tvg-name="MAJESTIC MOVIES " tvg-logo="" group-title="Majestic&NETFLIX",MAJESTIC MOVIES 
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE3422/BEST-LIVE3422/104
-#EXTINF:-1 tvg-id="" tvg-name="MAJESTIC ARABIC" tvg-logo="" group-title="Majestic&NETFLIX",MAJESTIC ARABIC
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE3422/BEST-LIVE3422/106
-#EXTINF:-1 tvg-id="" tvg-name="MAJESTIC KIDS" tvg-logo="" group-title="Majestic&NETFLIX",MAJESTIC KIDS
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE3422/BEST-LIVE3422/107
-#EXTINF:-1 tvg-id="" tvg-name="MAJESTIC HORROR" tvg-logo="" group-title="Majestic&NETFLIX",MAJESTIC HORROR
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE3422/BEST-LIVE3422/105
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ACTION" tvg-logo="" group-title="Majestic&NETFLIX",NETFLIX ACTION
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE3422/BEST-LIVE3422/108
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR" tvg-logo="" group-title="Majestic&NETFLIX",NETFLIX HORROR
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE3422/BEST-LIVE3422/109
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX COMEDY" tvg-logo="" group-title="Majestic&NETFLIX",NETFLIX COMEDY
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE3422/BEST-LIVE3422/110
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX DRAMA" tvg-logo="" group-title="Majestic&NETFLIX",NETFLIX DRAMA
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE3422/BEST-LIVE3422/111
-#EXTINF:-1 tvg-id="" tvg-name="Shahid Horror" tvg-logo="" group-title="Majestic&NETFLIX",Shahid Horror
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE3422/BEST-LIVE3422/53
-#EXTINF:-1 tvg-id="" tvg-name="SHAHID| ACTION11" tvg-logo="" group-title="Majestic&NETFLIX",SHAHID| ACTION11
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE3422/BEST-LIVE3422/52
-#EXTINF:-1 tvg-id="" tvg-name="SHAHID| BOLLYWOOD" tvg-logo="" group-title="Majestic&NETFLIX",SHAHID| BOLLYWOOD
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE3422/BEST-LIVE3422/51
-#EXTINF:-1 tvg-id="" tvg-name="SHAHID| ARABIA 1-Ⅻ" tvg-logo="" group-title="Majestic&NETFLIX",SHAHID| ARABIA 1-Ⅻ
-http://jo.best-live-iptv.xyz:25461/BEST-LIVE3422/BEST-LIVE3422/50
-==========Majestic&NETFLIX==========
-
-==========OSN==========
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ART Aflam 1 | SD" tvg-logo="https://i.ibb.co/L0DNBjy/OSN-ART-Aflam-1.png" group-title="OSN",AR: OSN ART Aflam 1 | SD
-https://qsplaylist.com:443/paul754james3/hjeknu89UJKi/104584
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ART Cinema | SD" tvg-logo="https://i.ibb.co/jJjRT5L/OSN-ART-Cinema.png" group-title="OSN",AR: OSN ART Cinema | SD
-https://qsplaylist.com:443/paul754james3/hjeknu89UJKi/104586
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN ART Hekayat 1 | SD" tvg-logo="https://i.ibb.co/k5RHBmY/OSN-ART-Hekayat-1.png" group-title="OSN",AR: OSN ART Hekayat 1 | SD
-https://qsplaylist.com:443/paul754james3/hjeknu89UJKi/104587
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN BOX OFFICE 1 | HD" tvg-logo="https://i.ibb.co/302NCrS/OSN-BOX-OFFICE-1.png" group-title="OSN",AR: OSN BOX OFFICE 1 | HD
-https://qsplaylist.com:443/paul754james3/hjeknu89UJKi/104601
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN BOX OFFICE 2 | SD" tvg-logo="https://i.ibb.co/jVV6h0J/OSN-BOX-OFFICE-2.png" group-title="OSN",AR: OSN BOX OFFICE 2 | SD
-https://qsplaylist.com:443/paul754james3/hjeknu89UJKi/104602
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN BOX OFFICE 2 | UHD" tvg-logo="https://i.ibb.co/jVV6h0J/OSN-BOX-OFFICE-2.png" group-title="OSN",AR: OSN BOX OFFICE 2 | UHD
-https://qsplaylist.com:443/paul754james3/hjeknu89UJKi/104580
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Movies Comedy | HD" tvg-logo="https://i.ibb.co/0VfHCpB/OSN-Movies-Comedy.png" group-title="OSN",AR: OSN Movies Comedy | HD
-https://qsplaylist.com:443/paul754james3/hjeknu89UJKi/104606
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Movies Family | HD" tvg-logo="https://i.ibb.co/L5vd75G/OSN-Movies-Family.png" group-title="OSN",AR: OSN Movies Family | HD
-https://qsplaylist.com:443/paul754james3/hjeknu89UJKi/104605
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN MOVIES FIRST | HD" tvg-logo="https://i.ibb.co/t3YZYMz/OSN-MOVIES-FIRST.png" group-title="OSN",AR: OSN MOVIES FIRST | HD
-https://qsplaylist.com:443/paul754james3/hjeknu89UJKi/104603
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Movies Thriller | HD" tvg-logo="https://i.ibb.co/Xjc18Lf/OSN-Movies-Thriller.png" group-title="OSN",AR: OSN Movies Thriller | HD
-https://qsplaylist.com:443/paul754james3/hjeknu89UJKi/104611
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Movies | HD" tvg-logo="https://i.ibb.co/n6Hyn6p/OSN-Movies.png" group-title="OSN",AR: OSN Movies | HD
-https://qsplaylist.com:443/paul754james3/hjeknu89UJKi/104607
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Star World | HD" tvg-logo="https://i.ibb.co/5rQT3TG/OSN-Star-World.png" group-title="OSN",AR: OSN Star World | HD
-https://qsplaylist.com:443/paul754james3/hjeknu89UJKi/104609
-#EXTINF:-1 tvg-id="" tvg-name="AR: OSN Yahala Cinema | HD" tvg-logo="https://i.ibb.co/N3kyJRY/OSN-Yahala-Cinema.png" group-title="OSN",AR: OSN Yahala Cinema | HD
-https://qsplaylist.com:443/paul754james3/hjeknu89UJKi/104608
-==========OSN==========
