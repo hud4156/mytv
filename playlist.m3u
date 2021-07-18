@@ -1,8 +1,6 @@
 #EXTM3U
 
 ==========TEST==========
-#EXTINF:-1 tvg-id="Fox Action Movies" tvg-logo=" " tvg-name="Fox Action Movies" group-title="Test",Fox Actions Movies
-https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.m3u
 #EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" tvg-name="HBO" group-title="Test",HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" tvg-name="HBO" group-title="Test",HBO 960p
