@@ -1,11 +1,11 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg"  refresh="3600"
 
- #EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI
- https://rcti-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7.m3u8
- #EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png",GTV
- https://rcti-linier.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6.m3u8
- #EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png",MNC TV
- https://rcti-linier.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6.m3u8
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI
+https://rcti-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7.m3u8
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png",GTV
+https://rcti-linier.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6.m3u8
+#EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png",MNC TV
+https://rcti-linier.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6.m3u8
  #EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png",iNews
  https://rcti-linier.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=8.m3u8
  #EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_tv_id.png",Trans TV
