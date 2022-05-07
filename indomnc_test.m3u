@@ -527,11 +527,6 @@ https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png",SPOTV2
-https://liveanevia.mncnow.id/live/eds/SCM2/sa_dash_vmx/SCM2.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Religi" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ewtn_us.png",EWTN
 https://liveanevia.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
 
