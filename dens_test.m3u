@@ -1,0 +1,146 @@
+#EXTM3U
+
+××××××××××Start××××××××××
+
+××××××××××Premium Channel××××××××××
+
+#EXTINF : group-title="Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/26.jpg", eGG HD
+http://rr.dens.tv/h/h22/index.m3u8
+#EXTINF : group-title="Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/38.jpg", ANIPLUS HD
+http://rr1.dens.tv/h/h02/index10.m3u8
+#EXTINF : group-title="Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/97.jpg", Animax HD
+http://rr1.dens.tv/h/h144/index10.m3u8
+#EXTINF : group-title="Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/96.jpg", My Kidz HD
+http://rr.dens.tv/h/h191/index.m3u8
+#EXTINF : group-title="Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/101.jpg", HITS HD
+http://rr1.dens.tv/h/h37/index1.m3u8
+#EXTINF : group-title="Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/93.jpg", AXN HD
+http://rr1.dens.tv/h/h141/index.m3u8
+#EXTINF : group-title="Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/39.jpg", ROCK Entertainment HD
+http://rr1.dens.tv/h/h16/index10.m3u8
+#EXTINF : group-title="Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/44.jpg", ROCK Extreme HD
+http://rr1.dens.tv/h/h15/index10.m3u8
+#EXTINF : group-title="Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/49.jpg", KIX HD
+http://rr1.dens.tv/h/h07/index.m3u8
+#EXTINF : group-title="Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/5.jpg", GEM HD
+http://rr.dens.tv/h/h19/index10.m3u8
+#EXTINF : group-title="Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/100.jpg", K-PLUS HD
+http://rr.dens.tv/h/h08/index.m3u8
+#EXTINF : group-title="Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/89.jpg", ONE HD
+http://rr.dens.tv/h/h143/index.m3u8
+#EXTINF : group-title="Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/59.jpg", tvN HD
+http://rr1.dens.tv/h/h20/index.m3u8
+#EXTINF : group-title="Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/58.jpg", tvN Movies HD
+http://rr1.dens.tv/h/h21/index.m3u8
+#EXTINF : group-title="Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/99.jpg", Celestial Movies
+http://rr2.dens.tv/s/s33/index10.m3u8
+#EXTINF : group-title="Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/110.jpg", CCM (Celestial Classic MV)
+http://rr2.dens.tv/s/s31/index.m3u8
+#EXTINF : group-title="Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/109.jpg", My Cinema Asia
+http://rr.dens.tv/h/h193/index.m3u8
+#EXTINF : group-title="Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/103.jpg", Zee Bioskop
+http://rr2.dens.tv/s/s32/index10.m3u8
+#EXTINF : group-title="Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/55.jpg", Thrill
+http://rr2.dens.tv/s/s34/index.m3u8
+#EXTINF : group-title="Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/87.jpg", CinemaWorld HD
+http://rr1.dens.tv/h/h04/index.m3u8
+#EXTINF : group-title="Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/95.jpg", My Cinema HD
+http://rr.dens.tv/h/h192/index.m3u8
+#EXTINF : group-title="Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/92.jpg", My Cinema Europe HD
+http://rr.dens.tv/h/h18/index.m3u8
+#EXTINF : group-title="Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/37.jpg", TV5MONDE Style HD
+http://rr1.dens.tv/h/h01/index.m3u8
+#EXTINF : group-title="Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/60.jpg", FIGHT SPORTS HD
+http://rr1.dens.tv/h/h05/index.m3u8
+#EXTINF : group-title="Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/98.jpg", Motorvision TV HD
+http://rr.dens.tv/h/h09/index.m3u8
+#EXTINF : group-title="Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/108.jpg", GOLF Channel HD
+http://rr1.dens.tv/h/h10/index.m3u8
+#EXTINF : group-title="Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/53.jpg", Bloomberg Television HD
+http://rr1.dens.tv/h/h03/index.m3u8
+
+××××××××××Local Channel××××××××××
+
+#EXTINF : group-title="Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/3.jpg", Live Streaming 1
+http://rr3.dens.tv/s/s100/live.m3u8
+#EXTINF : group-title="Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/75.jpg", Live Streaming 2
+http://rr.dens.tv/h/h998/live.m3u8
+#EXTINF : group-title="Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/107.jpg", DensPlay
+http://rr3.dens.tv/s/s101/live.m3u8
+#EXTINF : group-title="Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/42.jpg", DENS Life & Style
+http://rr1.dens.tv/h/h28/index.m3u8
+#EXTINF : group-title="Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/1.jpg", Dens Learning & Knowledge
+http://rr3.dens.tv/s/s36/index.m3u8
+#EXTINF : group-title="Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/102.jpg", Dens SnowBiz
+http://rr3.dens.tv/s/s35/index.m3u8
+#EXTINF : group-title="Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/6.jpg", Metro TV
+http://rr.dens.tv/h/h12/index.m3u8
+#EXTINF : group-title="Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/7.jpg", tvOne
+http://rr2.dens.tv/s/s105/index3.m3u8
+#EXTINF : group-title="Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/14.jpg", Kompas TV
+http://rr2.dens.tv/s/s104/index10.m3u8
+#EXTINF : group-title="Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/80.jpg", BeritaSatu
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+#EXTINF : group-title="Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/9.jpg", SCTV
+http://rr2.dens.tv/s/s03/index.m3u8
+#EXTINF : group-title="Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg", Indosiar
+http://rr2.dens.tv/s/s04/index.m3u8
+#EXTINF : group-title="Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/11.jpg", Trans TV
+http://rr2.dens.tv/s/s05/index.m3u8
+#EXTINF : group-title="Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/12.jpg", Trans7
+http://rr.dens.tv/h/h11/index.m3u8
+#EXTINF : group-title="Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/8.jpg", antv
+http://rr2.dens.tv/s/s07/index3.m3u8
+#EXTINF : group-title="Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/13.jpg", NET.
+http://rr2.dens.tv/s/s08/index10.m3u8
+#EXTINF : group-title="Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/22.jpg", RTV
+http://rr2.dens.tv/s/s12/index10.m3u8
+#EXTINF : group-title="Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/94.jpg", Elshinta TV
+http://rr2.dens.tv/s/s10/index10.m3u8
+#EXTINF : group-title="Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/105.jpg", MYTV
+http://rr3.dens.tv/s/s88/index2.m3u8
+#EXTINF : group-title="Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/17.jpg", TVRI
+http://rr2.dens.tv/s/s11/index10.m3u8
+#EXTINF : group-title="Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/106.jpg", TVRI Sport HD
+http://rr2.dens.tv/s/s107/index1.m3u8
+#EXTINF : group-title="Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/21.jpg", RodjaTV
+http://rr2.dens.tv/s/s14/index10.m3u8
+#EXTINF : group-title="Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/23.jpg", DAAI TV
+http://rr2.dens.tv/s/s13/index.m3u8
+#EXTINF : group-title="Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/76.jpg", U-Channel
+http://rr2.dens.tv/s/s41/index2.m3u8
+
+××××××××××International Channel××××××××××
+
+#EXTINF : group-title="International Channel" tvg-logo="http://www.dens.tv/images/channel-logo/61.jpg", CNA
+http://rr.dens.tv/h/h29/index10.m3u8
+#EXTINF : group-title="International Channel" tvg-logo="http://www.dens.tv/images/channel-logo/77.jpg", NHK WORLD-JAPAN
+http://rr.dens.tv/h/h23/index.m3u8
+#EXTINF : group-title="International Channel" tvg-logo="http://www.dens.tv/images/channel-logo/56.jpg", Al Jazeera English
+http://rr2.dens.tv/s/s17/index.m3u8
+#EXTINF : group-title="International Channel" tvg-logo="http://www.dens.tv/images/channel-logo/41.jpg", TRT World
+http://rr.dens.tv/h/h156/index2.m3u8
+#EXTINF : group-title="International Channel" tvg-logo="http://www.dens.tv/images/channel-logo/79.jpg", WION
+http://rr.dens.tv/h/h91/index2.m3u8
+#EXTINF : group-title="International Channel" tvg-logo="http://www.dens.tv/images/channel-logo/104.jpg", UA|TV
+http://rr.dens.tv/h/h101/index2.m3u8
+#EXTINF : group-title="International Channel" tvg-logo="http://www.dens.tv/images/channel-logo/27.jpg", Al Jazeera Arabic
+http://rr2.dens.tv/s/s16/index.m3u8
+#EXTINF : group-title="International Channel" tvg-logo="http://www.dens.tv/images/channel-logo/85.jpg", CCTV-4
+http://rr2.dens.tv/s/s19/index.m3u8
+#EXTINF : group-title="International Channel" tvg-logo="http://www.dens.tv/images/channel-logo/69.jpg", France 24
+http://rr2.dens.tv/s/s22/index.m3u8
+#EXTINF : group-title="International Channel" tvg-logo="http://www.dens.tv/images/channel-logo/90.jpg", TV5MONDE ASIE
+http://rr1.dens.tv/s/s24/index.m3u8
+#EXTINF : group-title="International Channel" tvg-logo="http://www.dens.tv/images/channel-logo/81.jpg", DW-TV
+http://rr2.dens.tv/s/s26/index.m3u8
+#EXTINF : group-title="International Channel" tvg-logo="http://www.dens.tv/images/channel-logo/78.jpg", TBN
+http://rr2.dens.tv/s/s39/index.m3u8
+#EXTINF : group-title="International Channel" tvg-logo="http://www.dens.tv/images/channel-logo/16.jpg", CGTN Documentary
+http://rr2.dens.tv/s/s20/index10.m3u8
+#EXTINF : group-title="International Channel" tvg-logo="http://www.dens.tv/images/channel-logo/82.jpg", Quran TV
+http://rr2.dens.tv/s/s28/index10.m3u8
+#EXTINF : group-title="International Channel" tvg-logo="http://www.dens.tv/images/channel-logo/88.jpg", Sunna TV
+http://rr2.dens.tv/s/s27/index10.m3u8
+
+××××××××××End××××××××××
