@@ -1,0 +1,707 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="", 001.AFN HD
+rtp://@239.1.2.13:8052
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_aljazeera_small1.png" group-title="", 002.AL JAZEERA
+rtp://@239.1.1.195:9144
+#EXTINF:-1 tvg-logo="" group-title="", 003.AL JAZEERA
+rtp://@239.1.2.195:9144
+#EXTINF:-1 tvg-logo="" group-title="", 004.AL JAZEERA HD
+rtp://@239.1.2.8:8022
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_alquran_small1.png" group-title="", 005.AL QURAN AL KAREEM
+rtp://@239.1.1.185:9084
+#EXTINF:-1 tvg-logo="" group-title="", 006.AL QURAN AL KAREEM
+rtp://@239.1.2.185:9084
+#EXTINF:-1 tvg-logo="" group-title="", 007.AMC CHANNEL
+rtp://@239.1.2.111:8640
+#EXTINF:-1 tvg-logo="" group-title="", 008.ANIMAX
+rtp://@239.1.2.157:8916
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_aniplus_small1.png" group-title="", 009.ANIPLUS
+rtp://@239.1.1.117:8676
+#EXTINF:-1 tvg-logo="" group-title="", 010.ANIPLUS
+rtp://@239.1.2.117:8676
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_antara_small1.png" group-title="", 011.ANTARA TV
+rtp://@239.1.1.128:9218
+#EXTINF:-1 tvg-logo="" group-title="", 012.ANTARA TV
+rtp://@239.1.4.24:1234
+#EXTINF:-1 tvg-logo="" group-title="", 013.ANTV
+rtp://@239.1.1.15:8064
+#EXTINF:-1 tvg-logo="" group-title="", 014.ANTV
+rtp://@239.1.2.15:8064
+#EXTINF:-1 tvg-logo="" group-title="", 015.ANTV
+rtp://@239.1.3.15:1234
+#EXTINF:-1 tvg-logo="" group-title="", 016.ARIRANG
+rtp://@239.1.2.147:8856
+#EXTINF:-1 tvg-logo="" group-title="", 017.AUSTRALIAN PLUS
+rtp://@239.1.2.33:8172
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_axn_small.png" group-title="MOVIE", 018.AXN
+rtp://@239.1.1.137:8796
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", 019.AXN
+rtp://@239.1.2.137:8796
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", 020.AXN HD
+rtp://@239.1.1.245:9436
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_babyfirst_small.png" group-title="", 021.BABYFIRST
+rtp://@239.1.1.157:8916
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_balitv_small1.png" group-title="", 022.BALI TV
+rtp://@239.1.1.72:8406
+#EXTINF:-1 tvg-logo="" group-title="", 023.BALI TV
+rtp://@239.1.3.254:1234
+#EXTINF:-1 tvg-logo="" group-title="", 024.BANDUNG TV
+rtp://@239.1.1.176:9030
+#EXTINF:-1 tvg-logo="" group-title="SPORT", 025.BEIN SPORTS 1
+rtp://@239.1.1.217:9204
+#EXTINF:-1 tvg-logo="" group-title="SPORT", 026.BEIN SPORTS 3
+rtp://@239.1.1.221:9300
+#EXTINF:-1 tvg-logo="" group-title="SPORT", 027.BEIN SPORTS
+rtp://@239.1.2.217:9216
+#EXTINF:-1 tvg-logo="" group-title="SPORT", 028.BEIN SPORTS
+rtp://@239.1.2.221:9300
+#EXTINF:-1 tvg-logo="" group-title="SPORT", 029.BEIN SPORTS
+rtp://@239.1.2.223:9312
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_bein1_small1.png" group-title="SPORT", 030.BEIN SPORTS 1 HD
+rtp://@239.1.1.248:9494
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_bein3_small1.png" group-title="SPORT", 031.BEIN SPORTS 3 HD
+rtp://@239.1.1.249:9496
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_beritasatu_small1.png" group-title="", 032.BERITA SATU
+rtp://@239.1.1.183:9072
+#EXTINF:-1 tvg-logo="" group-title="", 033.BERITA SATU
+rtp://@239.1.2.183:9072
+#EXTINF:-1 tvg-logo="" group-title="", 034.BERITA SATU
+rtp://@239.1.3.183:1234
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_bioskopindonesia_small1.png" group-title="MOVIE", 035.BIOSKOP INDONESIA
+rtp://@239.1.1.226:9332
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_bloomberg_small1.png" group-title="", 036.BLOOMBERG
+rtp://@239.1.1.199:9168
+#EXTINF:-1 tvg-logo="" group-title="", 037.BLOOMBERG
+rtp://@239.1.2.199:9168
+#EXTINF:-1 tvg-logo="" group-title="", 038.BLUE ANT EXTREME
+rtp://@239.1.4.8:1234
+#EXTINF:-1 tvg-logo="" group-title="", 039.BLUE ANT EXTREME HD
+rtp://@239.1.4.70:1234
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_boomerang_small.png" group-title="KIDS", 040.BOOMERANG
+rtp://@239.1.1.73:8412
+#EXTINF:-1 tvg-logo="" group-title="KIDS", 041.BOOMERANG
+rtp://@239.1.2.73:8412
+#EXTINF:-1 tvg-logo="" group-title="", 042.C MUSIC
+rtp://@239.1.1.77:8436
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_cartoonnetwork_small.png" group-title="KIDS", 043.CARTOON NETWORK
+rtp://@239.1.1.123:8712
+#EXTINF:-1 tvg-logo="" group-title="KIDS", 044.CARTOON NETWORK
+rtp://@239.1.2.123:8712
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_cctv4_small1.png" group-title="", 045.CCTV 4
+rtp://@239.1.1.115:8664
+#EXTINF:-1 tvg-logo="" group-title="", 046.CCTV 4
+rtp://@239.1.2.115:8664
+#EXTINF:-1 tvg-logo="" group-title="", 047.CCTV 9
+rtp://@239.1.2.121:8700
+#EXTINF:-1 tvg-logo="" group-title="", 048.CELESTIAL
+rtp://@239.1.2.97:8556
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_celestialmovie_small.png" group-title="MOVIE", 049.CELESTIAL MOVIES
+rtp://@239.1.1.97:8556
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_cgtndocumentary_small1.png" group-title="KNOWLEDGE", 050.CGTN DOCUMENTARY
+rtp://@239.1.1.121:8700
+#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE", 051.CGTN DOCUMENTARY HD
+rtp://@239.1.2.4:7998
+#EXTINF:-1 tvg-logo="" group-title="", 052.CHAMPIONS HD
+rtp://@239.1.3.216:1234
+#EXTINF:-1 tvg-logo="" group-title="", 053.CHAMPIONS HD
+rtp://@239.1.4.56:1234
+#EXTINF:-1 tvg-logo="" group-title="", 054.CHAMPIONS TV
+rtp://@239.1.3.156:1234
+#EXTINF:-1 tvg-logo="" group-title="", 055.CHAMPIONS TV HD
+rtp://@239.1.3.144:1234
+#EXTINF:-1 tvg-logo="" group-title="MUSIK", 056.CHANNEL [V]
+rtp://@239.1.2.173:9012
+#EXTINF:-1 tvg-logo="" group-title="", 057.CHANNEL M
+rtp://@239.1.2.135:8784
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_chinesedrama_small.png" group-title="", 058.CHINESE DRAMA
+rtp://@239.1.2.10:8306
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_cinemaworld_small.png" group-title="MOVIE", 059.CINEMA WORLD
+rtp://@239.1.1.189:9108
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", 060.CINEMA WORLD
+rtp://@239.1.2.189:9108
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", 061.CINEMAX
+rtp://@239.1.1.87:8496
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", 062.CINEMAX
+rtp://@239.1.2.87:8496
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", 063.CINEMAX HD
+rtp://@239.1.2.247:9372
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", 064.CINEMAX HD
+rtp://@239.1.3.86:1234
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_citradangdut_small.png" group-title="MOVIE", 065.CITRA DANGDUT
+rtp://@239.1.1.143:8832
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", 066.CITRA DANGDUT
+rtp://@239.1.3.77:1234
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_citradrama_small.png" group-title="MOVIE", 067.CITRA DRAMA
+rtp://@239.1.1.44:8238
+#EXTINF:-1 tvg-logo="" group-title="", 068.CNA
+rtp://@239.1.2.65:8364
+#EXTINF:-1 tvg-logo="" group-title="", 069.CNA HD
+rtp://@239.1.2.23:8112
+#EXTINF:-1 tvg-logo="" group-title="", 070.CNBC ASIA
+rtp://@239.1.2.155:8904
+#EXTINF:-1 tvg-logo="" group-title="", 071.CNBC ASIA
+rtp://@239.1.3.155:1234
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_cnnindonesia_small1.png" group-title="", 072.CNN INDONESIA
+rtp://@239.1.1.241:9362
+#EXTINF:-1 tvg-logo="" group-title="", 073.CNN INDONESIA
+rtp://@239.1.3.241:1234
+#EXTINF:-1 tvg-logo="" group-title="", 074.CNN INDONESIA HD
+rtp://@239.1.1.180:9054
+#EXTINF:-1 tvg-logo="" group-title="", 075.CNN INDONESIA HD
+rtp://@239.1.3.213:1234
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_cnninternational_small.png" group-title="", 076.CNN INTERNATIONAL
+rtp://@239.1.1.105:8604
+#EXTINF:-1 tvg-logo="" group-title="", 077.CNN INTERNATIONAL
+rtp://@239.1.2.105:8604
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_crimeinvest_small.png" group-title="KNOWLEDGE", 078.CRIME & INVESTIGATIONS
+rtp://@239.1.1.59:8328
+#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE", 079.CRIME & INVESTIGATIONS
+rtp://@239.1.2.59:8328
+#EXTINF:-1 tvg-logo="" group-title="KIDS", 080.DA VINCI KIDS
+rtp://@239.1.1.99:8568
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_daaitv_small1.png" group-title="", 081.DAAI TV
+rtp://@239.1.1.179:9048
+#EXTINF:-1 tvg-logo="" group-title="", 082.DAAI TV
+rtp://@239.1.2.179:9048
+#EXTINF:-1 tvg-logo="" group-title="", 083.DAAI TV
+rtp://@239.1.3.179:1234
+#EXTINF:-1 tvg-logo="" group-title="", 084.DAVINCI LEARNING
+rtp://@239.1.2.177:9250
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_discovery_small.png" group-title="MOVIE", 085.DISCOVERY
+rtp://@239.1.1.43:8232
+#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE", 086.DISCOVERY
+rtp://@239.1.2.30:8154
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", 087.DISCOVERY HD
+rtp://@239.1.1.247:9440
+#EXTINF:-1 tvg-logo="" group-title="KIDS", 088.DISNEY CHANNEL
+rtp://@239.1.2.45:8244
+#EXTINF:-1 tvg-logo="" group-title="KIDS", 089.DISNEY JUNIOR
+rtp://@239.1.2.47:8256
+#EXTINF:-1 tvg-logo="" group-title="", 090.DIVA
+rtp://@239.1.2.51:8280
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_dreamworks_small1.png" group-title="KIDS", 091.DREAMWORK
+rtp://@239.1.1.139:8808
+#EXTINF:-1 tvg-logo="" group-title="KIDS", 092.DREAMWORK HD
+rtp://@239.1.1.234:9222
+#EXTINF:-1 tvg-logo="" group-title="", 093.DREAMWORKS
+rtp://@239.1.2.139:8808
+#EXTINF:-1 tvg-logo="" group-title="", 094.DRTV
+rtp://@239.1.4.3:1234
+#EXTINF:-1 tvg-logo="" group-title="", 095.DUCK TV
+rtp://@239.1.2.63:8352
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_duniaanak_small1.png" group-title="", 096.DUNIA ANAK
+rtp://@239.1.1.7:8016
+#EXTINF:-1 tvg-logo="" group-title="", 097.DUNIA ANAK
+rtp://@239.1.2.7:8016
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_dunialain_small.png" group-title="", 098.DUNIA LAIN
+rtp://@239.1.1.149:8868
+#EXTINF:-1 tvg-logo="" group-title="", 099.DW HD
+rtp://@239.1.4.71:1234
+#EXTINF:-1 tvg-logo="" group-title="", 100.DW NEWS HD
+rtp://@239.1.2.243:9360
+#EXTINF:-1 tvg-logo="" group-title="", 101.DW TV
+rtp://@239.1.2.187:9096
+#EXTINF:-1 tvg-logo="" group-title="", 102.E! ENTERTAINMENT
+rtp://@239.1.2.145:8844
+#EXTINF:-1 tvg-logo="" group-title="", 103.E! ENTERTAINMENT
+rtp://@239.1.3.145:1234
+#EXTINF:-1 tvg-logo="" group-title="", 104.E! ENTERTAINMENT HD
+rtp://@239.1.4.49:1234
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_eatgo_small1.png" group-title="", 105.EAT & GO
+rtp://@239.1.1.229:9350
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_euronews_small1.png" group-title="", 106.EURO NEWS
+rtp://@239.1.1.193:9132
+#EXTINF:-1 tvg-logo="" group-title="", 107.FASHION ONE
+rtp://@239.1.2.127:8736
+#EXTINF:-1 tvg-logo="" group-title="", 108.FASHION TV
+rtp://@239.1.2.79:8448
+#EXTINF:-1 tvg-logo="" group-title="", 109.FIGHT SPORT
+rtp://@239.1.2.99:8568
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_flik_small1.png" group-title="MOVIE", 110.FLIK
+rtp://@239.1.1.71:8400
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", 111.FLIK HD
+rtp://@239.1.1.239:9276
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", 112.FOX
+rtp://@239.1.2.43:8232
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", 113.FOX ACTION MOVIES
+rtp://@239.1.2.125:8724
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", 114.FOX CRIME
+rtp://@239.1.2.161:8940
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", 115.FOX FAMILY
+rtp://@239.1.2.175:9024
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", 116.FOX MOVIES PREMIUM
+rtp://@239.1.2.11:8040
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/tvdigital.png" group-title="SPORT", 117.FOX SPORT
+rtp://@239.1.1.103:8592
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/tvdigital.png" group-title="SPORT", 118.FOX SPORT 01 HD
+rtp://@239.1.2.201:9174
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/tvdigital.png" group-title="SPORT", 119.FOX SPORT 02 HD
+rtp://@239.1.2.203:9180
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/tvdigital.png" group-title="SPORT", 120.FOX SPORT 03 HD
+rtp://@239.1.2.205:9186
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/tvdigital.png" group-title="SPORT", 121.FOX SPORT NEWS
+rtp://@239.1.2.55:8304
+#EXTINF:-1 tvg-logo="" group-title="SPORT", 122.FOX SPORTS
+rtp://@239.1.2.103:8592
+#EXTINF:-1 tvg-logo="" group-title="SPORT", 123.FOX SPORTS
+rtp://@239.1.2.53:8292
+#EXTINF:-1 tvg-logo="" group-title="SPORT", 124.FOX SPORTS 2
+rtp://@239.1.2.101:8580
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_france24_small.png" group-title="", 125.FRANCE 24
+rtp://@239.1.1.191:9120
+#EXTINF:-1 tvg-logo="" group-title="", 126.FRANCE 24
+rtp://@239.1.2.191:9120
+#EXTINF:-1 tvg-logo="" group-title="", 127.FRANCE 24 HD
+rtp://@239.1.2.22:8106
+#EXTINF:-1 tvg-logo="" group-title="", 128.FX
+rtp://@239.1.2.1:7980
+#EXTINF:-1 tvg-logo="" group-title="", 129.FX HD
+rtp://@239.1.2.227:9324
+#EXTINF:-1 tvg-logo="" group-title="", 130.FYI
+rtp://@239.1.2.61:8340
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", 131.GALAXY
+rtp://@239.1.1.184:8778
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_galaxypremium_small.png" group-title="MOVIE", 132.GALAXY PREMIUM
+rtp://@239.1.2.240:9390
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", 133.GALAXY PREMIUM
+rtp://@239.1.3.223:1234
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_sgem_small.png" group-title="KOREA", 134.GEM
+rtp://@239.1.1.86:8154
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", 135.HBO
+rtp://@239.1.1.95:8544
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", 136.HBO
+rtp://@239.1.2.95:8544
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", 137.HBO FAMILY
+rtp://@239.1.1.89:8508
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", 138.HBO FAMILY
+rtp://@239.1.2.89:8508
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", 139.HBO FAMILY HD
+rtp://@239.1.2.245:9366
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", 140.HBO FAMILY HD
+rtp://@239.1.3.62:1234
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", 141.HBO HD
+rtp://@239.1.1.203:9192
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", 142.HBO HD
+rtp://@239.1.3.10:1234
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", 143.HBO HITS
+rtp://@239.1.1.91:8520
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", 144.HBO HITS
+rtp://@239.1.2.91:8520
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", 145.HBO HITS HD
+rtp://@239.1.1.215:9264
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", 146.HBO HITS HD
+rtp://@239.1.3.78:1234
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", 147.HBO SIGNATURE
+rtp://@239.1.1.93:8532
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", 148.HBO SIGNATURE
+rtp://@239.1.2.93:8532
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", 149.HBO SIGNATURE HD
+rtp://@239.1.2.249:9378
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", 150.HBO SIGNATURE HD
+rtp://@239.1.3.68:1234
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_hgtv_small.png" group-title="", 151.HGTV
+rtp://@239.1.1.210:9506
+#EXTINF:-1 tvg-logo="" group-title="", 152.HI INDO
+rtp://@239.1.1.240:9348
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_history_small.png" group-title="KNOWLEDGE", 153.HISTORY
+rtp://@239.1.1.57:8316
+#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE", 154.HISTORY
+rtp://@239.1.2.57:8316
+#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE", 155.HISTORY HD
+rtp://@239.1.1.23:8112
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_hits_small.png" group-title="MOVIE", 156.HITS
+rtp://@239.1.1.171:9000
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", 157.HITS HD
+rtp://@239.1.1.209:9228
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_hitsmovie_small.png" group-title="MOVIE", 158.HITS MOVIES
+rtp://@239.1.1.125:8724
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", 159.HITS MOVIES HD
+rtp://@239.1.1.190:9116
+#EXTINF:-1 tvg-logo="" group-title="", 160.HOPE
+rtp://@239.1.1.78:8442
+#EXTINF:-1 tvg-logo="" group-title="", 161.HOPE CHANNEL
+rtp://@239.1.3.236:1234
+#EXTINF:-1 tvg-logo="" group-title="", 162.ICNTV CHINESE ANCIENT COSTUME DRAMA
+rtp://@239.1.1.212:9510
+#EXTINF:-1 tvg-logo="" group-title="", 163.IDKU
+rtp://@239.1.4.41:1234
+#EXTINF:-1 tvg-logo="" group-title="", 164.IDKU HD
+rtp://@239.1.4.11:1234
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_idx_small.png" group-title="", 165.IDX
+rtp://@239.1.2.248:9398
+#EXTINF:-1 tvg-logo="" group-title="", 166.IDX
+rtp://@239.1.3.111:1234
+#EXTINF:-1 tvg-logo="" group-title="", 167.IFLIX
+rtp://@239.1.2.233:9348
+#EXTINF:-1 tvg-logo="" group-title="", 168.IKONSER
+rtp://@239.1.2.221:9250
+#EXTINF:-1 tvg-logo="" group-title="", 169.IKONSER HD
+rtp://@239.1.4.43:1234
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_imc_small.png" group-title="MOVIE", 170.IMC
+rtp://@239.1.2.20:8094
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", 171.IMC HD
+rtp://@239.1.1.145:8844
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_indikids_small.png" group-title="KIDS", 172.INDI KIDS
+rtp://@239.1.1.45:8244
+#EXTINF:-1 tvg-logo="" group-title="KIDS", 173.INDI KIDS HD
+rtp://@239.1.1.201:9180
+#EXTINF:-1 tvg-logo="" group-title="", 174.INDOSIAR
+rtp://@239.1.1.17:8076
+#EXTINF:-1 tvg-logo="" group-title="", 175.INDOSIAR
+rtp://@239.1.2.17:8076
+#EXTINF:-1 tvg-logo="" group-title="", 176.INDOSIAR
+rtp://@239.1.3.17:1234
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_insert_small1.png" group-title="", 177.INSERT
+rtp://@239.1.1.113:8652
+#EXTINF:-1 tvg-logo="" group-title="", 178.INSERT
+rtp://@239.1.3.113:1234
+#EXTINF:-1 tvg-logo="" group-title="", 179.INTV
+rtp://@239.1.1.162:8946
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_jaktv_small1.png" group-title="", 180.JAK TV
+rtp://@239.1.1.107:8616
+#EXTINF:-1 tvg-logo="" group-title="", 181.JAK TV
+rtp://@239.1.2.107:8616
+#EXTINF:-1 tvg-logo="" group-title="", 182.JAK TV
+rtp://@239.1.3.107:1234
+#EXTINF:-1 tvg-logo="" group-title="", 183.JI TV
+rtp://@239.1.1.238:9400
+#EXTINF:-1 tvg-logo="" group-title="", 184.JI TV
+rtp://@239.1.3.206:1234
+#EXTINF:-1 tvg-logo="" group-title="", 185.JOWO
+rtp://@239.1.2.6:8000
+#EXTINF:-1 tvg-logo="" group-title="", 186.JOWO
+rtp://@239.1.4.4:1234
+#EXTINF:-1 tvg-logo="" group-title="", 187.JOWO HD (1)
+rtp://@239.1.1.219:9288
+#EXTINF:-1 tvg-logo="" group-title="", 188.JOWO HD (2)
+rtp://@239.1.2.212:9208
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_jtv_small1.png" group-title="", 189.JTV SURABAYA
+rtp://@239.1.1.6:8010
+#EXTINF:-1 tvg-logo="" group-title="", 190.JTV SURABAYA
+rtp://@239.1.3.214:1234
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_kplus_small1.png" group-title="KOREA", 191.K PLUS
+rtp://@239.1.1.242:9426
+#EXTINF:-1 tvg-logo="" group-title="KOREA", 192.K PLUS HD
+rtp://@239.1.1.202:9186
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_kbsworld_small.png" group-title="KOREA", 193.KBS WORLD
+rtp://@239.1.1.167:8976
+#EXTINF:-1 tvg-logo="" group-title="KOREA", 194.KBS WORLD
+rtp://@239.1.2.167:8976
+#EXTINF:-1 tvg-logo="" group-title="KOREA", 195.KBS WORLD HD
+rtp://@239.1.1.13:8052
+#EXTINF:-1 tvg-logo="" group-title="", 196.KHAZANAH
+rtp://@239.1.1.230:9356
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_kix_small.png" group-title="MOVIE", 197.KIX
+rtp://@239.1.1.81:8460
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", 198.KIX
+rtp://@239.1.2.81:8460
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_kompastv_small.png" group-title="", 199.KOMPAS TV
+rtp://@239.1.1.197:9156
+#EXTINF:-1 tvg-logo="" group-title="", 200.KOMPAS TV
+rtp://@239.1.2.197:9156
+#EXTINF:-1 tvg-logo="" group-title="", 201.KOMPAS TV
+rtp://@239.1.3.197:1234
+#EXTINF:-1 tvg-logo="" group-title="", 202.KUNGFU TV
+rtp://@239.1.3.235:1234
+#EXTINF:-1 tvg-logo="" group-title="", 203.LEJEL HOME SHOPPING
+rtp://@239.1.2.3:7992
+#EXTINF:-1 tvg-logo="" group-title="", 204.LEJEL HOME SHOPPING LIVE
+rtp://@239.1.3.3:1234
+#EXTINF:-1 tvg-logo="" group-title="", 205.LEJEL HOME SHOPPING REGULER
+rtp://@239.1.1.3:7992
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", 206.LIFETIME
+rtp://@239.1.1.181:9266
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", 207.LIFETIME
+rtp://@239.1.2.181:9260
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", 208.LIFETIME HD
+rtp://@239.1.1.25:8124
+#EXTINF:-1 tvg-logo="" group-title="", 209.METRO TV
+rtp://@239.1.1.19:8088
+#EXTINF:-1 tvg-logo="" group-title="", 210.METRO TV
+rtp://@239.1.2.19:8088
+#EXTINF:-1 tvg-logo="" group-title="", 211.METRO TV
+rtp://@239.1.3.19:1234
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_metrotv_small1.png" group-title="", 212.METRO TV HD
+rtp://@239.1.2.2:7986
+#EXTINF:-1 tvg-logo="" group-title="", 213.METRO TV HD
+rtp://@239.1.3.132:1234
+#EXTINF:-1 tvg-logo="" group-title="KIDS", 214.MKIDS
+rtp://@239.1.1.254:9338
+#EXTINF:-1 tvg-logo="" group-title="", 215.MNC LIFESTYLE
+rtp://@239.1.4.33:1234
+#EXTINF:-1 tvg-logo="" group-title="", 216.MNC SHOP
+rtp://@239.1.3.244:1234
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_mtatv_small1.png" group-title="", 217.MTA TV
+rtp://@239.1.2.234:9374
+#EXTINF:-1 tvg-logo="" group-title="", 218.MTA TV
+rtp://@239.1.4.37:1234
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_mtvlive_small.png" group-title="MUSIK", 219.MTV LIVE
+rtp://@239.1.1.5:8004
+#EXTINF:-1 tvg-logo="" group-title="MUSIK", 220.MTV LIVE
+rtp://@239.1.2.5:8004
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_tvmui_small.png" group-title="", 221.MUI
+rtp://@239.1.2.52:8286
+#EXTINF:-1 tvg-logo="" group-title="", 222.MUI
+rtp://@239.1.3.245:1234
+#EXTINF:-1 tvg-logo="" group-title="", 223.MURAD
+rtp://@239.1.1.251:10004
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_mycinema_small.png" group-title="MOVIE", 224.MY CINEMA
+rtp://@239.1.1.161:8940
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", 225.MY CINEMA HD
+rtp://@239.1.2.225:9318
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_new-myfamily_small.png" group-title="MOVIE", 226.MY FAMILY CHANNEL
+rtp://@239.1.1.175:9024
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", 227.MY FAMILY CHANNEL HD
+rtp://@239.1.1.237:9396
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_mykids_small.png" group-title="KIDS", 228.MY KIDZ
+rtp://@239.1.1.47:8256
+#EXTINF:-1 tvg-logo="" group-title="", 229.MYTV
+rtp://@239.1.4.28:1234
+#EXTINF:-1 tvg-logo="" group-title="", 230.NAT GEO PEOPLE
+rtp://@239.1.2.67:8376
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_natgeo_small.png" group-title="KNOWLEDGE", 231.NATIONAL GEOGRAPHIC
+rtp://@239.1.1.169:8988
+#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE", 232.NATIONAL GEOGRAPHIC
+rtp://@239.1.2.169:8988
+#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE", 233.NATIONAL GEOGRAPHIC HD
+rtp://@239.1.1.243:9432
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_natgeowild_small.png" group-title="KNOWLEDGE", 234.NATIONAL GEOGRAPHIC WILD
+rtp://@239.1.1.35:8184
+#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE", 235.NATIONAL GEOGRAPHIC WILD
+rtp://@239.1.2.35:8184
+#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE", 236.NATIONAL GEOGRAPHIC WILD HD
+rtp://@239.1.1.207:9216
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_net_small1.png" group-title="", 237.NET TV
+rtp://@239.1.1.119:8688
+#EXTINF:-1 tvg-logo="" group-title="", 238.NET TV
+rtp://@239.1.2.119:8688
+#EXTINF:-1 tvg-logo="" group-title="", 239.NET TV
+rtp://@239.1.3.119:1234
+#EXTINF:-1 tvg-logo="" group-title="", 240.NET TV HD
+rtp://@239.1.1.158:8922
+#EXTINF:-1 tvg-logo="" group-title="", 241.NET TV HD
+rtp://@239.1.4.13:1234
+#EXTINF:-1 tvg-logo="" group-title="", 242.NET TV HD
+rtp://@239.1.4.16:1234
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_nhkworld_small.png" group-title="", 243.NHK WORLD JAPAN
+rtp://@239.1.1.236:9390
+#EXTINF:-1 tvg-logo="" group-title="", 244.NHK WORLD JAPAN
+rtp://@239.1.4.23:1234
+#EXTINF:-1 tvg-logo="" group-title="", 245.NHK WORLD PREMIUM
+rtp://@239.1.2.165:8964
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_nickjr_small.png" group-title="KIDS", 246.NICK JR
+rtp://@239.1.1.159:8928
+#EXTINF:-1 tvg-logo="" group-title="KIDS", 247.NICK JR
+rtp://@239.1.2.159:8928
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_nickelodeon_small.png" group-title="KIDS", 248.NICKELODEON
+rtp://@239.1.1.41:8220
+#EXTINF:-1 tvg-logo="" group-title="KIDS", 249.NICKELODEON
+rtp://@239.1.2.41:8220
+#EXTINF:-1 tvg-logo="" group-title="", 250.NU CHANNEL
+rtp://@239.1.3.152:1234
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_sone_small.png" group-title="KOREA", 251.ONE
+rtp://@239.1.1.172:9006
+#EXTINF:-1 tvg-logo="" group-title="KOREA", 252.ONE HD (1)
+rtp://@239.1.2.21:8100
+#EXTINF:-1 tvg-logo="" group-title="KOREA", 253.ONE HD (2)
+rtp://@239.1.2.26:8130
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_pandatv_small.png" group-title="", 254.PANDA TV
+rtp://@239.1.1.208:9502
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_paramount_small.png" group-title="MOVIE", 255.PARAMOUNT NETWORK
+rtp://@239.1.1.11:8040
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", 256.PARAMOUNT NETWORK HD
+rtp://@239.1.1.211:9240
+#EXTINF:-1 tvg-logo="" group-title="", 257.PELANGI
+rtp://@239.1.1.110:8634
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_pramborstv_small1.png" group-title="", 258.PRAMBORS
+rtp://@239.1.1.227:9336
+#EXTINF:-1 tvg-logo="" group-title="", 259.RAJAWALI TV
+rtp://@239.1.2.69:8388
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", 260.RED BY HBO
+rtp://@239.1.1.114:8658
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", 261.RED BY HBO HD
+rtp://@239.1.1.133:8772
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_rodjatv_small1.png" group-title="", 262.RODJA TV
+rtp://@239.1.1.224:9320
+#EXTINF:-1 tvg-logo="" group-title="", 263.RODJA TV
+rtp://@239.1.3.36:1234
+#EXTINF:-1 tvg-logo="" group-title="", 264.RRI NET
+rtp://@239.1.4.247:1234
+#EXTINF:-1 tvg-logo="" group-title="", 265.RTV
+rtp://@239.1.1.69:8388
+#EXTINF:-1 tvg-logo="" group-title="", 266.RTV
+rtp://@239.1.3.69:1234
+#EXTINF:-1 tvg-logo="" group-title="", 267.RUANG TERAMPIL
+rtp://@239.1.4.27:1234
+#EXTINF:-1 tvg-logo="" group-title="", 268.RUANG TERAMPIL HD
+rtp://@239.1.1.111:8640
+#EXTINF:-1 tvg-logo="" group-title="", 269.RUANG TERAMPIL HD
+rtp://@239.1.3.50:1234
+#EXTINF:-1 tvg-logo="" group-title="", 270.SCTV
+rtp://@239.1.1.21:8100
+#EXTINF:-1 tvg-logo="" group-title="", 271.SCTV
+rtp://@239.1.3.21:1234
+#EXTINF:-1 tvg-logo="" group-title="", 272.SCTV HD
+rtp://@239.1.3.143:1234
+#EXTINF:-1 tvg-logo="" group-title="", 273.SEA TODAY HD
+rtp://@239.1.2.68:8384
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_shenzen_small.png" group-title="", 274.SHENZEN TV
+rtp://@239.1.1.156:8910
+#EXTINF:-1 tvg-logo="" group-title="", 275.SHOWCASE
+rtp://@239.1.1.225:9326
+#EXTINF:-1 tvg-logo="" group-title="", 276.SONY CHANNEL
+rtp://@239.1.2.141:8820
+#EXTINF:-1 tvg-logo="" group-title="", 277.SONY ONE HD
+rtp://@239.1.4.230:1234
+#EXTINF:-1 tvg-logo="" group-title="", 278.STAR CHINESE
+rtp://@239.1.2.153:8892
+#EXTINF:-1 tvg-logo="" group-title="", 279.STAR CHINESE MOVIE LEGEND
+rtp://@239.1.2.151:8880
+#EXTINF:-1 tvg-logo="" group-title="", 280.STAR CHINESE MOVIES
+rtp://@239.1.2.131:8760
+#EXTINF:-1 tvg-logo="" group-title="", 281.STAR WORLD
+rtp://@239.1.2.171:9000
+#EXTINF:-1 tvg-logo="" group-title="", 282.SYFY
+rtp://@239.1.2.49:8268
+#EXTINF:-1 tvg-logo="" group-title="", 283.T MUSIC
+rtp://@239.1.1.163:8952
+#EXTINF:-1 tvg-logo="" group-title="", 284.T MUSIC
+rtp://@239.1.2.163:8952
+#EXTINF:-1 tvg-logo="" group-title="", 285.TAHAN TAWA
+rtp://@239.1.1.231:9362
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_tawaftvbaru_small.png" group-title="", 286.TAWAF TV
+rtp://@239.1.2.236:9366
+#EXTINF:-1 tvg-logo="" group-title="", 287.TAWAF TV
+rtp://@239.1.3.246:1234
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_techstorm_small.png" group-title="KNOWLEDGE", 288.TECH STORM
+rtp://@239.1.1.67:8376
+#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE", 289.TECH STORM HD
+rtp://@239.1.2.229:9330
+#EXTINF:-1 tvg-logo="" group-title="", 290.TELKOM GROUP TV HD
+rtp://@239.1.2.14:8058
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_thrill_small.png" group-title="MOVIE", 291.THRILL
+rtp://@239.1.1.83:8472
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", 292.THRILL
+rtp://@239.1.2.83:8472
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_tlc_small.png" group-title="MUSIK", 293.TLC
+rtp://@239.1.1.173:9012
+#EXTINF:-1 tvg-logo="" group-title="", 294.TOONAMI
+rtp://@239.1.2.143:8832
+#EXTINF:-1 tvg-logo="" group-title="", 295.TRANS 7
+rtp://@239.1.1.29:8148
+#EXTINF:-1 tvg-logo="" group-title="", 296.TRANS 7
+rtp://@239.1.2.29:8148
+#EXTINF:-1 tvg-logo="" group-title="", 297.TRANS 7
+rtp://@239.1.3.29:1234
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_trans7_small1.png" group-title="", 298.TRANS 7 HD
+rtp://@239.1.1.222:9306
+#EXTINF:-1 tvg-logo="" group-title="", 299.TRANS 7 HD
+rtp://@239.1.4.19:1234
+#EXTINF:-1 tvg-logo="" group-title="", 300.TRANS TV
+rtp://@239.1.1.27:8136
+#EXTINF:-1 tvg-logo="" group-title="", 301.TRANS TV
+rtp://@239.1.2.27:8136
+#EXTINF:-1 tvg-logo="" group-title="", 302.TRANS TV
+rtp://@239.1.3.27:1234
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_transtv_small1.png" group-title="", 303.TRANS TV HD
+rtp://@239.1.1.194:9138
+#EXTINF:-1 tvg-logo="" group-title="", 304.TRANS TV HD
+rtp://@239.1.4.20:1234
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_tvedukasi_small1.png" group-title="", 305.TV EDUKASI
+rtp://@239.1.1.39:8208
+#EXTINF:-1 tvg-logo="" group-title="", 306.TV EDUKASI
+rtp://@239.1.2.39:8208
+#EXTINF:-1 tvg-logo="" group-title="", 307.TV EDUKASI
+rtp://@239.1.3.39:1234
+#EXTINF:-1 tvg-logo="" group-title="", 308.TV ONE
+rtp://@239.1.1.31:8160
+#EXTINF:-1 tvg-logo="" group-title="", 309.TV ONE
+rtp://@239.1.2.31:8160
+#EXTINF:-1 tvg-logo="" group-title="", 310.TV ONE
+rtp://@239.1.3.31:1234
+#EXTINF:-1 tvg-logo="" group-title="", 311.TV5 MONDE
+rtp://@239.1.1.55:8300
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_tv9_small.png" group-title="", 312.TV9
+rtp://@239.1.1.150:8874
+#EXTINF:-1 tvg-logo="" group-title="", 313.TV9
+rtp://@239.1.3.158:1234
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_muhammadiyahtv_small1.png" group-title="", 314.TVMU
+rtp://@239.1.1.170:8994
+#EXTINF:-1 tvg-logo="" group-title="", 315.TVMU
+rtp://@239.1.3.204:1234
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_tvn_small.png" group-title="KOREA", 316.TVN
+rtp://@239.1.1.135:8784
+#EXTINF:-1 tvg-logo="" group-title="KOREA", 317.TVN HD
+rtp://@239.1.2.211:9202
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_newtvnmovies_small.png" group-title="KOREA", 318.TVN MOVIES
+rtp://@239.1.1.61:8340
+#EXTINF:-1 tvg-logo="" group-title="KOREA", 319.TVN MOVIES
+rtp://@239.1.3.61:1234
+#EXTINF:-1 tvg-logo="" group-title="KOREA", 320.TVN MOVIES HD
+rtp://@239.1.2.72:8408
+#EXTINF:-1 tvg-logo="" group-title="KOREA", 321.TVN MOVIES HD
+rtp://@239.1.4.59:1234
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_tvri_small1.png" group-title="", 322.TVRI
+rtp://@239.1.1.37:8196
+#EXTINF:-1 tvg-logo="" group-title="", 323.TVRI
+rtp://@239.1.2.37:8196
+#EXTINF:-1 tvg-logo="" group-title="", 324.TVRI
+rtp://@239.1.3.37:1234
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_uchannel_small1.png" group-title="", 325.U CHANNEL
+rtp://@239.1.1.220:9522
+#EXTINF:-1 tvg-logo="" group-title="", 326.UNIVERSAL
+rtp://@239.1.2.85:8484
+#EXTINF:-1 tvg-logo="" group-title="", 327.USEE INFO
+rtp://@239.1.2.233:9372
+#EXTINF:-1 tvg-logo="" group-title="", 328.USEE OTOMOTO
+rtp://@239.1.1.252:9486
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_useephoto_small.png" group-title="", 329.USEE PHOTO
+rtp://@239.1.1.251:9498
+#EXTINF:-1 tvg-logo="" group-title="", 330.USEE PHOTO
+rtp://@239.1.1.253:9492
+#EXTINF:-1 tvg-logo="" group-title="", 331.USEE PHOTO
+rtp://@239.1.4.29:1234
+#EXTINF:-1 tvg-logo="" group-title="", 332.USEE PREVIEW MOVIE
+rtp://@239.1.2.223:9268
+#EXTINF:-1 tvg-logo="" group-title="", 333.USEE PREVIEW MOVIE
+rtp://@239.1.3.202:1234
+#EXTINF:-1 tvg-logo="" group-title="", 334.USEE PRIME HD
+rtp://@239.1.3.25:1234
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_useesport_small.png" group-title="SPORT", 335.USEE SPORTS
+rtp://@239.1.1.101:8580
+#EXTINF:-1 tvg-logo="" group-title="", 336.USEE SPORTS
+rtp://@239.1.2.42:8194
+#EXTINF:-1 tvg-logo="" group-title="", 337.USEE SPORTS
+rtp://@239.1.3.140:1234
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_useesports2_small.png" group-title="SPORT", 338.USEE SPORTS 2
+rtp://@239.1.1.53:8292
+#EXTINF:-1 tvg-logo="" group-title="", 339.USEE SPORTS HD
+rtp://@239.1.2.213:9210
+#EXTINF:-1 tvg-logo="" group-title="", 340.USEE SPORTS HD
+rtp://@239.1.3.134:1234
+#EXTINF:-1 tvg-logo="" group-title="", 341.USEE TODAY
+rtp://@239.1.3.243:1234
+#EXTINF:-1 tvg-logo="" group-title="", 342.USEE TODAY HD
+rtp://@239.1.2.50:8274
+#EXTINF:-1 tvg-logo="" group-title="", 343.USEE TV 4K
+rtp://@239.1.3.247:1234
+#EXTINF:-1 tvg-logo="" group-title="", 344.WAKU WAKU JAPAN
+rtp://@239.1.1.75:8424
+#EXTINF:-1 tvg-logo="" group-title="", 345.WAKU WAKU JAPAN
+rtp://@239.1.2.75:8424
+#EXTINF:-1 tvg-logo="" group-title="", 346.WAKU WAKU JAPAN HD
+rtp://@239.1.1.244:9434
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_warner_small.png" group-title="MOVIE", 347.WARNER TV
+rtp://@239.1.2.9:8028
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", 348.WARNER TV
+rtp://@239.1.3.9:1234
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", 349.WARNER TV HD
+rtp://@239.1.4.60:1234
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_zbioskop_small1.png" group-title="MOVIE", 350.ZEE BIOSKOP
+rtp://@239.1.1.129:8748
+#EXTINF:-1 tvg-logo="" group-title="MOVIE", 351.ZEE BIOSKOP
+rtp://@239.1.2.129:8748
+#EXTINF:-1 tvg-logo="" group-title="", 352.ZEE HIBURAN
+rtp://@239.1.1.109:8628
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/UseeTV/logo_zhejiang_small.png" group-title="", 353.ZHENJIANG
+rtp://@239.1.1.154:8898
