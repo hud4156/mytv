@@ -768,7 +768,7 @@ http://rr2.dens.tv/s/s105/index.m3u8
 http://rr2.dens.tv/s/s11/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",UA TV
 http://rr.dens.tv/h/h101/index2.m3u8
-#EXTINF:-1 group-title="DENS.TV",UChannel
+#EXTINF:-1 group-title="DENS.TV",OChannel
 http://rr2.dens.tv/s/s41/index.m3u8
 #EXTINF:-1 group-title="DENS.TV",WION
 http://rr.dens.tv/h/h91/index2.m3u8
@@ -776,3 +776,58 @@ http://rr.dens.tv/h/h91/index2.m3u8
 http://rr3.dens.tv/s/s94/index2.m3u8
 #EXTINF:-1 group-title="DENS.TV",Zee Bioskop
 http://rr2.dens.tv/s/s32/index.m3u8
+
+<---VIDIO--->
+
+#EXTINF:-1 group-title="VIDIO",SCTV
+https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=sctv
+#EXTINF:-1 group-title="VIDIO",Indosiar
+https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=indosiar
+#EXTINF:-1 group-title="VIDIO",Trans TV
+https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=transtv
+#EXTINF:-1 group-title="VIDIO",Trans 7
+https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=trans7
+#EXTINF:-1 group-title="VIDIO",O Channel
+https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=ochannel
+#EXTINF:-1 group-title="VIDIO",NET
+https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=nettv
+#EXTINF:-1 group-title="VIDIO",Metro TV
+https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=metrotv
+#EXTINF:-1 group-title="VIDIO",Kompas TV
+https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=kompastv
+#EXTINF:-1 group-title="VIDIO",Rajawali TV
+https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=rtv
+#EXTINF:-1 group-title="VIDIO",TVRI Nasional
+https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=tvri
+#EXTINF:-1 group-title="VIDIO",Berita Satu News
+https://iptv.mwafa.net/vidio/6165/index.m3u8?token=1999
+#EXTINF:-1 group-title="VIDIO",Jak TV
+https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=jaktv
+#EXTINF:-1 group-title="VIDIO",O Shop
+https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=oshop
+#EXTINF:-1 group-title="VIDIO",My TV
+https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=mytv
+#EXTINF:-1 group-title="VIDIO",Nusantara TV
+https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=nusantaratv
+#EXTINF:-1 group-title="VIDIO",Da Ai TV Indonesia
+https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=daaitv
+#EXTINF:-1 group-title="VIDIO",Magna Channel
+https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=magnatv
+#EXTINF:-1 group-title="VIDIO",Mentari TV
+https://ott-navigator.my.id/vidio4/master.m3u8?channel=MENTARITV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/el4gofT.png" group-title="VIDIO",Citra Culinary & Travel
+https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=citraculinary
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ibh5oCE.png" group-title="VIDIO",Citra Entertainment
+https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=citraentertainment
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KiRHdpz.png" group-title="VIDIO",Citra Drama
+https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=citradrama
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lN20Oy7.png" group-title="VIDIO",Citra Bioskop
+https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=citrabioskop
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X5hWh3L.png" group-title="VIDIO",Pet TV
+https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=pettv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ffWoTF9.png" group-title="VIDIO",Champions TV 1
+https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=championstv1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r2aPCX8.png" group-title="VIDIO",Champions TV 2
+https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=championstv2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/26Jar5R.png" group-title="VIDIO",Champions TV 3
+https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=championstv3
