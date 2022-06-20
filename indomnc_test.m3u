@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg, https://new.mjh.nz/au/melbourne/epg.xml"  refresh="3600"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg, https://raw.githubusercontent.com/matthuisman/new.mjh.nz/master/au/melbourne/epg.xml" refresh="3600"
 
 <---National TV--->
 
