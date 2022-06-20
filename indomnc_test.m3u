@@ -608,284 +608,283 @@ https://liveanevia.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 #EXTINF:-1 group-title="Religi" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv9_surabaya_id.png",TV 9 Nusantara
 https://liveanevia.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
 
-<---DENSTV--->
+<xxxDENS.TVxxx>
 
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/3.jpg",01. Live Streaming 1
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/3.jpg",01. Live Streaming 1
 http://rr3.dens.tv/s/s100/live.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/75.jpg",02. Live Streaming 2
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/75.jpg",02. Live Streaming 2
 http://rr.dens.tv/h/h998/live.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/107.jpg",03. Dens Play
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/107.jpg",03. Dens Play
 http://rr3.dens.tv/s/s101/live.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/42.jpg",04. Dens Life & Style
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/42.jpg",04. Dens Life & Style
 http://rr1.dens.tv/h/h28/index.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/1.jpg",05. Dens Learning & Knowledge
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/1.jpg",05. Dens Learning & Knowledge
 http://rr3.dens.tv/s/s36/index.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/102.jpg",06. Dens SnowBiz
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/102.jpg",06. Dens SnowBiz
 http://rr3.dens.tv/s/s35/index.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/6.jpg",07. Metro TV
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/6.jpg",07. Metro TV
 http://rr.dens.tv/h/h12/index.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/7.jpg",08. TV One
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/7.jpg",08. TV One
 http://rr2.dens.tv/s/s105/index3.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/14.jpg",09. Kompas TV
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/14.jpg",09. Kompas TV
 http://rr2.dens.tv/s/s104/index10.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/80.jpg",10. Berita Satu
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/80.jpg",10. Berita Satu
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/9.jpg",11. SCTV
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/9.jpg",11. SCTV
 http://rr2.dens.tv/s/s03/index.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg",12. Indosiar
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg",12. Indosiar
 http://rr2.dens.tv/s/s04/index.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/11.jpg",13. Trans TV
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/11.jpg",13. Trans TV
 http://rr2.dens.tv/s/s05/index.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/12.jpg",14. Trans7
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/12.jpg",14. Trans7
 http://rr.dens.tv/h/h11/index.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/8.jpg",15. ANTV
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/8.jpg",15. ANTV
 http://rr2.dens.tv/s/s07/index3.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/13.jpg",16. NET TV
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/13.jpg",16. NET TV
 http://rr2.dens.tv/s/s08/index10.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/22.jpg",17. RTV
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/22.jpg",17. RTV
 http://rr2.dens.tv/s/s12/index10.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/94.jpg",18. Elshinta TV
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/94.jpg",18. Elshinta TV
 http://rr2.dens.tv/s/s10/index10.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/105.jpg",19. MYTV
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/105.jpg",19. MYTV
 http://rr3.dens.tv/s/s88/index2.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/17.jpg",20. TVRI
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/17.jpg",20. TVRI
 http://rr2.dens.tv/s/s11/index10.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/106.jpg",21. TVRI Sport HD
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/106.jpg",21. TVRI Sport HD
 http://rr2.dens.tv/s/s107/index1.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/21.jpg",22. Rodja TV
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/21.jpg",22. Rodja TV
 http://rr2.dens.tv/s/s14/index10.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/23.jpg",23. DAAI TV
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/23.jpg",23. DAAI TV
 http://rr2.dens.tv/s/s13/index.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/76.jpg",24. O Channel
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/76.jpg",24. O Channel
 http://rr2.dens.tv/s/s41/index2.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/26.jpg",25. eGG HD
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/26.jpg",25. eGG HD
 http://rr.dens.tv/h/h22/index.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/38.jpg",26. Aniplus HD
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/38.jpg",26. Aniplus HD
 http://rr1.dens.tv/h/h02/index10.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/97.jpg",27. Animax HD
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/97.jpg",27. Animax HD
 http://rr1.dens.tv/h/h144/index10.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/96.jpg",28. My Kidz HD
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/96.jpg",28. My Kidz HD
 http://rr.dens.tv/h/h191/index.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/101.jpg",29. HITS HD
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/101.jpg",29. HITS HD
 http://rr1.dens.tv/h/h37/index.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/93.jpg",30. AXN HD
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/93.jpg",30. AXN HD
 http://rr1.dens.tv/h/h141/index.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/39.jpg",31. ROCK Entertainment HD
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/39.jpg",31. ROCK Entertainment HD
 http://rr1.dens.tv/h/h16/index10.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/44.jpg",32. ROCK Extreme HD
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/44.jpg",32. ROCK Extreme HD
 http://rr1.dens.tv/h/h15/index10.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/49.jpg",33. KIX HD
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/49.jpg",33. KIX HD
 http://rr1.dens.tv/h/h07/index.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/5.jpg",34. GEM HD
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/5.jpg",34. GEM HD
 http://rr.dens.tv/h/h19/index10.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/100.jpg",35. K-PLUS HD
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/100.jpg",35. K-PLUS HD
 http://rr.dens.tv/h/h08/index.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/89.jpg",36. ONE HD
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/89.jpg",36. ONE HD
 http://rr.dens.tv/h/h143/index.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/59.jpg",37. TvN HD
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/59.jpg",37. TvN HD
 http://rr1.dens.tv/h/h20/index.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/58.jpg",38. TvN Movies HD
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/58.jpg",38. TvN Movies HD
 http://rr1.dens.tv/h/h21/index.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/99.jpg",39. Celestial Movies
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/99.jpg",39. Celestial Movies
 http://rr2.dens.tv/s/s33/index10.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/110.jpg",40. CCM (Celestial Classic MV)
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/110.jpg",40. CCM (Celestial Classic MV)
 http://rr2.dens.tv/s/s31/index.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/109.jpg",41. My Cinema Asia
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/109.jpg",41. My Cinema Asia
 http://rr.dens.tv/h/h193/index.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/95.jpg",42. My Cinema HD
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/95.jpg",42. My Cinema HD
 http://rr.dens.tv/h/h192/index.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/92.jpg",43. My Cinema Europe HD
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/92.jpg",43. My Cinema Europe HD
 http://rr.dens.tv/h/h18/index.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/87.jpg",44. Cinema World HD
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/87.jpg",44. Cinema World HD
 http://rr1.dens.tv/h/h04/index.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/103.jpg",45. Zee Bioskop
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/103.jpg",45. Zee Bioskop
 http://rr2.dens.tv/s/s32/index10.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/55.jpg",46. Thrill
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/55.jpg",46. Thrill
 http://rr2.dens.tv/s/s34/index.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/37.jpg",47. TV5MONDE Style HD
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/37.jpg",47. TV5MONDE Style HD
 http://rr1.dens.tv/h/h01/index.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/60.jpg",48. FIGHT SPORTS HD
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/60.jpg",48. FIGHT SPORTS HD
 http://rr1.dens.tv/h/h05/index.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/98.jpg",49. Motorvision TV HD
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/98.jpg",49. Motorvision TV HD
 http://rr.dens.tv/h/h09/index.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/108.jpg",50. GOLF Channel HD
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/108.jpg",50. GOLF Channel HD
 http://rr1.dens.tv/h/h10/index.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/53.jpg",51. Bloomberg Television HD
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/53.jpg",51. Bloomberg Television HD
 http://rr1.dens.tv/h/h03/index.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/61.jpg",52. CNA
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/61.jpg",52. CNA
 http://rr.dens.tv/h/h29/index10.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/77.jpg",53. NHK WORLD-JAPAN
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/77.jpg",53. NHK WORLD-JAPAN
 http://rr.dens.tv/h/h23/index.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/56.jpg",54. Al Jazeera English
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/56.jpg",54. Al Jazeera English
 http://rr2.dens.tv/s/s17/index.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/41.jpg",55. TRT World
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/41.jpg",55. TRT World
 http://rr.dens.tv/h/h156/index2.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/79.jpg",56. WION
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/79.jpg",56. WION
 http://rr.dens.tv/h/h91/index2.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/104.jpg",57. UA|TV
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/104.jpg",57. UA|TV
 http://rr.dens.tv/h/h101/index2.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/27.jpg",58. Al Jazeera Arabic
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/27.jpg",58. Al Jazeera Arabic
 http://rr2.dens.tv/s/s16/index.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/85.jpg",59. CCTV-4
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/85.jpg",59. CCTV-4
 http://rr2.dens.tv/s/s19/index.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/69.jpg",60. France 24
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/69.jpg",60. France 24
 http://rr2.dens.tv/s/s22/index.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/90.jpg",61. TV5MONDE ASIE
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/90.jpg",61. TV5MONDE ASIE
 http://rr1.dens.tv/s/s24/index.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/81.jpg",62. DW-TV
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/81.jpg",62. DW-TV
 http://rr2.dens.tv/s/s26/index.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/78.jpg",63. TBN
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/78.jpg",63. TBN
 http://rr2.dens.tv/s/s39/index.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/16.jpg",64. CGTN Documentary
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/16.jpg",64. CGTN Documentary
 http://rr2.dens.tv/s/s20/index10.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/82.jpg",65. Quran TV
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/82.jpg",65. Quran TV
 http://rr2.dens.tv/s/s28/index10.m3u8
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/88.jpg",66. Sunna TV
+#EXTINF:-1 group-title="xxxDENS.TVxxx" tvg-logo="http://www.dens.tv/images/channel-logo/88.jpg",66. Sunna TV
 http://rr2.dens.tv/s/s27/index10.m3u8
 
-<---VIDIO--->
+<xxxVIDIOxxx>
 
-#EXTINF:-1 group-title="VIDIO",SCTV
+#EXTINF:-1 group-title="xxxVIDIOxxx",SCTV
 https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=sctv
-#EXTINF:-1 group-title="VIDIO",Indosiar
+#EXTINF:-1 group-title="xxxVIDIOxxx",Indosiar
 https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=indosiar
-#EXTINF:-1 group-title="VIDIO",Trans TV
+#EXTINF:-1 group-title="xxxVIDIOxxx",Trans TV
 https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=transtv
-#EXTINF:-1 group-title="VIDIO",Trans 7
+#EXTINF:-1 group-title="xxxVIDIOxxx",Trans 7
 https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=trans7
-#EXTINF:-1 group-title="VIDIO",O Channel
+#EXTINF:-1 group-title="xxxVIDIOxxx",O Channel
 https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=ochannel
-#EXTINF:-1 group-title="VIDIO",NET
+#EXTINF:-1 group-title="xxxVIDIOxxx",NET
 https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=nettv
-#EXTINF:-1 group-title="VIDIO",Metro TV
+#EXTINF:-1 group-title="xxxVIDIOxxx",Metro TV
 https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=metrotv
-#EXTINF:-1 group-title="VIDIO",Kompas TV
+#EXTINF:-1 group-title="xxxVIDIOxxx",Kompas TV
 https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=kompastv
-#EXTINF:-1 group-title="VIDIO",Rajawali TV
+#EXTINF:-1 group-title="xxxVIDIOxxx",Rajawali TV
 https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=rtv
-#EXTINF:-1 group-title="VIDIO",TVRI Nasional
+#EXTINF:-1 group-title="xxxVIDIOxxx",TVRI Nasional
 https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=tvri
-#EXTINF:-1 group-title="VIDIO",Berita Satu News
+#EXTINF:-1 group-title="xxxVIDIOxxx",Berita Satu News
 https://iptv.mwafa.net/vidio/6165/index.m3u8?token=1999
-#EXTINF:-1 group-title="VIDIO",Jak TV
+#EXTINF:-1 group-title="xxxVIDIOxxx",Jak TV
 https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=jaktv
-#EXTINF:-1 group-title="VIDIO",O Shop
+#EXTINF:-1 group-title="xxxVIDIOxxx",O Shop
 https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=oshop
-#EXTINF:-1 group-title="VIDIO",My TV
+#EXTINF:-1 group-title="xxxVIDIOxxx",My TV
 https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=mytv
-#EXTINF:-1 group-title="VIDIO",Nusantara TV
+#EXTINF:-1 group-title="xxxVIDIOxxx",Nusantara TV
 https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=nusantaratv
-#EXTINF:-1 group-title="VIDIO",Da Ai TV Indonesia
+#EXTINF:-1 group-title="xxxVIDIOxxx",Da Ai TV Indonesia
 https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=daaitv
-#EXTINF:-1 group-title="VIDIO",Magna Channel
+#EXTINF:-1 group-title="xxxVIDIOxxx",Magna Channel
 https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=magnatv
-#EXTINF:-1 group-title="VIDIO",Mentari TV
+#EXTINF:-1 group-title="xxxVIDIOxxx",Mentari TV
 https://ott-navigator.my.id/vidio4/master.m3u8?channel=MENTARITV
-#EXTINF:-1 tvg-logo="https://i.imgur.com/el4gofT.png" group-title="VIDIO",Citra Culinary & Travel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/el4gofT.png" group-title="xxxVIDIOxxx",Citra Culinary & Travel
 https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=citraculinary
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ibh5oCE.png" group-title="VIDIO",Citra Entertainment
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ibh5oCE.png" group-title="xxxVIDIOxxx",Citra Entertainment
 https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=citraentertainment
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KiRHdpz.png" group-title="VIDIO",Citra Drama
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KiRHdpz.png" group-title="xxxVIDIOxxx",Citra Drama
 https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=citradrama
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lN20Oy7.png" group-title="VIDIO",Citra Bioskop
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lN20Oy7.png" group-title="xxxVIDIOxxx",Citra Bioskop
 https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=citrabioskop
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X5hWh3L.png" group-title="VIDIO",Pet TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X5hWh3L.png" group-title="xxxVIDIOxxx",Pet TV
 https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=pettv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ffWoTF9.png" group-title="VIDIO",Champions TV 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ffWoTF9.png" group-title="xxxVIDIOxxx",Champions TV 1
 https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=championstv1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r2aPCX8.png" group-title="VIDIO",Champions TV 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r2aPCX8.png" group-title="xxxVIDIOxxx",Champions TV 2
 https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=championstv2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/26Jar5R.png" group-title="VIDIO",Champions TV 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/26Jar5R.png" group-title="xxxVIDIOxxx",Champions TV 3
 https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=championstv3
 
-<---EXTRA--->
+<xxxxEXTRAxxxx>
 
-#EXTINF:-1 group-title="EXTRA",Baby Bus 24/7
+#EXTINF:-1 group-title="xxxxEXTRAxxxx",Baby Bus 24/7
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx6rSEliEbOzFG_DuBQ7bXLw/ts
-#EXTINF:-1 group-title="EXTRA",LARVA 24/7
+#EXTINF:-1 group-title="xxxxEXTRAxxxx",LARVA 24/7
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx_aIMNYCbU-vFoou1iHRZ0k/ts
-#EXTINF:-1 group-title="EXTRA",Mr. Bean 24/7
+#EXTINF:-1 group-title="xxxxEXTRAxxxx",Mr. Bean 24/7
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx5fEP_LRmKDT4eaPFQK61lA/ts
-#EXTINF:-1 group-title="EXTRA",Oddbods 24/7
+#EXTINF:-1 group-title="xxxxEXTRAxxxx",Oddbods 24/7
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx3CzVn28o0I_Pms4Iem25NU/ts
-#EXTINF:-1 group-title="EXTRA",PAW PATROL 24/7
+#EXTINF:-1 group-title="xxxxEXTRAxxxx",PAW PATROL 24/7
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx5KjxBetz4dKR6g-T7GB_jY/ts
-#EXTINF:-1 group-title="EXTRA",Okey TV
+#EXTINF:-1 group-title="xxxxEXTRAxxxx",Okey TV
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx7sbMPwlteyDLLE5iDql9xU/ts
-#EXTINF:-1 group-title="EXTRA",8TV
+#EXTINF:-1 group-title="xxxxEXTRAxxxx",8TV
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx6FTQdufXFcHFshhXC50nz8/ts
-#EXTINF:-1 group-title="EXTRA",TV 3
+#EXTINF:-1 group-title="xxxxEXTRAxxxx",TV 3
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIxwcGGodeidRnTnqZ76PQO6c/ts
-#EXTINF:-1 group-title="EXTRA",IQIYI
+#EXTINF:-1 group-title="xxxxEXTRAxxxx",IQIYI
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx8HFQUUBJuFBcvC1z4st7T0/ts
-#EXTINF:-1 group-title="EXTRA",CERIA
+#EXTINF:-1 group-title="xxxxEXTRAxxxx",CERIA
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx_FFISYkg2ZiIXdjVx4D7jg/ts
-#EXTINF:-1 group-title="EXTRA",USA Network
+#EXTINF:-1 group-title="xxxxEXTRAxxxx",USA Network
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx24u_QalLsq5rYPJUyze38w/ts
-#EXTINF:-1 group-title="EXTRA",CBS Network
+#EXTINF:-1 group-title="xxxxEXTRAxxxx",CBS Network
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx2JDK-_60Ydvz3qei8mXmzA/ts
-#EXTINF:-1 group-title="EXTRA",FLIK
+#EXTINF:-1 group-title="xxxxEXTRAxxxx",FLIK
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx1dCIgvK3o6qr0CPrlb1ixs/ts
-#EXTINF:-1 group-title="EXTRA",&FLIX
+#EXTINF:-1 group-title="xxxxEXTRAxxxx",&FLIX
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIxwoOJRTRs1b-dcG84gXliYY/ts
-#EXTINF:-1 group-title="EXTRA",&PRIVE
+#EXTINF:-1 group-title="xxxxEXTRAxxxx",&PRIVE
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIxxu7tDN6_QSLXL0K0efNIBw/ts
-#EXTINF:-1 group-title="EXTRA",STAR MOVIES
+#EXTINF:-1 group-title="xxxxEXTRAxxxx",STAR MOVIES
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx7z7lLwhUD5kVp2Q3299jo8/ts
-#EXTINF:-1 group-title="EXTRA",STAR MOVIES SELECT
+#EXTINF:-1 group-title="xxxxEXTRAxxxx",STAR MOVIES SELECT
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx5GS2uNeBicIntnKYrMhzxo/ts
-#EXTINF:-1 group-title="EXTRA",Dream Works
+#EXTINF:-1 group-title="xxxxEXTRAxxxx",Dream Works
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIxxqrbbGt1G7GdoVwqkcDsz8/ts
-#EXTINF:-1 group-title="EXTRA",Paramount
+#EXTINF:-1 group-title="xxxxEXTRAxxxx",Paramount
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx86lb7hdkRPwec9PxPdfeg4/ts
-#EXTINF:-1 group-title="EXTRA",Bioskop Indonesia
+#EXTINF:-1 group-title="xxxxEXTRAxxxx",Bioskop Indonesia
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx_AHcqWozz2H6EO6C5GJQm4/ts
-#EXTINF:-1 group-title="EXTRA",DISCOVERY ASIA
+#EXTINF:-1 group-title="xxxxEXTRAxxxx",DISCOVERY ASIA
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx3wib4rZwcmRVfu3JH2CY_k/ts
-#EXTINF:-1 group-title="EXTRA",Discovery Channel
+#EXTINF:-1 group-title="xxxxEXTRAxxxx",Discovery Channel
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIxwlot7z9A0sLiDJBjTAemq8/ts
-#EXTINF:-1 group-title="EXTRA",DISCOVERY SCIENCE
+#EXTINF:-1 group-title="xxxxEXTRAxxxx",DISCOVERY SCIENCE
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIxzNMQZqYb_YGY3zR4E9jfI4/ts
-#EXTINF:-1 group-title="EXTRA",DMAX
+#EXTINF:-1 group-title="xxxxEXTRAxxxx",DMAX
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx6IZSeEA3GizYde3nNyKXlE/ts
-#EXTINF:-1 group-title="EXTRA",Wired 2 Fish
+#EXTINF:-1 group-title="xxxxEXTRAxxxx",Wired 2 Fish
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx-HevKb69mjpWE4oIIhcnL0/ts
-#EXTINF:-1 group-title="EXTRA",NBA
+#EXTINF:-1 group-title="xxxxEXTRAxxxx",NBA
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx3aZ8iLTELUub657_yC25pA/ts
-#EXTINF:-1 group-title="EXTRA",WWE
+#EXTINF:-1 group-title="xxxxEXTRAxxxx",WWE
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIxx3TA1CqGH_zVt-4tmh4Xfk/ts
-#EXTINF:-1 group-title="EXTRA",Usee Sport 1
+#EXTINF:-1 group-title="xxxxEXTRAxxxx",Usee Sport 1
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx6nGNZkWLwcLHj94Z8hSZY0/ts
-#EXTINF:-1 group-title="EXTRA",USEE SPORT 2
+#EXTINF:-1 group-title="xxxxEXTRAxxxx",USEE SPORT 2
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIxx4pUA3ZUTO5xX96r9uNiD0/ts
-#EXTINF:-1 group-title="EXTRA" ,Sky Sport Action
+#EXTINF:-1 group-title="xxxxEXTRAxxxx" ,Sky Sport Action
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx8a8VQB6FZojQBJwve2MeQo/ts
-#EXTINF:-1 group-title="EXTRA" ,Sky Sport Arena
+#EXTINF:-1 group-title="xxxxEXTRAxxxx" ,Sky Sport Arena
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx4QZJjDgMWJcp6Ja0PvMSGM/ts
-#EXTINF:-1 group-title="EXTRA",Sky Sport Premiere League
+#EXTINF:-1 group-title="xxxxEXTRAxxxx",Sky Sport Premiere League
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIxzhqeNLywFR6WVNSdkqfGYE/ts
-#EXTINF:-1 group-title="EXTRA",ARENA 1
+#EXTINF:-1 group-title="xxxxEXTRAxxxx",ARENA 1
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIxxhQM7KOZ26KxSETtahLbdQ/ts
-#EXTINF:-1 group-title="EXTRA",ARENA 2
+#EXTINF:-1 group-title="xxxxEXTRAxxxx",ARENA 2
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx17SANa3SNpZJdrOG6EYN5k/ts
-#EXTINF:-1 group-title="EXTRA",ASSP 1
+#EXTINF:-1 group-title="xxxxEXTRAxxxx",ASSP 1
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx1FbK6F_VbM7lzX7giLmCJ8/ts
-#EXTINF:-1 group-title="EXTRA",ASSP 1 (BACKUP 1)
+#EXTINF:-1 group-title="xxxxEXTRAxxxx",ASSP 1 (BACKUP 1)
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx38__f-29wvUGauEMVMFvvg/ts
-#EXTINF:-1 group-title="EXTRA",ASSP 2
+#EXTINF:-1 group-title="xxxxEXTRAxxxx",ASSP 2
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx1azZRkMBjCXOMfVitkE1oQ/ts
-#EXTINF:-1 group-title="EXTRA",ASSP 2 (BACKUP 1)
+#EXTINF:-1 group-title="xxxxEXTRAxxxx",ASSP 2 (BACKUP 1)
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx_x1M65S-UW2RI7AzaEu1nk/ts
-#EXTINF:-1 group-title="EXTRA",ASSP 3
+#EXTINF:-1 group-title="xxxxEXTRAxxxx",ASSP 3
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx9Sl2U-cHT0b429dUYaOZcU/ts
-#EXTINF:-1 group-title="EXTRA",ASSP 3 (BACKUP 1)
+#EXTINF:-1 group-title="xxxxEXTRAxxxx",ASSP 3 (BACKUP 1)
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIxxZ-tZNJzB4vLGIM67gxg4w/ts
-#EXTINF:-1 group-title="EXTRA",ASSP 4
+#EXTINF:-1 group-title="xxxxEXTRAxxxx",ASSP 4
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx67Hc2Xqr9OriYCQpFQDUMs/ts
-#EXTINF:-1 group-title="EXTRA",ASSP 4 (BACKUP 1)
+#EXTINF:-1 group-title="xxxxEXTRAxxxx",ASSP 4 (BACKUP 1)
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIxyWam6PNC7Cl_cppPzUqclc/ts
-#EXTINF:-1 group-title="EXTRA",ASSP 5
+#EXTINF:-1 group-title="xxxxEXTRAxxxx",ASSP 5
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx89J4HPsV9f2jMhW7rWUim8/ts
-#EXTINF:-1 group-title="EXTRA",ASSP 5 (BACKUP 1)
+#EXTINF:-1 group-title="xxxxEXTRAxxxx",ASSP 5 (BACKUP 1)
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIxwJsEIehloSzRzJ5PAJpleg/ts
-
