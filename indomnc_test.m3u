@@ -797,6 +797,10 @@ https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=championstv1
 https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=championstv2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/26Jar5R.png" group-title="xxxVIDIOxxx",Champions TV 3
 https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=championstv3
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions3.png" group-title="xxxVIDIOxxx",Champions TV 4
+https://cutt.ly/mKfQr5M
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions3.png" group-title="xxxVIDIOxxx",Champions TV xtra
+https://cutt.ly/JKfQiyN
 
 <xxxxEXTRAxxxx>
 
