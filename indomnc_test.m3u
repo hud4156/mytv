@@ -50,7 +50,7 @@ https://liveanevia.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="National TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png",Indosiar
-http://rr2.dens.tv/s/s04/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1656093145~acl=/vp9/9114_stream.mpd!/vp9/9114/*!/vp9/*/9114_stream.mpd!/vp9/*/9114/*~hmac=8acd37b7cc559b4f858af982c4911b89ee15e215a67a693520cf2d4064034ae2/vp9/9114_stream.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
