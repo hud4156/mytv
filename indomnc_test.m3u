@@ -839,63 +839,21 @@ http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIxwoOJRTRs1b-dcG84gXliYY/t
 #EXTINF:-1 group-title="xEXTRAx",&PRIVE
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIxxu7tDN6_QSLXL0K0efNIBw/ts
 #EXTINF:-1 group-title="xEXTRAx",STAR MOVIES
-http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx7z7lLwhUD5kVp2Q3299jo8/ts
-#EXTINF:-1 group-title="xEXTRAx",STAR MOVIES SELECT
-http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx5GS2uNeBicIntnKYrMhzxo/ts
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="xEXTRAx",Star World HD
+http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="xEXTRAx",Dream Works
-http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIxxqrbbGt1G7GdoVwqkcDsz8/ts
+https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=063689e84408a4542e3a158073182210&key=fd205780495645c7334cbdea0dc94f17
 #EXTINF:-1 group-title="xEXTRAx",Paramount
-http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx86lb7hdkRPwec9PxPdfeg4/ts
-#EXTINF:-1 group-title="xEXTRAx",Bioskop Indonesia
-http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx_AHcqWozz2H6EO6C5GJQm4/ts
-#EXTINF:-1 group-title="xEXTRAx",DISCOVERY ASIA
-http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx3wib4rZwcmRVfu3JH2CY_k/ts
-#EXTINF:-1 group-title="xEXTRAx",Discovery Channel
-http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIxwlot7z9A0sLiDJBjTAemq8/ts
-#EXTINF:-1 group-title="xEXTRAx",DISCOVERY SCIENCE
-http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIxzNMQZqYb_YGY3zR4E9jfI4/ts
-#EXTINF:-1 group-title="xEXTRAx",DMAX
-http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx6IZSeEA3GizYde3nNyKXlE/ts
-#EXTINF:-1 group-title="xEXTRAx",Wired 2 Fish
-http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx-HevKb69mjpWE4oIIhcnL0/ts
-#EXTINF:-1 group-title="xEXTRAx",NBA
-http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx3aZ8iLTELUub657_yC25pA/ts
-#EXTINF:-1 group-title="xEXTRAx",WWE
-http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIxx3TA1CqGH_zVt-4tmh4Xfk/ts
-#EXTINF:-1 group-title="xEXTRAx",Usee Sport 1
-http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx6nGNZkWLwcLHj94Z8hSZY0/ts
-#EXTINF:-1 group-title="xEXTRAx",USEE SPORT 2
-http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIxx4pUA3ZUTO5xX96r9uNiD0/ts
-#EXTINF:-1 group-title="xEXTRAx" ,Sky Sport Action
-http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx8a8VQB6FZojQBJwve2MeQo/ts
-#EXTINF:-1 group-title="xEXTRAx" ,Sky Sport Arena
-http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx4QZJjDgMWJcp6Ja0PvMSGM/ts
-#EXTINF:-1 group-title="xEXTRAx",Sky Sport Premiere League
-http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIxzhqeNLywFR6WVNSdkqfGYE/ts
-#EXTINF:-1 group-title="xEXTRAx",ARENA 1
-http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIxxhQM7KOZ26KxSETtahLbdQ/ts
-#EXTINF:-1 group-title="xEXTRAx",ARENA 2
-http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx17SANa3SNpZJdrOG6EYN5k/ts
-#EXTINF:-1 group-title="xEXTRAx",ASSP 1
-http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx1FbK6F_VbM7lzX7giLmCJ8/ts
-#EXTINF:-1 group-title="xEXTRAx",ASSP 1 (BACKUP 1)
-http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx38__f-29wvUGauEMVMFvvg/ts
-#EXTINF:-1 group-title="xEXTRAx",ASSP 2
-http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx1azZRkMBjCXOMfVitkE1oQ/ts
-#EXTINF:-1 group-title="xEXTRAx",ASSP 2 (BACKUP 1)
-http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx_x1M65S-UW2RI7AzaEu1nk/ts
-#EXTINF:-1 group-title="xEXTRAx",ASSP 3
-http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx9Sl2U-cHT0b429dUYaOZcU/ts
-#EXTINF:-1 group-title="xEXTRAx",ASSP 3 (BACKUP 1)
-http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIxxZ-tZNJzB4vLGIM67gxg4w/ts
-#EXTINF:-1 group-title="xEXTRAx",ASSP 4
-http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx67Hc2Xqr9OriYCQpFQDUMs/ts
-#EXTINF:-1 group-title="xEXTRAx",ASSP 4 (BACKUP 1)
-http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIxyWam6PNC7Cl_cppPzUqclc/ts
-#EXTINF:-1 group-title="xEXTRAx",ASSP 5
-http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx89J4HPsV9f2jMhW7rWUim8/ts
-#EXTINF:-1 group-title="xEXTRAx",ASSP 5 (BACKUP 1)
-http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIxwJsEIehloSzRzJ5PAJpleg/ts
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
+#EXTINF:-1 group-title="xEXTRAx",SONY PIX 
+https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
 
 <---EXTRASPORT--->
 
