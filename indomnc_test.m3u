@@ -808,6 +808,10 @@ https://cutt.ly/JKfQiyN
 https://c.mjh.nz/abc-kids.m3u8
 #EXTINF:-1 group-title="xEXTRAx" tvg-logo="https://new.mjh.nz/.images/abc-me.png",ABC ME
 https://c.mjh.nz/abc-me.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x0NowEh.png" group-title="xEXTRAx",MovieSphere
+https://moviesphere-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Movie24/7" tvg-logo="https://www.browsys.com/wp-content/uploads/2017/09/Movie-HD-New-Icon.png" group-title="xEXTRAx",Movie 24/7
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="xEXTRAx",Baby Bus 24/7
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx6rSEliEbOzFG_DuBQ7bXLw/ts
 #EXTINF:-1 group-title="xEXTRAx",LARVA 24/7
@@ -835,7 +839,7 @@ http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx2JDK-_60Ydvz3qei8mXmzA/t
 #EXTINF:-1 group-title="xEXTRAx",FLIK
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx1dCIgvK3o6qr0CPrlb1ixs/ts
 #EXTINF:-1 group-title="xEXTRAx",&FLIX
-http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIxwoOJRTRs1b-dcG84gXliYY/ts
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="xEXTRAx",&PRIVE
 http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIxxu7tDN6_QSLXL0K0efNIBw/ts
 #EXTINF:-1 group-title="xEXTRAx",STAR MOVIES
