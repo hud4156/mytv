@@ -743,65 +743,6 @@ http://rr2.dens.tv/s/s28/index10.m3u8
 #EXTINF:-1 group-title="xDENS.TVx" tvg-logo="http://www.dens.tv/images/channel-logo/88.jpg",Sunna TV
 http://rr2.dens.tv/s/s27/index10.m3u8
 
-<---VIDIO--->
-
-#EXTINF:-1 group-title="xVIDIOx",SCTV
-https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=sctv
-#EXTINF:-1 group-title="xVIDIOx",Indosiar
-https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=indosiar
-#EXTINF:-1 group-title="xVIDIOx",Trans TV
-https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=transtv
-#EXTINF:-1 group-title="xVIDIOx",Trans 7
-https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=trans7
-#EXTINF:-1 group-title="xVIDIOx",O Channel
-https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=ochannel
-#EXTINF:-1 group-title="xVIDIOx",NET
-https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=nettv
-#EXTINF:-1 group-title="xVIDIOx",Metro TV
-https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=metrotv
-#EXTINF:-1 group-title="xVIDIOx",Kompas TV
-https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=kompastv
-#EXTINF:-1 group-title="xVIDIOx",Rajawali TV
-https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=rtv
-#EXTINF:-1 group-title="xVIDIOx",TVRI Nasional
-https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=tvri
-#EXTINF:-1 group-title="xVIDIOx",Berita Satu News
-https://iptv.mwafa.net/vidio/6165/index.m3u8?token=1999
-#EXTINF:-1 group-title="xVIDIOx",Jak TV
-https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=jaktv
-#EXTINF:-1 group-title="xVIDIOx",O Shop
-https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=oshop
-#EXTINF:-1 group-title="xVIDIOx",My TV
-https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=mytv
-#EXTINF:-1 group-title="xVIDIOx",Nusantara TV
-https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=nusantaratv
-#EXTINF:-1 group-title="xVIDIOx",Da Ai TV Indonesia
-https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=daaitv
-#EXTINF:-1 group-title="xVIDIOx",Magna Channel
-https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=magnatv
-#EXTINF:-1 group-title="xVIDIOx",Mentari TV
-https://ott-navigator.my.id/vidio4/master.m3u8?channel=MENTARITV
-#EXTINF:-1 tvg-logo="https://i.imgur.com/el4gofT.png" group-title="xVIDIOx",Citra Culinary & Travel
-https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=citraculinary
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ibh5oCE.png" group-title="xVIDIOx",Citra Entertainment
-https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=citraentertainment
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KiRHdpz.png" group-title="xVIDIOx",Citra Drama
-https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=citradrama
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lN20Oy7.png" group-title="xVIDIOx",Citra Bioskop
-https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=citrabioskop
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X5hWh3L.png" group-title="xVIDIOx",Pet TV
-https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=pettv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ffWoTF9.png" group-title="xVIDIOx",Champions TV 1
-https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=championstv1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r2aPCX8.png" group-title="xVIDIOx",Champions TV 2
-https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=championstv2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/26Jar5R.png" group-title="xVIDIOx",Champions TV 3
-https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=championstv3
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions3.png" group-title="xVIDIOx",Champions TV 4
-https://cutt.ly/mKfQr5M
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/champions3.png" group-title="xVIDIOx",Champions TV xtra
-https://cutt.ly/JKfQiyN
-
 <---EXTRA--->
 
 #EXTINF:-1 group-title="xEXTRAx" tvg-logo="https://new.mjh.nz/.images/abc-kids.png",ABC Kids
@@ -812,52 +753,39 @@ https://c.mjh.nz/abc-me.m3u8
 https://moviesphere-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Movie24/7" tvg-logo="https://www.browsys.com/wp-content/uploads/2017/09/Movie-HD-New-Icon.png" group-title="xEXTRAx",Movie 24/7
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 group-title="xEXTRAx",Baby Bus 24/7
-http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx6rSEliEbOzFG_DuBQ7bXLw/ts
-#EXTINF:-1 group-title="xEXTRAx",LARVA 24/7
-http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx_aIMNYCbU-vFoou1iHRZ0k/ts
-#EXTINF:-1 group-title="xEXTRAx",Mr. Bean 24/7
-http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx5fEP_LRmKDT4eaPFQK61lA/ts
-#EXTINF:-1 group-title="xEXTRAx",Oddbods 24/7
-http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx3CzVn28o0I_Pms4Iem25NU/ts
-#EXTINF:-1 group-title="xEXTRAx",PAW PATROL 24/7
-http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx5KjxBetz4dKR6g-T7GB_jY/ts
-#EXTINF:-1 group-title="xEXTRAx",Okey TV
-http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx7sbMPwlteyDLLE5iDql9xU/ts
-#EXTINF:-1 group-title="xEXTRAx",8TV
-http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx6FTQdufXFcHFshhXC50nz8/ts
-#EXTINF:-1 group-title="xEXTRAx",TV 3
-http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIxwcGGodeidRnTnqZ76PQO6c/ts
-#EXTINF:-1 group-title="xEXTRAx",IQIYI
-http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx8HFQUUBJuFBcvC1z4st7T0/ts
-#EXTINF:-1 group-title="xEXTRAx",CERIA
-http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx_FFISYkg2ZiIXdjVx4D7jg/ts
-#EXTINF:-1 group-title="xEXTRAx",USA Network
-http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx24u_QalLsq5rYPJUyze38w/ts
-#EXTINF:-1 group-title="xEXTRAx",CBS Network
-http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx2JDK-_60Ydvz3qei8mXmzA/ts
-#EXTINF:-1 group-title="xEXTRAx",FLIK
-http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIx1dCIgvK3o6qr0CPrlb1ixs/ts
 #EXTINF:-1 group-title="xEXTRAx",&FLIX
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="xEXTRAx",&PRIVE
-http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIxxu7tDN6_QSLXL0K0efNIBw/ts
+#http://corner-tv.web.id:25461/play/liBOOS4rWAyRrwwdiqbIxxu7tDN6_QSLXL0K0efNIBw/ts
 #EXTINF:-1 group-title="xEXTRAx",STAR MOVIES
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="xEXTRAx",Star World HD
-http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="xEXTRAx",Dream Works
-https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
+http://103.55.144.46/hls/star-worldhd.m3u8
+#EXTINF:-1 group-title="xEXTRAx" tvg-logo="https://imgur.com/uV8cQ94.png",Sony Pix HD 1
+http://103.55.144.46:80/hls/sonypixhd.m3u8
+#EXTINF:-1 group-title="xEXTRAx" tvg-logo="https://imgur.com/uV8cQ94.png",Sony Pix HD 2
+http://103.136.200.246:8082/SonyPix/index.m3u8
+#EXTINF:-1 group-title="xEXTRAx" tvg-logo="https://i.imgur.com/NIfMrhI.png", Star Movies HD
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/11511
+#EXTINF:-1 group-title="xEXTRAx" tvg-logo="https://i.imgur.com/NIfMrhI.png", Star Movies HD 1
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/280254
+#EXTINF:-1 group-title="xEXTRAx" tvg-logo="https://i.imgur.com/NIfMrhI.png", Star Movies HD 2
+http://103.55.144.46:80/hls/starmovies.m3u8
+#EXTINF:-1 group-title="xEXTRAx" tvg-logo="https://i.imgur.com/NIfMrhI.png", Star Movies HD 3
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=063689e84408a4542e3a158073182210&key=fd205780495645c7334cbdea0dc94f17
 #EXTINF:-1 group-title="xEXTRAx",Paramount
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_primary.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
-#EXTINF:-1 group-title="xEXTRAx",SONY PIX 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="xEXTRAx",SONY PIX 
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cTwzzIj.png" group-title="xEXTRAx",Sony Six
+https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_six_hd.smil/manifest.mpd
 
 <---EXTRASPORT--->
 
