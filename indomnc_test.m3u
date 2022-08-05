@@ -1037,3 +1037,138 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 group-title="xEXTRASPORTx",TENNIS CHANNEL INTERNACIONAL 3 🇬🇧
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+
+<---VOD_TEST--->
+
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnlyqgVPukTFcS9WyWg9sYmmXrLbeMST5Uvg&usqp=CAU" group-title="VOD",Everything Everywhere All sat Once
+https://stream.xpeer.xyz/playlist1/everything-everywhere-all-at-once-2022-19.06.2022-15.14.40/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo7jrhuJnfF6Qb-UiEkkSrI9qyJKD-24QVHQ&usqp=CAU" group-title="VOD",Ambulance
+https://stream.xpeer.xyz/playlist1/ambulance-2022-03.06.2022-06.50.42/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-country="IN" tvg-language="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWA9pQUpEMwg5Np2oenunNxN4ndGt0RudxsQ&usqp=CAU" group-title="VOD",The Charnel House
+https://stream.xpeer.xyz/playlist1/the-charnel-house-2022/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-country="IN" tvg-language="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_U7J6234bzgVhE74vTTBxqOaxuKT-e7JCjw&usqp=CAU" group-title="VOD",Temporal
+https://stream.xpeer.xyz/playlist1/temporal-2022/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPfU0t9uwP6tEukjW03mtE0TRWf8uvKk9QWQ&usqp=CAU" group-title="VOD",Top Gun Maverick
+https://stream.xpeer.xyz/playlist1/top-gun-maverick-2022-07.06.2022-15.57.54/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgwkGfFvcWHobxU8UumAV-T_j6OFWhWyxfFQ&usqp=CAU" group-title="VOD",Hustle
+https://stream.xpeer.xyz/playlist1/hustle-2022/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-country="IN" tvg-language="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvYMUOTKjoVEZ0TtWKD4z2EXqj3OdK2mN-WQ&usqp=CAU" group-title="VOD",Rise Roar Revolt
+https://stream.xpeer.xyz/playlist1/rrr-rrr-rise-roar-revolt-2022/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD00DQxvAceXfjZZz4y5C_NszK87HqKY9UiQ&usqp=CAU" group-title="VOD",The Batman
+https://stream.xpeer.xyz/playlist1/the-batman-2022/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCXkNOO2yb3acT-865pT03yU7NZm3hcF0QpQ&usqp=CAU" group-title="VOD",The Northman
+https://stream.xpeer.xyz/playlist1/the-northman-2022-23.05.2022-20.22.24/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-yCe9-QRm3l9_mvx1OZmpIpw2Puxzxzcjdg&usqp=CAU" group-title="VOD",The Girl on Bulldozer
+https://stream.xpeer.xyz/playlist1/the-girl-on-a-bulldozer-2022/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7j5V_JvySr9QhtYn-lO_-uRzBQnC9eChvfQ&usqp=CAU" group-title="VOD",A Fairy Tale After All
+https://stream.xpeer.xyz/playlist1/a-fairy-tale-after-all-2022/master_480.m3u8#.mp4
+#EXTINF:0, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbfQotmrMAgZTy7CcupCxd9xcRkNQcLa3x0A&usqp=CAU" subtitle="subtiles_https://s1.bunnycdn.ru/subpr/subtitle/12004737.vtt?/cache8" group-title="VOD",Doctor Strange in the Multiverse of Madness
+https://stream.xpeer.xyz/playlist1/doctor-strange-in-the-multiverse-of-madness-2022/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5QDIU-e7M6E6kDOCPLT8cWCMVDqqIFBREEg&usqp=CAU" group-title="VOD",The Unbearable Weight of Massive Talent
+https://stream.xpeer.xyz/playlist1/the-unbearable-weight-of-massive-talent-2022/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-country="IN" tvg-language="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3jVoh1tE6groa0GK1yUqvBlfL5w4vWYcUmA&usqp=CAU" group-title="VOD",Runway
+https://stream.xpeer.xyz/playlist1/runway-34-2022-03.06.2022-07.16.13/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy2Aj-0hjGr-u5zgreoNdunsuqXczCQ5bUAw&usqp=CAU" group-title="VOD",One For The Road
+https://stream.xpeer.xyz/playlist1/one-for-the-road-2022/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhIJAElR7FzPrhhpKXxhxONVus1T0lP4PLuw&usqp=CAU" group-title="VOD",Cyber Hell Exposing an Internet Horror
+https://stream.xpeer.xyz/playlist1/cyber-hell-exposing-an-internet-horror-2022/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-country="IN" tvg-language="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSweddnSVKVTNQom_RfAZoXkiLlJtELwAA0FQ&usqp=CAU" group-title="VOD",Attack
+https://stream.xpeer.xyz/playlist1/attack-2022/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJtNJVqlJwFYWm9Q3FX4HfyuNQvI_lWNgRdw&usqp=CAU" group-title="VOD",The Lost City
+https://stream.xpeer.xyz/playlist1/the-lost-city-2022/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1OGjABQk-IPKhJe0sHkuOwYvMP052V7bugQ&usqp=CAU" group-title="VOD",Uncharted
+https://stream.xpeer.xyz/playlist1/uncharted-2022/master_480.m3u#.mp4
+#EXTINF:-1 tvg-country="IN" tvg-language="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhQ8_0JUBdszxYCOGh3KzkpwWWQmXdQTgFoQ&usqp=CAU" group-title="VOD",Jai Bhim
+https://stream.xpeer.xyz/playlist2/jai-bhim-2021/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSAsI9S4pfkFnhCCPACYqqLxgWb3xniNElRw&usqp=CAU" group-title="VOD",Fantastic Beasts The Secrets of Dumbledore
+https://stream.xpeer.xyz/playlist1/fantastic-beasts-the-secrets-of-dumbledore-2022/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrzH9AQlr_-Sw1Qqb2fexoGkjpW6n8Qx3LoQ&usqp=CAU" group-title="VOD",Sonic the Hedgehog 2
+https://stream.xpeer.xyz/playlist1/sonic-the-hedgehog-2-2022/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7SpLvEgf3h2DRx345ipkuVlhwEJmXV26GuQ&usqp=CAU" group-title="VOD",Turning Red
+https://stream.xpeer.xyz/playlist1/turning-red-2022/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOi4-KvVGWI5rtgM20kyvWMswFEWtLgNXTuQ&usqp=CAU" group-title="VOD",Yaksha Ruthless Operations
+https://stream.xpeer.xyz/playlist1/yaksha-ruthless-operations-2022/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKHIDYMW-f2-Gjuv_5nLZd4Bc6TqbBU-k-0Q&usqp=CAU" group-title="VOD",Fistful of Vengeance
+https://stream.xpeer.xyz/playlist1/fistful-of-vengeance-2022/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEJBROUJAWbqgBCHn4B7LjPE_wbDDvjakSpQ&usqp=CAU" group-title="VOD",The Pirates The Last Royal Treasure
+https://stream.xpeer.xyz/playlist1/the-pirates-the-last-royal-treasure-2022/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzI4qZc4BbjtnpJ-YLSPymV5CSHmaY22_lZQ&usqp=CAU" group-title="VOD",Ip Man The Awakening
+https://stream.xpeer.xyz/playlist1/ip-man-the-awakening-2022/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-country="IN" tvg-language="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPsKXTTcm6BxOGEbSYb6d79OgCvzOlZECuQQ&usqp=CAU" group-title="VOD",K.G.F Chapter 2
+https://stream.xpeer.xyz/playlist1/k-g-f-chapter-2-2022/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqRp6mkXHbxh6kGbN82Qw5aRwz9GTfCyxIdQ&usqp=CAU" group-title="VOD",Cha Cha Real Smooth
+https://stream.xpeer.xyz/playlist1/cha-cha-real-smooth-2022/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB8p0HNPafNZ_SXIKJY8VfSegP1Nrum213MA&usqp=CAU" group-title="VOD",The Princess
+https://stream.xpeer.xyz/playlist1/the-princess-2022/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-country="IN" tvg-language="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd0VnYdaOj9kBEVlHNSOf-1OQ0bEfU6b7mDg&usqp=CAU" group-title="VOD",Bahubali 2 The Conclusion (Baahubali 2 The Conclusion)
+https://stream.xpeer.xyz/playlist1/baahubali-2-conclusion-2017/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhgIXWWs71dns7-Gci69kXzwcixCnJxsiFLQ&usqp=CAU" group-title="VOD",Morbius
+https://stream.xpeer.xyz/playlist1/morbius-2022/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvSURgKPJnOn6mtxaEEGMprOQmeHYZbq2wNg&usqp=CAU" group-title="VOD",Alita Battle Angel
+https://stream.xpeer.xyz/playlist1/alita-battle-angel-2019/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEOl2VbzoLMM9xIek5TxVQVOCwA7nSxGElww&usqp=CAU" group-title="VOD",The Policemans Lineage
+https://stream.xpeer.xyz/playlist1/the-policemans-lineage-2022-05.07.2022-07.39.14/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Z1tGc8w8M3n5PPpYkWowQS5ksymsjzuiWQ&usqp=CAU" group-title="VOD",Thor Love and Thunder
+https://stream.xpeer.xyz/playlist1/thor-love-and-thunder-2022/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW4K1Gewz6XdVmowOtFewGibcpMaMeDe33cg&usqp=CAU" group-title="VOD",Shang-Chi and the Legend of the Ten Rings
+https://stream.xpeer.xyz/playlist1/shang-chi-and-the-legend-of-the-ten-rings-2021/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsZJb6WPSEQ69Fe0y3d9Pe0evBTPKzEwQ4ag&usqp=CAU" group-title="VOD",OnlyFans
+https://stream.xpeer.xyz/playlist1/onlyfans-2022/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5TIZbFsTsxnh2qRF0mgrpAv_8o_zmcemzGg&usqp=CAU" group-title="VOD",Jurassic World Dominion 
+https://stream.xpeer.xyz/playlist1/jurassic-world-dominion-2022-07.07.2022-02.22.03/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-country="IN" tvg-language="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4XIGCu4IsUiObp9q0D6dwuxqPgnac4mC86g&usqp=CAU" group-title="VOD",Jana Gana Mana
+https://stream.xpeer.xyz/playlist1/jana-gana-mana-2022/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpbKCCA6JoAydiEIYYhCicjZf9cnO7RScSHA&usqp=CAU" group-title="VOD",Ricky Gervais SuperNature
+https://stream.xpeer.xyz/playlist1/ricky-gervais-supernature-supernature-2022/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-country="IN" tvg-language="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3kRHJCNwJSMrtkRjsteMUNbwcNb4TKLJn4A&usqp=CAU" group-title="VOD",DON
+https://stream.xpeer.xyz/playlist1/don-2022/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQybVY-R66x-THsf1_HXnHGf2NgCSoJT-9m3w&usqp=CAU" group-title="VOD",Broker
+https://stream.xpeer.xyz/playlist1/broker-2022/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-country="IN" tvg-language="Hindi" ptvg-logo="https://m.media-amazon.com/images/M/MV5BYzNiNDM4NjYtZDMyMS00YTgyLWIzMWYtNmFhMjBiNWJiN2RjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="VOD",Anek
+https://stream.xpeer.xyz/playlist1/anek-2022/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3opNR9Dzn2EZEMVo2jwo4uIw9nF8jSyYRDA&usqp=CAU" group-title="VOD",Fast & Feel Love
+https://stream.xpeer.xyz/playlist1/fast-feel-love-2022/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZXsmF7cK2K-AqdXFWgHtVJ-a7O6c6EgCTWA&usqp=CAU" group-title="VOD",The Man From Toronto
+https://stream.xpeer.xyz/playlist1/the-man-from-toronto-2022/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYw1ZgOo53aiZHNuncB62ym2ITQVsjYubloA&usqp=CAU" group-title="VOD",Spiderman No Way Home
+https://stream.xpeer.xyz/playlist1/spider-man-no-way-home-2021/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTieQQhmWLg7hSl8qYi0BRGyU6dhUnJyNYQg&usqp=CAU" group-title="VOD",Memory
+https://stream.xpeer.xyz/playlist1/memory-2022-27.06.2022-04.33.17/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs5k7hTtxjKy9Ifpj-mTnscONidj6vdQkTfA&usqp=CAU" group-title="VOD",Resident Evil Welcome to Raccoon City 
+https://stream.xpeer.xyz/playlist1/resident-evil-welcome-to-raccoon-city-2021/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0clvj0Bbr0ZBJEOrBPkHVCoLZaw=/filters:quality(70)/vidio-web-prod-film/uploads/film/image_portrait/5654/hot-blooded-5885ad.jpg" group-title="VOD",Hot Blooded
+https://stream.xpeer.xyz/playlist1/hot-blooded-2022/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-country="IN" tvg-language="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoO0HyWKjNSrnPRLgN61GQwGdGyVb62S1GgQ&usqp=CAU" group-title="VOD",Samrat Prithviraj
+https://stream.xpeer.xyz/playlist1/samrat-prithviraj-2022/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyxCQ_zOdIX5g09pi_XBIIZbRMAKjHB7EMhA&usqp=CAU" group-title="VOD",The Godfather
+https://stream.xpeer.xyz/playlist1/the-godfather-1972/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBxynUNpJXayLMZlwVMnlfmrnAMae2IaO_Jg&usqp=CAU" group-title="VOD",The Godfather 2
+https://stream.xpeer.xyz/playlist2/godfather-part-ii-1974/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi52iVhk1S2v9Vk2gl93nAerrcCbLp0U2sCA&usqp=CAU" group-title="VOD",The Dark Knight
+https://stream.xpeer.xyz/playlist1/dark-knight-2008/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtk-8XYH1OCZw5GP8tgH_lfv5AjUdapsjmMg&usqp=CAU" group-title="VOD",The Lord of the Rings The Return of the King 
+https://stream.xpeer.xyz/playlist1/lord-rings-return-king-2003/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSRjapyfSUrl_E4F_Ort7Cb_HAdzL0Hp_1lg&usqp=CAU" group-title="VOD",INCEPTION
+https://stream.xpeer.xyz/playlist1/inception-2010/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIYoApHPYBKu_5v0yWExy__SWPYriqsMxvOg&usqp=CAU" group-title="VOD",Kongsi Raya
+https://stream.xpeer.xyz/playlist1/kongsi-raya-2022/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZGC-4_Izi_nr46PfhaSucBc4sKVEQ8nkx-g&usqp=CAU" group-title="VOD",Leonora Addio
+https://stream.xpeer.xyz/playlist1/leonora-addio-2022/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4GgAmRC-PM_q1vp0fqyK9izBJsls83P4MxQ&usqp=CAU" group-title="VOD",Chip 'N Dale Rescue Rangers
+https://stream.xpeer.xyz/playlist1/chip-n-dale-rescue-rangers-2022/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-country="IN" tvg-language="Hindi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBQkK-OC1nMMN5MYJ27CS8FIOorClsXQz9LQ&usqp=CAU" group-title="VOD",Badhaai do
+https://stream.xpeer.xyz/playlist1/badhaai-do-2022/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROpfiahoEgKxxSZmSJxjSVxCp3gUi2bgYBhQ&usqp=CAU" group-title="VOD",The Last Victim
+https://stream.xpeer.xyz/playlist1/the-last-victim-2022-30.06.2022-12.17.26/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrpP7s7VsoDWu1PU1dRYvPKi33O6hf4yJZVA&usqp=CAU" group-title="VOD",The Sea Beast
+https://stream.xpeer.xyz/playlist1/the-sea-beast-2022/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVMEgcQeOr8Jy62rukbDJJcwDulwfCRRz4kQ&usqp=CAU" group-title="VOD",Avenger Endgame
+https://stream.xpeer.xyz/playlist1/avengers-endgame-2019/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJLWn2mo6pIfOwQCevidLJInbP5BoHjE6c2Q&usqp=CAU" group-title="VOD",Code Name Banshee
+https://stream.xpeer.xyz/playlist1/code-name-banshee-2022/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9k1mYNULLA_VEotU2NkGddwP9r5G8nOfmaA&usqp=CAU" group-title="VOD",Take The Night
+https://stream.xpeer.xyz/playlist1/take-the-night-2022/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeDPfK5sT5FhA7IGQu6fLuo7FxJrPmqaJTGw&usqp=CAU" group-title="VOD",Raatchasi
+https://stream.xpeer.xyz/playlist1/raatchasi-2019/master_480.m3u8#.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsMMHZJpcnUfVfBWQ8LpMTlBqHo42DHn1iQw&usqp=CAU" group-title="VOD LIVE",
+https://m.vidio.com/videos/4672337/token_video_playlist.m3u8?ott=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoiOTYzOTI0OTAiLCJ2aWRlb19pZCI6IjQ2NzIzMzciLCJjcmVhdGVk
