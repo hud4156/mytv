@@ -749,27 +749,12 @@ http://rr2.dens.tv/s/s27/index10.m3u8
 https://c.mjh.nz/abc-kids.m3u8
 #EXTINF:-1 group-title="xEXTRAx" tvg-logo="https://new.mjh.nz/.images/abc-me.png",ABC ME
 https://c.mjh.nz/abc-me.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney_junior_us.png" group-title="xEXTRAx",DisneyJr
-http://jupiter.bdcabletv.com/Disney_jr-ENC/video.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x0NowEh.png" group-title="xEXTRAx",MovieSphere
 https://moviesphere-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Movie24/7" tvg-logo="https://www.browsys.com/wp-content/uploads/2017/09/Movie-HD-New-Icon.png" group-title="xEXTRAx",Movie 24/7
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF: -1 tvg-id="And Flix HD" tvg-name="&Flix HD" tvg-logo="https://i.ibb.co/HGvLHCW/flix.png" group-title="xEXTRAx", &Flix HD
-https://f8e7y4c6.ssl.hwcdn.net/andflixhd/playlist.m3u8
-#EXTINF: -1 tvg-id="And prive HD" tvg-name="&Prive HD" tvg-logo="https://i.ibb.co/pzT2R3L/prive.png" group-title="xEXTRAx", &Prive HD
-https://f8e7y4c6.ssl.hwcdn.net/andprivehd/playlist.m3u8
-#EXTINF:-1 group-title="xEXTRAx",STAR MOVIES
-http://182.176.149.106:9100/play/a05l
-#EXTINF:-1 group-title="xEXTRAx",Star World HD
-http://103.55.144.46/hls/star-worldhd.m3u8
-#EXTINF:-1 group-title="xEXTRAx",Movies Now HD
-http://103.153.39.36:8000/play/a01i/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=063689e84408a4542e3a158073182210&key=fd205780495645c7334cbdea0dc94f17
-#EXTINF:-1 group-title="xEXTRAx",Paramount
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="xEXTRAx",SONY PIX HD
@@ -778,28 +763,6 @@ https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manife
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cTwzzIj.png" group-title="xEXTRAx",Sony Six
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_six_hd.smil/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=01cde7c31b1a3ea2aa7a6f579a0f4610:710f5ebe6bb2d50978ef0e5aa5fc69d4
-#EXTINF:-1 tvg-id="816" tvg-name="SPOTV" group-title="xEXTRAx" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-kr.png",SPOTV 1 FHD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fb9d78b1c5776744014935bb3fe4ea10:0dc6d298bc48c0de11dc6bf9ede30323
-#EXTINF:-1 tvg-id="1802" tvg-name="SPOTV 2" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-2-kr.png" group-title="xEXTRAx",SPOTV 2 FHD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5068/default.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7d2ba38cc488e535fa42059493357c10:c48de9b1683be561fa63ab547391975d
-#EXTINF:-1 tvg-id="817" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png" group-title="xEXTRAx",beIN Sports 2 FHD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec837724b4265d2e127e65c542aee410:0ce930620687ab1df1cf6544f2dc0013
-#EXTINF:-1 tvg-id="819" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png" group-title="xEXTRAx",beIN Sports 3 FHD
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=672a1f46b66c6bdd26b1680d39baa922:16169547eb9b0a14146cdbd21490279e
-#EXTINF:-1 tvg-id="819" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_xtra_100X56.png" group-title="xEXTRAx",beIN Sports Xtra 
-#https://apac-live-ovt.akamaized.net/bein/bein_sports_vflow06/bein_sports_vflow06.isml/playlist.mpd
-
 
 <---EXTRASPORT--->
 
