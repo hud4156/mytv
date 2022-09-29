@@ -764,6 +764,11 @@ https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manife
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cTwzzIj.png" group-title="xEXTRAx",Sony Six
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_six_hd.smil/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png" group-title="xEXTRAx",&Flix
+http://starshare.live:8080//live/Salman007/Salman007/253.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png" group-title="xEXTRAx",&PriveHD
+http://starshare.live:8080//live/Salman007/Salman007/9379.ts
+
 <---EXTRASPORT--->
 
 #EXTINF:-1 group-title="xEXTRASPORTx",beIN Sports 1 🇶🇦
