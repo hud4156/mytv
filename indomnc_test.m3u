@@ -127,7 +127,8 @@ https://stream-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="National TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png",SCTV
-http://tv.zonanime.my.id/vidio/sctv.m3u8
+#http://tv.zonanime.my.id/vidio/sctv.m3u8
+http://tvn.x10.mx/1/master-12.m3u8?dl=1
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -883,6 +884,11 @@ https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manife
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cTwzzIj.png" group-title="xEXTRAx",Sony Six
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_six_hd.smil/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=063689e84408a4542e3a158073182210&key=fd205780495645c7334cbdea0dc94f17
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Paramount.png" group-title="xEXTRAx",PARAMOUNT NETWORK
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_ott.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png" group-title="xEXTRAx",&Flix
 http://103.179.246.243:8000/play/a00p
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png" group-title="xEXTRAx",&PriveHD
@@ -1127,6 +1133,12 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
 <---VOD_TEST--->
 
+#EXTINF:-1 group-title="VOD" tvg-logo="https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2022/02/26/2951360923.jpg",Batman 2022 (tks Ricky) 
+#https://bit.ly/batjRdD
+#EXTINF:-1 group-title="VOD" tvg-logo="https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2022/02/27/730303316.jpg",Sonic 2 (tks Pixie) 
+#https://bit.ly/3NrRqWV
+#EXTINF:-1 group-title="VOD" tvg-logo="https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2022/01/16/3333866451.jpg",KKN Cam (tks Johan) 
+#https://bit.ly/knnqing
 #EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnlyqgVPukTFcS9WyWg9sYmmXrLbeMST5Uvg&usqp=CAU" group-title="VOD",Everything Everywhere All sat Once
 https://stream.xpeer.xyz/playlist1/everything-everywhere-all-at-once-2022-19.06.2022-15.14.40/master_480.m3u8#.mp4
 #EXTINF:-1 tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo7jrhuJnfF6Qb-UiEkkSrI9qyJKD-24QVHQ&usqp=CAU" group-title="VOD",Ambulance
