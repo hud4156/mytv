@@ -396,14 +396,24 @@ https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nickjr.jpg",Nick Jr
 https://liveanevia.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e4bcc300dc5f243ba5d5b4efca9fd10:364bdb669b85e49ef93d0de8b9f31cf3
+#EXTINF:-1 group-title="Kids" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nickjr.jpg",Nick Jr (A)
+http://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_primary.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Kids" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nickelodeon.png",Nickelodeon
 https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f609722db16e34f7f808179d29ba1b10:f8b715f81b33aeb2e5680263fe31d904
+#EXTINF:-1 group-title="Kids" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nickelodeon.png",Nickelodeon (A)
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_primary.mpd
 
 <---Movies--->
 
