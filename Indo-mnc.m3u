@@ -631,10 +631,10 @@ http://223.29.231.66:8000/play/a01y/index.m3u8
 http://223.29.231.66:8000/play/a01v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png" group-title="xEXTRAx",&Flix
-http://223.29.231.66:8000/play/a006/index.m3u8
+#http://223.29.231.66:8000/play/a006/index.m3u8
 http://223.29.231.66:8000/play/a00s/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png" group-title="xEXTRAx",&PriveHD
-http://223.29.231.66:8000/play/a00y/index.m3u8
+#http://223.29.231.66:8000/play/a00y/index.m3u8
 http://223.29.231.66:8000/play/a013/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x0NowEh.png" group-title="xEXTRAx",MovieSphere
