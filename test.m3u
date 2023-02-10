@@ -1,0 +1,189 @@
+#EXTM3U
+#EXTINF:-1,ABU DHABI SPORT 1
+http://103.167.167.5:8111/play/a03l/index.m3u8
+#EXTINF:-1,ABU DHABI SPORT 2
+http://103.167.167.5:8111/play/a03m/index.m3u8
+#EXTINF:-1,AXN (192.168.240.39)
+http://103.167.167.5:8111/play/a019/index.m3u8
+#EXTINF:-1,BACKUP (192.168.240.17)
+http://103.167.167.5:8111/play/a00n/index.m3u8
+#EXTINF:-1,BACKUP 2 (192.168.240.41)
+http://103.167.167.5:8111/play/a01b/index.m3u8
+#EXTINF:-1,BACKUP 3 (192.168.240.48)
+http://103.167.167.5:8111/play/a01i/index.m3u8
+#EXTINF:-1,BACKUP 4 (192.168.240.49)
+http://103.167.167.5:8111/play/a01j/index.m3u8
+#EXTINF:-1,BACKUP 5 (192.168.240.50)
+http://103.167.167.5:8111/play/a01k/index.m3u8
+#EXTINF:-1,BACKUP 6(176.16.201.3)
+http://103.167.167.5:8111/play/a01m/index.m3u8
+#EXTINF:-1,BACKUP 8 (176.16.201.6)
+http://103.167.167.5:8111/play/a01o/index.m3u8
+#EXTINF:-1,BEIN 1 (192.168.240.35)
+http://103.167.167.5:8111/play/a015/index.m3u8
+#EXTINF:-1,BEIN 3 (192.168.240.25)
+http://103.167.167.5:8111/play/a00v/index.m3u8
+#EXTINF:-1,BLOOMBERG (192.168.240.6)
+http://103.167.167.5:8111/play/a01t/index.m3u8
+#EXTINF:-1,BN TV
+http://103.167.167.5:8111/play/a00b/index.m3u8
+#EXTINF:-1,CARTOON NETWORK (192.168.240.27)
+http://103.167.167.5:8111/play/a00x/index.m3u8
+#EXTINF:-1,CELESTIAL
+http://103.167.167.5:8111/play/a03w/index.m3u8
+#EXTINF:-1,CELESTIAL CLASSIC MOVIES (176.16.201.9)
+http://103.167.167.5:8111/play/a01r/index.m3u8
+#EXTINF:-1,CELESTIAL MOVIES (192.168.240.23)
+http://103.167.167.5:8111/play/a00t/index.m3u8
+#EXTINF:-1,CETV1
+http://103.167.167.5:8111/play/a002/index.m3u8
+#EXTINF:-1,CHAMPION 1 (176.16.201.7)
+http://103.167.167.5:8111/play/a01p/index.m3u8
+#EXTINF:-1,CHAMPION 2 (176.16.201.8)
+http://103.167.167.5:8111/play/a01q/index.m3u8
+#EXTINF:-1,CHANNEL 5 (192.168.240.28)
+http://103.167.167.5:8111/play/a00y/index.m3u8
+#EXTINF:-1,CHANNEL 8 (192.168.240.36)
+http://103.167.167.5:8111/play/a016/index.m3u8
+#EXTINF:-1,CINEMA WORLD (192.168.240.45)
+http://103.167.167.5:8111/play/a01f/index.m3u8
+#EXTINF:-1,DAAI TSU ZHI (192.168.240.3)
+http://103.167.167.5:8111/play/a01s/index.m3u8
+#EXTINF:-1,DW TV
+http://103.167.167.5:8111/play/a03n/index.m3u8
+#EXTINF:-1,FASHION TV
+http://103.167.167.5:8111/play/a03d/index.m3u8
+#EXTINF:-1,FIGHT SPIRIT
+http://103.167.167.5:8111/play/a03h/index.m3u8
+#EXTINF:-1,FJTV
+http://103.167.167.5:8111/play/a005/index.m3u8
+#EXTINF:-1,GALAXY (192.168.240.12)
+http://103.167.167.5:8111/play/a00j/index.m3u8
+#EXTINF:-1,GALAXY PREMIUM (192.168.240.21)
+http://103.167.167.5:8111/play/a00s/index.m3u8
+#EXTINF:-1,GTV (192.168.240.34)
+http://103.167.167.5:8111/play/a014/index.m3u8
+#EXTINF:-1,HAARI DRAMA (192.168.240.9)
+http://103.167.167.5:8111/play/a01z/index.m3u8
+#EXTINF:-1,HAARI KIDS (192.168.240.7)
+http://103.167.167.5:8111/play/a00g/index.m3u8
+#EXTINF:-1,HAARI MOVIES (192.168.240.8)
+http://103.167.167.5:8111/play/a00h/index.m3u8
+#EXTINF:-1,IND - ANIMAX
+http://103.167.167.5:8111/play/a030/index.m3u8
+#EXTINF:-1,IND-ANIPLUS
+http://103.167.167.5:8111/play/a033/index.m3u8
+#EXTINF:-1,INDI - BEIN 1
+http://103.167.167.5:8111/play/a02m/index.m3u8
+#EXTINF:-1,INDI - BEIN 3
+http://103.167.167.5:8111/play/a02n/index.m3u8
+#EXTINF:-1,INDI - CNN INDONESIA
+http://103.167.167.5:8111/play/a02q/index.m3u8
+#EXTINF:-1,INDI - FORMOSA TV
+http://103.167.167.5:8111/play/a034/index.m3u8
+#EXTINF:-1,INDI - GALAXY
+http://103.167.167.5:8111/play/a02h/index.m3u8
+#EXTINF:-1,INDI - HITS
+http://103.167.167.5:8111/play/a043/index.m3u8
+#EXTINF:-1,INDI - OTOMOTO
+http://103.167.167.5:8111/play/a047/index.m3u8
+#EXTINF:-1,INDI - SPOTV 2 HD
+http://103.167.167.5:8111/play/a028/index.m3u8
+#EXTINF:-1,INDI - TVN
+http://103.167.167.5:8111/play/a02u/index.m3u8
+#EXTINF:-1,INDOSIAR (192.168.240.20)
+http://103.167.167.5:8111/play/a00r/index.m3u8
+#EXTINF:-1,INHOUSE-JBV2
+http://103.167.167.5:8111/play/a006/index.m3u8
+#EXTINF:-1,INHOUSE-JBV3
+http://103.167.167.5:8111/play/a007/index.m3u8
+#EXTINF:-1,INHOUSE-JBV4
+http://103.167.167.5:8111/play/a008/index.m3u8
+#EXTINF:-1,KBS-WORLD
+http://103.167.167.5:8111/play/a03a/index.m3u8
+#EXTINF:-1,KIDS CENTRAL
+http://103.167.167.5:8111/play/a03u/index.m3u8
+#EXTINF:-1,KIX (192.168.240.19)
+http://103.167.167.5:8111/play/a00p/index.m3u8
+#EXTINF:-1,LEGO
+http://103.167.167.5:8111/play/a03c/index.m3u8
+#EXTINF:-1,MAGNA CHANNEL
+http://103.167.167.5:8111/play/a00a/index.m3u8
+#EXTINF:-1,METRO TV HD
+http://103.167.167.5:8111/play/a00c/index.m3u8
+#EXTINF:-1,MING XE (192.168.240.26)
+http://103.167.167.5:8111/play/a00w/index.m3u8
+#EXTINF:-1,MNC TV (192.168.240.31)
+http://103.167.167.5:8111/play/a011/index.m3u8
+#EXTINF:-1,MTV (192.168.240.22)
+http://103.167.167.5:8111/play/a00q/index.m3u8
+#EXTINF:-1,MTV ASIA (192.168.240.38)
+http://103.167.167.5:8111/play/a018/index.m3u8
+#EXTINF:-1,MY CINEMA (192.168.240.47)
+http://103.167.167.5:8111/play/a01h/index.m3u8
+#EXTINF:-1,MY CINEMA ASIA (192.168.240.46)
+http://103.167.167.5:8111/play/a01g/index.m3u8
+#EXTINF:-1,MY FAMILY (192.168.240.14)
+http://103.167.167.5:8111/play/a00k/index.m3u8
+#EXTINF:-1,NASA
+http://103.167.167.5:8111/play/a037/index.m3u8
+#EXTINF:-1,NAT GEO WILD (192.168.240.43)
+http://103.167.167.5:8111/play/a01d/index.m3u8
+#EXTINF:-1,NGC (192.168.240.13)
+http://103.167.167.5:8111/play/a036/index.m3u8
+#EXTINF:-1,NICK (192.168.240.4)
+http://103.167.167.5:8111/play/a00e/index.m3u8
+#EXTINF:-1,NICK JR (192.168.240.5)
+http://103.167.167.5:8111/play/a00f/index.m3u8
+#EXTINF:-1,NIMBUS PLAYOUT
+http://103.167.167.5:8111/play/a03t/index.m3u8
+#EXTINF:-1,RCTI (192.168.240.42)
+http://103.167.167.5:8111/play/a01c/index.m3u8
+#EXTINF:-1,ROCK ENTERTAINMENT (192.168.240.44)
+http://103.167.167.5:8111/play/a01e/index.m3u8
+#EXTINF:-1,ROCK EXTREME (192.168.240.16)
+http://103.167.167.5:8111/play/a00m/index.m3u8
+#EXTINF:-1,RUSAK (192.168.240.15)
+http://103.167.167.5:8111/play/a00l/index.m3u8
+#EXTINF:-1,SCTV (192.168.240.18)
+http://103.167.167.5:8111/play/a00o/index.m3u8
+#EXTINF:-1,SCTV BACKUP
+http://103.167.167.5:8111/play/a048/index.m3u8
+#EXTINF:-1,SET INT (192.168.240.33)
+http://103.167.167.5:8111/play/a013/index.m3u8
+#EXTINF:-1,SET TV (192.168.240.32)
+http://103.167.167.5:8111/play/a012/index.m3u8
+#EXTINF:-1,SOCCER (192.168.240.11)
+http://103.167.167.5:8111/play/a00i/index.m3u8
+#EXTINF:-1,SONY GEM (192.168.240.29)
+http://103.167.167.5:8111/play/a00z/index.m3u8
+#EXTINF:-1,SONY ONE 2 (192.168.240.24)
+http://103.167.167.5:8111/play/a00u/index.m3u8
+#EXTINF:-1,SPOTV
+http://103.167.167.5:8111/play/a03s/index.m3u8
+#EXTINF:-1,SPOTV 1 (192.168.240.10)
+http://103.167.167.5:8111/play/a020/index.m3u8
+#EXTINF:-1,SPOTV 2 (192.168.240.30)
+http://103.167.167.5:8111/play/a010/index.m3u8
+#EXTINF:-1,THRILL
+http://103.167.167.5:8111/play/a03v/index.m3u8
+#EXTINF:-1,THRILL(176.16.201.2)
+http://103.167.167.5:8111/play/a01l/index.m3u8
+#EXTINF:-1,TVRI Kanal 3
+http://103.167.167.5:8111/play/a01w/index.m3u8
+#EXTINF:-1,TVRI Nasional
+http://103.167.167.5:8111/play/a01v/index.m3u8
+#EXTINF:-1,TVRI Sport
+http://103.167.167.5:8111/play/a01x/index.m3u8
+#EXTINF:-1,WB (192.168.240.37)
+http://103.167.167.5:8111/play/a017/index.m3u8
+#EXTINF:-1,WFC
+http://103.167.167.5:8111/play/a03e/index.m3u8
+#EXTINF:-1,ZEE BIOSKOP
+http://103.167.167.5:8111/play/a03g/index.m3u8
+#EXTINF:-1,ZEE BIOSKOP (192.168.240.40)
+http://103.167.167.5:8111/play/a01a/index.m3u8
+#EXTINF:-1,ZHEJIANG (176.16.201.4)
+http://103.167.167.5:8111/play/a01n/index.m3u8
+#EXTINF:-1,happy kids junior
+http://103.167.167.5:8111/play/a03b/index.m3u8
