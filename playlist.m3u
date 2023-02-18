@@ -9,7 +9,7 @@ http://103.167.167.5:8111/play/a02m/index.m3u8
 #EXTINF:-1 group-title="Sport",beIN Sports 3 Indonesia
 http://103.167.167.5:8111/play/a02n/index.m3u8
 #EXTINF:-1 group-title="Sport",™SPOTV®1
-http://103.167.167.5:8111/play/a03s/index.m3u8
+http://103.167.167.5:8111/play/a020/index.m3u8
 #EXTINF:-1 group-title="Sport",™SPOTV®2
 http://103.167.167.5:8111/play/a010/index.m3u8
 #EXTINF:-1 group-title="Sport",™MNC®SPORT
@@ -46,6 +46,10 @@ http://103.167.167.5:8111/play/a01c/index.m3u8
 http://103.167.167.5:8111/play/a048/index.m3u8
 #EXTINF:-1 group-title="Local",SCTV 2
 http://103.167.167.5:8111/play/a00o/index.m3u8
+#EXTINF:-1 group-title="Local",TRANSTV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Local",TRANS7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Local",TVRI Nasional©
 http://103.167.167.5:8111/play/a01v/index.m3u8
 #EXTINF:-1 group-title="Local",TVRI Kanal 3
@@ -171,6 +175,19 @@ http://103.167.167.5:8111/play/a01q/index.m3u8
 #EXTINF:-1 group-title="Malaysia",BBC NEWS©
 http://103.167.167.5:8111/play/a03k/index.m3u8
 
+
+#EXTINF:-1 group-title="INDIA", &PRIVE HD-Rs 19
+http://209.58.178.169:8002/play/a08g
+#EXTINF:-1 group-title="INDIA", &flix HD-Rs19
+http://209.58.178.169:8002/play/a06d
+#EXTINF:-1 group-title="INDIA", &pictures -Rs19
+http://209.58.178.169:8002/play/a085
+#EXTINF:-1 group-title="INDIA", &pictures-Rs 6
+http://209.58.178.169:8002/play/a0ai
+#EXTINF:-1 group-title="INDIA", &tv - Rs 12
+http://209.58.178.169:8002/play/a071
+#EXTINF:-1 group-title="INDIA", &tv HD - Rs 19
+http://209.58.178.169:8002/play/a05c
 
 
 ==========VOD MOVIE==========
