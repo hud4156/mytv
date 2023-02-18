@@ -96,12 +96,12 @@ http://103.167.167.5:8111/play/a00j/index.m3u8
 http://103.167.167.5:8111/play/a00s/index.m3u8
 #EXTINF:-1 group-title="Movies",KIX™
 http://103.167.167.5:8111/play/a00p/index.m3u8
+#EXTINF:-1 group-title="Movies",HBO HD
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/197972
 #EXTINF:-1 group-title="Movies",HBO FAMILY DOLBY
 http://103.20.184.167:8000/play/a01s/index.m3u8
-#EXTINF:-1 group-title="Movies",HBO HD
-http://103.20.184.167:8000/play/a00r/index.m3u8
 #EXTINF:-1 group-title="Movies",HBO HITS HD
-http://103.20.184.167:8000/play/a00q/index.m3u8
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/196480
 #EXTINF:-1 group-title="Movies",HBO SIGN. DOLBY
 http://103.20.184.167:8000/play/a01u/index.m3u8
 #EXTINF:-1 group-title="Movies",HITS MOVIE
