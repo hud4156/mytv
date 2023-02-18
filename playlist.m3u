@@ -1,373 +1,175 @@
 #EXTM3U
 
-#EXTINF:-1,ABC Australia
-https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_hls/AustraliaPlus.m3u8
-
-#EXTINF:-1,AFN
-https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC.m3u8
-
-#EXTINF:-1,Aljazeera English
-https://english.streaming.aljazeera.net/aljazeera/english2/index1296.m3u8
-
-#EXTINF:-1,Anhui TV
-https://liveanevia.mncnow.id/live/eds/AnhuiTV/sa_hls/AnhuiTV.m3u8
-
-#EXTINF:-1,Animal Planet
-https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet.m3u8
-
-#EXTINF:-1,Animax
-https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax.m3u8
-
-#EXTINF:-1,Arirang
-https://liveanevia.mncnow.id/live/eds/Arirang/sa_hls/Arirang.m3u8
-
-#EXTINF:-1,Auto & Gadget
-https://liveanevia.mncnow.id/live/eds/AutoGadget/sa_hls/AutoGadget.m3u8
-
-#EXTINF:-1,BBC Earth
-https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth.m3u8
-
-#EXTINF:-1,BBC World
-https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_hls/BBCWorldNews.m3u8
-
-#EXTINF:-1,Berita Satu
-https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_hls/BeritaSatu.m3u8
-
-#EXTINF:-1,Besmart
-https://liveanevia.mncnow.id/live/eds/BeSmart/sa_hls/BeSmart.m3u8
-
-#EXTINF:-1,Bloomberg
-https://liveanevia.mncnow.id/live/eds/Bloomberg/sa_hls/Bloomberg.m3u8
-
-#EXTINF:-1,Boomerang
-https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang.m3u8
-
-#EXTINF:-1,Cartoon Network
-https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork.m3u8
-
-#EXTINF:-1,Celestial Classic Movies
-https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_hls/CelestialClassic.m3u8
-
-#EXTINF:-1,Celestial Movies
-https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_hls/CelestialMovie.m3u8
-
-#EXTINF:-1,Channel News Asia
-https://liveanevia.mncnow.id/live/eds/ChannelNewsAsia/sa_hls/ChannelNewsAsia.m3u8
-
-#EXTINF:-1,Channel V
-https://liveanevia.mncnow.id/live/eds/ChannelV/sa_hls/ChannelV.m3u8
-
-#EXTINF:-1,Cinema World
-https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_hls/CinemaWorld.m3u8
-
-#EXTINF:-1,Cinemax
-https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD.m3u8
-
-#EXTINF:-1,Citra Drama
-https://dl.dropbox.com/s/2f1e4vq02tpu2pc/Citra%20drama.m3u8?dl=0
-
-#EXTINF:-1,Clubbing TV
-https://liveanevia.mncnow.id/live/eds/MyTV/sa_hls/MyTV.m3u8
-
-#EXTINF:-1,CNBC Asia
-https://liveanevia.mncnow.id/live/eds/CNBC/sa_hls/CNBC.m3u8
-
-#EXTINF:-1,CNBC Indo
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-
-#EXTINF:-1,CNN Indo
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-
-#EXTINF:-1,CNN International
-https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_hls/CNNInternational.m3u8
-
-#EXTINF:-1,Comedy Channel
-https://liveanevia.mncnow.id/live/eds/ComedyChannel/sa_hls/ComedyChannel.m3u8
-
-#EXTINF:-1,Crime Investigation
-https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation.m3u8
-
-#EXTINF:-1,Discovery
-https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery.m3u8
-
-#EXTINF:-1,Disney Channel
-https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel.m3u8
-
-#EXTINF:-1,Disney Jr
-https://liveanevia.mncnow.id/live/eds/DisneyJunior/sa_hls/DisneyJunior.m3u8
-
-#EXTINF:-1,Disney XD
-https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_hls/DisneyXD.m3u8
-
-#EXTINF:-1,Dragon TV
-https://liveanevia.mncnow.id/live/eds/ShanghaiDragonTV/sa_hls/ShanghaiDragonTV.m3u8
-
-#EXTINF:-1,Drama Channel
-https://liveanevia.mncnow.id/live/eds/DramaChannel/sa_hls/DramaChannel.m3u8
-
-#EXTINF:-1,DW TV
-https://liveanevia.mncnow.id/live/eds/DW/sa_hls/DW.m3u8
-
-#EXTINF:-1,EuroNews
-https://liveanevia.mncnow.id/live/eds/EuroNews/sa_hls/EuroNews.m3u8
-
-#EXTINF:-1,EWTN
-https://liveanevia.mncnow.id/live/eds/EWTN/sa_hls/EWTN.m3u8
-
-#EXTINF:-1,Fight Sports
-https://liveanevia.mncnow.id/live/eds/FightSports/sa_hls/FightSports.m3u8
-
-#EXTINF:-1,FMN
-https://liveanevia.mncnow.id/live/eds/FMN/sa_hls/FMN.m3u8
-
-#EXTINF:-1,Foodie
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
-
-#EXTINF:-1,FOX
-https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_hls/FoxChannel.m3u8
-
-#EXTINF:-1,FOX Crime
-https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime.m3u8
-
-#EXTINF:-1,FOX Life
-https://liveanevia.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld.m3u8
-
-#EXTINF:-1,FOX News
-https://liveanevia.mncnow.id/live/eds/FoxNews/sa_hls/FoxNews.m3u8
-
-#EXTINF:-1,FOX Sports
-https://liveanevia.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports.m3u8
-
-#EXTINF:-1,FOX Sports 2
-https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2.m3u8
-
-#EXTINF:-1,FOX Sports 3
-https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3.m3u8
-
-#EXTINF:-1,France 24
-https://liveanevia.mncnow.id/live/eds/France24/sa_hls/France24.m3u8
-
-#EXTINF:-1,FX
-https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
-
-#EXTINF:-1,GTV
-https://liveanevia.mncnow.id/live/eds/GlobalTV/sa_hls/GlobalTV.m3u8
-
-#EXTINF:-1,HBO Hits
-https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits.m3u8
-
-#EXTINF:-1,HBO Signature
-https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
-
-#EXTINF:-1,HGTV
-https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV.m3u8
-
-#EXTINF:-1,Hi! Channel
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
-
-#EXTINF:-1,Hidayah
-https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_hls/MNCMuslim.m3u8
-
-#EXTINF:-1,History
-https://liveanevia.mncnow.id/live/eds/History/sa_hls/History.m3u8
-
-#EXTINF:-1,HITS
-https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS.m3u8
-
-#EXTINF:-1,HITS Movies
-https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_hls/HitsMovies.m3u8
-
-#EXTINF:-1,Home & Living
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
-
-#EXTINF:-1,Horee
-https://dl.dropbox.com/s/b6fas6znw4nylec/Hore.m3u8?dl=0
-
-#EXTINF:-1,Hunan TV
-https://liveanevia.mncnow.id/live/eds/HunanTV/sa_hls/HunanTV.m3u8
-
-#EXTINF:-1,IdKU
-https://dl.dropbox.com/s/zv2m4oiaye3rkzn/idku2.m3u8?dl=0
-
-#EXTINF:-1,IDX
-https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
-
-#EXTINF:-1,iNewsTV
-https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_hls/iNewsTV.m3u8
-
-#EXTINF:-1,Infotainment
-https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_hls/MNCInfotainment.m3u8
-
-#EXTINF:-1,JAKTV
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/playlist.m3u8
-
-#EXTINF:-1,Jiangsu TV
-https://liveanevia.mncnow.id/live/eds/JiangsuTV/sa_hls/JiangsuTV.m3u8
-
-#EXTINF:-1,Karaoke Channel
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
-
-#EXTINF:-1,Kids Channel
-https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_hls/KidsChannel.m3u8
-
-#EXTINF:-1,KIX
-https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX.m3u8
-
-#EXTINF:-1,LIFE
-https://liveanevia.mncnow.id/live/eds/Life/sa_hls/Life.m3u8
-
-#EXTINF:-1,Lifetime
-https://liveanevia.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime.m3u8
-
-#EXTINF:-1,Love Nature
-https://dl.dropbox.com/s/a6x9ctd9fcbger2/LoveNature.m3u8?dl=0
-
-#EXTINF:-1,Madinah TV
-https://streamer-1.toffeelive.com/live/sunnah_tv_576/index.m3u8
-
-#EXTINF:-1,Makkah TV
-https://streamer-1.toffeelive.com/live/quran_tv_576/index.m3u8
-
-#EXTINF:-1,Metro TV
-https://liveanevia.mncnow.id/live/eds/MetroTV/sa_hls/MetroTV.m3u8
-
-#EXTINF:-1,MNC Channel
-https://liveanevia.mncnow.id/live/eds/MNCChannel/sa_hls/MNCChannel.m3u8
-
-#EXTINF:-1,MNC Entertainment
-https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_hls/MNCEntertainment.m3u8
-
-#EXTINF:-1,MNC News
-https://liveanevia.mncnow.id/live/eds/MNCNews/sa_hls/MNCNews.m3u8
-
-#EXTINF:-1,MNC Sports
-https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports.m3u8
-
-#EXTINF:-1,MNCTV
-https://liveanevia.mncnow.id/live/eds/MNCTV/sa_hls/MNCTV.m3u8
-
-#EXTINF:-1,Movie Channel
-https://liveanevia.mncnow.id/live/eds/MovieChannel/sa_hls/MovieChannel.m3u8
-
-#EXTINF:-1,Music Channel
-https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_hls/MusicChannel.m3u8
-
-#EXTINF:-1,MYTV
-https://dl.dropbox.com/s/qzl6jtxmhyoyovl/Mytv.m3u8?dl=0
-
-#EXTINF:-1,Nat Geo People
-https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_hls/NatGeoPeople.m3u8
-
-#EXTINF:-1,Nat Geo Wild
-https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_hls/NatGeoWild.m3u8
-
-#EXTINF:-1,NHK World Premium
-https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_hls/NHKWorldPremium.m3u8
-
-#EXTINF:-1,NHK World TV
-https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_hls/NHKWorldTV.m3u8
-
-#EXTINF:-1,Nick Jr
-https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr.m3u8
-
-#EXTINF:-1,Nickelodeon
-https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon.m3u8
-
-#EXTINF:-1,Outdoor Channel
-https://dl.dropbox.com/s/b0m53oaf0li7fv8/Outdoor.m3u8?dl=0
-
-#EXTINF:-1,RCTI
-https://liveanevia.mncnow.id/live/eds/RCTI/sa_hls/RCTI.m3u8
-
-#EXTINF:-1,Reformed 21
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
-
-#EXTINF:-1,ROTANA clip
-http://livecdnh3.tvanywhere.ae/hls/rotclip/index.m3u8
-
-#EXTINF:-1,RT English
-https://liveanevia.mncnow.id/live/eds/RTEnglish/sa_hls/RTEnglish.m3u8
-
-#EXTINF:-1,Ruang Trampil
-https://dl.dropbox.com/s/8ih2a47l4xq4p2r/Ruangtrampil2.m3u8?dl=0
-
-#EXTINF:-1,SKY News
-https://liveanevia.mncnow.id/live/eds/SkyNews/sa_hls/SkyNews.m3u8
-
-#EXTINF:-1,Smithsonian
-https://dl.dropbox.com/s/w1lv3vfqkf4tlvc/Smith.m3u8?dl=0
-
-#EXTINF:-1,Soccer Channel
-https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8
-
-#EXTINF:-1,Sony ESPN
-https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
-
-#EXTINF:-1,Sony PIX
-https://streamer-1.toffeelive.com/live/sony_pix_576/index.m3u8
-
-#EXTINF:-1,Sony Six
-https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
-
-#EXTINF:-1,Sony Ten 1
-https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
-
-#EXTINF:-1,Sony Ten 2
-https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
-
-#EXTINF:-1,Sony Ten 3
-https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
-
-#EXTINF:-1,Star Chinese Movies
-https://liveanevia.mncnow.id/live/eds/SCM/sa_hls/SCM.m3u8
-
-#EXTINF:-1,Star Chinese Movies Legend
-https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_hls/SCMlegend.m3u8
-
-#EXTINF:-1,Tawaf TV
-https://liveanevia.mncnow.id/live/eds/TawafTV/sa_hls/TawafTV.m3u8
-
-#EXTINF:-1,THRILL
-https://liveanevia.mncnow.id/live/eds/Thrill/sa_hls/Thrill.m3u8
-
-#EXTINF:-1,TLC
-https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC.m3u8
-
-#EXTINF:-1,TRT World
-https://liveanevia.mncnow.id/live/eds/TRTWorld/sa_hls/TRTWorld.m3u8
-
-#EXTINF:-1,TVMU
-https://liveanevia.mncnow.id/live/eds/TVMuhammadiyah/sa_hls/TVMuhammadiyah.m3u8
-
-#EXTINF:-1,TVN
-https://liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN.m3u8
-
-#EXTINF:-1,TVN Movies
-https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies.m3u8
-
-#EXTINF:-1,TVRI
-https://liveanevia.mncnow.id/live/eds/TVRI/sa_hls/TVRI.m3u8
-
-#EXTINF:-1,WakuWaku Japan
-https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan.m3u8
-
-#EXTINF:-1,Warner TV
-https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV.m3u8
-
-#EXTINF:-1,Xingkong TV
-https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_hls/XingKongTV.m3u8
-
-#EXTINF:-1,Zee Bioskop
-https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_hls/ZeeBIOSKOP.m3u8
-
-#EXTINF:-1,Zee Cinema
-https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_hls/ZeeCinema.m3u8
-
-#EXTINF:-1,Zee TV
-https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_hls/ZeeTV.m3u8
-
-#EXTINF:-1,Zing
-https://liveanevia.mncnow.id/live/eds/Zing/sa_hls/Zing.m3u8
+#EXTINF:-1 group-title="Sport",Champions TV 1
+http://103.167.167.5:8111/play/a01p/index.m3u8
+#EXTINF:-1 group-title="Sport",Champions TV 2
+http://103.167.167.5:8111/play/a01q/index.m3u8
+#EXTINF:-1 group-title="Sport",beIN Sports 1 Indonesia
+http://103.167.167.5:8111/play/a02m/index.m3u8
+#EXTINF:-1 group-title="Sport",beIN Sports 3 Indonesia
+http://103.167.167.5:8111/play/a02n/index.m3u8
+#EXTINF:-1 group-title="Sport",™SPOTV®1
+http://103.167.167.5:8111/play/a03s/index.m3u8
+#EXTINF:-1 group-title="Sport",™SPOTV®2
+http://103.167.167.5:8111/play/a010/index.m3u8
+#EXTINF:-1 group-title="Sport",™MNC®SPORT
+http://103.167.167.5:8111/play/a00i/index.m3u8
+
+
+#EXTINF:-1 group-title="Local",INHOUSE-JBV2©
+http://103.167.167.5:8111/play/a006/index.m3u8
+#EXTINF:-1 group-title="Local",INHOUSE-JBV3©
+http://103.167.167.5:8111/play/a007/index.m3u8
+#EXTINF:-1 group-title="Local",INHOUSE-JBV4©
+http://103.167.167.5:8111/play/a008/index.m3u8
+#EXTINF:-1 group-title="Local",BLOOMBERG©
+http://103.167.167.5:8111/play/a01t/index.m3u8
+#EXTINF:-1 group-title="Local",BN TV
+http://103.167.167.5:8111/play/a00b/index.m3u8
+#EXTINF:-1 group-title="Local",CNN INDONESIA©
+http://103.167.167.5:8111/play/a02q/index.m3u8
+#EXTINF:-1 group-title="Local",GTV©
+http://103.167.167.5:8111/play/a014/index.m3u8
+#EXTINF:-1 group-title="Local",Indosiar
+http://103.167.167.5:8111/play/a00r/index.m3u8
+#EXTINF:-1 group-title="Local",MAGNA CHANNEL
+http://103.167.167.5:8111/play/a00a/index.m3u8
+#EXTINF:-1 group-title="Local",METRO TV HD©
+http://103.167.167.5:8111/play/a00c/index.m3u8
+#EXTINF:-1 group-title="Local",MNC TV©
+http://103.167.167.5:8111/play/a011/index.m3u8
+#EXTINF:-1  group-title="Local",NET©
+http://103.167.167.5:8111/play/a041/index.m3u8
+#EXTINF:-1 group-title="Local",RCTI©
+http://103.167.167.5:8111/play/a01c/index.m3u8
+#EXTINF:-1 group-title="Local",SCTV 1
+http://103.167.167.5:8111/play/a048/index.m3u8
+#EXTINF:-1 group-title="Local",SCTV 2
+http://103.167.167.5:8111/play/a00o/index.m3u8
+#EXTINF:-1 group-title="Local",TVRI Nasional©
+http://103.167.167.5:8111/play/a01v/index.m3u8
+#EXTINF:-1 group-title="Local",TVRI Kanal 3
+http://103.167.167.5:8111/play/a01w/index.m3u8
+#EXTINF:-1 group-title="Local",TVRI Sport©
+http://103.167.167.5:8111/play/a01x/index.m3u8
+#EXTINF:-1 group-title="Local",HAARI™DRAMA
+http://103.167.167.5:8111/play/a01z/index.m3u8
+#EXTINF:-1 group-title="Local",HAARI™MOVIES
+http://103.167.167.5:8111/play/a00h/index.m3u8
+#EXTINF:-1 group-title="Local",HAARI™KIDS
+http://103.167.167.5:8111/play/a00g/index.m3u8
+
+
+#EXTINF:-1 group-title="Kids",ANIMAX-SD
+http://103.167.167.5:8111/play/a030/index.m3u8
+#EXTINF:-1 group-title="Kids",ANIPLUS™
+http://103.167.167.5:8111/play/a033/index.m3u8
+#EXTINF:-1 group-title="Kids",CARTOON™NETWORK 1
+http://103.167.167.5:8111/play/a00x/index.m3u8
+#EXTINF:-1 group-title="Kids",CARTOON™NETWORK 2
+http://103.167.167.5:8111/play/a03g/index.m3u8
+#EXTINF:-1 group-title="Kids",NICK™
+http://103.167.167.5:8111/play/a00e/index.m3u8
+#EXTINF:-1 group-title="Kids",NICK™JR
+http://103.167.167.5:8111/play/a00f/index.m3u8
+#EXTINF:-1 group-title="Kids",happy kids junior
+http://103.167.167.5:8111/play/a03b/index.m3u8
+#EXTINF:-1 group-title="Kids",LEGO©
+http://103.167.167.5:8111/play/a03c/index.m3u8
+
+
+#EXTINF:-1 group-title="Movies",CELESTIAL™CLASSIC™MOVIES
+http://103.167.167.5:8111/play/a01r/index.m3u8
+#EXTINF:-1 group-title="Movies",CELESTIAL™MOVIES
+http://103.167.167.5:8111/play/a00t/index.m3u8
+#EXTINF:-1 group-title="Movies",CINEMAX ID
+http://103.20.184.167:8000/play/a01r/index.m3u8
+#EXTINF:-1 group-title="Movies",CINEMA™WORld
+http://103.167.167.5:8111/play/a01f/index.m3u8
+#EXTINF:-1 group-title="Movies",GALAXY™
+http://103.167.167.5:8111/play/a00j/index.m3u8
+#EXTINF:-1 group-title="Movies",GALAXY™PREMIUM
+http://103.167.167.5:8111/play/a00s/index.m3u8
+#EXTINF:-1 group-title="Movies",KIX™
+http://103.167.167.5:8111/play/a00p/index.m3u8
+#EXTINF:-1 group-title="Movies",HBO FAMILY DOLBY
+http://103.20.184.167:8000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="Movies",HBO HD
+http://103.20.184.167:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="Movies",HBO HITS HD
+http://103.20.184.167:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="Movies",HBO SIGN. DOLBY
+http://103.20.184.167:8000/play/a01u/index.m3u8
+#EXTINF:-1 group-title="Movies",HITS MOVIE
+http://103.20.184.167:8000/play/a00l/index.m3u8
+#EXTINF:-1 group-title="Movies",MY™CINEMA
+http://103.167.167.5:8111/play/a01h/index.m3u8
+#EXTINF:-1 group-title="Movies",MY™CINEMA™ASIA
+http://103.167.167.5:8111/play/a01g/index.m3u8
+#EXTINF:-1 group-title="Movies",THRILL™
+http://103.167.167.5:8111/play/a01l/index.m3u8
+#EXTINF:-1 group-title="Movies",TVN™
+http://103.167.167.5:8111/play/a02u/index.m3u8
+#EXTINF:-1 group-title="Movies",WARNER TV 1
+http://103.20.184.167:8000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="Movies",WARNER TV 2
+http://103.20.184.167:8000/play/a016/index.m3u8
+#EXTINF:-1 group-title="Movies",WB™
+http://103.167.167.5:8111/play/a017/index.m3u8
+#EXTINF:-1 group-title="Movies",ZEE™BIOSKOP
+http://103.167.167.5:8111/play/a01a/index.m3u8
+
+
+#EXTINF:-1 group-title="Entertainment",AXN™
+http://103.167.167.5:8111/play/a019/index.m3u8
+#EXTINF:-1 group-title="Entertainment",CHANNEL™8
+http://103.167.167.5:8111/play/a016/index.m3u8
+#EXTINF:-1 group-title="Entertainment",DAAI TSU ZHI©
+http://103.167.167.5:8111/play/a01s/index.m3u8
+#EXTINF:-1 group-title="Entertainment",DISCOVERY©
+http://103.167.167.5:8111/play/a03w/index.m3u8
+#EXTINF:-1 group-title="Entertainment",FASHION TV©
+http://103.167.167.5:8111/play/a03d/index.m3u8
+#EXTINF:-1 group-title="Entertainment",GEM
+http://103.167.167.5:8111/play/a00z/index.m3u8
+#EXTINF:-1 group-title="Entertainment",KBS-WORLD™
+http://103.167.167.5:8111/play/a03a/index.m3u8
+#EXTINF:-1 group-title="Entertainment",MY™FAMILY
+http://103.167.167.5:8111/play/a00k/index.m3u8
+#EXTINF:-1 group-title="Entertainment",MING™XE
+http://103.167.167.5:8111/play/a00w/index.m3u8
+#EXTINF:-1 group-title="Entertainment",MTV©
+http://103.167.167.5:8111/play/a00q/index.m3u8
+#EXTINF:-1 group-title="Entertainment",MTV ASIA©
+http://103.167.167.5:8111/play/a018/index.m3u8
+#EXTINF:-1 group-title="Entertainment",NGC©
+http://103.167.167.5:8111/play/a036/index.m3u8
+#EXTINF:-1 group-title="Entertainment",NATGEO WILD©
+http://103.167.167.5:8111/play/a01d/index.m3u8
+#EXTINF:-1 group-title="Entertainment",ROCK™ENTERTAINMENT
+http://103.167.167.5:8111/play/a01e/index.m3u8
+#EXTINF:-1 group-title="Entertainment",ROCK™EXTREME
+http://103.167.167.5:8111/play/a00m/index.m3u8
+#EXTINF:-1 group-title="Entertainment",SET™TV
+http://103.167.167.5:8111/play/a012/index.m3u8
+#EXTINF:-1 group-title="Entertainment",SET™INT
+http://103.167.167.5:8111/play/a013/index.m3u8
+#EXTINF:-1 group-title="Entertainment",SONY™ONE
+http://103.167.167.5:8111/play/a00u/index.m3u8
+#EXTINF:-1 group-title="Entertainment",SONY™GEM
+http://103.167.167.5:8111/play/a00z/index.m3u8
+#EXTINF:-1 group-title="Entertainment",ZHEJIANG
+http://103.167.167.5:8111/play/a01n/index.m3u8
+
+
+#EXTINF:-1 group-title="Malaysia",Media.Corp
+http://103.167.167.5:8111/play/a00y/index.m3u8
+#EXTINF:-1 group-title="Malaysia",SUKAN_terbaik_1™
+http://103.167.167.5:8111/play/a01p/index.m3u8
+#EXTINF:-1 group-title="Malaysia",SUKAN_terbaik_2™
+http://103.167.167.5:8111/play/a01q/index.m3u8
+#EXTINF:-1 group-title="Malaysia",BBC NEWS©
+http://103.167.167.5:8111/play/a03k/index.m3u8
 
 
 
