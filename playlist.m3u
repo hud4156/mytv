@@ -12,8 +12,18 @@ http://103.167.167.5:8111/play/a02n/index.m3u8
 http://103.167.167.5:8111/play/a020/index.m3u8
 #EXTINF:-1 group-title="Sport",™SPOTV®2
 http://103.167.167.5:8111/play/a010/index.m3u8
-#EXTINF:-1 group-title="Sport",™MNC®SPORT
+#EXTINF:-1 group-title="Sport",™SOCCER•CHANNEL
 http://103.167.167.5:8111/play/a00i/index.m3u8
+#EXTINF:-1 group-title="Sport",ASSP•1•HD
+http://54.37.82.205:8081/liveorigin/my-asp1hd_720/playlist.m3u8
+#EXTINF:-1 group-title="Sport",ASSP•2•HD
+http://54.37.82.205:8081/liveorigin/my-asp2hd_720/playlist.m3u8
+#EXTINF:-1 group-title="Sport",ASSP•3•HD
+http://54.37.82.205:8081/liveorigin/my-asp3hd_720/playlist.m3u8
+#EXTINF:-1 group-title="Sport",ASSP•4•HD
+http://54.37.82.205:8081/liveorigin/my-asp4_720/playlist.m3u8
+#EXTINF:-1 group-title="Sport",ASSP•5•HD
+http://54.37.82.205:8081/liveorigin/my-asp5_720/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Local",INHOUSE-JBV2©
