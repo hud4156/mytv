@@ -625,6 +625,21 @@ https://av-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah
 
 <---EXTRA--->
 
+#EXTINF:-1 tvg-id="beINSports" group-title="xEXTRAx" tvg-logo="https://aqfadtv.xyz/logos/beINSports.png",beIN Sports HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408
+http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
+
+#EXTINF:-1 tvg-id="beINSports2" group-title="xEXTRAx" tvg-logo="https://aqfadtv.xyz/logos/beINSports2.png",beIN Sports 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5066
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_primary.mpd
+
+#EXTINF:-1 tvg-id="beINSports3" group-title="xEXTRAx" tvg-logo="https://aqfadtv.xyz/logos/beINSports3.png",beIN Sports 3 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2705
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
+
 #EXTINF:-1 group-title="xEXTRAx" tvg-logo="https://new.mjh.nz/.images/abc-kids.png",ABC Kids
 https://c.mjh.nz/abc-kids.m3u8
 #EXTINF:-1 group-title="xEXTRAx" tvg-logo="https://new.mjh.nz/.images/abc-me.png",ABC ME
