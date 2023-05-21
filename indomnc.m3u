@@ -7,6 +7,26 @@
 #EXTINF:-1 group-title="TEST" tvg-id="hboasia.sg" tvg-logo="https://i.postimg.cc/L5sJyx7W/hbo.png ",HBO TEST
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
+#EXTINF:-1 group-title="TEST" tvg-id="hbofamilyasia.sg" tvg-logo="https://i.postimg.cc/6p4vJ13J/hbo-family.png",HBO Family TEST
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
+#EXTINF:-1 group-title="TEST" tvg-id="hbohitsasia.sg" tvg-logo="https://i.postimg.cc/YScmpfG4/hbo-hits.png",HBO Hits TEST
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
+#EXTINF:-1 group-title="TEST" tvg-id="hbosignatureasia.sg" tvg-logo="https://i.postimg.cc/g0vLrX8g/hbo-signature.png",HBO Signature TEST
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
+#EXTINF:-1 group-title="TEST" tvg-id="cinemaxasia.sg" tvg-logo="https://i.postimg.cc/NFQ6Q8n8/cinemax-1.png",Cinemax TEST
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.m3u8
+
 
 <---National TV--->
 
