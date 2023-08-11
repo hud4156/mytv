@@ -641,6 +641,12 @@ https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff0490184560ac
 
 <---Sports--->
 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 1" tvg-logo="https://i.ibb.co/mvWqwgn/Bein-1-hometv.jpg" group-title="Sports",BEIN 1
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/26
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 3" tvg-logo="https://i.ibb.co/C0LchHL/Bein-3-hometv.jpg" group-title="Sports",BEIN 3
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/27
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XvmKb26F/20220927-063849.png",DAZN Bein Sports
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
