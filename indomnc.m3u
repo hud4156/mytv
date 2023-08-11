@@ -641,12 +641,6 @@ https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff0490184560ac
 
 <---Sports--->
 
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 1" tvg-logo="https://i.ibb.co/mvWqwgn/Bein-1-hometv.jpg" group-title="Sports",BEIN 1
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/26
-
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 3" tvg-logo="https://i.ibb.co/C0LchHL/Bein-3-hometv.jpg" group-title="Sports",BEIN 3
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/27
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XvmKb26F/20220927-063849.png",DAZN Bein Sports
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -668,6 +662,20 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-040/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-041/stream.mpd
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-042/stream.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=2c4987a78120e3166889a9115d88aa9a&key=3246e4509fe89449f820d347c081544d
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",beIN Sports 1
+https://beetv.my.id/x/usee-bein1-gojokkk.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=c32f23c00507f80f5e8180351a2ead9b&key=553386e28e399cdff74266d0d3b778b1
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-2.jpg",beIN Sports 1
+https://beetv.my.id/x/usee-bein2-gojokkk.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
