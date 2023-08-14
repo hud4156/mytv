@@ -39,8 +39,20 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://i.postimg.cc/d3XG1FXh/20230518-221343.png",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://i.postimg.cc/2SzB7BPW/nusantaratv.png", Nusantara TV
+#EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://i.postimg.cc/2SzB7BPW/nusantaratv.png",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
+
+#EXTINF:-1 tvg-id="rtv" group-title="National TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_big1.png?v=2.0.0.13",RTV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo=" https://i.postimg.cc/zvkbk62w/BN-Channel.png ",BN Channel
+https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9263bf14-cd77-401e-a21d-e3683fe6879d)/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jaktv_big1.png?v=2.0.0.13", JAK TV
+http://edge.linknetott.swiftserve.com/channelgroup5/cg530production/ch392/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo=" https://www.useetv.com/assets/images/channel/logo_jtv_big1.png?v=2.0.0.13",JTV
+http://edge.linknetott.swiftserve.com/channelgroup4/cg405production/ch17/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.15",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
@@ -79,14 +91,20 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg206production/ch31/02.m3u8
 #EXTINF:-1 tvg-name="wired 2 fish" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Knowledge",Love Nature
 http://edge.linknetott.swiftserve.com/channelgroup3/cg350production/ch368/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSatDEwE7Vp4456PaLZAjISSwxhTKYQxRkd8w&usqp=CAU" group-title="Knowledge",Global Trekker
-http://edge.linknetott.swiftserve.com/channelgroup4/cg434production/ch366/02.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bv6PBHWv/DMAX.png" group-title="Knowledge",DMAX
+http://edge.linknetott.swiftserve.com/channelgroup4/cg428production/ch347/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Ss8vYfLh/Global-Trekker.png" group-title="Knowledge",Global Trekker
+http://edge.linknetott.swiftserve.com/channelgroup4/cg434production/ch366/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="Knowledge",Discovery Channel
 http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_202.png" group-title="Knowledge",National Geographic
 http://edge.linknetott.swiftserve.com/channelgroup1/cg015production/ch38/02.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/SR8kNSBh/Premier-Sports.png " group-title=" Sports ",Premier Sports
+http://edge.linknetott.swiftserve.com/channelgroup2/cg224production/ch320/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
