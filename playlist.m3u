@@ -27,7 +27,7 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg326production/ch396/02.m3u
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/3.jpg",Trans7
 http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/02.m3u8
 
-#EXTINF:-1 tvg-id="KompasTV.id" group-title="National TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png" Kompas TV
+#EXTINF:-1 tvg-id="KompasTV.id" group-title="National TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png",Kompas TV
 http://edge.linknetott.swiftserve.com/channelgroup3/cg358production/ch410/02.m3u8
 
 #EXTINF:-1 tvg-id="TVRI.id" group-title="National TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjMghZl1TDjGNEqTXdC6e2np-miNEya8a1gA&usqp=CAU",TVRI
@@ -36,8 +36,11 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg221production/ch399/02.m3u
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://i.postimg.cc/DyJqNWJL/20230518-221003.png",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://i.postimg.cc/d3XG1FXh/20230518-221343.png" Magna Channel
+#EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://i.postimg.cc/d3XG1FXh/20230518-221343.png",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://i.postimg.cc/2SzB7BPW/nusantaratv.png", Nusantara TV
+https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.15",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
@@ -84,6 +87,15 @@ http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_202.png" group-title="Knowledge",National Geographic
 http://edge.linknetott.swiftserve.com/channelgroup1/cg015production/ch38/02.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.combipart1.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://www.pngplay.com/wp-content/uploads/7/Hbo-Transparent-File.png" group-title="MOVIES", HBO
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.m3u8
 
 ################    FIRSTMEDIA   ##########################
 ###########################################################
