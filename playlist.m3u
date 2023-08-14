@@ -74,13 +74,13 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg224production/ch320/index.
 ################    FIRSTMEDIA   ##########################
 ###########################################################
 
-#EXTINF:-1 group-title="FIRSTMEDIA",MOJI HD
+#EXTINF:-1 group-title="FIRSTMEDIA",MOJI
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",TRANSTV HD
+#EXTINF:-1 group-title="FIRSTMEDIA",TRANS TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch396)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",TRANS7 HD
+#EXTINF:-1 group-title="FIRSTMEDIA",TRANS 7
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch397)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",ANTV HD
+#EXTINF:-1 group-title="FIRSTMEDIA",ANTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch390)/index.m3u8
 #EXTINF:-1 group-title="FIRSTMEDIA",BTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch360)/index.m3u8
@@ -130,11 +130,11 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch379)/index.m3u
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch399)/index.m3u8
 #EXTINF:-1 group-title="FIRSTMEDIA",AXN
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch332)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",PARAMOUNT NETWORK
+#EXTINF:-1 group-title="FIRSTMEDIA",Paramount Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",ROCK ACTION
+#EXTINF:-1 group-title="FIRSTMEDIA",ROCK Action
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch330)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",ROCK ENTERTAINMENT
+#EXTINF:-1 group-title="FIRSTMEDIA",ROCK Entertainment
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch335)/index.m3u8
 #EXTINF:-1 group-title="FIRSTMEDIA",HITSMOVIE
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch324)/index.m3u8
@@ -176,7 +176,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch349)/index.m3u
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch333)/index.m3u8
 #EXTINF:-1 group-title="FIRSTMEDIA",GLOBAL TREKKER
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch366)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",DREAMWORK
+#EXTINF:-1 group-title="FIRSTMEDIA",DreamWorks
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch374)/index.m3u8
 #EXTINF:-1 group-title="FIRSTMEDIA",LIFETIME
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch155)/index.m3u8
@@ -198,13 +198,13 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch52)/index.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch372)/index.m3u8
 #EXTINF:-1 group-title="FIRSTMEDIA",CARTOON NETWORK
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch103)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",NICKELODEON
+#EXTINF:-1 group-title="FIRSTMEDIA",Nickelodeon
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch105)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",NICKJR.
+#EXTINF:-1 group-title="FIRSTMEDIA",Nick Jr
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch124)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",MTV 90S
+#EXTINF:-1 group-title="FIRSTMEDIA",MTV 90s
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",MTV STAGE
+#EXTINF:-1 group-title="FIRSTMEDIA",MTV Live
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch242)/index.m3u8
 #EXTINF:-1 group-title="FIRSTMEDIA",STINGRAY NATURESCAPE
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch367)/index.m3u8
