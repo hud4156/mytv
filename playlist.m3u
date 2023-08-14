@@ -16,7 +16,7 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.
 http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/4.jpg",TRANS TV
 http://edge.linknetott.swiftserve.com/channelgroup3/cg326production/ch396/02.m3u8
-#EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/3.jpg",Trans7
+#EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/3.jpg",Trans 7
 http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/02.m3u8
 #EXTINF:-1 tvg-id="KompasTV.id" group-title="National TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png",Kompas TV
 http://edge.linknetott.swiftserve.com/channelgroup3/cg358production/ch410/02.m3u8
@@ -88,9 +88,9 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch360)/index.m3u
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch19)/index.m3u8
 #EXTINF:-1 group-title="FIRSTMEDIA",JAKARTA GLOBE
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch2)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",KOMPASTV HD
+#EXTINF:-1 group-title="FIRSTMEDIA",KOMPAS TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch410)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",METROTV HD
+#EXTINF:-1 group-title="FIRSTMEDIA",METRO TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch394)/index.m3u8
 #EXTINF:-1 group-title="FIRSTMEDIA",IDX CHANNEL
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch389)/index.m3u8
@@ -152,7 +152,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch343)/index.m3u
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch262)/index.m3u8
 #EXTINF:-1 group-title="FIRSTMEDIA",ONE
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch338)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",ZEEBIOSKOP
+#EXTINF:-1 group-title="FIRSTMEDIA",Zee Bioskop
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch161)/index.m3u8
 #EXTINF:-1 group-title="FIRSTMEDIA",SPOTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch329)/index.m3u8
@@ -178,7 +178,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch333)/index.m3u
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch366)/index.m3u8
 #EXTINF:-1 group-title="FIRSTMEDIA",DreamWorks
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch374)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",LIFETIME
+#EXTINF:-1 group-title="FIRSTMEDIA",Lifetime
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch155)/index.m3u8
 #EXTINF:-1 group-title="FIRSTMEDIA",HGTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch354)/index.m3u8
