@@ -1,119 +1,75 @@
-#EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"  refresh="3600"
 
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/10.jpg",RCTI
 http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/18.jpg",MNCTV
 http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/11.jpg",GTV
 http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/19.jpg",iNews
 http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png",Indosiar
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png",SCTV
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
-
 #EXTINF:-1 tvg-id="OChannel.id" group-title="National TV" tvg-logo="https://i.postimg.cc/JhPD0mHR/20230518-215608.png",MOJI
 http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/4.jpg",TRANS TV
 http://edge.linknetott.swiftserve.com/channelgroup3/cg326production/ch396/02.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/3.jpg",Trans7
 http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/02.m3u8
-
 #EXTINF:-1 tvg-id="KompasTV.id" group-title="National TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png",Kompas TV
 http://edge.linknetott.swiftserve.com/channelgroup3/cg358production/ch410/02.m3u8
-
 #EXTINF:-1 tvg-id="TVRI.id" group-title="National TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjMghZl1TDjGNEqTXdC6e2np-miNEya8a1gA&usqp=CAU",TVRI
 http://edge.linknetott.swiftserve.com/channelgroup2/cg221production/ch399/02.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://i.postimg.cc/DyJqNWJL/20230518-221003.png",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://i.postimg.cc/d3XG1FXh/20230518-221343.png",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://i.postimg.cc/2SzB7BPW/nusantaratv.png",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
-
 #EXTINF:-1 tvg-id="rtv" group-title="National TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_big1.png?v=2.0.0.13",RTV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo=" https://i.postimg.cc/zvkbk62w/BN-Channel.png ",BN Channel
 https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9263bf14-cd77-401e-a21d-e3683fe6879d)/index.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jaktv_big1.png?v=2.0.0.13", JAK TV
 http://edge.linknetott.swiftserve.com/channelgroup5/cg530production/ch392/index.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo=" https://www.useetv.com/assets/images/channel/logo_jtv_big1.png?v=2.0.0.13",JTV
 http://edge.linknetott.swiftserve.com/channelgroup4/cg405production/ch17/index.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.15",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19515968_ico.png?ts=1655232909" group-title="Movies",Zee Bioskop
 http://edge.linknetott.swiftserve.com/channelgroup2/cg216production/ch161/02.m3u8
-
 #EXTINF:-1 tvg-id="ParamountNetwork.id" tvg-logo="https://i.postimg.cc/Wb6SVqBt/20230520-101134.jpg" group-title="Movies",Paramount Network
 http://edge.linknetott.swiftserve.com/channelgroup2/cg232production/ch309/02.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zGzc2gDw/20230519-230743.jpg" group-title="Movies",Citra Bioskop
 http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/02.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png/revision/latest/scale-to-width-down/250?cb=20230215050548" group-title="Lifestyle",Citra Entertainment
 http://edge.linknetott.swiftserve.com/channelgroup4/cg439production/ch379/02.m3u8
-
 #EXTINF:-1 tvg-id="hgtvasia.us" tvg-name="hgtv asia" tvg-logo="https://i.ibb.co/CBBxyNt/hgtv-home-tv.png" group-title="Lifestyle",HGTV
 http://edge.linknetott.swiftserve.com/channelgroup4/cg429production/ch354/02.m3u8
-
 #EXTINF:-1 tvg-id="AFN.id" tvg-name="vision prime" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZO52Hqv_6JPIG7RDkwabFdg5UM9b7R3F5gw&usqp=CAU" group-title="Lifestyle",AFN
 http://edge.linknetott.swiftserve.com/channelgroup4/cg419production/ch76/02.m3u8
-
 #EXTINF:-1 tvg-id="GEM.sg" tvg-logo="https://i.postimg.cc/kXcNz3Sb/20230520-094301.jpg" group-title="Lifestyle",Gem
 http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/02.m3u8
-
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_204.png" group-title="Knowledge",National Geographic Wild
 http://edge.linknetott.swiftserve.com/channelgroup1/cg014production/ch39/02.m3u8
-
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_203.png" group-title="Knowledge",Animal Planet
 http://edge.linknetott.swiftserve.com/channelgroup2/cg206production/ch31/02.m3u8
-
 #EXTINF:-1 tvg-name="wired 2 fish" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Knowledge",Love Nature
 http://edge.linknetott.swiftserve.com/channelgroup3/cg350production/ch368/02.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Bv6PBHWv/DMAX.png" group-title="Knowledge",DMAX
 http://edge.linknetott.swiftserve.com/channelgroup4/cg428production/ch347/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Ss8vYfLh/Global-Trekker.png" group-title="Knowledge",Global Trekker
 http://edge.linknetott.swiftserve.com/channelgroup4/cg434production/ch366/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="Knowledge",Discovery Channel
 http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/02.m3u8
-
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_202.png" group-title="Knowledge",National Geographic
 http://edge.linknetott.swiftserve.com/channelgroup1/cg015production/ch38/02.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/SR8kNSBh/Premier-Sports.png " group-title=" Sports ",Premier Sports
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/SR8kNSBh/Premier-Sports.png " group-title=" Sports",Premier Sports
 http://edge.linknetott.swiftserve.com/channelgroup2/cg224production/ch320/index.m3u8
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.combipart1.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://www.pngplay.com/wp-content/uploads/7/Hbo-Transparent-File.png" group-title="MOVIES", HBO
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.m3u8
 
 ################    FIRSTMEDIA   ##########################
 ###########################################################
