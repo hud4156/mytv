@@ -73,9 +73,6 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg224production/ch320/index.
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/GIjpZ3Q.png?v=1.0.0.1" group-title="Kids" tvg-id="Indikids" tvg-name="Indikids", Indikids
 https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/index.m3u8
 
-#EXTINF:0 tvg-id="HBO.id" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115" group-title="MOVIES",HBO HD
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.m3u8
-
 ################    FIRSTMEDIA   ##########################
 ###########################################################
 
