@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/10.jpg",RCTI
 http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
-https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.m3u8
+#https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.m3u8
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/18.jpg",MNCTV
 http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/11.jpg",GTV
