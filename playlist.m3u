@@ -235,6 +235,9 @@ http://edge02.odtv.az/o8/tnt/playlist.m3u8
 http://190.83.60.34:1414/play/a01h
 #EXTINF:-1 tvg-id="CL | TNT Sports 2" tvg-name="CL | TNT Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/TNT_Sports_2_2021.png/revision/latest?cb=20210117170635&path-prefix=es" group-title="DEPORTES", 238.2 | TNT Sports 2
 http://190.61.44.122:8000/play/a05a/index.m3u8
+#EXTINF:-1 tvg-id="CL | TNT Sports 2" tvg-name="CL | TNT Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/TNT_Sports_2_2021.png/revision/latest?cb=20210117170635&path-prefix=es" group-title="DEPORTES", TNT Sports 4
+http://edge02.odtv.az/o7/tnt4/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="D | ESPN Premium ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png" group-title="TV | Deportes", 233 | ESPN HD
 http://201.218.137.232:4123/play/a052/index.m3u8
