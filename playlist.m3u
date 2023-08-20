@@ -255,6 +255,9 @@ http://201.218.137.232:4123/play/a057/index.m3u8
 http://201.218.137.232:4123/play/a058/index.m3u8
 #EXTINF:-1,113 - Fox Sports 3 HD
 http://201.218.137.232:4123/play/a059/index.m3u8
+#EXTINF:-1,111 - Fox Sports
+http://41.205.93.154/FOXSPORTS1/index.m3u8
+
 
 #EXTINF:-1 group-title="ThaiSports", Premier Football 1
 #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
