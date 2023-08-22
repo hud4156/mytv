@@ -284,6 +284,17 @@ http://edge02.odtv.az/o4/beinsport/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | beIN Sports Xtra ñ" tvg-name="USA | beIN Sports Xtra ñ" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="DEPORTES", 257 | beIN Sports Xtra ñ
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hWo7Ba4.png" group-title="SPORT PREMIUM", SONY SPORTS TEN 1
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W96KVqu.png" group-title="SPORT PREMIUM", SONY SPORTS TEN 2
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vG19HxD.png" group-title="SPORT PREMIUM", SONY SPORTS TEN 3
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+#EXTINF:-1 group-title="SPORT PREMIUM" tvg-logo="https://i.imgur.com/dVRMHM4.png", SONY SPORTS TEN 4 
+https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
+#EXTINF:-1 group-title="SPORT PREMIUM" tvg-logo="https://i.imgur.com/40BbQUd.png", SONY SPORTS TEN 5 
+https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
+
 #EXTINF:-1,BEIN BOX OFFICE 1
 http://149.7.102.223:8080/BEINBOXOFFICE1/playlist.m3u8
 #EXTINF:-1,BEIN BOX OFFICE 2
