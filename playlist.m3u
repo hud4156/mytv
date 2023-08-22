@@ -25,8 +25,8 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg358production/ch410/index.
 http://edge.linknetott.swiftserve.com/channelgroup2/cg221production/ch399/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://i.postimg.cc/DyJqNWJL/20230518-221003.png",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://i.postimg.cc/d3XG1FXh/20230518-221343.png",Magna Channel
-https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fChjylx.png" group-title="NASIONAL",NET. HD
+http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://i.postimg.cc/2SzB7BPW/nusantaratv.png",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 #EXTINF:-1 tvg-id="rtv" group-title="National TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_big1.png?v=2.0.0.13",RTV
