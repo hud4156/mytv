@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/thefirefox12537/streams/master/epg/local/guide.xml"  refresh="3600"
 
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/3.jpg" group-title="DENSTV", DENS LIVE 1
