@@ -311,3 +311,24 @@ http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/221948
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="Movies",Cinemax
 http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/197964
 
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/508692b4bb39baaa5fc257367b5d799e.png" group-title="OLAHRAGA", RMC SPORT 1 HD
+http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/92
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/23bf89ddfb161b3421e73c78b16d2145.png" group-title="OLAHRAGA", RMC SPORT 2 HD
+http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/93 
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/0d1c01fd13c353330ad9a25c1484db80.png" group-title="OLAHRAGA", RMC SPORT 3 HD
+http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/94
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/c0ba8f5d77423a254a5f6c8e3b8c0c45.png" group-title="OLAHRAGA", RMC SPORT 4 HD
+http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/95
+#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/e6d0b47b757e61f99c72576c5d86c465.png" group-title="OLAHRAGA", RMC SPORT 5 HD
+http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/482
+
+#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/tsn1.png" group-title="OLAHRAGA", TSN 1 HD (CA)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/21006.m3u8
+#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/tsn2.png" group-title="OLAHRAGA", TSN 2 HD (CA)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/21005.m3u8
+#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/tsn3.png" group-title="OLAHRAGA", TSN 3 HD (CA)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/21004.m3u8
+#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/tsn4.png" group-title="OLAHRAGA", TSN 4 HD (CA)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/21003.m3u8
+#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/tsn5.png" group-title="OLAHRAGA", TSN 5 HD (CA)
+https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/21002.m3u8
