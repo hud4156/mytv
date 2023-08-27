@@ -1,109 +1,83 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/thefirefox12537/streams/master/epg/local/guide.xml"  refresh="3600"
 
-#EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/10.jpg",RCTI
-http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
-#https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.m3u8
-#EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/18.jpg",MNCTV
-http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
-#EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/11.jpg",GTV
-http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
-#EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/19.jpg",iNews
-http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
-#EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png",Indosiar
-http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png",SCTV
-http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://static.mncnow.id/images//channel/e8b7a6a8/f009.png",RCTI
+http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2-avc1_2499968=3.m3u8
+##http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
+#EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://static.mncnow.id/images//channel/c121c900/d11c.png",MNCTV
+http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2-avc1_2499968=6.m3u8
+##http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
+#EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://static.mncnow.id/images//channel/9436da00/11fe.png",GTV
+http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2-avc1_2499968=6.m3u8
+##http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
+#EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://static.mncnow.id/images//channel/0a37b838/4414.png",iNews
+http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd-avc1_2499968=7.m3u8
+##http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
+#EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://dev.firstmedia.com:8443/files/packages/tvlokal/indosiar.jpg",Indosiar
+http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/03.m3u8
+##http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://dev.firstmedia.com:8443/files/packages/tvlokal/sctv.jpg",SCTV
+http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/03.m3u8
+##http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 #EXTINF:-1 tvg-id="OChannel.id" group-title="National TV" tvg-logo="https://i.postimg.cc/JhPD0mHR/20230518-215608.png",MOJI
-http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/4.jpg",TRANS TV
-http://edge.linknetott.swiftserve.com/channelgroup3/cg326production/ch396/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/3.jpg",Trans 7
-http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/index.m3u8
-#EXTINF:-1 tvg-id="KompasTV.id" group-title="National TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png",Kompas TV
-http://edge.linknetott.swiftserve.com/channelgroup3/cg358production/ch410/index.m3u8
-#EXTINF:-1 tvg-id="TVRI.id" group-title="National TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjMghZl1TDjGNEqTXdC6e2np-miNEya8a1gA&usqp=CAU",TVRI
-http://edge.linknetott.swiftserve.com/channelgroup2/cg221production/ch399/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://i.postimg.cc/DyJqNWJL/20230518-221003.png",Metro TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo=" ",TV One
+http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
+##http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/index.m3u8
+##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://dev.firstmedia.com:8443/files/images/d/new-logo/channels/8-LOCAL/Trans%20TV%20SD-FirstMedia-Chl-9.jpg",TRANS TV
+http://edge.linknetott.swiftserve.com/channelgroup3/cg326production/ch396/03.m3u8
+##http://edge.linknetott.swiftserve.com/channelgroup3/cg326production/ch396/index.m3u8
+##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch396)/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://dev.firstmedia.com:8443/files/images/d/new-logo/channels/8-LOCAL/Trans%207%20SD-FirstMedia-Chl-8.jpg",Trans 7
+http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/03.m3u8
+##http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/index.m3u8
+##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch397)/index.m3u8
+#EXTINF:-1 group-title="National TV" tvg-logo="https://dev.firstmedia.com:8443/files/packages/tvlokal/antv.jpg",ANTV
+http://edge.linknetott.swiftserve.com/channelgroup3/cg314production/ch7/03.m3u8
+##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch390)/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/NET.%20HD-FirstMedia-Chl-411.jpg" group-title="NASIONAL",NET. HD
+http://210.210.155.37/qwr9ew/s/s08/01.m3u8
+##http://210.210.155.37/qwr9ew/s/s08/index.m3u8
+#EXTINF:-1 tvg-id="KompasTV.id" group-title="National TV" tvg-logo="https://dev.firstmedia.com:8443/files/packages/kompas-new.png",Kompas TV
+http://edge.linknetott.swiftserve.com/channelgroup3/cg358production/ch410/03.m3u8
+##http://edge.linknetott.swiftserve.com/channelgroup3/cg358production/ch410/index.m3u8
+##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch410)/index.m3u8
+#EXTINF:-1 tvg-id="TVRI.id" group-title="National TV" tvg-logo="https://dev.firstmedia.com:8443/files/images/d/new-logo/channels/8-LOCAL/TVRI%20SD-FirstMedia-Chl-16.jpg",TVRI
+http://edge.linknetott.swiftserve.com/channelgroup2/cg221production/ch399/03.m3u8
+##http://edge.linknetott.swiftserve.com/channelgroup2/cg221production/ch399/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://dev.firstmedia.com:8443/files/packages/metrorv-new.jpg",Metro TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1789666658_b1492000_sleng.m3u8
+##http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch394)/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://dev.firstmedia.com:8443/files/images/d/new-logo/channels/11-NEWS/TV%20One%20SD-FirstMedia-Chl-14.jpg",TV One
 http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fChjylx.png" group-title="NASIONAL",NET. HD
-http://210.210.155.37/qwr9ew/s/s08/index.m3u8
+##http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://i.postimg.cc/2SzB7BPW/nusantaratv.png",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 #EXTINF:-1 tvg-id="rtv" group-title="National TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_big1.png?v=2.0.0.13",RTV
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo=" https://i.postimg.cc/zvkbk62w/BN-Channel.png ",BN Channel
-https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9263bf14-cd77-401e-a21d-e3683fe6879d)/index.m3u8
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/05.m3u8
+##https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jaktv_big1.png?v=2.0.0.13", JAK TV
-http://edge.linknetott.swiftserve.com/channelgroup5/cg530production/ch392/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup5/cg530production/ch392/03.m3u8
+##http://edge.linknetott.swiftserve.com/channelgroup5/cg530production/ch392/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo=" https://www.useetv.com/assets/images/channel/logo_jtv_big1.png?v=2.0.0.13",JTV
-http://edge.linknetott.swiftserve.com/channelgroup4/cg405production/ch17/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup4/cg405production/ch17/03.m3u8
+##http://edge.linknetott.swiftserve.com/channelgroup4/cg405production/ch17/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.15",CNN Indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w430374872_b384000_sleng.m3u8
+##https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
-#EXTINF:-1 tvg-id="ParamountNetwork.id" tvg-logo="https://i.postimg.cc/Wb6SVqBt/20230520-101134.jpg" group-title="Movies",Paramount Network
-http://edge.linknetott.swiftserve.com/channelgroup2/cg232production/ch309/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zGzc2gDw/20230519-230743.jpg" group-title="Movies",Citra Bioskop
-http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png/revision/latest/scale-to-width-down/250?cb=20230215050548" group-title="Lifestyle",Citra Entertainment
-http://edge.linknetott.swiftserve.com/channelgroup4/cg439production/ch379/index.m3u8
-#EXTINF:-1 tvg-id="hgtvasia.us" tvg-name="hgtv asia" tvg-logo="https://i.ibb.co/CBBxyNt/hgtv-home-tv.png" group-title="Lifestyle",HGTV
-http://edge.linknetott.swiftserve.com/channelgroup4/cg429production/ch354/index.m3u8
-#EXTINF:-1 tvg-id="AFN.id" tvg-name="vision prime" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZO52Hqv_6JPIG7RDkwabFdg5UM9b7R3F5gw&usqp=CAU" group-title="Lifestyle",AFN
-http://edge.linknetott.swiftserve.com/channelgroup4/cg419production/ch76/02.m3u8
-#EXTINF:-1 tvg-id="GEM.sg" tvg-logo="https://i.postimg.cc/kXcNz3Sb/20230520-094301.jpg" group-title="Lifestyle",Gem
-http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/02.m3u8
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_204.png" group-title="Knowledge",National Geographic Wild
-http://edge.linknetott.swiftserve.com/channelgroup1/cg014production/ch39/02.m3u8
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_203.png" group-title="Knowledge",Animal Planet
-http://edge.linknetott.swiftserve.com/channelgroup2/cg206production/ch31/02.m3u8
-#EXTINF:-1 tvg-name="wired 2 fish" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Knowledge",Love Nature
-http://edge.linknetott.swiftserve.com/channelgroup3/cg350production/ch368/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bv6PBHWv/DMAX.png" group-title="Knowledge",DMAX
-http://edge.linknetott.swiftserve.com/channelgroup4/cg428production/ch347/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Ss8vYfLh/Global-Trekker.png" group-title="Knowledge",Global Trekker
-http://edge.linknetott.swiftserve.com/channelgroup4/cg434production/ch366/index.m3u8
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="Knowledge",Discovery Channel
-http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/02.m3u8
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_202.png" group-title="Knowledge",National Geographic
-http://edge.linknetott.swiftserve.com/channelgroup1/cg015production/ch38/02.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/SR8kNSBh/Premier-Sports.png " group-title=" Sports",Premier Sports
-http://edge.linknetott.swiftserve.com/channelgroup2/cg224production/ch320/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/GIjpZ3Q.png?v=1.0.0.1" group-title="Kids" tvg-id="Indikids" tvg-name="Indikids", Indikids
-https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/index.m3u8
-
-
-################    FIRSTMEDIA   ##########################
-###########################################################
-
-#EXTINF:-1 group-title="FIRSTMEDIA",MOJI
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",TRANS TV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch396)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",TRANS 7
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch397)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",ANTV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch390)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",BTV
+#EXTINF:-1 group-title="National TV" tvg-logo="https://dev.firstmedia.com:8443/files/images/d/new-logo/channels/11-NEWS/Berita%20Satu%20SD-FirstMedia-Chl-1.jpg",BTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch360)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",BERITASATU WORLD
+#EXTINF:-1 group-title="National TV",BERITASATU WORLD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch19)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",JAKARTA GLOBE
+#EXTINF:-1 group-title="National TV" tvg-logo="https://dev.firstmedia.com:8443/files/images/d/new-logo/channels/11-NEWS/Jakarta%20Globe%20News%20Channel%20SD-FirstMedia-Chl-2.jpg",JAKARTA GLOBE
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch2)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",KOMPAS TV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch410)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",METRO TV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch394)/index.m3u8
 #EXTINF:-1 group-title="FIRSTMEDIA",IDX CHANNEL
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch389)/index.m3u8
 #EXTINF:-1 group-title="FIRSTMEDIA",GARUDATV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch45)/index.m3u8
 #EXTINF:-1 group-title="FIRSTMEDIA",DAAITV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch128)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",HOREE!
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
 #EXTINF:-1 group-title="FIRSTMEDIA",JAKTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch392)/index.m3u8
 #EXTINF:-1 group-title="FIRSTMEDIA",JTV
@@ -180,8 +154,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch349)/index.m3u
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch333)/index.m3u8
 #EXTINF:-1 group-title="FIRSTMEDIA",GLOBAL TREKKER
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch366)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",DreamWorks
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch374)/index.m3u8
 #EXTINF:-1 group-title="FIRSTMEDIA",Lifetime
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch155)/index.m3u8
 #EXTINF:-1 group-title="FIRSTMEDIA",HGTV
@@ -194,6 +166,10 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/index.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch355)/index.m3u8
 #EXTINF:-1 group-title="FIRSTMEDIA",FASHIONTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch168)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",HOREE!
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u8
+#EXTINF:-1 group-title="FIRSTMEDIA",DreamWorks
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch374)/index.m3u8
 #EXTINF:-1 group-title="FIRSTMEDIA",DAVINCI
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch371)/index.m3u8
 #EXTINF:-1 group-title="FIRSTMEDIA",ANIMAX
@@ -216,8 +192,17 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch367)/index.m3u
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3344)/index.m3u8
 #EXTINF:-1 group-title="FIRSTMEDIA",GEM
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3400)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",CH3888
+#EXTINF:-1 group-title="FIRSTMEDIA",Praise
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3888)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_204.png" group-title="Knowledge",National Geographic Wild
+http://edge.linknetott.swiftserve.com/channelgroup1/cg014production/ch39/02.m3u8
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_202.png" group-title="Knowledge",National Geographic
+http://edge.linknetott.swiftserve.com/channelgroup1/cg015production/ch38/02.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/SR8kNSBh/Premier-Sports.png " group-title=" Sports",Premier Sports
+http://edge.linknetott.swiftserve.com/channelgroup2/cg224production/ch320/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/GIjpZ3Q.png?v=1.0.0.1" group-title="Kids" tvg-id="Indikids" tvg-name="Indikids", Indikids
+https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/index.m3u8
 
 ################    TEST   ##########################
 ###########################################################
@@ -301,6 +286,10 @@ http://149.7.102.223:8080/BEINBOXOFFICE1/playlist.m3u8
 http://149.7.102.223:8080/BEINBOXOFFICE2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="Movies",HBO
+https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/index.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="Movies",HBO
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="Movies",HBO
 http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/197972
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="Movies",HBO Family
 http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/197055
@@ -332,3 +321,14 @@ http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/181853
 https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/21003.m3u8
 #EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/tsn5.png" group-title="OLAHRAGA", TSN 5 HD (CA)
 https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/21002.m3u8
+
+#EXTINF:-1 group-title="INDIA" tvg-logo="",Star sports1
+http://103.120.172.74:4100
+#EXTINF:-1 group-title="INDIA" tvg-logo="",Star sports2
+http://103.120.172.74:4200
+#EXTINF:-1 group-title="INDIA" tvg-logo="",Star sports1
+http://103.120.172.74:4600
+#EXTINF:-1 group-title="INDIA" tvg-logo="",Star sports2
+http://103.120.172.74:4700
+#EXTINF:-1 group-title="INDIA" tvg-logo="",Star sports2
+http://103.120.172.74:4800
