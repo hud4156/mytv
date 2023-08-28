@@ -207,42 +207,6 @@ https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(c99739b1-0748-
 ################    TEST   ##########################
 ###########################################################
 
-#EXTINF:-1 tvg-id="AR | DSports" tvg-name="AR | DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/175px-DSports.png" group-title="DEPORTES", 252 | DSports
-http://201.218.137.232:4123/play/a05a/index.m3u8
-#EXTINF:-1 tvg-id="AR | DSports 2" tvg-name="AR | DSports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/DSports2.png/175px-DSports2.png" group-title="DEPORTES", 252.2 | DSports 2
-http://201.218.137.232:4123/play/a05b/index.m3u8
-#EXTINF:-1 tvg-id="AR | DSports +" tvg-name="AR | DSports +" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/613.png" group-title="DEPORTES", 252.3 | DSports +
-http://201.218.137.232:4123/play/a05c/index.m3u8
-
-#EXTINF:-1 tvg-id="CL | TNT Sports" tvg-name="CL | TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/320px-TNT_Sports_2021_logo.svg.png" group-title="DEPORTES",TNT Sports
-http://edge02.odtv.az/o8/tnt/playlist.m3u8
-#EXTINF:-1 tvg-id="CL | TNT Sports" tvg-name="CL | TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/320px-TNT_Sports_2021_logo.svg.png" group-title="DEPORTES", 238 | TNT Sports
-http://190.83.60.34:1414/play/a01h
-#EXTINF:-1 tvg-id="CL | TNT Sports 2" tvg-name="CL | TNT Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/TNT_Sports_2_2021.png/revision/latest?cb=20210117170635&path-prefix=es" group-title="DEPORTES", 238.2 | TNT Sports 2
-http://190.61.44.122:8000/play/a05a/index.m3u8
-#EXTINF:-1 tvg-id="CL | TNT Sports 2" tvg-name="CL | TNT Sports 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/TNT_Sports_2_2021.png/revision/latest?cb=20210117170635&path-prefix=es" group-title="DEPORTES", TNT Sports 4
-http://edge02.odtv.az/o7/tnt4/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="D | ESPN Premium ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/ESPN_HD.png" group-title="TV | Deportes", 233 | ESPN HD
-http://201.218.137.232:4123/play/a052/index.m3u8
-#EXTINF:-1 tvg-id="USA | ESPN 2 HD" tvg-name="USA | ESPN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPTRBt4ewzEfnY5JKhNPNx0s4TevGJijavKA&usqp=CAU" group-title="DEPORTES", 234 | ESPN 2 HD
-http://201.218.137.232:4123/play/a053/index.m3u8
-#EXTINF:-1,108 - ESPN 3 HD
-http://201.218.137.232:4123/play/a054/index.m3u8
-#EXTINF:-1,109 - ESPN 4 HD
-http://201.218.137.232:4123/play/a055/index.m3u8
-#EXTINF:-1,110 - ESPN EXTRA HD
-http://201.218.137.232:4123/play/a056/index.m3u8
-#EXTINF:-1,111 - Fox Sports HD
-http://201.218.137.232:4123/play/a057/index.m3u8
-#EXTINF:-1,112 - Fox Sports 2 HD
-http://201.218.137.232:4123/play/a058/index.m3u8
-#EXTINF:-1,113 - Fox Sports 3 HD
-http://201.218.137.232:4123/play/a059/index.m3u8
-#EXTINF:-1,111 - Fox Sports
-http://41.205.93.154/FOXSPORTS1/index.m3u8
-
 
 #EXTINF:-1 group-title="ThaiSports", Premier Football 1
 #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
@@ -279,37 +243,6 @@ https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 #EXTINF:-1 group-title="SPORT PREMIUM" tvg-logo="https://i.imgur.com/40BbQUd.png", SONY SPORTS TEN 5 
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
-
-#EXTINF:-1,BEIN BOX OFFICE 1
-http://149.7.102.223:8080/BEINBOXOFFICE1/playlist.m3u8
-#EXTINF:-1,BEIN BOX OFFICE 2
-http://149.7.102.223:8080/BEINBOXOFFICE2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="Movies",HBO
-https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/index.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="Movies",HBO
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="Movies",HBO
-http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/197972
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="Movies",HBO Family
-http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/197055
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="Movies",HBO Hits
-http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/196480
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="Movies",HBO Signature
-http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/221948
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="Movies",Cinemax
-http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/197964
-
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/508692b4bb39baaa5fc257367b5d799e.png" group-title="OLAHRAGA", RMC SPORT 1 HD
-http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/92
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/23bf89ddfb161b3421e73c78b16d2145.png" group-title="OLAHRAGA", RMC SPORT 2 HD
-http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/93 
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/0d1c01fd13c353330ad9a25c1484db80.png" group-title="OLAHRAGA", RMC SPORT 3 HD
-http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/94
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/c0ba8f5d77423a254a5f6c8e3b8c0c45.png" group-title="OLAHRAGA", RMC SPORT 4 HD
-http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/95
-#EXTINF:-1 tvg-logo="http://obsfullhd.tv:25461/images/e6d0b47b757e61f99c72576c5d86c465.png" group-title="OLAHRAGA", RMC SPORT 5 HD
-http://obshd.tv:25461/@localhdtv/hffEJ2kzX3Qf/482
 
 #EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/tsn1.png" group-title="OLAHRAGA", TSN 1 HD (CA)
 https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/21006.m3u8
