@@ -265,3 +265,28 @@ http://103.120.172.74:4600
 http://103.120.172.74:4700
 #EXTINF:-1 group-title="INDIA" tvg-logo="",Star sports2
 http://103.120.172.74:4800
+
+
+#EXTINF:-1 group-title="test" tvg-logo="",Mentari TV
+http://103.166.27.2:800/play/a018
+#EXTINF:-1 group-title="test" tvg-logo="",CINEMACHI
+http://103.166.27.2:800/play/a028
+#EXTINF:-1 group-title="test" tvg-logo="",CINEMACHI ACTION
+http://103.166.27.2:800/play/a026
+#EXTINF:-1 group-title="test" tvg-logo="",CINEMACHI KIDS
+http://103.166.27.2:800/play/a024
+#EXTINF:-1 group-title="test" tvg-logo="",CINEMACHI MAX
+http://103.166.27.2:800/play/a029
+#EXTINF:-1 group-title="test" tvg-logo="",CINEMACHI XTRA
+http://103.166.27.2:800/play/a025
+
+#EXTINF: -1 tvg-id="trans7.id" tvg-name="Trans 7" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="NATIONAL TV", Trans 7 (M*)
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880791
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="NATIONAL TV", ANTV (T*)
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cd6e9c5992395/manifest.m3u8
