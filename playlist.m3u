@@ -27,8 +27,8 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg326production/ch396/03.m3u
 ##http://edge.linknetott.swiftserve.com/channelgroup3/cg326production/ch396/index.m3u8
 ##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch396)/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://dev.firstmedia.com:8443/files/images/d/new-logo/channels/8-LOCAL/Trans%207%20SD-FirstMedia-Chl-8.jpg",Trans 7
-http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/03.m3u8
-##http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/index.m3u8
+##http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/03.m3u8
 ##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch397)/index.m3u8
 #EXTINF:-1 group-title="National TV" tvg-logo="https://dev.firstmedia.com:8443/files/packages/tvlokal/antv.jpg",ANTV
 http://edge.linknetott.swiftserve.com/channelgroup3/cg314production/ch7/03.m3u8
