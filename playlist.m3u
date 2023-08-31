@@ -54,13 +54,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://i.postimg.cc/2SzB7BPW/nusantaratv.png",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 #EXTINF:-1 tvg-id="rtv" group-title="National TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_big1.png?v=2.0.0.13",RTV
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/05.m3u8
-##https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
+##http://rr1.dens.tv/h/h10/index1.m3u8
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jaktv_big1.png?v=2.0.0.13", JAK TV
-http://edge.linknetott.swiftserve.com/channelgroup5/cg530production/ch392/03.m3u8
 ##http://edge.linknetott.swiftserve.com/channelgroup5/cg530production/ch392/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo=" https://www.useetv.com/assets/images/channel/logo_jtv_big1.png?v=2.0.0.13",JTV
-http://edge.linknetott.swiftserve.com/channelgroup4/cg405production/ch17/03.m3u8
 ##http://edge.linknetott.swiftserve.com/channelgroup4/cg405production/ch17/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.15",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w430374872_b384000_sleng.m3u8
@@ -79,10 +77,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch389)/index.m3u
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch45)/index.m3u8
 #EXTINF:-1 group-title="FIRSTMEDIA",DAAITV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch128)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",JAKTV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch392)/index.m3u8
-#EXTINF:-1 group-title="FIRSTMEDIA",JTV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch17)/index.m3u8
 #EXTINF:-1 group-title="FIRSTMEDIA",TV9 NUSANTARA
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch352)/index.m3u8
 #EXTINF:-1 group-title="FIRSTMEDIA",WESTJAVA NETWORK
@@ -182,6 +176,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch103)/index.m3u
 #EXTINF:-1 group-title="FIRSTMEDIA",Nickelodeon
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch105)/index.m3u8
 #EXTINF:-1 group-title="FIRSTMEDIA",Nick Jr
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ja9Rx9p.png",My Kidz 
+http://210.210.155.37/uq2663/h/h191/index.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch124)/index.m3u8
 #EXTINF:-1 group-title="FIRSTMEDIA",MTV 90s
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
@@ -298,6 +294,12 @@ http://175.107.244.52:4457/play/a07o/index.m3u8
 http://175.107.244.52:4457/play/a07q/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rs0KHcvd/Hbo.png" group-title="MOVIE",HBO 3
 http://175.107.244.52:4457/play/a07r/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Dunia_Sinema_New.png/revision/latest?cb=20210712100310", DUNIA SINEMA HD
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png",Sony PIX
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Indonesia2",UseePrime
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
