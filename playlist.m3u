@@ -38,7 +38,7 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg314production/ch7/03.m3u8
 http://210.210.155.37/qwr9ew/s/s08/01.m3u8
 ##http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 #EXTINF:-1 tvg-id="KompasTV.id" group-title="National TV" tvg-logo="https://dev.firstmedia.com:8443/files/packages/kompas-new.png",Kompas TV
-http://edge.linknetott.swiftserve.com/channelgroup3/cg358production/ch410/03.m3u8
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
 ##http://edge.linknetott.swiftserve.com/channelgroup3/cg358production/ch410/index.m3u8
 ##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch410)/index.m3u8
 #EXTINF:-1 tvg-id="TVRI.id" group-title="National TV" tvg-logo="https://dev.firstmedia.com:8443/files/images/d/new-logo/channels/8-LOCAL/TVRI%20SD-FirstMedia-Chl-16.jpg",TVRI
@@ -288,12 +288,54 @@ http://37.49.230.42:8080/Vladisergeevic/7eef2c4388/157558
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/480daf2471d76a0819242a59da7005f9.png" group-title="WorldSports", Astro SuperSport 5
 http://37.49.230.42:8080/Vladisergeevic/7eef2c4388/287792
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png",Astro Supersport 2 (*)
+http://198.16.100.90:8278/Assp2/playlist.m3u8?tid=ME1E4056565440565654&ct=19249&tsum=1bf59bebb8a43a859eae9f1b3759f844
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png",Astro Supersport 3 (*)
+http://198.16.100.90:8278/Assp3/playlist.m3u8?tid=MB4B2552451125524511&ct=19249&tsum=f6cb45a995e37dfc7c40d515f29924e4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/TwYTg3Lr/TNT-Sports-1.png" group-title=" SPORTSTATION 2", TNT Sports 1
+http://raw.bitnode.pm:81/giorgi/giorgi/104722
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/TwYTg3Lr/TNT-Sports-1.png" group-title=" SPORTSTATION 2", TNT Sports 1 (backup)
+http://37.49.230.48:8080/GenIptvLast/cGW7qTY5txZ3DOfz/270
+#EXTINF:-1 tvg-id="" tvg-logo=" https://i.postimg.cc/MGYWnQT6/TNT-Sports-2.png " group-title=" SPORTSTATION 2", TNT Sports 2
+http://raw.bitnode.pm:81/giorgi/giorgi/104724
+#EXTINF:-1 tvg-id="" tvg-logo=" https://i.postimg.cc/MGYWnQT6/TNT-Sports-2.png " group-title=" SPORTSTATION 2", TNT Sports 2 (backup)
+http://37.49.230.48:8080/GenIptvLast/cGW7qTY5txZ3DOfz/273
+#EXTINF:-1 tvg-id="" tvg-logo=" https://i.postimg.cc/5yX1KKmy/TNT-Sports-3.png " group-title=" SPORTSTATION 2", TNT Sports 3
+http://raw.bitnode.pm:81/giorgi/giorgi/104726
+#EXTINF:-1 tvg-id="" tvg-logo=" https://i.postimg.cc/5yX1KKmy/TNT-Sports-3.png " group-title=" SPORTSTATION 2", TNT Sports 3 (backup)
+http://37.49.230.48:8080/GenIptvLast/cGW7qTY5txZ3DOfz/271
+#EXTINF:-1 tvg-id="" tvg-logo=" https://i.postimg.cc/SsTkrbCH/TNT-Sports-4.png " group-title=" SPORTSTATION 2", TNT Sports 4
+http://raw.bitnode.pm:81/giorgi/giorgi/20380
+#EXTINF:-1 tvg-id="" tvg-logo=" https://i.postimg.cc/SsTkrbCH/TNT-Sports-4.png " group-title=" SPORTSTATION 2", TNT Sports 4 (backup)
+http://37.49.230.48:8080/GenIptvLast/cGW7qTY5txZ3DOfz/1124
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/Vtk2cGI.png",beIN SPORTS 1
+#http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165105
+#http://103.180.119.90:9911/stream/channelid/388105260?profile=pass
+https://delivery.ksa.my.id/stream/macan_sport_1/playlist.m3u8?token=ym1wtrp
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/UYSMao3.png",beIN SPORTS 3
+#http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298506
+#http://103.180.119.90:9911/stream/channelid/1956700996?profile=pass
+https://delivery.ksa.my.id/stream/macan_sport_2/playlist.m3u8?token=ym1wtrp
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rs0KHcvd/Hbo.png" group-title="MOVIE",HBO
 http://175.107.244.52:4457/play/a07o/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rs0KHcvd/Hbo.png" group-title="MOVIE",HBO 2
 http://175.107.244.52:4457/play/a07q/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rs0KHcvd/Hbo.png" group-title="MOVIE",HBO 3
 http://175.107.244.52:4457/play/a07r/index.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO Group", CINEMAX
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/197964
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO Group", HBO
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/197972
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png" group-title="HBO Group", HBO family
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/197055
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO Group", HBO Hits
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/196480
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/512px-HBO_Signature_Asia.png" group-title="HBO Group", HBO Signature
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/221948
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Dunia_Sinema_New.png/revision/latest?cb=20210712100310", DUNIA SINEMA HD
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
