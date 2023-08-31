@@ -27,7 +27,8 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg326production/ch396/03.m3u
 ##http://edge.linknetott.swiftserve.com/channelgroup3/cg326production/ch396/index.m3u8
 ##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch396)/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://dev.firstmedia.com:8443/files/images/d/new-logo/channels/8-LOCAL/Trans%207%20SD-FirstMedia-Chl-8.jpg",Trans 7
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch397)/index.m3u8
+https://video.detik.com:443/trans7/smil:trans7.smil/chunklist_w428782846_b744100_sleng.m3u8
+##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch397)/index.m3u8
 ##http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/index.m3u8
 ##http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/03.m3u8
 #EXTINF:-1 group-title="National TV" tvg-logo="https://dev.firstmedia.com:8443/files/packages/tvlokal/antv.jpg",ANTV
@@ -280,13 +281,23 @@ http://103.166.27.2:800/play/a029
 #EXTINF:-1 group-title="test" tvg-logo="",CINEMACHI XTRA
 http://103.166.27.2:800/play/a025
 
-#EXTINF: -1 tvg-id="trans7.id" tvg-name="Trans 7" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="NATIONAL TV", Trans 7 (M*)
-https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880791
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="WorldSports", Astro SuperSport
+http://37.49.230.42:8080/Vladisergeevic/7eef2c4388/146068
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="WorldSports", Astro SuperSport 2
+http://37.49.230.42:8080/Vladisergeevic/7eef2c4388/157556
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="WorldSports", Astro SuperSport 3
+http://37.49.230.42:8080/Vladisergeevic/7eef2c4388/157557
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="WorldSports", Astro SuperSport 4
+http://37.49.230.42:8080/Vladisergeevic/7eef2c4388/157558
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/480daf2471d76a0819242a59da7005f9.png" group-title="WorldSports", Astro SuperSport 5
+http://37.49.230.42:8080/Vladisergeevic/7eef2c4388/287792
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="NATIONAL TV", ANTV (T*)
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cd6e9c5992395/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rs0KHcvd/Hbo.png" group-title="MOVIE",HBO
+http://175.107.244.52:4457/play/a07o/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rs0KHcvd/Hbo.png" group-title="MOVIE",HBO 2
+http://175.107.244.52:4457/play/a07q/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rs0KHcvd/Hbo.png" group-title="MOVIE",HBO 3
+http://175.107.244.52:4457/play/a07r/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Indonesia2",UseePrime
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
