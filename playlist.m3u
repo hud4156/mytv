@@ -204,7 +204,8 @@ https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(c99739b1-0748-
 ################    TEST   ##########################
 ###########################################################
 
-
+#EXTINF:-1 group-title="test" tvg-logo="",Mentari TV
+http://103.166.27.2:800/play/a018
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hWo7Ba4.png" group-title="SPORT PREMIUM", SONY SPORTS TEN 1
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
@@ -240,11 +241,6 @@ http://103.120.172.74:4600
 http://103.120.172.74:4700
 #EXTINF:-1 group-title="INDIA" tvg-logo="",Star sports2
 http://103.120.172.74:4800
-
-
-#EXTINF:-1 group-title="test" tvg-logo="",Mentari TV
-http://103.166.27.2:800/play/a018
-
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="WorldSports", Astro SuperSport
 http://37.49.230.42:8080/Vladisergeevic/7eef2c4388/146068
