@@ -271,10 +271,6 @@ http://37.49.230.42:8080/Vladisergeevic/7eef2c4388/157558
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/480daf2471d76a0819242a59da7005f9.png" group-title="WorldSports", Astro SuperSport 5
 http://37.49.230.42:8080/Vladisergeevic/7eef2c4388/287792
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png",Astro Supersport 2 (*)
-http://198.16.100.90:8278/Assp2/playlist.m3u8?tid=ME1E4056565440565654&ct=19249&tsum=1bf59bebb8a43a859eae9f1b3759f844
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png",Astro Supersport 3 (*)
-http://198.16.100.90:8278/Assp3/playlist.m3u8?tid=MB4B2552451125524511&ct=19249&tsum=f6cb45a995e37dfc7c40d515f29924e4
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/Vtk2cGI.png",beIN SPORTS 1
 https://delivery.ksa.my.id/stream/macan_sport_1/playlist.m3u8?token=ym1wtrp
@@ -310,3 +306,103 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="polsatsport.pl" tvg-name="PL: Polsat Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f3f3f2765b30bb460c9f2c07a2303b90.png" group-title="SUPERMEDIA  2706",PL: Polsat Sport
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/356
+#EXTINF:-1 tvg-id="polsatsportpremium1.pl" tvg-name="PL: Polsat Sport Premium 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/36b09d18656255ec922fb2c5d324f58c.png" group-title="SUPERMEDIA  2706",PL: Polsat Sport Premium 1
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/23199
+#EXTINF:-1 tvg-id="polsatsportpremium2.pl" tvg-name="PL: Polsat Sport Premium 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/22f29148c61f543ed4083efeeacf931e.png" group-title="SUPERMEDIA  2706",PL: Polsat Sport Premium 2
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/29607
+#EXTINF:-1 tvg-id="polsatsportpremium3ppv.pl" tvg-name="PL: Polsat Sport Premium 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e1ec5f267ca1decde0d9e51925976033.png" group-title="SUPERMEDIA  2706",PL: Polsat Sport Premium 3
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/147031
+#EXTINF:-1 tvg-id="polsatsportpremium4ppv.pl" tvg-name="PL: Polsat Sport Premium 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2370076885bf3c96a4e14c15ceba0409.png" group-title="SUPERMEDIA  2706",PL: Polsat Sport Premium 4
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/147034
+#EXTINF:-1 tvg-id="polsatsportpremium5ppv.pl" tvg-name="PL: Polsat Sport Premium 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/14bd016816e1cbf9669f1b542435f135.png" group-title="SUPERMEDIA  2706",PL: Polsat Sport Premium 5
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/147035
+#EXTINF:-1 tvg-id="polsatsportpremium6ppv.pl" tvg-name="PL: Polsat Sport Premium 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3c404f889f4046f09e2dca333dea70f2.png" group-title="SUPERMEDIA  2706",PL: Polsat Sport Premium 6
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/147036
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="QA: beIN Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/72095cc224b3bf8c2b76b69f41363823.png" group-title="SUPERMEDIA  2706",QA: beIN Sports 1
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/100
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="QA: beIN Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/31f6dbe34a61abb6cadc5a13d54d8b4d.png" group-title="SUPERMEDIA  2706",QA: beIN Sports 2
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/101
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="QA: beIN Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/e44c1ec620401a2f6238c2c24ccd6c58.png" group-title="SUPERMEDIA  2706",QA: beIN Sports 3
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/102
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="QA: beIN Sports 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/0dea19dc983ea75ced697dfaa4c47d85.png" group-title="SUPERMEDIA  2706",QA: beIN Sports 4
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/103
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="QA: beIN Sports 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/b6c7110b7a880c716cb68073a5df5d90.png" group-title="SUPERMEDIA  2706",QA: beIN Sports 5
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/104
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="QA: beIN Sports 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/3ad0c2b25e878d21a2e3820b0c43a447.png" group-title="SUPERMEDIA  2706",QA: beIN Sports 6
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/105
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="QA: beIN Sports 7" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/f823bec52bbeb99de40933222aed1f4f.png" group-title="SUPERMEDIA  2706",QA: beIN Sports 7
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/106
+#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="QA: beIN Sports English 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/076e8935ff1715e7ebc42f5f23b9b152.png" group-title="SUPERMEDIA  2706",QA: beIN Sports English 1
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/110
+#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="QA: beIN Sports English 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/33be90fdfdbfbf011c3e65d621196ec8.png" group-title="SUPERMEDIA  2706",QA: beIN Sports English 2
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/111
+#EXTINF:-1 tvg-id="beinsports3en.qa" tvg-name="QA: beIN Sports English 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/724539660042a9755e6c7d5dafef0a55.png" group-title="SUPERMEDIA  2706",QA: beIN Sports English 3
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/267769
+#EXTINF:-1 tvg-id="beinsportsnba.qa" tvg-name="QA: beIN Sports NBA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/9cfea567e2dd21638264fe3a6f0a2275.png" group-title="SUPERMEDIA  2706",QA: beIN Sports NBA
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/15962
+#EXTINF:-1 tvg-id="beinsports10olympic.qa" tvg-name="QA: beIN Sports Premium 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/f8dc1d4d49006fbed81fb539bc89cde9.png" group-title="SUPERMEDIA  2706",QA: beIN Sports Premium 1
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/109
+#EXTINF:-1 tvg-id="beinsports2premium.qa" tvg-name="QA: beIN Sports Premium 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/4d9551cacc9433108171ed793131df12.png" group-title="SUPERMEDIA  2706",QA: beIN Sports Premium 2
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/280145
+#EXTINF:-1 tvg-id="beinsports3premium.qa" tvg-name="QA: beIN Sports Premium 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/f1f5358024c749247618e2fcf2892eb5.jpg" group-title="SUPERMEDIA  2706",QA: beIN Sports Premium 3
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/280249
+#EXTINF:-1 tvg-id="" tvg-name="ID: beIN Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/0df06bc563f4f3bf615dc3ea7e55fb8c.png" group-title="SUPERMEDIA  2706",ID: beIN Sports 1
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/165105
+#EXTINF:-1 tvg-id="" tvg-name="ID: beIN Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ba5a124ab816d4a371da240396786a62.png" group-title="SUPERMEDIA  2706",ID: beIN Sports 3
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298506
+#EXTINF:-1 tvg-id="" tvg-name="RS: Sport Klub" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d2c5dc85785e9c070002066c2c7865ec.png" group-title="SUPERMEDIA  2706",RS: Sport Klub
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3466
+#EXTINF:-1 tvg-id="" tvg-name="RS: Sport Klub 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d1fe0f9118f2c6c8d1ae0c9f704701c8.png" group-title="SUPERMEDIA  2706",RS: Sport Klub 2
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3468
+#EXTINF:-1 tvg-id="" tvg-name="RS: Sport Klub 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4c1330777185e47ef3f0ee3ea69aa0fc.png" group-title="SUPERMEDIA  2706",RS: Sport Klub 3
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3469
+#EXTINF:-1 tvg-id="" tvg-name="RS: Sport Klub 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/133fc2e99d0909d750bd414d1c22a7be.jpg" group-title="SUPERMEDIA  2706",RS: Sport Klub 4
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/5563
+#EXTINF:-1 tvg-id="" tvg-name="RS: Sport Klub 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f0217ea7a76646241a84a64122d79c25.jpg" group-title="SUPERMEDIA  2706",RS: Sport Klub 5
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/10752
+#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Premier League" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/2f8f23e2a35d5a4e9ea336d7b51fd98f.png" group-title="SUPERMEDIA  2706",ZA: SuperSport Premier League
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/11642
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="SUPERMEDIA  2706",MY: Astro SuperSport
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/146068
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="SUPERMEDIA  2706",MY: Astro SuperSport 2
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/157556
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="SUPERMEDIA  2706",MY: Astro SuperSport 3
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/157557
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="SUPERMEDIA  2706",MY: Astro SuperSport 4
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/157558
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 5" tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/480daf2471d76a0819242a59da7005f9.png" group-title="SUPERMEDIA  2706",MY: Astro SuperSport 5
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/287792
+#EXTINF:-1 tvg-id="" tvg-name="US: Tennis Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/590b3e12b150b7db6d5fc81e53da0d82.png" group-title="SUPERMEDIA  2706",US: Tennis Channel
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/2275
+#EXTINF:-1 tvg-id="" tvg-name="IT: Super Tennis" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/bdefcae800980ed5e3bf454b7552b79c.png" group-title="SUPERMEDIA  2706",IT: Super Tennis
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/285535
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Tennis" tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/4dfe7d4fa4bd2e6449d6026f1ce2cce8.png" group-title="SUPERMEDIA  2706",DE: Sky Sport Tennis
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/297552
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/6eafe5012b43973f31c5ee0b648e0594.png" group-title="SUPERMEDIA  2706",BR: SPORTV
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/4015
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/2f163193ab2de12c120e02e264bc16a7.png" group-title="SUPERMEDIA  2706",BR: SPORTV 2
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/8783
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/50dc54d140bb68ee92fc1aa01bec5bb5.png" group-title="SUPERMEDIA  2706",BR: SPORTV 3
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/8784
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/58f557ffa761091f837f5c289ac13208.png" group-title="SUPERMEDIA  2706",ARG: ESPN
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/61174
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/826ab86530a6d609f3c9e0a5108ae8d1.png" group-title="SUPERMEDIA  2706",ARG: ESPN 2
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/70752
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/985c0340dda83edcaa89659e2740eb50.png" group-title="SUPERMEDIA  2706",ARG: ESPN 3
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/61170
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN 4" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/746819f44951f27e240c8fdaf3ea5384.png" group-title="SUPERMEDIA  2706",ARG: ESPN 4
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/295627
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN Extra" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/f066512b6451650645ed53b790f2db72.png" group-title="SUPERMEDIA  2706",ARG: ESPN Extra
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/66298
+#EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN Premium" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/32cd381cddd366224dff2fae29c3a2cd.svg" group-title="SUPERMEDIA  2706",ARG: ESPN Premium
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298158
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b6fb0039905434d2842bc80cc0c4db30.png" group-title="SUPERMEDIA  2706",ARG: FOX SPORTS
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/280370
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/f3e732b27ff9cbfc4c52b5e56c4f66d5.png" group-title="SUPERMEDIA  2706",ARG: FOX SPORTS 2
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3187
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/cf9e3efa58e179ce0bc51a1bdb47efe0.png" group-title="SUPERMEDIA  2706",ARG: FOX SPORTS 3
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/10921
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS Premium" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b57a5eaecfe7cf72fcd954e8a9c634c3.png" group-title="SUPERMEDIA  2706",ARG: FOX SPORTS Premium
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/3203
