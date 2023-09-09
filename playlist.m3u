@@ -515,3 +515,16 @@ https://kusnadipepenk.github.io/ntn/truf2.m3u8
 #EXTINF:-1 group-title="SPORTS",V-Sport
 https://kusnadipepenk.github.io/ntn/vspom.m3u8
 ##http://204.12.247.162:8080/premium68/mono.m3u8
+
+#EXTINF:-1 group-title="ARENA SPORTS",ARENA SPORT1
+ARENA SPORTS1:-http://93.155.227.38:90/m3u8/arenasport1.m3u8
+#EXTINF:-1 group-title="ARENA SPORTS",ARENA SPORT2
+ARENA SPORTS2:-http://93.155.227.38:90/m3u8/arenasport2.m3u8
+#EXTINF:-1 group-title="ARENA SPORTS",ARENA SPORT3
+ARENA SPORTS3:-http://93.155.227.38:90/m3u8/arenasport3.m3u8
+#EXTINF:-1 group-title="ARENA SPORTS",ARENA SPORT4
+ARENA SPORTS4:-http://93.155.227.38:90/m3u8/arenasport4.m3u8
+#EXTINF:-1 group-title="ARENA SPORTS",ARENA SPORT5
+ARENA SPORTS5:-http://93.155.227.38:90/m3u8/arenasport5.m3u8
+
+ARENA SPORTS6:-http://185.85.152.220:9901/arenasport6/playlist.m3u8
