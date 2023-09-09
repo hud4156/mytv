@@ -612,6 +612,19 @@ https://nyanv-live-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_23.png",Zee Bioskop
 https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movies", CINEMAX ALT
+https://delivery.ksa.my.id/stream/cinemax/playlist.m3u8?token=ym1wtrp&v=20200807
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies", HBO ALT
+https://delivery.ksa.my.id/stream/hbo/playlist.m3u8?token=ym1wtrp&v=20200807
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png" group-title="Movies", HBO Family ALT
+https://delivery.ksa.my.id/stream/hbo_family/playlist.m3u8?token=ym1wtrp&v=20200807
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movies", HBO Hits ALT
+https://delivery.ksa.my.id/stream/hbo_hits/playlist.m3u8?token=ym1wtrp&v=20200807
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/512px-HBO_Signature_Asia.png" group-title="Movies", HBO Signature ALT
+https://delivery.ksa.my.id/stream/hbo_signature/playlist.m3u8?token=ym1wtrp&v=20200807
+#EXTINF:0 tvg-logo=" " group-title="Movies", Warner TV ALT
+https://delivery.ksa.my.id/stream/warnertv/playlist.m3u8?token=ym1wtrp&v=20200807
+
 <---Music--->
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
