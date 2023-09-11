@@ -304,3 +304,14 @@ http://93.155.227.38:90/m3u8/arenasport4.m3u8
 http://93.155.227.38:90/m3u8/arenasport5.m3u8
 #EXTINF:-1 group-title="ARENA SPORTS",ARENA SPORT6
 http://185.85.152.220:9901/arenasport6/playlist.m3u8
+
+#EXTINF:-1 group-title="TNT SPORTS",TNT SPORT1
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1 group-title="TNT SPORTS",TNT SPORT2
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 group-title="TNT SPORTS",TNT SPORT3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:-1 group-title="TNT SPORTS",TNT SPORT4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 group-title="TNT SPORTS",TNT SPORT5
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
