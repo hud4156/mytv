@@ -131,9 +131,11 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch338)/index.m3u
 #EXTINF:-1 group-title="FIRSTMEDIA",Zee Bioskop
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch161)/index.m3u8
 #EXTINF:-1 group-title="FIRSTMEDIA",SPOTV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch329)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup2/cg234production/ch329/03.m3u8
+##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch329)/index.m3u8
 #EXTINF:-1 group-title="FIRSTMEDIA",SPOTV2
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3300)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup2/cg235production/ch3300/03.m3u8
+##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3300)/index.m3u8
 #EXTINF:-1 group-title="FIRSTMEDIA",EUROSPORT
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch21)/index.m3u8
 #EXTINF:-1 group-title="FIRSTMEDIA",CGTN DOCUMENTARY
@@ -179,7 +181,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch103)/index.m3u
 #EXTINF:-1 group-title="FIRSTMEDIA",Nickelodeon
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch105)/index.m3u8
 #EXTINF:-1 group-title="FIRSTMEDIA",Nick Jr
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch124)/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup2/cg219production/ch124/03.m3u8
+##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch124)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ja9Rx9p.png",My Kidz 
 http://210.210.155.37/uq2663/h/h191/index.m3u8
 #EXTINF:-1 group-title="FIRSTMEDIA",MTV 90s
