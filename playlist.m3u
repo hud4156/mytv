@@ -1,17 +1,17 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/thefirefox12537/streams/master/epg/local/guide.xml"  refresh="3600"
 
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://static.mncnow.id/images//channel/e8b7a6a8/f009.png",RCTI
-http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
-##http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2-avc1_2499968=3.m3u8
+http://liveaneviadev.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
+##http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://static.mncnow.id/images//channel/c121c900/d11c.png",MNCTV
-http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
-##http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2-avc1_2499968=6.m3u8
+http://liveaneviadev.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
+##http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://static.mncnow.id/images//channel/9436da00/11fe.png",GTV
-http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
-##http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2-avc1_2499968=6.m3u8
+https://liveaneviadev.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
+##http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://static.mncnow.id/images//channel/0a37b838/4414.png",iNews
-http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
-##http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd-avc1_2499968=7.m3u8
+http://liveaneviadev.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
+##http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://dev.firstmedia.com:8443/files/packages/tvlokal/indosiar.jpg",Indosiar
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/03.m3u8
 ##http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
