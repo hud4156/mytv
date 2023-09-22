@@ -1,7 +1,8 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/thefirefox12537/streams/master/epg/local/guide.xml"  refresh="3600"
 
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://static.mncnow.id/images//channel/e8b7a6a8/f009.png",RCTI
-http://liveaneviadev.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
+http://kuchini.site:8080/F30140/f3de2280/157591
+##http://liveaneviadev.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
 ##http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://static.mncnow.id/images//channel/c121c900/d11c.png",MNCTV
 http://liveaneviadev.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
