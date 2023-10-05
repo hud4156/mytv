@@ -279,19 +279,21 @@ http://37.49.230.42:8080/Vladisergeevic/7eef2c4388/287792
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/Vtk2cGI.png",beIN SPORTS 1 EN
 https://edge02.odtv.az/o4/beinsport/q_1/playlist.m3u8
+#EXTINF:-1,beIN SPORTS 1 HD 🇶🇦
+https://ir13.footballii.ir/hls2/bein1.m3u8
 
-#EXTINF:-1 group-title="ARENA SPORTS",ARENA SPORT1
-http://93.155.227.38:90/m3u8/arenasport1.m3u8
-#EXTINF:-1 group-title="ARENA SPORTS",ARENA SPORT2
-http://93.155.227.38:90/m3u8/arenasport2.m3u8
-#EXTINF:-1 group-title="ARENA SPORTS",ARENA SPORT3
-http://93.155.227.38:90/m3u8/arenasport3.m3u8
-#EXTINF:-1 group-title="ARENA SPORTS",ARENA SPORT4
-http://93.155.227.38:90/m3u8/arenasport4.m3u8
-#EXTINF:-1 group-title="ARENA SPORTS",ARENA SPORT5
-http://93.155.227.38:90/m3u8/arenasport5.m3u8
-#EXTINF:-1 group-title="ARENA SPORTS",ARENA SPORT6
-http://185.85.152.220:9901/arenasport6/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR001.png" group-title="ARENA SPORTS" tvg-group-title="Arena Sport",Arena Sport 1 HD
+http://80.252.37.194:5000/udp/233.233.233.3:12000
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR002.png" group-title="ARENA SPORTS" tvg-group-title="Arena Sport",Arena Sport 2 HD
+http://80.252.37.194:5000/udp/233.233.233.4:12000
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR003.png" group-title="ARENA SPORTS" tvg-group-title="Arena Sport",Arena Sport 3 HD
+http://80.252.37.194:5000/udp/233.233.233.5:12000
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR004.png" group-title="ARENA SPORTS" tvg-group-title="Arena Sport",Arena Sport 4 HD
+http://80.252.37.194:5000/udp/233.233.233.6:12000
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR005.png" group-title="ARENA SPORTS" tvg-group-title="Arena Sport",Arena Sport 5 HD
+http://80.252.37.194:5000/udp/233.233.233.7:12000
+#EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR006.png" group-title="ARENA SPORTS" tvg-group-title="Arena Sport",Arena Sport 6 HD
+http://80.252.37.194:5000/udp/233.233.233.8:12000
 
 #EXTINF:-1 tvg-id="TNTSportsBrazil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/512px-TNT_Sports_2021_logo.svg.png" group-title="OLAHRAGA",TNT Sports 1 Brasil  
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
@@ -304,40 +306,5 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
 #EXTINF:-1 tvg-id="TNTSports5Brazil.br" tvg-logo="https://i.imgur.com/XA3zxEE.png" group-title="OLAHRAGA",TNT Sports 5 Brasil  
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
 
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/10be017cdc71bdd0663e43b50d2926b6.png" group-title=" SuperSport ",PT: SPORT TV 1
-http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/1483
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/66ccdb4bc6b73efa2357ab9984b31af4.png" group-title=" SuperSport ",PT: SPORT TV 2
-http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/1486
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d77db9165e33a177ada687f34441b6d5.png" group-title=" SuperSport ",PT: SPORT TV 3
-http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/1489
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORTS 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/dbe88e53a72f505010f15f778a3fd4c9.png" group-title=" SuperSport ",PT: ELEVEN SPORTS 1
-http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/1499
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/61327badbbea898c7c700b7fe81c55d8.png" group-title=" SuperSport ",PT: ELEVEN SPORTS 2
-http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/1503
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b9c02901087946bb37b047d33f24a208.png" group-title=" SuperSport ",PT: ELEVEN SPORTS 3
-http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/1506
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT: ELEVEN SPORTS 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c17ab7ee9a7e3e32117fb1368ffb284c.png" group-title=" SuperSport ",PT: ELEVEN SPORTS 4
-http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/1509
-#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="PT: ELEVEN SPORTS 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/c5409550875e0e1b4d38c0167efbf339.png" group-title=" SuperSport ",PT: ELEVEN SPORTS 5
-http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/1512
-#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT: ELEVEN SPORTS 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/089df823b4a66ca080d161cdd412ff1b.png" group-title=" SuperSport ",PT: ELEVEN SPORTS 6
-http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/1515
-
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="ASTRO",MY: Astro SuperSport 1
-http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/146068
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="ASTRO",MY: Astro SuperSport 2
-http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/157556
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="ASTRO",MY: Astro SuperSport 3
-http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/157557
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="ASTRO",MY: Astro SuperSport 4
-http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/157558
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 5" tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/480daf2471d76a0819242a59da7005f9.png" group-title="ASTRO",MY: Astro SuperSport 5
-http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/287792
-#EXTINF:-1 tvg-id="" tvg-name="MY: beIN Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/661d6fd8993dd9aaf43e249d036e9eb3.jpg" group-title="ASTRO",MY: beIN Sports
-http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/157561
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Arena" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/f9cbb250de1822306dc0b7e9cdd23c9a.png" group-title="ASTRO",MY: Astro Arena
-http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/157485
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Arena 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/7806170b5ef2464530dcaedcbe3e9a42.jpg" group-title="ASTRO",MY: Astro Arena 2
-http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/287793
 
 
