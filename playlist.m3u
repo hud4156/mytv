@@ -311,3 +311,32 @@ https://ctrl.laotv.la/live/TrueSport6/index.m3u8
 https://ctrl.laotv.la/live/TrueSport3/index.m3u8
 #EXTINF:-1 group-title="SPORT TV" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png", True Sports 7
 https://edge1.laotv.la/live/THD7/index.m3u8
+
+#EXTINF:-1 group-title="Bein Sport" tvg-logo="", Bein Sport 1
+http://176.119.29.7:8080/play/hls/Nm9sUDMyNHFCTUFjUzBrOlh1OEp5MGpoMldwQjQxRjowMDFBNzlBNzhDOUQ6UWtWSlRpQlRVRTlTVkZNZ1VGSkZUVWxWVFNBeElGTkU6MjE=/131f26d9-afb0-480e-8690-e46007de9fc8.m3u8
+#EXTINF:-1 group-title="Bein Sport" tvg-logo="", Bein Sport 2
+http://176.119.29.42:8080/play/hls/Nm9sUDMyNHFCTUFjUzBrOlh1OEp5MGpoMldwQjQxRjowMDFBNzlBNzhDOUQ6UWtWSlRpQlRVRTlTVkZNZ1VGSkZUVWxWVFNBeUlGTkU6MjE=/93650306-59d6-451e-bfc0-77fdb23bf6c9.m3u8
+#EXTINF:-1 group-title="Bein Sport" tvg-logo="", Bein Sport 3
+http://176.119.29.42:8080/play/hls/Nm9sUDMyNHFCTUFjUzBrOlh1OEp5MGpoMldwQjQxRjowMDFBNzlBNzhDOUQ6UWtWSlRpQlRVRTlTVkZNZ01TQlRSQT09OjIx/9ce5782e-0660-4235-b5b1-83a8e2984426.m3u8
+
+#EXTINF:-1 group-title="Russian Sport" tvg-logo="", EUROSPORT
+http://45.159.74.14:80/Eurosport/manifest.m3u8
+#EXTINF:-1 group-title="Russian Sport" tvg-logo="", CT sport 
+http://185.188.188.235/live/ctsport/playlist.m3u8
+#EXTINF:-1 group-title="Russian Sport" tvg-logo="", Premier sport 2
+http://185.188.188.235/live/premiersport2/playlist.m3u8
+#EXTINF:-1 group-title="Russian Sport" tvg-logo="", Premier sport 1
+http://185.188.188.235/live/premiersport/playlist.m3u8
+#EXTINF:-1 group-title="Russian Sport" tvg-logo="", Sport 2
+http://185.188.188.235/live/sport2/playlist.m3u8
+#EXTINF:-1 group-title="Russian Sport" tvg-logo="", Sport 1
+http://185.188.188.235/live/sport1/playlist.m3u8
+#EXTINF:-1 group-title="Russian Sport" tvg-logo="", NOVA SPORT 4
+http://185.188.188.235/live/novasport4/playlist.m3u8
+#EXTINF:-1 group-title="Russian Sport" tvg-logo="", NOVA SPORT 3
+http://185.188.188.235/live/novasport3/playlist.m3u8
+#EXTINF:-1 group-title="Russian Sport" tvg-logo="", NOVA SPORT 2
+http://185.188.188.235/live/novasport2/playlist.m3u8
+#EXTINF:-1 group-title="Russian Sport" tvg-logo="", NOVA SPORT 1
+http://185.188.188.235/live/novasport1/playlist.m3u8
+
