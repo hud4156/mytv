@@ -213,23 +213,19 @@ https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(c99739b1-0748-
 ################    TEST   ##########################
 ###########################################################
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: HBO" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="Indonesia",ID: HBO
-http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/197972
-#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Family" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="Indonesia",ID: HBO Family
-http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/197055
-#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Hits" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="Indonesia",ID: HBO Hits
-http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/196480
-#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Signature" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="Indonesia",ID: HBO Signature
-http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/221948
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: Etv Bioskop" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Movies",Etv Bioskop 01
-http://kuchini.site:8080/kodicologne/48e237edd2/298526
-#EXTINF:-1 tvg-id="" tvg-name="ID: Etv Bioskop 02" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Movies",Etv Bioskop 02
-http://kuchini.site:8080/kodicologne/48e237edd2/298527
-#EXTINF:-1 tvg-id="" tvg-name="ID: Etv Bioskop 03" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Movies",Etv Bioskop 03
-http://kuchini.site:8080/kodicologne/48e237edd2/298528
-#EXTINF:-1 tvg-id="" tvg-name="ID: Etv Bioskop 04" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Movies",Etv Bioskop 04
-http://kuchini.site:8080/kodicologne/48e237edd2/298529
+#EXTINF:-1 group-title="Movie",Douyu Movie
+https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
+#EXTINF:-1 group-title="Movie",&flix
+http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/67082
+#EXTINF:-1 group-title="Movie",&Prive
+http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/67084
+#EXTINF:-1 group-title="Movie" tvg-name="Movie" tvg-logo="http://62.182.85.43/poster/STAR.MOVIES.png",IND ➤ STAR MOVIES HD
+http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/67281
+#EXTINF:-1 group-title="Movie" tvg-name="Movie" tvg-logo="http://62.182.85.43/poster/STAR.MOVIES.png",IND ➤ STAR MOVIES SELECTED HD
+http://kuchini.site:8080/ottkillerex/YDXxAL9axrJbga73//267542
+#EXTINF:-1 group-title="Movie" ,Movies NOW
+http://kuchini.site:8080/ottkillerex/YDXxAL9axrJbga73/169118
 
 #EXTINF:-1 tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/Moviesphere-Free_SamsungAsset_Logo_1000x1000_C_White.png",Moviesphere Free 
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
