@@ -28,13 +28,13 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg326production/ch396/03.m3u
 ##http://edge.linknetott.swiftserve.com/channelgroup3/cg326production/ch396/index.m3u8
 ##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch396)/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://dev.firstmedia.com:8443/files/images/d/new-logo/channels/8-LOCAL/Trans%20TV%20SD-FirstMedia-Chl-9.jpg",TRANS TV Alt
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1655897278_b744100_sleng.m3u8
+http://202.150.172.59:80/TransTV/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://dev.firstmedia.com:8443/files/images/d/new-logo/channels/8-LOCAL/Trans%207%20SD-FirstMedia-Chl-8.jpg",Trans 7
 http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/03.m3u8
 ##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch397)/index.m3u8
 ##http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://dev.firstmedia.com:8443/files/images/d/new-logo/channels/8-LOCAL/Trans%207%20SD-FirstMedia-Chl-8.jpg",Trans 7 Alt
-https://video.detik.com:443/trans7/smil:trans7.smil/chunklist_w428782846_b744100_sleng.m3u8
+http://202.150.172.59:80/Trans7/index.m3u8
 #EXTINF:-1 group-title="National TV" tvg-logo="https://dev.firstmedia.com:8443/files/packages/tvlokal/antv.jpg",ANTV
 http://edge.linknetott.swiftserve.com/channelgroup3/cg314production/ch7/03.m3u8
 ##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch390)/index.m3u8
