@@ -5,15 +5,12 @@ http://kuchini.site:8080/F30140/f3de2280/157591
 ##http://liveaneviadev.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
 ##http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://static.mncnow.id/images//channel/c121c900/d11c.png",MNCTV
-http://202.150.172.59/MNCTV/tracks-v1a1/mono.m3u8
-##http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
+https://liveaneviadev.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
+##http://202.150.172.59/MNCTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://static.mncnow.id/images//channel/9436da00/11fe.png",GTV
 https://liveaneviadev.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
-##http://kuchini.site:8080/F30140/f3de2280/157578
-##http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://static.mncnow.id/images//channel/0a37b838/4414.png",iNews
 http://liveaneviadev.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
-##http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://dev.firstmedia.com:8443/files/packages/tvlokal/indosiar.jpg",Indosiar
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/03.m3u8
 ##http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
