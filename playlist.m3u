@@ -180,10 +180,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch103)/index.m3u
 #EXTINF:-1 group-title="FIRSTMEDIA",Nickelodeon
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch105)/index.m3u8
 #EXTINF:-1 group-title="FIRSTMEDIA",Nick Jr
-http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/298561
-##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch124)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ja9Rx9p.png",My Kidz 
-http://210.210.155.37/uq2663/h/h191/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch124)/index.m3u8
 #EXTINF:-1 group-title="FIRSTMEDIA",MTV 90s
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
 #EXTINF:-1 group-title="FIRSTMEDIA",MTV Live
