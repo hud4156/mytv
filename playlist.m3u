@@ -208,13 +208,15 @@ https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(c99739b1-0748-
 ################    TEST   ##########################
 ###########################################################
 
+#EXTINF:-1,MENTARI HD
+http://103.166.27.2:8112/play/a018/index.m3u8
 
 #EXTINF:-1 group-title="Movie",Douyu Movie
 https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
 #EXTINF:-1 group-title="Movie",&flix
-http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/67082
+http://121.91.60.67:8010/play/a007/index.m3u8
 #EXTINF:-1 group-title="Movie",&Prive
-http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/67084
+http://121.91.60.67:8010/play/a00p/index.m3u8
 #EXTINF:-1 group-title="Movie" tvg-name="Movie" tvg-logo="http://62.182.85.43/poster/STAR.MOVIES.png",IND ➤ STAR MOVIES HD
 http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/67281
 #EXTINF:-1 group-title="Movie" tvg-name="Movie" tvg-logo="http://62.182.85.43/poster/STAR.MOVIES.png",IND ➤ STAR MOVIES SELECTED HD
@@ -243,6 +245,8 @@ https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 http://103.120.172.74:4600
 #EXTINF:-1 group-title="INDIA" tvg-logo="",Star sports 2
 http://103.120.172.74:4200
+#EXTINF:-1,StarSportSL1HD
+http://121.91.60.67:8010/play/a00k/index.m3u8
 #EXTINF:-1 group-title="INDIA" tvg-logo="",Star sports select 2
 http://103.120.172.74:4700
 
