@@ -60,6 +60,9 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg221production/ch399/03.m3u
 ##http://edge.linknetott.swiftserve.com/channelgroup2/cg221production/ch399/index.m3u8
 ##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch399)/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/118.jpg",TVRI SPORT HD
+http://210.210.155.37/qwr9ew/s/s107/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://dev.firstmedia.com:8443/files/packages/metrorv-new.jpg",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1789666658_b1492000_sleng.m3u8
 ##http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
