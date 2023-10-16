@@ -47,7 +47,7 @@ http://202.150.172.59/AnTV/index.m3u8
 ##http://edge.linknetott.swiftserve.com/channelgroup3/cg314production/ch7/03.m3u8
 ##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch390)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/NET.%20HD-FirstMedia-Chl-411.jpg" group-title="NASIONAL",NET. HD
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/8-LOCAL/NET.%20HD-FirstMedia-Chl-411.jpg",NET. HD
 http://210.210.155.37/uq2663/h/h06/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dev.firstmedia.com:8443/files/packages/kompas-new.png",Kompas TV
@@ -283,7 +283,7 @@ http://edge.linknetott.swiftserve.com/channelgroup1/cg014production/ch39/02.m3u8
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_202.png",National Geographic
 http://edge.linknetott.swiftserve.com/channelgroup1/cg015production/ch38/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SR8kNSBh/Premier-Sports.png ",Premier Sports
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SR8kNSBh/Premier-Sports.png",Premier Sports
 http://edge.linknetott.swiftserve.com/channelgroup2/cg224production/ch320/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/GIjpZ3Q.png?v=1.0.0.1", Indikids
@@ -310,13 +310,13 @@ https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png",Sony PIX
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hWo7Ba4.png" group-title="SPORT PREMIUM", SONY SPORTS TEN 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hWo7Ba4.png", SONY SPORTS TEN 1
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W96KVqu.png" group-title="SPORT PREMIUM", SONY SPORTS TEN 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W96KVqu.png", SONY SPORTS TEN 2
 https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vG19HxD.png" group-title="SPORT PREMIUM", SONY SPORTS TEN 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vG19HxD.png", SONY SPORTS TEN 3
 https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dVRMHM4.png", SONY SPORTS TEN 4 
@@ -337,19 +337,19 @@ http://121.91.60.67:8010/play/a00k/index.m3u8
 #EXTINF:-1,Star sports select 2
 http://103.120.172.74:4700
 
-#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/tsn1.png" group-title="OLAHRAGA", TSN 1 HD (CA)
+#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/tsn1.png", TSN 1 HD (CA)
 https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/21006.m3u8
 
-#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/tsn2.png" group-title="OLAHRAGA", TSN 2 HD (CA)
+#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/tsn2.png", TSN 2 HD (CA)
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/181852
 
-#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/tsn3.png" group-title="OLAHRAGA", TSN 3 HD (CA)
+#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/tsn3.png", TSN 3 HD (CA)
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/181853
 
-#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/tsn4.png" group-title="OLAHRAGA", TSN 4 HD (CA)
+#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/tsn4.png", TSN 4 HD (CA)
 https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/21003.m3u8
 
-#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/tsn5.png" group-title="OLAHRAGA", TSN 5 HD (CA)
+#EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/tsn5.png", TSN 5 HD (CA)
 https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/21002.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/Vtk2cGI.png",beIN SPORTS 1 EN
