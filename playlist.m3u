@@ -299,10 +299,10 @@ http://103.166.27.2:8112/play/a018/index.m3u8
 https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
 
 #EXTINF:-1,&flix
-http://121.91.60.67:8010/play/a007/index.m3u8
+http://89.187.177.137:8081/&FLIX/index.m3u8
 
 #EXTINF:-1,&Prive
-http://121.91.60.67:8010/play/a00p/index.m3u8
+http://89.187.177.137:8081/&PRIVE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/Moviesphere-Free_SamsungAsset_Logo_1000x1000_C_White.png",Moviesphere Free 
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
