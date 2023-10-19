@@ -293,6 +293,24 @@ https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(c99739b1-0748-
 ################    TEST   ##########################
 ###########################################################
 
+#EXTINF:-1,Ben and Holly Little Kingdom
+https://ytlive.zazerconer.workers.dev/@benandhollyofficial.m3u8
+
+#EXTINF:-1,Paw Patrol
+https://ytlive.zazerconer.workers.dev/@pawpatrolofficial.m3u8
+
+#EXTINF:-1,Peppa Pig
+https://ytlive.zazerconer.workers.dev/@peppapigofficial.m3u8
+
+#EXTINF:-1,Disney Junior (Minnies Bow Toons)
+https://livestream4.zazerconer.workers.dev/live/OjlaUkllTss.m3u8
+
+#EXTINF:-1,Disney Junior (Me & Mickey)
+https://livestream4.zazerconer.workers.dev/live/0L6EvgWotfI.m3u8
+
+#EXTINF:-1,Disney Junior (Mickey Mouse Clubhouse)
+https://livestream4.zazerconer.workers.dev/live/Dkkp4KfdGPY.m3u8
+
 #EXTINF:-1,MENTARI HD
 http://103.166.27.2:8112/play/a018/index.m3u8
 
