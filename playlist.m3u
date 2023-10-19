@@ -4,9 +4,6 @@
 http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683099&extension=m3u8
 ##http://apel-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.mncnow.id/images//channel/e8b7a6a8/f009.png",RCTI*
-https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.mncnow.id/images//channel/c121c900/d11c.png",MNCTV
 https://apel-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
 ##http://202.150.172.59/MNCTV/tracks-v1a1/mono.m3u8
