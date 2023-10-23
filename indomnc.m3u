@@ -455,6 +455,23 @@ https://apel-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
 <==========Movies==========>
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies", HBO
+https://delivery.ksa.my.id/stream/hbo/playlist.m3u8?token=ym1wtrp&v=20200807
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png" group-title="Movies", HBO Family
+https://delivery.ksa.my.id/stream/hbo_family/playlist.m3u8?token=ym1wtrp&v=20200807
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movies", HBO Hits
+https://delivery.ksa.my.id/stream/hbo_hits/playlist.m3u8?token=ym1wtrp&v=20200807
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/512px-HBO_Signature_Asia.png" group-title="Movies", HBO Signature
+https://delivery.ksa.my.id/stream/hbo_signature/playlist.m3u8?token=ym1wtrp&v=20200807
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movies", CINEMAX
+https://delivery.ksa.my.id/stream/cinemax/playlist.m3u8?token=ym1wtrp&v=20200807
+
+#EXTINF:0 tvg-logo=" " group-title="Movies", Warner TV
+https://delivery.ksa.my.id/stream/warnertv/playlist.m3u8?token=ym1wtrp&v=20200807
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -554,6 +571,17 @@ https://apel-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
 <==========Sports==========>
 
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",beIN Sports 1 Indonesia
+https://delivery.ksa.my.id/stream/macan_sport_1/playlist.m3u8?token=ym1wtrp
+
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-2.jpg",beIN Sports 3 Indonesia
+https://delivery.ksa.my.id/stream/macan_sport_2/playlist.m3u8?token=ym1wtrp
+
+#EXTINF:0 tvg-id="ext" group-title="Sports",Usee Sport1
+https://delivery.ksa.my.id/stream/macan_sport_3/playlist.m3u8?token=ym1wtrp
+
+#EXTINF:0 tvg-id="ext" group-title="Sports",Usee Sport2
+https://delivery.ksa.my.id/stream/macan_sport_4/playlist.m3u8?token=ym1wtrp
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
