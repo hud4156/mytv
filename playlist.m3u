@@ -75,7 +75,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch124)/index.m3u
 #EXTINF:-1,Nick Jr Too
 http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=45261&extension=m3u8
 
-#EXTINF:-1,Disney Junior
+#EXTINF:-1,Family Junior
 http://line.gofast-tv.me/play/live.php?mac=00:1a:79:af:99:2d&stream=177341&extension=m3u8
 
 #EXTINF:-1,Disney Junior
