@@ -397,9 +397,6 @@ https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/21003.m3u8
 #EXTINF:-1 tvg-logo="http://stmgroup.xyz/logo/tsn5.png", TSN 5 HD (CA)
 https://6oclock.xyz:8443/live/oVTsSvYjZu/cAXDNm9LY9/21002.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vtk2cGI.png",beIN SPORTS 1 EN
-https://edge02.odtv.az/o4/beinsport/q_1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR001.png",Arena Sport 1 HD
 http://80.252.37.194:5000/udp/233.233.233.3:12000
 
@@ -442,44 +439,32 @@ https://ctrl.laotv.la/live/Bsport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSxSmaCkSbJqWAIDq5p2qUlH9vwzZGtJPEyg&usqp=CAU", BEIN SPORTS 2 TH
 https://ctrl.laotv.la/live/Bsport2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png",Astro SuperSport 1
-https://m2.ballnaja.com/assp1/tracks-v1a1/mono.m3u8
+#EXTINF:-1, SSC SPORTS HD 1
+https://af.ayassport.ir/hls2/ssc1.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png",Astro SuperSport 2
-https://m2.ballnaja.com/assp2/tracks-v1a1/mono.m3u8
+#EXTINF:-1, BEIN SPORTS 1AFC
+https://stream.ayas.ir/hls2/bein1.m3u8 
 
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png",Astro SuperSport 3
-https://m2.ballnaja.com/assp3/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Bein Sport 1
+https://af.ayas.ir/hls2/bein1.m3u8
 
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png",Astro Supersport 4
-https://m2.ballnaja.com/assp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Bein Sport 1 EN
+https://stream.ayas.ir/hls2/bein1en.m3u8
 
-#EXTINF:-1, CT sport 
-http://185.188.188.235/live/ctsport/playlist.m3u8
+#EXTINF:-1, Bein Sport 1 FR
+https://stream.ayas.ir/hls2/bein1fr.m3u8
 
-#EXTINF:-1, Premier sport 2
-http://185.188.188.235/live/premiersport2/playlist.m3u8
+#EXTINF:-1, BEIN SPORTS 2AFC
+https://stream.ayas.ir/hls2/bein2.m3u8 
 
-#EXTINF:-1, Premier sport 1
-http://185.188.188.235/live/premiersport/playlist.m3u8
+#EXTINF:-1, BEIN SPORTS 3AFC
+https://stream.ayas.ir/hls2/bein3.m3u8 
 
-#EXTINF:-1, Sport 2
-http://185.188.188.235/live/sport2/playlist.m3u8
+#EXTINF:-1, BEIN SPORTS 4AFC
+https://stream.ayas.ir/hls2/bein4.m3u8 
 
-#EXTINF:-1, Sport 1
-http://185.188.188.235/live/sport1/playlist.m3u8
-
-#EXTINF:-1, NOVA SPORT 4
-http://185.188.188.235/live/novasport4/playlist.m3u8
-
-#EXTINF:-1, NOVA SPORT 3
-http://185.188.188.235/live/novasport3/playlist.m3u8
-
-#EXTINF:-1, NOVA SPORT 2
-http://185.188.188.235/live/novasport2/playlist.m3u8
-
-#EXTINF:-1, NOVA SPORT 1
-http://185.188.188.235/live/novasport1/playlist.m3u8
+#EXTINF:-1, BEIN SPORTS 5AFC
+https://stream.ayas.ir/hls2/bein5.m3u8
 
 #EXTINF:-1,Comedy Central HD (Jio TV)
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/index.m3u8
