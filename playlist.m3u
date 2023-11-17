@@ -114,13 +114,22 @@ http://apel-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 ##http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://dev.firstmedia.com:8443/files/packages/tvlokal/indosiar.jpg",Indosiar*
+http://103.166.27.2:8112/play/a016/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://dev.firstmedia.com:8443/files/packages/tvlokal/sctv.jpg",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 ##http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://dev.firstmedia.com:8443/files/packages/tvlokal/sctv.jpg",SCTV*
+http://103.166.27.2:8112/play/a015/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JhPD0mHR/20230518-215608.png",MOJI
 http://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8
 ##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JhPD0mHR/20230518-215608.png",MOJI*
+http://103.166.27.2:8112/play/a017/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dev.firstmedia.com:8443/files/images/d/new-logo/channels/8-LOCAL/Trans%20TV%20SD-FirstMedia-Chl-9.jpg",TRANSTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/index.m3u8
