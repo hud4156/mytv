@@ -490,6 +490,12 @@ https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png",Sony PIX
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO HD
+https://ctrl.laotv.la/live/HBO/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD
+https://ctrl.laotv.la/live/Cinemax/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="LIVE",LIVE 1
 https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
 ##https://1123139281.cdn.khmer-hd.com/phoHD/chunks.m3u8
