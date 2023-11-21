@@ -517,3 +517,6 @@ https://s.id/SuperSportFUBOL
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="LIVE",LIVE 6
 https://webudit.hlsjs.ru/lb/premium123/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNLXmJxz/b.png" group-title="Live Event", RCTI
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/157591
