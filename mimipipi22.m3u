@@ -883,15 +883,15 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemach
 
 ======================================================================================
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6v0dDhD/vbs.png" group-title="MOVIES",HBO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6v0dDhD/vbs.png" group-title="MOVIES",HBO foctv
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/346
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vP3hkjH/hhit.png" group-title="MOVIES",HBO Hits
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vP3hkjH/hhit.png" group-title="MOVIES",HBO Hits foctv
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/55
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F8P2mxK/cccc.png" group-title="MOVIES",HBO Family
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F8P2mxK/cccc.png" group-title="MOVIES",HBO Family foctv
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/56
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gM7NfQ4/SS.png" group-title="MOVIES",HBO Signature
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gM7NfQ4/SS.png" group-title="MOVIES",HBO Signature foctv
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/57
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tz61VMJ/CINE.png" group-title="MOVIES",Cinemax
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tz61VMJ/CINE.png" group-title="MOVIES",Cinemax foctv
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/65
 
 ======================================================================================
