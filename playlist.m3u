@@ -487,6 +487,12 @@ http://89.187.177.137:8081/&FLIX/index.m3u8
 #EXTINF:-1,&Prive
 http://89.187.177.137:8081/&PRIVE/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://bestmediainfo.com/uploads/2017/09/andPrive-HD_6.jpg",AndPrive 
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/prv.m3u8 
+
+#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/andflix-logo.jpg",AndFlix 
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.samsung.com/is/image/samsung/assets/au/tvs/smart-tv/samsung-tv-plus/all-channels/Moviesphere-Free_SamsungAsset_Logo_1000x1000_C_White.png",Moviesphere Free 
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 
@@ -498,6 +504,17 @@ https://ctrl.laotv.la/live/HBO/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD
 https://ctrl.laotv.la/live/Cinemax/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6v0dDhD/vbs.png",HBO foctv
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/346
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vP3hkjH/hhit.png",HBO Hits foctv
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/55
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F8P2mxK/cccc.png",HBO Family foctv
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/56
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gM7NfQ4/SS.png",HBO Signature foctv
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/57
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tz61VMJ/CINE.png",Cinemax foctv
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/65
 
 #EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="LIVE",LIVE 1
 https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
