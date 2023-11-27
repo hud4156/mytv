@@ -77,7 +77,8 @@ http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=45261&extens
 http://line.gofast-tv.me/play/live.php?mac=00:1a:79:af:99:2d&stream=177341&extension=m3u8
 
 #EXTINF:-1,Disney Junior
-http://line.gofast-tv.me/play/live.php?mac=00:1a:79:af:99:2d&stream=177331&extension=m3u8
+https://raw.githubusercontent.com/hud4156/stream/main/disjun.m3u8
+##http://line.gofast-tv.me/play/live.php?mac=00:1a:79:af:99:2d&stream=177331&extension=m3u8
 
 #EXTINF:-1,Disney Channel
 http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=396314&extension=m3u8
