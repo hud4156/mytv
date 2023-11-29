@@ -512,16 +512,17 @@ https://ctrl.laotv.la/live/HBO/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD
 https://ctrl.laotv.la/live/Cinemax/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6v0dDhD/vbs.png",HBO foctv
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/346
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vP3hkjH/hhit.png",HBO Hits foctv
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/55
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F8P2mxK/cccc.png",HBO Family foctv
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/56
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gM7NfQ4/SS.png",HBO Signature foctv
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/57
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tz61VMJ/CINE.png",Cinemax foctv
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/65
+#EXTINF:-1 tvg-id="" tvg-name="MY013:Super Sport 1" tvg-logo="",ASTRO Super Sport 1
+http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1722
+#EXTINF:-1 tvg-id="" tvg-name="MY014:Super Sport 2" tvg-logo="",ASTRO Super Sport 2
+http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1721
+#EXTINF:-1 tvg-id="" tvg-name="MY015:Super Sport 3" tvg-logo="",ASTRO Super Sport 3
+http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1720
+#EXTINF:-1 tvg-id="" tvg-name="MY016:Super Sport 4" tvg-logo="",ASTRO Super Sport 4
+http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1719
+#EXTINF:-1 tvg-id="" tvg-name="MY022:Super Sport 5" tvg-logo="",ASTRO Super Sport 5
+http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1713
+
 
 #EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="LIVE",LIVE 1
 https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
