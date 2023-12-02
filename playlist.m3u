@@ -102,7 +102,8 @@ http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683099&exten
 http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/157591
 
 #EXTINF:-1 tvg-logo="https://static.mncnow.id/images//channel/c121c900/d11c.png",MNCTV
-http://202.150.172.59/MNCTV/tracks-v1a1/mono.m3u8
+https://raw.githubusercontent.com/hud4156/stream/main/mnctv.m3u8
+##http://202.150.172.59/MNCTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.mncnow.id/images//channel/9436da00/11fe.png",GTV
 http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683121&extension=m3u8
