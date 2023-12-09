@@ -30,6 +30,47 @@ https://livestream4.zazerconer.workers.dev/live/Dkkp4KfdGPY.m3u8
 #EXTINF:-1,BabyBus (Kids Songs and Cartoons)
 https://livestream.zazerconer.workers.dev/channel/UCpYye8D5fFMUPf9nSfgd4bA.m3u8
 
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/5e1f1850a8202cc1ef4f60c2a0e8acd3.png" group-title="Anak",Baby TV
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/babytv.m3u8
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/6-KIDS/CartoonitoHD-FirstMedia-Chl-372.png" group-title="Anak",Cartoonito
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/cartoonito.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c4ab7dac711298d08ad55255eee58029.png" group-title="Anak",CBeebies
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/cbeebies.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/Da%20Vinci%20HD-FirstMedia-Chl-371.jpg" group-title="Anak",Davinci
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/davinci.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a4ea1e073cfec663989ca1db24ba699f.png" group-title="Anak",Disney Channel
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/disneych.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7dcbeab064ba8b1eefb6115fc283aaeb.png" group-title="Anak",Disney Junior
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/disneyjr.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d7b3960e71c668eeaff78b4145d6173e.png" group-title="Anak",Disney XD
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/disneyxd.m3u8
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/6-KIDS/Dream%20Works%20HD-FM-Chl-374.jpg" group-title="Anak",Dreamworks
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/dreamworks.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/848ef5f24db25a9bd1d39c675aa0dc80.png" group-title="Anak",Dunia Anak
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/duniaanak.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/64856f589d7cf4ebc75e471cc73e98f3.png" group-title="Anak",Hip Hip Horee!
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hiphiphoree.m3u8
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/6-KIDS/Horee%20HD-FirstMedia-Chl-375.jpg" group-title="Anak",Hoore
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hooree.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Anak",Indi Kids
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/indikids.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2e7e12a2db287afa4fcc4f41d273004f.png" group-title="Anak",Kids TV
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/kidstv.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/db1dfff49cbaffb6a323ce329f64a2f8.png" group-title="Anak",Mentari TV
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/mentaritv.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/9dcac0452d126b9596563d6aec5aa7a3.png" group-title="Anak",My Kidz
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/mykidz.m3u8
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/6-KIDS/Nickelodeon%20SD-FirstMedia-Chl-125.jpg" group-title="Anak",Nickelodeon
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/nickelodeon.m3u8
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/6-KIDS/Nick%20Jr%20SD-FirstMedia-Chl-124.jpg" group-title="Anak",Nick Junior
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/nickjr.m3u8
+#EXTINF:-1 group-title="Anak",Spacetoon
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/spacetoon.m3u8
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ffe9e8c7ffa0c48eccb971c397c8e0de.png" group-title="Anak",ZooMoo
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/zoomoo.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/GIjpZ3Q.png?v=1.0.0.1", Indikids
 https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/index.m3u8
 
