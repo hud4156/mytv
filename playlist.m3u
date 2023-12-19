@@ -488,33 +488,6 @@ https://ctrl.laotv.la/live/Bsport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSxSmaCkSbJqWAIDq5p2qUlH9vwzZGtJPEyg&usqp=CAU", BEIN SPORTS 2 TH
 https://ctrl.laotv.la/live/Bsport2/index.m3u8
 
-#EXTINF:-1, SSC SPORTS HD 1
-https://af.ayassport.ir/hls2/ssc1.m3u8
-
-#EXTINF:-1, BEIN SPORTS 1AFC
-https://stream.ayas.ir/hls2/bein1.m3u8 
-
-#EXTINF:-1, Bein Sport 1
-https://af.ayas.ir/hls2/bein1.m3u8
-
-#EXTINF:-1, Bein Sport 1 EN
-https://stream.ayas.ir/hls2/bein1en.m3u8
-
-#EXTINF:-1, Bein Sport 1 FR
-https://stream.ayas.ir/hls2/bein1fr.m3u8
-
-#EXTINF:-1, BEIN SPORTS 2AFC
-https://stream.ayas.ir/hls2/bein2.m3u8 
-
-#EXTINF:-1, BEIN SPORTS 3AFC
-https://stream.ayas.ir/hls2/bein3.m3u8 
-
-#EXTINF:-1, BEIN SPORTS 4AFC
-https://stream.ayas.ir/hls2/bein4.m3u8 
-
-#EXTINF:-1, BEIN SPORTS 5AFC
-https://stream.ayas.ir/hls2/bein5.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zlJK7ca.png",Setanta Sport 1 Kazakhstan
 https://ucdn.beetv.kz/btv/live/hls/000004498.m3u8
 
@@ -575,38 +548,4 @@ https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
 https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="LIVE",LIVE 4
 https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="LIVE",LIVE 5
-https://s.id/SuperSportFUBOL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="LIVE",LIVE 6
-https://webudit.hlsjs.ru/lb/premium123/index.m3u8
 
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://b4tv.live/images/6c30cdc8aa40aa5776c7d8ebd78a93d4.png", B4MEN
-http://b4tv.live/b4tv/b4tv/1.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://b4tv.live/images/f48921dd0505305aff871882567eeca9.png", B4BOX
-http://b4tv.live/b4tv/b4tv/84.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://b4tv.live/b4boxplus.png", B4BOX PLUS
-http://b4tv.live/b4tv/b4tv/120.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://b4tv.live/images/5150b363cf6c9192ebe147a113dea625.png", B4TUBE
-http://b4tv.live/b4tv/b4tv/85.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://b4tv.live/images/994c671dd2015154c0a928f00aa4934a.png", B4EVENT 1
-http://b4tv.live/b4tv/b4tv/3.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://b4tv.live/images/994c671dd2015154c0a928f00aa4934a.png", B4EVENT 2
-http://b4tv.live/b4tv/b4tv/47.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://b4tv.live/images/994c671dd2015154c0a928f00aa4934a.png", B4EVENT 3
-http://b4tv.live/b4tv/b4tv/48.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://b4tv.live/logotubevent.png", B4TUBEVENT 1
-http://b4tv.live/b4tv/b4tv/55.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://b4tv.live/logotubevent.png", B4TUBEVENT 2
-http://b4tv.live/b4tv/b4tv/56.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://b4tv.live/images/0ef23e2c33c966c5c76e2b5cca9428f8.png", B4CONNECT 1
-http://b4tv.live/b4tv/b4tv/86.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://b4tv.live/images/0ef23e2c33c966c5c76e2b5cca9428f8.png", B4CONNECT 2
-http://b4tv.live/b4tv/b4tv/76.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://b4tv.live/b4sport.png", B4SPORT+ 1
-http://b4tv.live/b4tv/b4tv/19.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://b4tv.live/b4sport.png", B4SPORT+ 2
-http://b4tv.live/b4tv/b4tv/20.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://b4tv.live/b4sport.png", B4SPORT+ 3
-http://b4tv.live/b4tv/b4tv/21.m3u8
