@@ -538,6 +538,17 @@ http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1719
 #EXTINF:-1 tvg-id="" tvg-name="MY022:Super Sport 5" tvg-logo="",ASTRO Super Sport 5
 http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1713
 
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="",AYAS 1
+https://af.ayas.ir/hls2/ayas1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="",AYAS 2
+https://af.ayas.ir/hls2/ayas2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="",AYAS 3
+https://af.ayas.ir/hls2/ayas3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="",AYAS 4
+https://af.ayas.ir/hls2/ayas4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="",AYAS 5
+https://af.ayas.ir/hls2/ayas5.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://github.com/OngisMbois/iptv/raw/main/Ongistvku1.png" group-title="LIVE",LIVE 1
 https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
