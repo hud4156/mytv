@@ -697,6 +697,18 @@ https://alpukat-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mp
 =====================================================================================================================================================
 =====================================================================================================================================================
 
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://logo.iptveditor.com/hbo.png" group-title="TEST",HBO HD
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/1
+#EXTINF:-1 tvg-id="" tvg-name="HBO HITS HD" tvg-logo="https://logo.iptveditor.com/hbohits.png" group-title="TEST",HBO HITS HD
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/2
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE HD" tvg-logo="https://logo.iptveditor.com/hbosignature.png" group-title="TEST",HBO SIGNATURE HD
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/3
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY HD" tvg-logo="https://logo.iptveditor.com/hbofamily.png" group-title="TEST",HBO FAMILY HD
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/4
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD" tvg-logo="https://logo.iptveditor.com/cinemax.png" group-title="TEST",CINEMAX HD
+http://103.175.216.249:25461/BosskuuuuTV/Lalalalaokokok9393/5
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://hbo-max.openwindows037.workers.dev
 #EXTINF:0 tvg-id="HBO HD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="TEST",HBO
