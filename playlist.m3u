@@ -608,27 +608,41 @@ https://sport.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8|Referer=ht
 https://sport.livedoomovies.com:4432/02_2sporthd4_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r\u003dajax
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m8QQ7hK/tnt1.jpg" group-title="13.SPORT",Tnt 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m8QQ7hK/tnt1.jpg" group-title="TNT",Tnt 1
 http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2505/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/LiExax0.png",TNT 1
+#EXTINF:-1 group-title="TNT" tvg-logo="https://i.imgur.com/LiExax0.png",TNT 1
 http://xtv.ooo:8080/live/T4S00515/820172/346373.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/nZLmIZ4.png",TNT 2
+#EXTINF:-1 group-title="TNT" tvg-logo="https://i.imgur.com/nZLmIZ4.png",TNT 2
 http://xtv.ooo:8080/live/T4S00515/820172/346374.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/nZLmIZ4.png",TNT 3
+#EXTINF:-1 group-title="TNT" tvg-logo="https://i.imgur.com/nZLmIZ4.png",TNT 3
 http://xtv.ooo:8080/live/T4S00515/820172/346375.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/nZLmIZ4.png",TNT 4
+#EXTINF:-1 group-title="TNT" tvg-logo="https://i.imgur.com/nZLmIZ4.png",TNT 4
 http://xtv.ooo:8080/live/T4S00515/820172/346376.ts
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Test1
+#EXTINF:-1 group-title="Live" tvg-logo="",Test1
 https://sportsleading.online/live/stream_1.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Test2
+#EXTINF:-1 group-title="Live" tvg-logo="",Test2
 https://sportsleading.online/live/stream_2.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Test3
+#EXTINF:-1 group-title="Live" tvg-logo="",Test3
 https://sportsleading.online/live/stream_3.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Test4
+#EXTINF:-1 group-title="Live" tvg-logo="",Test4
 https://sportsleading.online/live/stream_4.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Test5
+#EXTINF:-1 group-title="Live" tvg-logo="",Test5
 https://sportsleading.online/live/stream_5.m3u8
+#EXTINF:-1 group-title="Live" tvg-logo="",Test6
+https://sportsleading.online/live/stream_6.m3u8
+#EXTINF:-1 group-title="Live" tvg-logo="",Test7
+https://sportsleading.online/live/stream_7.m3u8
+#EXTINF:-1 group-title="Live" tvg-logo="",Test8
+https://sportsleading.online/live/stream_8.m3u8
+#EXTINF:-1 group-title="Live" tvg-logo="",Test9
+https://sportsleading.online/live/stream_9.m3u8
+#EXTINF:-1 group-title="Live" tvg-logo="",Test10
+https://sportsleading.online/live/stream_10.m3u8
+#EXTINF:-1 group-title="Live" tvg-logo="",Test11
+https://sportsleading.online/live/stream_11.m3u8
+#EXTINF:-1 group-title="Live" tvg-logo="",Test12
+https://sportsleading.online/live/stream_12.m3u8
 
 
 
