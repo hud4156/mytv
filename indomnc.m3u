@@ -38,10 +38,10 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 #EXTINF:-1 tvg-id="Nickelodeon.id" group-title="Kids" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nickelodeon.png",Nickelodeon
 https://nyanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
-#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/abc-kids.png",ABC Kids
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/abc-kids.png" group-title="Kids",ABC Kids
 https://c.mjh.nz/abc-kids.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/abc-me.png",ABC ME
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/abc-me.png" group-title="Kids",ABC ME
 https://c.mjh.nz/abc-me.m3u8
 
 <==========National TV==========>
