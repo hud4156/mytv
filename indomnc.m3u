@@ -150,6 +150,11 @@ http://iptvtree.net:8080/F14995/a84c0963/162138
 #EXTINF:-1 tvg-id="" group-title="National TV" tvg-logo="https://i.imgur.com/D70rSkE.png",Moji
 http://iptvtree.net:8080/F26646/f950f250/298550
 
+#EXTINF:-1 tvg-id="MOJIOCHANNEL.Id" group-title="National TV" tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg",Moji usetv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
 <==========Entertainment==========>
 
