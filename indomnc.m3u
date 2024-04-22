@@ -826,11 +826,7 @@ http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/157558
 http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/287792
 
 
-#EXTINF:-1 group-title="TEST", Bein 1
-http://zeestb1.online/dhoom.php?id=10866
 
-#EXTINF:-1 group-title="TEST", Bein 2
-http://zeestb1.online/dhoom.php?id=7297
 
 #EXTINF:-1,&flix
 http://89.187.177.137:8081/&FLIX/index.m3u8
@@ -841,4 +837,5 @@ http://89.187.177.137:8081/&PRIVE/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png",Sony PIX
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
+##
 ##########END##########
