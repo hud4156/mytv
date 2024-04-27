@@ -778,6 +778,141 @@ https://sportsleading.online/live/stream_13.m3u8
 =====================================================================================================================================================
 =====================================================================================================================================================
 
+#EXTINF:-1 group-title="SPORTS" tvg-id="SSC 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",SSC 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e76ae17d861546be9c238e6582509c2c:de1a91e2306bf8442236a80477f526e1
+https://ssc-1-on-prem-ak.akamaized.net/out/v1/ec938957da2849879f0cfac7e309ff38/index.mpd
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="SSC 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",SSC 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b8763ccad3d146c2b15f8a77a4d6d733:ab87f6ae46b2dc187bd94cbb48cfe074
+https://ssc-2-on-prem-ak.akamaized.net/out/v1/d9a2acf5f809461ca47714440fcbc0f4/index.mpd
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="SSC 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",SSC 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3af2aa1da4a41cbb37b1dbe43b46782:b6b74f29f6d1501b989c96aec4dae599
+https://ssc-3-on-prem-ak.akamaized.net/out/v1/ad2b1abef05c419aa6a4e6aee6d269a2/index.mpd
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="SSC 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",SSC 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c506baa39a74674874ae2ab8bbc792f:1fa11c606eea3ba805f3d2efa537b1fa
+https://ssc-4-on-prem-ak.akamaized.net/out/v1/3e442c7dad1b44b6a0914aa26b62a892/index.mpd
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="SSC 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",SSC 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=150150f30a8140a2bfda5d1b3fbb2d4b:dad19250368b129f003817b778d65dae
+https://ssc-5-on-prem-cw-ak.akamaized.net/out/v1/ee54cd9a3f844ceb8249f430733f9c00/index.mpd
+
+======================================================================================
+
+#EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", tvg-id="ksport1hd" group-title="SPORTS", TNT Sports 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005f5067d785a42dc5167ba06126ca8:8f9987d3153d003a23f34994501141d9
+#https://linear014-ie-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tntsport1)/manifest_hd.mpd
+http://linear036-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt1sport50)/manifest_hd.mpd
+
+#EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", tvg-id="ksport1hd" group-title="SPORTS", TNT Sports 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00034ab4ec2fbf01848ac5157a314d43:92d1b98a91f3f39285e4b6315608b3ee
+http://linear037-ie-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt2sport50)/manifest_hd.mpd
+
+#EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", tvg-id="ksport1hd" group-title="SPORTS", TNT Sports 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005d81e9c8dd58b72ebd87d54a78009:01924a06ecbe6296e756e35acdd7c30e
+http://linear036-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt3sport50)/manifest_hd.mpd
+
+#EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", tvg-id="ksport1hd" group-title="SPORTS", TNT Sports 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00032335f1860c8cf0f5e4510c9619d9:fa0830e62a308d00d09a916df66ccd1a
+http://linear037-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(tnt4sport50)/manifest_hd.mpd
+
+======================================================================================
+
+#EXTINF:-1 tvg-id="telekomsport1.ro" group-title="TEST" tvg-logo="https://iptvboss.xyz/logos/Romania/OrangeSport1.ro.png",Orange Sport 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct", "k":"gGVzp0eJppZRwWLaTbtVJg", "kid":"sRUX3jEvyrXLoGvjXkghOA"}], "type":"temporary"}
+https://ott1.cyberhost.ro/sdash/LIVE$DolceSportHD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+
+#EXTINF:-1 tvg-id="telekomsport2.ro" group-title="TEST" tvg-logo="https://iptvboss.xyz/logos/Romania/OrangeSport2.ro.png",Orange Sport 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct", "k":"MHv4idkpaf/TAU3dtnmZ9g", "kid":"91MCzbBKCeQ/FTCVvKzRIw"}], "type":"temporary"}
+https://ott1.cyberhost.ro/sdash/LIVE$DolceSport2HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+
+#EXTINF:-1 tvg-id="telekomsport3.ro" group-title="TEST" tvg-logo="https://iptvboss.xyz/logos/Romania/OrangeSport3.ro.png",Orange Sport 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct", "k":"HNKJrHHOX7MGpedlMZLOOg", "kid":"uHhXunTOA/n6KGbx4IbQXQ"}], "type":"temporary"}
+https://ott1.cyberhost.ro/sdash/LIVE$DolceSport3/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+
+#EXTINF:-1 tvg-id="telekomsport4.ro" group-title="TEST" tvg-logo="https://iptvboss.xyz/logos/Romania/OrangeSport4.ro.png",Orange Sport 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct", "k":"zdOZhpBXvDTIJ/JX9WJkOg", "kid":"ICqSfNkTEB3nZbDluz9QDw"}], "type":"temporary"}
+https://ott1.cyberhost.ro/sdash/LIVE$DolceSport4/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
+#EXTINF:-1 group-title="TEST" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=185037893738_image-header_pRow_1688019824000&quality=70",Play Sports 1
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-051/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
+#EXTINF:-1 group-title="TEST" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=185038405651_image-header_pRow_1688020142000&quality=70",Play Sports 2
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-052/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+#EXTVLCOPT:http-referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
+#EXTINF:-1 group-title="TEST" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=185037893736_image-header_pRow_1688020143000&quality=70",Play Sports 3
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-053/stream.mpd
+
+
+#EXTINF:-1 tvg-id="Prima Sport 1" group-title="TEST" tvg-logo="", PRIMA SPORTS 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=49e2aa7ed50fc98b895023c87a32a183:57062665c1ef8481911e68e17655c8ec
+https://ott.cyberhost.ro/sdash/LIVE$LookPlus/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+
+#EXTINF:-1 tvg-id="Prima Sport 2" group-title="TEST" tvg-logo="", PRIMA SPORTS 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=96c311676c08545ea6aae37668e4a0df:64fca4a48c14d2b32afcd53971cfa62c
+https://ott.cyberhost.ro/sdash/LIVE$LookTVHD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+
+#EXTINF:-1 tvg-id="Prima Sport 3" group-title="TEST" tvg-logo="", PRIMA SPORTS 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9404e7ae27dce22d69d41ffc29197cef:a6177128238fe775d5c74803e15ac175
+https://ott1.cyberhost.ro/sdash/LIVE$LookSport3HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+
+#EXTINF:-1 tvg-id="Prima Sport 4" group-title="TEST" tvg-logo="https://w7.pngwing.com/pngs/891/874/png-transparent-zombie-infant-child-horror-europe-zombie-child-infant-snout.pngg", PRIMA SPORTS 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c68ec2e525d8406b6c3cedbac72debae:a0f28f93fb9834d331df3ddedeb8a565
+https://ott.cyberhost.ro/sdash/LIVE$LookSport2HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
