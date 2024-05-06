@@ -753,13 +753,6 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/cinemax.png" group-title="Extra Movies",CINEMAX HD
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
-#EXTINF:-1 group-title="Extra Movies" ,HBO tree 
-http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/197972
-#EXTINF:-1 group-title="Extra Movies" ,HBO Hits tree
-http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/196480
-#EXTINF:-1 group-title="Extra Movies" ,HBO Signature tree
-http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/221948
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
 #EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="Extra Movies",HBO (Sg)
