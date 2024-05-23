@@ -38,17 +38,11 @@ https://cempedak-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel
 #EXTINF:-1 tvg-id="Zoomoo - [Channel 39].id" group-title="Kids" tvg-logo="https://static.mncnow.id/images/channel/5671cc3e/71d2_r32.jpg",Zoo Moo
 https://cempedak-live-cdn.mncnow.id/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 group-title="Kids" tvg-id="MentariTV.id" tvg-logo="https://iptv.urfan.web.id/logo/mentari.png",Mentari TV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 tvg-id="MentariTV.id" group-title="Kids"  tvg-logo="https://iptv.urfan.web.id/logo/mentari.png",Mentari TV 2
-https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#EXTINF:-1 tvg-id="" group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3N9aGoqBfebsIn3j9tXao6HJY5MKm00vGFexTOFJS0g&s",MENTARI TV 
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 
+https://ilmu.combilolo.my.id/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiMjYzMTc5NTgiLCJyZWZyZXNoX3Rva2VuIjoiWWZmcUpHQzdrNDZiVlI0aDJJanhWTlZJeTA0bW5EeEN0eGpDWnhOS0JUUDFiUXR2ZDgwWFNnUWthSEdVSG9FWWUyeE9aTkZTOW5mSGlvZHh0bERHVDNYNDkyZWRWbGh0WmFvQ1kwUUJxYUo5RGM4bVZLaVwvWkZDaUVlalp2TkVvUXQrUDRXVWdVOXllZGgwbjRBTVNXNEF3WkJ5NWliNG4zNncxSnpUdktUWmJzTHRDeWV0NjFFV2dkRHd4enBKTEQwbjNTckQ1ZlBSUlZiUXdveFNsRDBaRExFWTQ5ZW83VXU1T2ZZSFJmVVR0NHpNWXJCUFNpc1RCbW9XTW9Tb3IwXC9wY0dPYjJ3dlJxU1wvMHU5UGd5c1E0bmdVUU5jZENkSXY1eEdsZ3lQUGpKXC9GWDE5UmRKeDVTRnU4QWFLOHNsNVZtM3c2YTE3OHY3OVdBR3lnMW5IeVJWMEtqVitETUpwRm9hcVNTWkZBVT0ifQ== 
 
 #EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/abc-kids.png" group-title="Kids",ABC Kids
 https://c.mjh.nz/abc-kids.m3u8
@@ -88,10 +82,22 @@ https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #EXTINF:-1 tvg-id="Trans TV - [Channel 87].id" group-title="National TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png",Trans TV
 https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 
+#EXTINF:-1 tvg-id="TransTV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be43042758d8/36f75de0a5b543da8d17c46db9d44178.jpg" group-title="National TV",TransTV HD
+https://ilmu.combilolo.my.id/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiNjUwODE5MjQiLCJyZWZyZXNoX3Rva2VuIjoidlFGbzlUZmxpY2prUVNGU2NkXC9JWVBLYkNoWDZiSU1IOG9rRkpvTWhaY2ZzSWhMNXJySDNFS3RXTU10MVpkYzNrTFZjenBramdYSkxLdWRyYjRHazJLRlkwTzJnVlUyRGhPRmtBbVRYMTc0YWIwbE5RQTB1Yk5KM3I1NjdkU1VwYWtEOTk5K1N0cjBVdlhIMFRwNWZJQXdIRVdpSWUzbnJXZmt4ajZnYkFBRDZDem5tZW1Ra1RmeE9pblJDWXBUdWdjRXZPQk5JemtRVFJqZkxqSTlRNXpvcVRUZTZjXC81R0djQ3dGaWhHVWVtR01wXC94TjNSRkc1UUpDNHlCQUUwQU5iREVXN2RwOVpkUUF5NnVcL29GUHR1U1Zuc3dBNnNqejc1Qm54SkxYTFwvdUlXelpvRVkzWVZqNXhsT1dYSUlNZm5ldE14VUJINEFlaUlUV21xeEN2TjR3Y3J3S1wvSGdcL1Rla2h3a1o1YlNkUT0ifQ== 
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-id="Trans 7 - [Channel 110].id" group-title="National TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png",Trans 7
 https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 
+#EXTINF:-1 tvg-id="Trans7" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="National TV",Trans7 HD
+https://ilmu.combilolo.my.id/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiNzUwMzkxNDIiLCJyZWZyZXNoX3Rva2VuIjoiSVE0XC9OeHdidXhcL1o2U0hsdGJGT1Vta293dnFaR001Uk5MOEl0NWcyNjJ1ZDNDKzJWcG1CcUd6OU1pcEZKa2ZWNFVMczdwUGhDVlkydGJGK3pYV1VRUnBtbHBwbUlNVHNpcWVodFlaU2JkXC9OME1URnJrM1FVYlc5Mk44bmxqWlludm4yM0x2OTlHXC9Ec1ZFWU85QXJFUVwvbnExZHRPSWUwNkRXXC9iMEJ4RHpEWUJmbnNBa1wvWmVFTjNNQmtjZFBNMVIxU0IwMnJIeEt6Zm9kN2NSN25KSjhNM1EzYTMyZ1dPXC9rdTVTcXIxbDJ3SFZOTklJbUtPbDl4TlBWVjI1ZnU3MlVWdHlEV0J6aWlUbUsxcVpNNWQ5OWpLNXJTd2xQdEs4UHJiMnBVZWpwUkpyMWVMVXRZaHh4UlhsbktrQVwvblR1bEN5RGVleG1WaXVZMHVQTm1OVCthc2t1R01PVFg1UG1xd0xTZE9scnJBPSJ9 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -141,10 +147,22 @@ http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 #EXTINF:-1 tvg-id="SCTV - [Channel 89].id" group-title="National TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 
+#EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="National TV",SCTV HD
+https://ilmu.combilolo.my.id/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiMTIwMzc2OTUiLCJyZWZyZXNoX3Rva2VuIjoiaGpsOEVEc3NUSGpqQU1Ia3B2TzgxRXhPcUtwUTd4QUlGT1VcL2tpbXVZNFF2VjB1UHpCa0hiMGRDMFNIWmFHV1FlMUZYeVRGeEdzQ1V4Sjd0b3g3ZkZQK3hmXC9lQTROYjV6VlhBMzRTczZFOWxpcDVMbVBJNVE2c0FkMjZrMmlHSzU4K1ZZZWdPZURXTk9BSCs4NzdMK1FcL3NZXC9uSkRZZ1kwa2JoXC9Tc3pZNGF4K1cxdldhWGxvWVI3M2Vsb083OG9DeEV3ZjA2NDluaDFLM2JlTUx0bWFyQmNcL3VPZjd3SHp3SVU3Y0pKQzRSd0V0eTdJOXV0MW5JSVpid0kxQTRFSVljNjJYQkh0VGxWcDROclpkUUNMQjA4cEhZbWk2SFllZUJ1bE9cL05aRWduNWlRTGE5QzVxU29sbVIyXC8rWWRtd21UalJrWW45YWI0T2RxMjNcL29DZFpWSEQxcmd6STdRVmtWZ2V6dE9aV1BNPSJ9 
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" group-title="National TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png",Indosiar
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 
+#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="National TV",Indosiar HD
+https://ilmu.combilolo.my.id/play.m3u8?ch=eyJ1c2VyX3Rva2VuIjoiOTM4MDE3NjUiLCJyZWZyZXNoX3Rva2VuIjoibmpRVitxRWVMREU3a3dCeUl0ZTRqWHBoTGJzNGNjUUVWYXBHNER0Yk9JV2RpMGpLdnVUMlZjTmNJTXJWN2NsRCs1d0NlY1lcL1JXS2swZGlcL2NLSW5IMzI2YzIraVwvd1ord0xpZExVc1BSSFJrNFpuM1ByU2VJK2g4YmE4NXg1cCt4RXdRN25Ocmdvbm1rSGt4UU5EeTBwT3BTTFRXZWY3TSs3cnBVN3ZweCtvYnRPb3M3MWJWZTBjbWJwaDlcL2RxcWhrVUlBR29mQTBsZG5nUVUxUVwveHhpR2RlRkc2ODNJdXlWUU1Rb2hrdDdXRzNvNHo2VGZpdkV6d2sxWGgwcnFkR3MrYXYwNUE4eHdweEFEVXJNcWRGdUVxRkJYQ1NoNVBVQ2RzOU1PQThRT3VcL0xuTThWRVFONFlzdXNsVW1yZndkTDlVaGhQSk1KK0xHMktTM0hxbmhwcFB3R2tsNVAyeldtbm1rN0UrU0swPSJ9 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
