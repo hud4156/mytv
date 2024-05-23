@@ -749,35 +749,45 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff
 #EXTVLCOPT:http-user-agent=MaxStreamPlayer/3.1.11 (Linux;Android 9) ExoPlayerLib/2.12.2
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
 
-#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Extra Movies",HBO Signature (Maxstream)
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/hbosign/license-proxy-widevine/cenc/?specConform=true
-#EXTVLCOPT:http-referrer=https://maxstream.tv/
-#EXTVLCOPT:http-user-agent=MaxStreamPlayer/3.1.11 (Linux;Android 9) ExoPlayerLib/2.12.2
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://kuyydrm.mantapwork.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiOTQ2MTgzNzUiLCJyZWZyZXNoX3Rva2VuIjoiUWdWemZvZXhjTHExXC9neTk2SDA2UDlTNXVrMEVSa1B4alVMMHREVnJOWEJGWnNDWGczNW1NN3l2Ymd1dVhvTVR1VGI3S3RyYXgwZGxyQTFiaUJYOWNFcXZVOFpHNmk4RFVMYkcyazB0R3VnM0t6UzV2Unk0eWQzYUV5cTVIZmdsaEhLOTZidWVwd1NDTGlpN0tuYjBFNXQwMHV3c3BjWVZSVkNIN1U0ZGtkbmlZVG5ydkdRZWIzZERqTUZcLzRCdm9tczRwUkl6NTNKZTFlUTlPZ28yc08zdDAwbzBVbHNCZGdmQWhQNFh4bUlhXC85QUxkeG95UFJsNUV0XC9za25cL0xHb0xoWlR1YVgzMDRQYVRJS01DWGEzdGJYMXduUWUyUWtmS1MyZTV2K2dpSWRlZ1llaWtnc2EwV0ZHN3kzMTJ1MCJ9 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="Extra Movies",HBO (Maxstream)
+https://ilmu.combilolo.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNjU0MTkzMDciLCJyZWZyZXNoX3Rva2VuIjoiZnJTVmEwb1V6NVhXRFNjbGtvZFBzTDhGd3Z3MFUzZTBtbU11WVA2R0R1MEczSDV6c3VGcFgyMkt6NWtxMXN2U0ZKMXI5M2ZLRVZsTWhSUmpPTkJibktlYTh6bGJwS0h0SE01NmpuMnJhTG9wMGJMVDI0RFhNY0hhV0JhME85Wk9NTGNNcmtSRENKaDhYSUZmQU5ZZ1JEenpybnFmaFhZNWhOVXhoekQyWG83aDNkdVRDbmxDaERVV1JvaFZRWDduYzhNRjhsblBraHpcL0NNNm15WlZzcG9tY0dCOWs0XC9rM0R0MHFyWXJoM0xZeVljS2xNKys2ZEdwN1VLNWdpWkltTWhmQW9rWUZOQWlGRTJVdko3NWt4M0FZbWxkOWk1MGRWV29FQlhzcW9TXC9pMjBzeVJcL1V4UVA2VnUwWEhiZ0NSUGdPQW02K1loY2hhWkw1eTZ3VXJMc2dtZUFsWFVsR0ZUTDFyOVNpU1FaZ1c3blBGMk11QWd1eHE2dDRlWTZiMnNqYWlQNWdcLzJ3Vnk4SW5NQTYyS3BBPT0ifQ== 
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://kuyydrm.mantapwork.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiMzA4MjY1OTciLCJyZWZyZXNoX3Rva2VuIjoiSE5GQ2pOXC9WQjFqTWFkcDdISDFhaFhwN1ZiQXMzXC90QmNjN1NZa3F3XC9nNEZJaTVKNFZcL1wvaHJ5YVVwaFNQcDRMd1E4SkhrNFdoZnFQS3ExR0VjOGsyT3dMU2QySlo2N1RkUkFTYmR5b0NDN3V0M1ZBSTUwaHRkenFuXC9cL1VlUkdPTW9CeDFYc2RCOGhwV0JjdXdTeG1uRGRiR0NiTWNQYWNheDlDRFZMTFJvRjN4XC9EazRcL2xcL3MrSGFyTXpcL2RYcVl5V2JXcFcrRmZ4T2pjZkdRb2FZWUZyNVA3ZkRDNGlKYWQ5aEdKQU1CeGpOQ1puc1Y2dlJmR0pudEl4MndCM0JPcjVhSVV4R2M3dTJlTUJGR0RWbVVSOVAyZDNkTXBzZDNUNGl5aHNkQzhxY09OY0h1VHppc3ZxcnE2QVdVTlpFNyJ9 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="Extra Movies",HBO Family (Maxstream)
+https://ilmu.combilolo.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMDY1ODQyMzEiLCJyZWZyZXNoX3Rva2VuIjoiS1luOVByWnpCU3I3TCs4VlhVSGJLdGk0WUZpcE9tQ2pnWUdWdTN6QU5RaWFxU1JzeXduQUtySU1LdHRqdkVwWGJxTFwvM1RlQlY3dDJURm1KeXJuOEptVVoyNm95U3I1S1wvWnJ3ZUxpeW1aZVVxTng1QkpZY3dra3J1RGV5bWVZR3hkaHg3ZE1WdTliMW5kMkZZQjVkMXJDYm9mTkd3cTZIaG83NzhBMThrMTZsMzlmME5XY1hrbEhCeXlrMnU1TEdJcXpmckU0OVh0dTJmTHBUWEp0bU1mUGozaTZLeEgzeEJcL0Yxb2lHN1VmdWdqRlVFZVVMeTVZVmJcL05cLzdaRXp6aUZaM2ZhRTZwTFwvOU1HQytRcjJcL1NwdFpBSTluMmVteUorUDRmeVhkSldWSFltcUZKeTlsSjVJekdIUmJpdnNLQ080NTRaUUdrdzdRNDhjdThGeWc3cTArOUFoZnJ1eE1HQ21wK1ZDd3c2WTlZZG5VVFpkN0JTNEJFdW9ucVBPRWdXVnBSdm5MUjVSamZwWlFocURoeXc9PSJ9 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
-#EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="Extra Movies",HBO (Sg)
-https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=473fabdc05ac4d9b94fd34f33f73394f:1072b1e61206c3859607984f872e549c
-#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="Extra Movies",HBO Hits (Sg)
-https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=363b551913124d6b80074ca295b25129:a6c6efcab0076d572e5732fb6451d19c
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="Extra Movies",HBO Family (Sg)
-https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="Extra Movies",HBO Signature (Sg)
-https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=32bc2ee6869144b88bee3babf202f88e:50d3b9ec49e1570621d45822923607f7
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="Extra Movies",Cinemax (Sg)
-https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://kuyydrm.mantapwork.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNjkxMDc0ODMiLCJyZWZyZXNoX3Rva2VuIjoialVBQnVxcVZhOVhQTEZzK1czdFJYOFM1RnA2WXpVa2lpN3FTVXZJZGRnRHN4Q2ZzaXdlTDAwZld6Yll2Zlhac2lkQ29nUnZxKzViY1I1eXdKYzN5NFNOOVVmaWJuYmFMUVptaVZFaUNvRzVOdU1PY0NYRTArVDZrdkFKb2lsNE5MTFlGbWZPYldaeE10amR6SW9VMGZCdzY5NWM4NE1NSHdKNkNHZUo5czZRbFg0K01NeUJ3YTFSZ0ZTelNHeEdJaDl6S2dWSm5iNFoxRFF2M1QzcUpqbHhSRnk5dEVCRVhENmY3TCtmbndnZkorbjFYU2pkSkh3NVA0K2tPY2wyZ1FpVUtrcFNrMVVWaTUyK29VQXpUaEZIQUh3ckZWNUZIVEhHUWlMXC9NUzA1WVNzQnV1K0FYaTRcL0g0YlVLYitcL2UifQ== 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-id="HBO Hits (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Extra Movies",HBO Hits (Maxstream)
+https://ilmu.combilolo.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiNDMwMjk4NjUiLCJyZWZyZXNoX3Rva2VuIjoicE1aUlVlZjhIcFRCbW8rWEhwQnQzclZtWEhlRk4xUXdGN3lCTUJLWWUrT09Wb0dOcndielhYa2cxR3JRZzI1SmpZQkRJVVR0SVZTK2I1SFdDcW5NQk4wMHEwOXE1QWE1YXU5dlVNQkpEY3NnQ0lkMnp0ZmtRNldseU03R1BsNmsxNmJcL2RoclQ3c014UEhvdlBzMHBKRmtDdWU2dlhiMUkrbkp4VWMyNEJJYTlaTDZ1cDBVVytxbUZacnZXYll1cXlDYTZpcHJPR2lsdFJsc3RqdTRZZ01OcjBDWXU1YXdBemZudW8zRnVaRDd0VnlVYjBQWmxEcDFKTlJqYmhrWFwvR1RyRTdYN1JUeEwzWm5wemY0S28rb3BcL2h3cjdBVlRrYUpVR0lDdEdydDlGNGN4K3VzU09ibzVUdWlIbXZPOSt6bHY1Sjk2bGNJRGtHaWRUYkFrTmdvVXphMytzUTFHUmU3S1loQ2txZ1RBVFhGTWJwbHNTZkhQZWtSVFJVbEhIYnZCWWsyVFBwMU9VTHZGaVVqTjJpQT09In0= 
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://kuyydrm.mantapwork.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNTIxNDk4MDMiLCJyZWZyZXNoX3Rva2VuIjoianRSU240T3QyR3VidXZSNStmOG1rVXhUNXlnK1RTQysyUGRcL3RZS2h3ODNxcEI0MjBiMXpcL0ZOVnFqNXhQaFRhY1Z1ak1vKzFLV2xwVEhSYzU0M0V2bm5lSXo1VjB2VlNDYXhIME9jZUFrQnlaMm4yeXNvKzc2WjdqaWU4V1BqQkZNYUYralQ1aGZSdHYwN1U1OEhzRWs5RjdMTjFYVkVoQ1pqODc1NlwvcWxDU3hNYUFzdEpyMnlwc2llcnpvR0JsQU11d0Y4R21hTGlzbEttU3VlUmd0QVdoRjkxb3ZpbFVvQ1BRSDVKaHZyUytmZG1RN3UwNWF1eDlFcnVZc2hwMkQ0XC9HUWtoU084MEpBZWtkM3dyQkt5bkZ2N2N3Y05JcHhrbHQ0VmRFXC9wc2RpYkxWMWR6MDlRMURtZlkyY0x6UCJ9 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Extra Movies",HBO Signature (Maxstream)
+https://ilmu.combilolo.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMDQ4MzE2MjkiLCJyZWZyZXNoX3Rva2VuIjoiRVE2Q1R5UGlFbkU0YUZhcWdqTW5jckM3cEZCcjFUb000b3ZuTmRZcmJYbWNhSHNjK29kdlBWektLV1BBd2pcL2xDcUlwcXlRYTJtaWNiMllSMTRXNW1JaVd6Yis5R1NqdzIrQzlmZHg0bCtpRVwvUDVta2hzNE1PNXo1cm90dnZTZWt2XC9jYnBtNVNVTzRZK3NDVzA2V3BUTWdZcTNad2JMZjl2RjhIVHVoYklwN2lMZ0xZSFFYN1RqaFZzK1QySGgydlhXeUdaY2VkdDIybzU4bllqbGlSNEpLWE00Nm5vUDZxNjFlV1p6YXAramtWdWxMV1pDT0Q2OXYxRmpFcmF3cjNPSGc1MytBZ0NJU3dLNlBcL0lUcFwvQ0hBQW9sK3Brb3dheEJmRG5IQVp6MEM3SGwzRUJQUGh3bUJGNWZrT1dnVCtNZXF2U0N1ZmRUcFlSK0pOZlNOemlSMlNaMDlRMk5aa1FZUkNpd1wvYkNxbmpMS21Xd2VxVVJoWnBwZE5ERElWczk5K21xbkhmS1N1UzZJWnZWYjJ4Zz09In0= 
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://kuyydrm.mantapwork.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNTMwNDcxODkiLCJyZWZyZXNoX3Rva2VuIjoiNG5GRGdIWFJWQlB3Nkc1dHpJeTJRUktRMVwveVJiODI0N0p5ME9mWmdURkFpdzJWYVF0S3JBSWhnV2NSSkc5aE1tUTZ4VVRGRFBlRmpGNzFIbFl5Q1FJTFVTZ3A3dm1oRmhhVXRXcW9XR0gwcFJOVTdCNXpaWEo4K1B5cEFiRWsxZDhHMGJ0NGczNUMwV0JsaUdJZDBHOUE3Zk9WWWR3bFl0ME51SnlcL09oQkdPR0RvY1ZwcFRXRVdFQ1pYYU5rcnNZTUxsZXFrdG1LSFV2U1k3S0dyN2gwTllzc0JqUE9ZVFM2U3dlTk5OZWh3YmNKMTF5eUdpb0dlV2orSjQ0Tnk3YXJsYTFlQVV3elNxaVFcLzU0cXhKSVZzYU5iSGNZejFrbDNSbHVHTTQzN2s3TzQ5SnlOM28zQVQxQlFTdGFyeXYifQ== 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Extra Movies",Cinemax (Maxstream)
+https://ilmu.combilolo.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMTY5MjU3MzAiLCJyZWZyZXNoX3Rva2VuIjoiZ3lmNThlRnpSMVJ4WE1BQzlPcU9wRVBKZVhnbDl5aXFDZU5JRHcrZitNMEJyXC9zOHo1XC9vamdZS01oVDZVbnkyVXFQNnE3RW9SM0RWVTRKSzJEczhmZ0hiSWduSmhLT2JzOHNhN1RhSlFTSFYrMytHUk5GcTNBdzIxQzVlSnRtdnJlYlhcL2Y4MHU3QnhQdWNoXC9vRVg3akZwWXBjYVhnN3NrVjhjSUNzMUx2T2JKNVBvMmR1RksreWtMM2huMG9raXowZVN2cXdNZXZkMllvcXZPY0xwaFwvYkJhR3dhU0ZlOHBHbnErYkRENjMzOXNxWXI1SGQ1OTFwc2t4WFwvXC9RYWVMRXR3aEJBQXhDeks0SmRJYUQzOVJrb2k0dDJYVnlycEZNUGNIS2pXXC9VbmdCQ3hpc3ZKVlc4RTZYMmZJVlJyODgwSGpNcVJzRTA2SlFuQXNHTSswVVZTSXVpNU9Eck5IYldTditFaExcL0NVRlkxWExFTGRzajhwRHJiU1I4ZW8rSjZTK2o2Q0FnK2kxc0IrbVQ4V0R2Zz09In0= 
 
 
 #EXTINF:-1 group-title="Extra Movies" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png",Sony PIX
