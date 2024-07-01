@@ -840,6 +840,19 @@ http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1720
 #EXTVLCOPT:network-caching=1000
 http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1719
 
+#EXTINF:-1 group-title="Extra Sports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg",ASSP 1
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://play.gachor99.my.id:443/live/hometv_lite/h6NwHhGE43/118.m3u8
+#EXTINF:-1 group-title="Extra Sports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg",ASSP 2
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://play.gachor99.my.id:443/live/hometv_lite/h6NwHhGE43/119.m3u8
+#EXTINF:-1 group-title="Extra Sports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg",ASSP 3
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://play.gachor99.my.id:443/live/hometv_lite/h6NwHhGE43/120.m3u8
+#EXTINF:-1 group-title="Extra Sports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg",ASSP 4
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://play.gachor99.my.id:443/live/hometv_lite/h6NwHhGE43/121.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png", tvg-id="ksport1hd" group-title="Extra Sports", BEIN MY 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
