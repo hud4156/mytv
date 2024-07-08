@@ -83,22 +83,22 @@ https://c.mjh.nz/abc-me.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="RCTI HD - [Channel 430].id" group-title="National TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI
+#EXTINF:-1 tvg-id="RCTI HD - [Channel 430].id" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png",RCTI
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" group-title="National TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png",GTV
+#EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/582/582-LOGO-m.png",GTV
 https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" group-title="National TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png",MNCTV
+#EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png",MNCTV
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="iNews HD - [Channel 433].id" group-title="National TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png",iNews
+#EXTINF:-1 tvg-id="iNews HD - [Channel 433].id" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-m.png",iNews
 https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
