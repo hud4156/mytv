@@ -44,13 +44,16 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd
 https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 #EXTINF:-1 channel-id="pluto-5d14fb6c84dd37df3b4290c5" tvg-id="5d14fb6c84dd37df3b4290c5" tvg-logo="https://images.pluto.tv/channels/5d14fb6c84dd37df3b4290c5/colorLogoPNG.png" group-title="Kids" , Dora TV
-https://jmp2.uk/PlutoTV/5d14fb6c84dd37df3b4290c5-alt.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+##https://jmp2.uk/PlutoTV/5d14fb6c84dd37df3b4290c5-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5ca6748a37b88b269472dad9" tvg-id="5ca6748a37b88b269472dad9" tvg-logo="https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png" group-title="Kids" , Nick Jr. Pluto TV
-https://jmp2.uk/PlutoTV/5ca6748a37b88b269472dad9-alt.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+##https://jmp2.uk/PlutoTV/5ca6748a37b88b269472dad9-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5ca673e0d0bd6c2689c94ce3" tvg-id="5ca673e0d0bd6c2689c94ce3" tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" group-title="Kids" , Nickelodeon Pluto TV
-https://jmp2.uk/PlutoTV/5ca673e0d0bd6c2689c94ce3-alt.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+##https://jmp2.uk/PlutoTV/5ca673e0d0bd6c2689c94ce3-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-6452c77ed3fdde00080eb3a8" tvg-id="6452c77ed3fdde00080eb3a8" tvg-logo="https://images.pluto.tv/channels/6452c77ed3fdde00080eb3a8/colorLogoPNG.png" group-title="Kids" , Zoom! Zoom!
 https://jmp2.uk/PlutoTV/6452c77ed3fdde00080eb3a8-alt.m3u8
@@ -62,7 +65,8 @@ https://jmp2.uk/PlutoTV/5eb301b7395671000780d100-alt.m3u8
 https://jmp2.uk/PlutoTV/60faffc3fbbc120007fc4376-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5d0c16d686454ead733d08f8" tvg-id="5d0c16d686454ead733d08f8" tvg-logo="https://images.pluto.tv/channels/5d0c16d686454ead733d08f8/colorLogoPNG.png" group-title="Kids" , TOTALLY TURTLES
-https://jmp2.uk/PlutoTV/5d0c16d686454ead733d08f8-alt.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+##https://jmp2.uk/PlutoTV/5d0c16d686454ead733d08f8-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-60fb01a24795a6000762fe83" tvg-id="60fb01a24795a6000762fe83" tvg-logo="https://images.pluto.tv/channels/60fb01a24795a6000762fe83/colorLogoPNG.png" group-title="Kids" , LEGO Kids TV
 https://jmp2.uk/PlutoTV/60fb01a24795a6000762fe83-alt.m3u8
