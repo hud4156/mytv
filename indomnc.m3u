@@ -876,18 +876,10 @@ http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1720
 #EXTVLCOPT:network-caching=1000
 http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1719
 
-#EXTINF:-1 group-title="Extra Sports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg",ASSP 1
-#EXTVLCOPT:http-user-agent=ExoPlayer
-https://play.gachor99.my.id:443/live/hometv_lite/h6NwHhGE43/118.m3u8
-#EXTINF:-1 group-title="Extra Sports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg",ASSP 2
-#EXTVLCOPT:http-user-agent=ExoPlayer
-https://play.gachor99.my.id:443/live/hometv_lite/h6NwHhGE43/119.m3u8
-#EXTINF:-1 group-title="Extra Sports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg",ASSP 3
-#EXTVLCOPT:http-user-agent=ExoPlayer
-https://play.gachor99.my.id:443/live/hometv_lite/h6NwHhGE43/120.m3u8
-#EXTINF:-1 group-title="Extra Sports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg",ASSP 4
-#EXTVLCOPT:http-user-agent=ExoPlayer
-https://play.gachor99.my.id:443/live/hometv_lite/h6NwHhGE43/121.m3u8
+#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name="EURO" tvg-logo="https://static.dw.com/image/59506085_605.jpg" group-title="Extra Sports",Supersport Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://mhdmaxtv.me/
+https://beecdn.wadim77289.workers.dev/SuperSport_Premier_League_Live_TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png", tvg-id="ksport1hd" group-title="Extra Sports", BEIN MY 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1030,6 +1022,32 @@ https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
 
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Extra Sports",Sky Sport Action
+https://bit.ly/SkySportAction
+
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Extra Sports",Sky Sport Arena
+https://bit.ly/Sky-SportArena
+
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Extra Sports",Sky Sport F1
+https://bit.ly/Sky-SportF1
+
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Extra Sports",Sky Sport Football
+https://bit.ly/Sky-SportFootball
+
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Extra Sports",Sky Sport Golf
+https://bit.ly/SkySportGolf
+
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Extra Sports",Sky Sport Main Event
+https://bit.ly/SkySportMainEvent
+
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Extra Sports",Sky Sport Mix
+https://bit.ly/Sky-SportMix
+
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Extra Sports",Sky Sport Premier League 
+https://bit.ly/SkySportPremierLeague
+
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Extra Sports",SkySport Tennis
+https://bit.ly/SkySportTennis
 
 =====================================================================================================================================================
 =====================================================================================================================================================
