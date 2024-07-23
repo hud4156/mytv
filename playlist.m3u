@@ -12,6 +12,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/mncsport3/sa_hls/mncsport3.m3u8
 #EXTINF:-1 group-title="ID" tvg-id=" " tvg-logo=" ",Sportstars 4
 https://dsgtq5sngxkde.cloudfront.net/live/eds/VplusLiveRplus/sa_hls/VplusLiveRplus.m3u8
 
+#EXTINF:-1 group-title="ID" tvg-id=" " tvg-logo=" ",Soccer Channel
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8
+
 #EXTINF:-1 group-title="ID" tvg-id=" " tvg-logo=" ",SPOTV
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
 
