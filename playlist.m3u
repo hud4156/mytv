@@ -33,7 +33,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
 EXTINF: -1 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_tvri_small1.png" group-title="ALTERNATIVE", TVRI SPORT
 http://op-group1-swiftservehd-1.dens.tv/h/h238/02.m3u8
 
+#EXTINF:-1  group-title="VISION+" tvg-id="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_RCTI%2B.png",Sportstars 1
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar.m3u8
 
+#EXTINF:-1  group-title="VISION+" tvg-id="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_RCTI%2B.png",Sportstars 2
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8
 
 #EXTINF:-1 group-title="VISION+" tvg-id="RCTI.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUNV5JEUexIqXm_h_4FZ1dsFxyiIxPXt8XTAkjbJGupUupYEaLIp1-ica0Nw_XxmKMCw0&usqp=CAU",Sportstars3(A)
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -43,11 +47,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/mncsport3/sa_hls/mncsport3.m3u8
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/mncsport4/sa_vmx/mncsport4.m3u8
 
-#EXTINF:-1  group-title="VISION+" tvg-id="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_RCTI%2B.png",Sportstars 1 (A)
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar.m3u8
 
 
-#EXTINF:-1 group-title="VISION+" tvg-id="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_RCTI%2B.png",SPOTV(A)
+#EXTINF:-1 group-title="VISION+" tvg-id="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_RCTI%2B.png",SPOTV
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
 
 #EXTINF:-1 group-title="Anak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network (Bhs.Inggris) (OS6)
