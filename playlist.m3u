@@ -21,18 +21,22 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
 #EXTINF:-1 group-title="ID" tvg-id=" " tvg-logo=" ",PSJ TV
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="ID",RCTI
-https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="ID",RCTI 1
+https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ID",RCTI 2
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-2/sa_hls/rcti-2.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ID",MNCTV	
-https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
+https://mnctv-cutv.rctiplus.id/mnctv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ID",GTV	
-https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
+https://gtv-cutv.rctiplus.id/gtv-sdi-avc1_800000=9-mp4a_96000=1.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="ID",INEWS
-https://inews-cutv.rctiplus.id/inews-sdi.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="ID",INEWS 1
+https://inews-cutv.rctiplus.id/inews-sdi-avc1_800000=8-mp4a_96000=1.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ID",INEWS 2
 https://dsgtq5sngxkde.cloudfront.net/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ID",TRANS7
