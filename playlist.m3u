@@ -35,6 +35,12 @@ https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 https://dsgtq5sngxkde.cloudfront.net/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 
+#EXTINF:-1 tvg-logo=" " group-title="ID",TRANS7
+https://live-c.cf.dmcdn.net/sec2(5_QPR46PD1Sr2Uh8Z_VNSG47-WEAqW70cigyXndQJPwl9zPP0qwEtA0lbwNLoZvwtIAy5lT4Qz9BhAt6wmAVyBUkWKzB64j4ydHVa0pYUo8)/dm/3/x8qckyq/s/live-720.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ID",TRANSTV
+
+
 #EXTINF:-1 tvg-logo=" " group-title="ID",INDOSIAR 1
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
