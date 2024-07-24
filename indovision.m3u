@@ -825,6 +825,16 @@ http://210.210.155.35/session/0c29f2d2-dd99-11eb-a245-b82a72d63267/uq2663/h/h18/
 
 <==========Extra Sports==========>
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
+#EXTINF:-1 tvg-id="SPOTV" group-title="Extra Sports"  tvg-logo="https://www.visionplus.id/images/repository/656/656-LOGO-m.png",SPOTV
+https://uniproxy.misty.workers.dev/https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
+#EXTINF:-1 tvg-id="SPOTV2" group-title="Extra Sports"  tvg-logo="https://www.visionplus.id/images/repository/657/657-LOGO-m.png",SPOTV2
+https://uniproxy.misty.workers.dev/https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+
 #EXTINF:-1  group-title="Extra Sports",TNT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
