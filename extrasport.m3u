@@ -1,5 +1,14 @@
 #EXTM3U
 
+
+<==========PeacockTV==========>
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+#EXTINF:-1 tvg-id="PeacockTV" group-title="PeacockTV"  tvg-logo=" ",PeacockTV
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
+
 <==========SPOTV==========>
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
