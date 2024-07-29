@@ -157,7 +157,7 @@ https://beecdn.wadim77289.workers.dev/SuperSport_Premier_League_Live_TV/tracks-v
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03b47c8e5bdf41cbbbef29be6a18de9e:3e13b4627eed3885cb58818fdc39d66f
 #EXTINF:-1 tvg-id="Optus Sports 1" group-title="Optus"  tvg-logo=" ",Optus Sport 1
-https://uniproxy.misty.workers.dev/https://linear.aws.optusvideo.tv/v7/OptusSport1/xbtss/drm/avc/dash/plain/manifest.mpd
+https://sambo2.yanbelasan.workers.dev/https://linear.aws.optusvideo.tv/v7/OptusSport1/xbtss/drm/avc/dash/plain/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=127b26420b5343719a317dc6abc3099e:a859aa07a1a3a75eb6525195ca441488
