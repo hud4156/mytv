@@ -367,12 +367,12 @@ https://cempedak-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_103.jpg",BeritaSatu
+#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://www.visionplus.id/images/repository/592/592-LOGO-m.png",BeritaSatu
 https://cempedak-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_84.png",MNC News
+#EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://www.visionplus.id/images/repository/584/584-LOGO-m.png",Sindo News
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -833,10 +833,7 @@ https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/mce.png" group-title="Extra Movies",MCE HD
 http://210.210.155.35/session/0c29f2d2-dd99-11eb-a245-b82a72d63267/uq2663/h/h18/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0009a340cc0a79210aac42485474d01f:42ad18fa32d4001a1b0d196d194b4f82
-#EXTINF:-1 tvg-id=" " group-title="Extra Movies"  tvg-logo=" ",TEST SKY Cinema Action
-https://linear401-gb-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_30/Live/channel(skycinemaaction)/manifest_720.mpd
+
 
 
 
