@@ -3,6 +3,20 @@
 
 <==========Olympic==========>
 
+#EXTINF:-1 tvg-logo=" " group-title="Olympic",Olympics EuroSport 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=237be8ca9383755e9f5784dd23f545eb:15a723773c3b3cbce295c0aed0bc71c3
+https://cache3.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_enc/eurosport_1_hd.mpd
+
+#EXTINF:-1 tvg-logo=" " group-title="Eurosport",Olympics EuroSport 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=15382879a9bcfa6f1a04a86d5b4324e9:664241133368ab039dc1fb15206ba54b
+https://cache3.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_enc/eurosport_2_hd.mpd
+
 #EXTINF:-1 tvg-logo=" " group-title="Olympic",Olympic 1 
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/manifest.mpd
 
@@ -20,34 +34,6 @@ https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/manifest.mpd
 
 #EXTINF:-1 tvg-logo=" " group-title="Olympic",Olympic 6 
 https://d30aylox5wvifh.cloudfront.net/event/smil:event1/manifest.mpd
-
-#EXTINF:-1 tvg-logo=" " group-title="Eurosport",Olympic 7
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d2b7b722f564526800fd7cb058303b5:2fed1593855c46873731379f3ab2d669
-https://testcors.starlive.workers.dev/https://mwmpos02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
-
-#EXTINF:-1 tvg-logo=" " group-title="Eurosport",Olympic 8
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=817e95985f9341839d4fb082527950ec:d146f45ec3e5a37b096aeca94a8556d5
-https://testcors.starlive.workers.dev/https://mwmpos04.akamaized.net/out/v1/c51d077e70d44638a9cbf99968e1491d/manifest.mpd
-
-#EXTINF:-1 tvg-logo=" " group-title="Eurosport",Olympic 9
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b5f778f91da94ad3badf79571db6ac2f:ba1c5c23fdaa9e597f5086da1beb8efb
-https://mwmpos01.akamaized.net/out/v1/5c607c72d136423ab639168c101ad964/manifest.mpd
-
-#EXTINF:-1 tvg-logo=" " group-title="Eurosport",Olympic 10
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b46e28db69004254aad034dd09c0deaa:64eb1db1b8c1eda6fdaefd0617c72102
-https://mwmpos01.akamaized.net/out/v1/5f4a01d67c374c05987ef5175315ae32/manifest.mpd
 
 
 <==========PeacockTV==========>
