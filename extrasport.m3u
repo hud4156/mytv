@@ -1,77 +1,60 @@
 #EXTM3U
 
 
-<==========Eurosport==========>
+<==========Olympic==========>
 
-#EXTINF:-1 tvg-logo="https://iili.io/dH9SdOX.png" group-title="Eurosport",Eurosport 1 
+#EXTINF:-1 tvg-logo=" " group-title="Olympic",Olympic 1 
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/manifest.mpd
+
+#EXTINF:-1 tvg-logo=" " group-title="Olympic",Olympic 2
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/manifest.mpd
+
+#EXTINF:-1 tvg-logo=" " group-title="Olympic",Olympic 3 
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/manifest.mpd
+
+#EXTINF:-1 tvg-logo=" " group-title="Olympic",Olympic 4 
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/manifest.mpd
+
+#EXTINF:-1 tvg-logo=" " group-title="Olympic",Olympic 5 
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/manifest.mpd
+
+#EXTINF:-1 tvg-logo=" " group-title="Olympic",Olympic 6 
+https://d30aylox5wvifh.cloudfront.net/event/smil:event1/manifest.mpd
+
+#EXTINF:-1 tvg-logo=" " group-title="Eurosport",Olympic 7
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036bb3fa7e6f2c334d7cba5c28b6caf:217fa35739cd68e90b2cd23322c01312
-https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/313073/FHD/eurosport/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=4d2b7b722f564526800fd7cb058303b5:2fed1593855c46873731379f3ab2d669
+https://testcors.starlive.workers.dev/https://mwmpos02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://iili.io/dH9SdOX.png" group-title="Eurosport",Eurosport 2 
+#EXTINF:-1 tvg-logo=" " group-title="Eurosport",Olympic 8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=003670a7034342a4a07c91173818c61c:7b90055c1a1ea34d9090e9ebf6c4db8a
-https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/31150/FHD/eurosport2/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=817e95985f9341839d4fb082527950ec:d146f45ec3e5a37b096aeca94a8556d5
+https://testcors.starlive.workers.dev/https://mwmpos04.akamaized.net/out/v1/c51d077e70d44638a9cbf99968e1491d/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://iili.io/dH9SdOX.png" group-title="Eurosport",Eurosport 3 
+#EXTINF:-1 tvg-logo=" " group-title="Eurosport",Olympic 9
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036422cf4293ae7cf1e7f7062cc29e8:37a223fcc17c087043bc837432fd25d8
-https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31917/FHD/skysport251/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=b5f778f91da94ad3badf79571db6ac2f:ba1c5c23fdaa9e597f5086da1beb8efb
+https://mwmpos01.akamaized.net/out/v1/5c607c72d136423ab639168c101ad964/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://iili.io/dH9SJRt.png" group-title="Eurosport",Eurosport 4 
+#EXTINF:-1 tvg-logo=" " group-title="Eurosport",Olympic 10
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=003643bc9d61268c987504fa93b397f6:b8d5767c73ff8bba68d955035b56f4c1
-https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32951/FHD/skysport252/master.mpd
-
-#EXTINF:-1 tvg-logo="https://iili.io/dH9SHJI.png" group-title="Eurosport",Eurosport 5
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036077996d02761a9d4c29ddfac7466:e83d078779ae5b53e2eb999513d55682
-https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32233/FHD/skysport253/master.mpd
-
-#EXTINF:-1 tvg-logo="https://iili.io/dH9SHJI.png" group-title="Eurosport",Eurosport 6
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00369c14c20b78aadb1ec0e3c0e74979:e768767e2c7238d8069887bb36aed7fa
-https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/31234/FHD/skysport254/master.mp
-
-#EXTINF:-1 tvg-logo="https://iili.io/dH9SHJI.png" group-title="Eurosport",Eurosport 7
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036b781a22ebb0c20c16ac27d5d1448:f309b94acfda720bf1ed5741489f8967
-https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32910/FHD/skysport255/master.mpd
-
-#EXTINF:-1 tvg-logo="https://iili.io/dH9SHJI.png" group-title="Eurosport",Eurosport 8
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00366f263859fc1cc82d2c4da6a66ef6:754ae922d113c54349002cd9a88694a4
-https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31912/FHD/skysport256/master.mpd
-
-#EXTINF:-1 tvg-logo="https://iili.io/dH9SHJI.png" group-title="Eurosport",Eurosport 9
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036faeace9872d3ceeb8b1b63f0baa3:dbd41ee944243307d39b7b27f16615a8
-https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31775/FHD/skysport257/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=b46e28db69004254aad034dd09c0deaa:64eb1db1b8c1eda6fdaefd0617c72102
+https://mwmpos01.akamaized.net/out/v1/5f4a01d67c374c05987ef5175315ae32/manifest.mpd
 
 
 <==========PeacockTV==========>
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-#EXTINF:-1 tvg-id="PeacockTV" group-title="PeacockTV"  tvg-logo=" ",PeacockTV
+#EXTINF:-1 tvg-id="PeacockTV" group-title="PeacockTV"  tvg-logo=" ",PeacockTV Premier League
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
 
@@ -157,7 +140,7 @@ https://beecdn.wadim77289.workers.dev/SuperSport_Premier_League_Live_TV/tracks-v
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03b47c8e5bdf41cbbbef29be6a18de9e:3e13b4627eed3885cb58818fdc39d66f
 #EXTINF:-1 tvg-id="Optus Sports 1" group-title="Optus"  tvg-logo=" ",Optus Sport 1
-https://sambo2.yanbelasan.workers.dev/https://linear.aws.optusvideo.tv/v7/OptusSport1/xbtss/drm/avc/dash/plain/manifest.mpd
+https://uniproxy.misty.workers.dev/https://linear.aws.optusvideo.tv/v7/OptusSport1/xbtss/drm/avc/dash/plain/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=127b26420b5343719a317dc6abc3099e:a859aa07a1a3a75eb6525195ca441488
