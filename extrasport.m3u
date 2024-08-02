@@ -475,7 +475,8 @@ https://dash2.antik.sk/stream/hisi_joj_cine_plus_jedna/playlist_cbcs.mpd
 #EXTINF:-1 tvg-id=" " group-title="SK" group-logo=" " tvg-logo=" ",SK Disney Junior
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:11223344556677889900112233445566
-https://dash2.antik.sk/stream/hisi_disney_jr/playlist_cbcs.mpd
+https://dash2.antik.sk/stream/nvidia_jednotka/playlist_cbcs.mpd
+##https://dash2.antik.sk/stream/hisi_disney_jr/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-id=" " group-title="SK" group-logo=" " tvg-logo=" ",SK Disney Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
