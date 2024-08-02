@@ -10,29 +10,29 @@
 #KODIPROP:inputstream.adaptive.license_key=237be8ca9383755e9f5784dd23f545eb:15a723773c3b3cbce295c0aed0bc71c3
 https://cache3.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_enc/eurosport_1_hd.mpd
 
-#EXTINF:-1 tvg-logo=" " group-title="Eurosport",Olympics EuroSport 2
+#EXTINF:-1 tvg-logo=" " group-title="Olympic",Olympics EuroSport 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=15382879a9bcfa6f1a04a86d5b4324e9:664241133368ab039dc1fb15206ba54b
 https://cache3.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_enc/eurosport_2_hd.mpd
 
-#EXTINF:-1 tvg-logo=" " group-title="Olympic",Olympic 1 
+#EXTINF:-1 tvg-logo=" " group-title="Olympic",Olympic RTM 1 
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/manifest.mpd
 
-#EXTINF:-1 tvg-logo=" " group-title="Olympic",Olympic 2
+#EXTINF:-1 tvg-logo=" " group-title="Olympic",Olympic RTM 2
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/manifest.mpd
 
-#EXTINF:-1 tvg-logo=" " group-title="Olympic",Olympic 3 
+#EXTINF:-1 tvg-logo=" " group-title="Olympic",Olympic RTM 3 
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/manifest.mpd
 
-#EXTINF:-1 tvg-logo=" " group-title="Olympic",Olympic 4 
+#EXTINF:-1 tvg-logo=" " group-title="Olympic",Olympic RTM 4 
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/manifest.mpd
 
-#EXTINF:-1 tvg-logo=" " group-title="Olympic",Olympic 5 
+#EXTINF:-1 tvg-logo=" " group-title="Olympic",Olympic RTM 5 
 https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/manifest.mpd
 
-#EXTINF:-1 tvg-logo=" " group-title="Olympic",Olympic 6 
+#EXTINF:-1 tvg-logo=" " group-title="Olympic",Olympic RTM 6 
 https://d30aylox5wvifh.cloudfront.net/event/smil:event1/manifest.mpd
 
 
@@ -115,10 +115,40 @@ http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1719
 
 <==========Supersport==========>
 
-#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name="EURO" tvg-logo="https://static.dw.com/image/59506085_605.jpg" group-title="Supersport",Supersport Premier League
+#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name=" " tvg-logo=" " group-title="Supersport",Supersport Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://mhdmaxtv.me/
 https://beecdn.wadim77289.workers.dev/SuperSport_Premier_League_Live_TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name=" " tvg-logo=" " group-title="Supersport",Supersport Cricket
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://mhdmaxtv.me/
+https://beecdn.wadim77289.workers.dev/SuperSport_Cricket_Live_TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name=" " tvg-logo=" " group-title="Supersport",Supersport LaLiga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://mhdmaxtv.me/
+https://beecdn.wadim77289.workers.dev/SuperSport_LaLiga_Live_TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name=" " tvg-logo=" " group-title="Supersport",Supersport Football
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://mhdmaxtv.me/
+https://beecdn.wadim77289.workers.dev/SuperSport_Football_Live_TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name=" " tvg-logo=" " group-title="Supersport",Supersport Golf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://mhdmaxtv.me/
+https://beecdn.wadim77289.workers.dev/SuperSport_Golf_Live_TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name=" " tvg-logo=" " group-title="Supersport",Supersport Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://mhdmaxtv.me/
+https://beecdn.wadim77289.workers.dev/SuperSport_Action_Live_TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name=" " tvg-logo=" " group-title="Supersport",Supersport Blitz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://mhdmaxtv.me/
+https://beecdn.wadim77289.workers.dev/SuperSport_Blitz_Live_TV/tracks-v1a1/mono.m3u8
 
 
 <==========Optus==========>
