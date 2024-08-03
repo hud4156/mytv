@@ -34,23 +34,6 @@ https://d2q3zea8ff7bj4.cloudfront.net/out/v1/a054e78fe6c7439faec28e9f71b16672/ma
 #EXTINF:-1 tvg-logo=" " group-title="Olympic",Olympics Sky Open
 https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Olympic",Olympic RTM 1 
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/manifest.mpd
-
-#EXTINF:-1 tvg-logo=" " group-title="Olympic",Olympic RTM 2
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/manifest.mpd
-
-#EXTINF:-1 tvg-logo=" " group-title="Olympic",Olympic RTM 3 
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/manifest.mpd
-
-#EXTINF:-1 tvg-logo=" " group-title="Olympic",Olympic RTM 4 
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/manifest.mpd
-
-#EXTINF:-1 tvg-logo=" " group-title="Olympic",Olympic RTM 5 
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/manifest.mpd
-
-#EXTINF:-1 tvg-logo=" " group-title="Olympic",Olympic RTM 6 
-https://d30aylox5wvifh.cloudfront.net/event/smil:event1/manifest.mpd
 
 
 <==========PeacockTV==========>
@@ -66,12 +49,12 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
 #EXTINF:-1 tvg-id="SPOTV" group-title="SPOTV"  tvg-logo="https://www.visionplus.id/images/repository/656/656-LOGO-m.png",SPOTV
-https://uniproxy.misty.workers.dev/https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 #EXTINF:-1 tvg-id="SPOTV2" group-title="SPOTV"  tvg-logo="https://www.visionplus.id/images/repository/657/657-LOGO-m.png",SPOTV2
-https://uniproxy.misty.workers.dev/https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 
 <==========TNT==========>
@@ -390,6 +373,19 @@ https://bit.ly/SkySportPremierLeague
 
 #EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sky",SkySport Tennis
 https://bit.ly/SkySportTennis
+
+
+<==========Premier==========>
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005b3dba78ae0fe7a9288022d3b3736:d2827df80dd7e9243ba6b5bbda5dfa82
+#EXTINF:-1 tvg-id="Premier Sport 1" group-title="Premier"  tvg-logo=" ",Premier Sport 1
+https://skytest.starlive.workers.dev/https://linear001-ie-dash1-prd-cf.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(premiersports1)/manifest_720.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005d61a0ac86aca28176591b21ae2d9:f87ad1430a7a38fd0ac248fc9a8389b1
+#EXTINF:-1 tvg-id="Premier Sport 2" group-title="Premier"  tvg-logo=" ",Premier Sport 2
+https://skytest.starlive.workers.dev/https://linear033-ie-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(premiersports2)/manifest_720.mpd
 
 
 <==========UCL Infinity==========>
