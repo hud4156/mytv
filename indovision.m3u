@@ -877,16 +877,16 @@ http://opplex.tv:8080//live/83212539/43153928/66228.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/%26priv%C3%A9.png" group-title="Extra Movies",&prive 2
 http://mohdtv.com:8880/ALLChannels580cde0005cf/83639640/1963
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="Extra Movies",ETV BIOSKOP 1
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298526
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="Extra Movies",ETV BIOSKOP 2
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298527
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="Extra Movies",ETV BIOSKOP 3
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298528
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="MOVIES", ETV BIOSKOP 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2tMYpXB/Picsart-23-07-18-23-44-57-875.jpg" group-title="Extra Movies",ETV BIOSKOP 4
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298529
 
 #EXTINF:-1 tvg-logo=" " group-title="Extra Movies",Douyu Marvel
