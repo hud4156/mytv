@@ -392,6 +392,21 @@ https://skytest.starlive.workers.dev/https://linear033-ie-dash1-prd-ak.cdn.skycd
 <==========V Sport==========>
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eab13e69793756eda77d8d71fda90d5d:cd022e9bffa6a0d1523ee5d9fcda9ed4
+#EXTINF:-1 tvg-id="V Sport" group-title="V Sport"  tvg-logo=" ",V Sport Premium
+https://proji.glitch.me/https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c02b1c0a644d5aa4b7176ae585c572dc:5a7799ea89ea65e3bac9a10684e616bc
+#EXTINF:-1 tvg-id="V Sport" group-title="V Sport"  tvg-logo=" ",V Sport UHD
+https://proji.glitch.me/https://director.streaming.telia.com/tvm-packager-prod/group3/60b76e87baa9d5ddc9262457/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc972382f04c531983b7aab6bf642ad8:ddfd212680eb891b755610eac5becf85
+#EXTINF:-1 tvg-id="V Sport" group-title="V Sport"  tvg-logo=" ",V Sport Extra
+https://proji.glitch.me/https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4f5e1522bd739f6959a1/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d808f2b9a74536cadbd95be141888ed:9dd89f67b8885dc65721a8b1fbeae700
 #EXTINF:-1 tvg-id="V Sport" group-title="V Sport"  tvg-logo=" ",V Sport 1
 https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6e91dbc891fd422efc9/manifest.mpd
