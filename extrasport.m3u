@@ -17,6 +17,24 @@ https://cache3.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_enc/eurosport_1_h
 #KODIPROP:inputstream.adaptive.license_key=15382879a9bcfa6f1a04a86d5b4324e9:664241133368ab039dc1fb15206ba54b
 https://cache3.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_enc/eurosport_2_hd.mpd
 
+#EXTINF:-1 tvg-id="Olympic" group-title="Olympic"  tvg-logo=" ",Olympic RTM 1
+https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/event/smil:ag1/manifest.mpd
+
+#EXTINF:-1 tvg-id="Olympic" group-title="Olympic"  tvg-logo=" ",Olympic RTM 2
+https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/event/smil:ag2/manifest.mpd
+
+#EXTINF:-1 tvg-id="Olympic" group-title="Olympic"  tvg-logo=" ",Olympic RTM 3
+https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/event/smil:ag3/manifest.mpd
+
+#EXTINF:-1 tvg-id="Olympic" group-title="Olympic"  tvg-logo=" ",Olympic RTM 4
+https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/event/smil:ag4/manifest.mpd
+
+#EXTINF:-1 tvg-id="Olympic" group-title="Olympic"  tvg-logo=" ",Olympic RTM 5
+https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/event/smil:ag5/manifest.mpd
+
+#EXTINF:-1 tvg-id="Olympic" group-title="Olympic"  tvg-logo=" ",Olympic RTM 6
+https://cors-proxy.cooks.fyi/https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/manifest.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14bc9706a4b044f083401ad4912ff657:e26b1490488635cdd2dc41c8b81c8cc1
 #EXTINF:-1 tvg-id="Olympic" group-title="Olympic"  tvg-logo=" ",Olympic Sport 1
