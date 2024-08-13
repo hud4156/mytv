@@ -643,6 +643,13 @@ https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6e91dbc891fd422efef
 https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6ea1dbc891fd422f01e/manifest.mpd
 
 
+
+<==========True==========>
+
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="DAZN",True Premier Football 2
+https://media.wacthstream.com/dvr/602_eng2/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS82LzIwMjMgNTo1NzoxMCBQTSZoYXNoX3ZhbHVlPWF3TUtrbWFRWlNBSUY5aG9NdDJSWVE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF8xODg1Mg==
+
+
 <==========UCL Infinity==========>
 
 #EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="UCL Infinity",UCL Infinity 1
