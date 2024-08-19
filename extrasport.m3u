@@ -89,40 +89,45 @@ https://7pal.short.gy/astross4
 
 <==========Supersport==========>
 
-#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name=" " tvg-logo=" " group-title="Supersport",Supersport Premier League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://mhdmaxtv.me/
-https://beecdn.wadim77289.workers.dev/SuperSport_Premier_League_Live_TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name=" " tvg-logo=" " group-title="Supersport",Supersport Cricket
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://mhdmaxtv.me/
-https://beecdn.wadim77289.workers.dev/SuperSport_Cricket_Live_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Supersport" tvg-logo="https://media.licdn.com/dms/image/D4E12AQEhks58OYh-VA/article-cover_image-shrink_600_2000/0/1675754661604?e=2147483647&v=beta&t=TP-JVPPHu7qWFAl9wXMbwVeXiucdQ8Uh253TvCBm2U8",SuperSports Premier League
+https://tvnid-stream.mantan.workers.dev/SuperSport_Premier_League_Live_TV/index.m3u8
 
-#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name=" " tvg-logo=" " group-title="Supersport",Supersport LaLiga
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://mhdmaxtv.me/
-https://beecdn.wadim77289.workers.dev/SuperSport_LaLiga_Live_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Supersport" tvg-logo="https://media.licdn.com/dms/image/D4E12AQEhks58OYh-VA/article-cover_image-shrink_600_2000/0/1675754661604?e=2147483647&v=beta&t=TP-JVPPHu7qWFAl9wXMbwVeXiucdQ8Uh253TvCBm2U8",SuperSports Laliga
+https://tvnid-stream.mantan.workers.dev/SuperSport_LaLiga_Live_TV/index.m3u8
 
-#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name=" " tvg-logo=" " group-title="Supersport",Supersport Football
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://mhdmaxtv.me/
-https://beecdn.wadim77289.workers.dev/SuperSport_Football_Live_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Supersport" tvg-logo="https://media.licdn.com/dms/image/D4E12AQEhks58OYh-VA/article-cover_image-shrink_600_2000/0/1675754661604?e=2147483647&v=beta&t=TP-JVPPHu7qWFAl9wXMbwVeXiucdQ8Uh253TvCBm2U8",SuperSports football
+https://tvnid-stream.mantan.workers.dev/SuperSport_Football_Live_TV/index.m3u8
 
-#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name=" " tvg-logo=" " group-title="Supersport",Supersport Golf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://mhdmaxtv.me/
-https://beecdn.wadim77289.workers.dev/SuperSport_Golf_Live_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Supersport" tvg-logo="https://media.licdn.com/dms/image/D4E12AQEhks58OYh-VA/article-cover_image-shrink_600_2000/0/1675754661604?e=2147483647&v=beta&t=TP-JVPPHu7qWFAl9wXMbwVeXiucdQ8Uh253TvCBm2U8",SuperSports Tenis
+https://tvnid-stream.mantan.workers.dev/SuperSport_Tennis_Live_TV/index.m3u8
 
-#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name=" " tvg-logo=" " group-title="Supersport",Supersport Action
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://mhdmaxtv.me/
-https://beecdn.wadim77289.workers.dev/SuperSport_Action_Live_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CHANNEL | OLAH RAGA DUNIA" tvg-logo="https://media.licdn.com/dms/image/D4E12AQEhks58OYh-VA/article-cover_image-shrink_600_2000/0/1675754661604?e=2147483647&v=beta&t=TP-JVPPHu7qWFAl9wXMbwVeXiucdQ8Uh253TvCBm2U8",SuperSports Rubgy
+https://tvnid-stream.mantan.workers.dev/SuperSport_Rugby_Live_TV/index.m3u8
 
-#EXTINF:-1 xui-id="15084" tvg-id="" tvg-name=" " tvg-logo=" " group-title="Supersport",Supersport Blitz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://mhdmaxtv.me/
-https://beecdn.wadim77289.workers.dev/SuperSport_Blitz_Live_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Supersport" tvg-logo="https://media.licdn.com/dms/image/D4E12AQEhks58OYh-VA/article-cover_image-shrink_600_2000/0/1675754661604?e=2147483647&v=beta&t=TP-JVPPHu7qWFAl9wXMbwVeXiucdQ8Uh253TvCBm2U8",SuperSports Golf
+https://tvnid-stream.mantan.workers.dev/SuperSport_Golf_Live_TV/index.m3u8
+
+#EXTINF:-1 group-title="Supersport" tvg-logo="https://media.licdn.com/dms/image/D4E12AQEhks58OYh-VA/article-cover_image-shrink_600_2000/0/1675754661604?e=2147483647&v=beta&t=TP-JVPPHu7qWFAl9wXMbwVeXiucdQ8Uh253TvCBm2U8",SuperSports Cricket
+https://tvnid-stream.mantan.workers.dev/SuperSport_Cricket_Live_TV/index.m3u8
+
+#EXTINF:-1 group-title="Supersport" tvg-logo="https://media.licdn.com/dms/image/D4E12AQEhks58OYh-VA/article-cover_image-shrink_600_2000/0/1675754661604?e=2147483647&v=beta&t=TP-JVPPHu7qWFAl9wXMbwVeXiucdQ8Uh253TvCBm2U8",SuperSports Bits
+https://tvnid-stream.mantan.workers.dev/SuperSport_Blitz_Live_TV/index.m3u8
+
+#EXTINF:-1 group-title="Supersport" tvg-logo="https://media.licdn.com/dms/image/D4E12AQEhks58OYh-VA/article-cover_image-shrink_600_2000/0/1675754661604?e=2147483647&v=beta&t=TP-JVPPHu7qWFAl9wXMbwVeXiucdQ8Uh253TvCBm2U8",SuperSports Actions
+https://tvnid-stream.mantan.workers.dev/SuperSport_Action_Live_TV/index.m3u8
+
+#EXTINF:-1 group-title="Supersport" tvg-logo="https://media.licdn.com/dms/image/D4E12AQEhks58OYh-VA/article-cover_image-shrink_600_2000/0/1675754661604?e=2147483647&v=beta&t=TP-JVPPHu7qWFAl9wXMbwVeXiucdQ8Uh253TvCBm2U8",Sup Vierty 4
+https://tvnid-stream.mantan.workers.dev/Variety_4_Live_TV/index.m3u8
+
+#EXTINF:-1 group-title="Supersport" tvg-logo="https://media.licdn.com/dms/image/D4E12AQEhks58OYh-VA/article-cover_image-shrink_600_2000/0/1675754661604?e=2147483647&v=beta&t=TP-JVPPHu7qWFAl9wXMbwVeXiucdQ8Uh253TvCBm2U8",Sup Vierty 3
+https://tvnid-stream.mantan.workers.dev/Variety_3_Live_TV/index.m3u8
+
+#EXTINF:-1 group-title="Supersport" tvg-logo="https://media.licdn.com/dms/image/D4E12AQEhks58OYh-VA/article-cover_image-shrink_600_2000/0/1675754661604?e=2147483647&v=beta&t=TP-JVPPHu7qWFAl9wXMbwVeXiucdQ8Uh253TvCBm2U8",Sup Vierty 2
+https://tvnid-stream.mantan.workers.dev/Variety_2_Live_TV/index.m3u8
+
+#EXTINF:-1 group-title="Supersport" tvg-logo="https://media.licdn.com/dms/image/D4E12AQEhks58OYh-VA/article-cover_image-shrink_600_2000/0/1675754661604?e=2147483647&v=beta&t=TP-JVPPHu7qWFAl9wXMbwVeXiucdQ8Uh253TvCBm2U8",Sup Vierty 1
+https://tvnid-stream.mantan.workers.dev/Variety_1_Live_TV/index.m3u8
 
 
 <==========Optus==========>
@@ -518,6 +523,38 @@ https://bit.ly/SkySportPremierLeague
 #EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sky",SkySport Tennis
 https://bit.ly/SkySportTennis
 
+#EXTINF:-1 group-title="Sky" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Racing Alt
+https://tvnid-stream.mantan.workers.dev/Sky_Sports_Racing_Live_TV/index.m3u8
+
+#EXTINF:-1 group-title="Sky" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Golf Alt
+https://tvnid-stream.mantan.workers.dev/Sky_Sports_Golf_Live_TV/index.m3u8
+
+#EXTINF:-1 group-title="Sky" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky F1 Alt
+https://tvnid-stream.mantan.workers.dev/Sky_Sports_F1_Live_TV/index.m3u8
+
+#EXTINF:-1 group-title="Sky" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Tenis Alt
+https://tvnid-stream.mantan.workers.dev/Sky_Sports_Tennis/index.m3u8
+
+#EXTINF:-1 group-title="Sky" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Cricket Alt
+https://tvnid-stream.mantan.workers.dev/Sky_Sports_Cricket_Live_TV/index.m3u8
+
+#EXTINF:-1 group-title="Sky" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Arena Alt
+https://tvnid-stream.mantan.workers.dev/Sky_Sports_Arena_Live_TV/index.m3u8
+
+#EXTINF:-1 group-title="Sky" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Mix Alt
+https://tvnid-stream.mantan.workers.dev/Sky_Sports_Mix_Live_TV/index.m3u8
+
+#EXTINF:-1 group-title="Sky" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Actions Alt
+https://tvnid-stream.mantan.workers.dev/Sky_Sports_Action_Live_TV/index.m3u8
+
+#EXTINF:-1 group-title="Sky" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Premier League Alt
+https://tvnid-stream.mantan.workers.dev/Sky_Sports_Premier_League/index.m3u8
+
+#EXTINF:-1 group-title="Sky" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Main Event Alt
+https://tvnid-stream.mantan.workers.dev/Sky_Sports_Main_Event/index.m3u8
+
+#EXTINF:-1 group-title="Sky" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Football Alt
+https://tvnid-stream.mantan.workers.dev/Sky_Sports_Football_Live_TV/index.m3u8
 
 <==========Premier==========>
 
@@ -531,6 +568,11 @@ https://skytest.starlive.workers.dev/https://linear001-ie-dash1-prd-cf.cdn.skycd
 #EXTINF:-1 tvg-id="Premier Sport 2" group-title="Premier"  tvg-logo=" ",Premier Sport 2
 https://skytest.starlive.workers.dev/https://linear033-ie-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(premiersports2)/manifest_720.mpd
 
+#EXTINF:-1 group-title="Premier" tvg-logo="https://prod.ctassets.virginmedia.com/uploads/Premier_Sports_full_TV_Stream_439ab52b88.jpg",Premier Sports 1 Alt
+https://tvnid-stream.mantan.workers.dev/Premier_Sports_1/index.m3u8
+
+#EXTINF:-1 group-title="Premier" tvg-logo="https://prod.ctassets.virginmedia.com/uploads/Premier_Sports_full_TV_Stream_439ab52b88.jpg",Premier Sports 2 Alt
+https://tvnid-stream.mantan.workers.dev/Premier_Sports_2/index.m3u8
 
 
 <==========V Sport==========>
