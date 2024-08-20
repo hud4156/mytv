@@ -708,7 +708,7 @@ https://strm.yandex.ru/kal/match_football3_hd/manifest.mpd
 
 <==========Test==========>
 
-#EXTINF:-1 tvg-id=" " tvg-logo="Test" group-title="SPORT", TV 2 Sport Premium
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Test", TV 2 Sport Premium
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d12e4c9dc52f4cbab7ac9b2278317e47:a7987e5b6ec42db68a25486e108ca9f2
 https://ch11-hls-live.akamaized.net/out/u/433127.mpd
