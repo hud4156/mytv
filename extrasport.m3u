@@ -14,9 +14,24 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
+#EXTINF:-1 tvg-id="PeacockTV" group-title="PeacockTV"  tvg-logo=" ",PeacockTV USA East
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=232d71bb013d39ffb92ee8c576fb7e8e:087408a48be8d57046c3868b37ea90ba
 #EXTINF:-1 tvg-id="PeacockTV" group-title="PeacockTV"  tvg-logo=" ",PeacockTV Universo East
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
+#EXTINF:-1 tvg-id="PeacockTV" group-title="PeacockTV"  tvg-logo=" ",PeacockTV NBC 1
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
+#EXTINF:-1 tvg-id="PeacockTV" group-title="PeacockTV"  tvg-logo=" ",PeacockTV NBC 4
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
 
 
 <==========SPOTV==========>
@@ -63,6 +78,7 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/o
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
+
 
 
 <==========Astro==========>
@@ -167,6 +183,185 @@ https://tvnid-stream.mantan.workers.dev/Variety_2_Live_TV/index.m3u8
 
 #EXTINF:-1 group-title="Supersport" tvg-logo="https://media.licdn.com/dms/image/D4E12AQEhks58OYh-VA/article-cover_image-shrink_600_2000/0/1675754661604?e=2147483647&v=beta&t=TP-JVPPHu7qWFAl9wXMbwVeXiucdQ8Uh253TvCBm2U8",Sup Vierty 1
 https://tvnid-stream.mantan.workers.dev/Variety_1_Live_TV/index.m3u8
+
+
+
+<==========Arena==========>
+
+#EXTINF:-1 tvg-id="Arena Premier League.rs" tvg-logo=" " group-title="Arena",Arena Sport Premier League
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
+
+#EXTINF:-1 tvg-id="Arena Sport 1.rs" tvg-logo=" " group-title="Arena",Arena Sport 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
+
+#EXTINF:-1 tvg-id="Arena Sport 1x2.rs" tvg-logo=" " group-title="Arena",Arena Sport 1x2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd
+
+#EXTINF:-1 tvg-id="Arena Sport 2.rs" tvg-logo=" " group-title="Arena",Arena Sport 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
+
+#EXTINF:-1 tvg-id="Arena Sport 3.rs" tvg-logo=" " group-title="Arena",Arena Sport 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
+
+#EXTINF:-1 tvg-id="Arena Sport 4.rs" tvg-logo=" " group-title="Arena",Arena Sport 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
+
+#EXTINF:-1 tvg-id="Arena Sport 5.rs" tvg-logo=" " group-title="Arena",Arena Sport 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
+
+#EXTINF:-1 tvg-id="Arena Sport 6.rs" tvg-logo=" " group-title="Arena",Arena Sport 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
+
+#EXTINF:-1 tvg-id="Arena PREMIUM 1.rs" tvg-logo="https://iili.io/Jmo50Cu.png" group-title="Arena",Arena Premium 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
+ 
+#EXTINF:-1 tvg-id="Arena PREMIUM 2.rs" tvg-logo="https://iili.io/Jmo5VYQ.png" group-title="Arena",Arena Premium 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
+ 
+#EXTINF:-1 tvg-id="Arena PREMIUM 3.rs" tvg-logo="https://iili.io/Jmo5E4j.png" group-title="Arena",Arena Premium 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
+
+
+<==========Sky==========>
+
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sky",Sky Sport Action
+https://bit.ly/SkySportAction
+
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sky",Sky Sport Arena
+https://bit.ly/Sky-SportArena
+
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sky",Sky Sport F1
+https://bit.ly/Sky-SportF1
+
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sky",Sky Sport Football
+https://bit.ly/Sky-SportFootball
+
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sky",Sky Sport Golf
+https://bit.ly/SkySportGolf
+
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sky",Sky Sport Main Event
+https://bit.ly/SkySportMainEvent
+
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sky",Sky Sport Mix
+https://bit.ly/Sky-SportMix
+
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sky",Sky Sport Premier League 
+https://bit.ly/SkySportPremierLeague
+
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sky",SkySport Tennis
+https://bit.ly/SkySportTennis
+
+#EXTINF:-1 group-title="Sky" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Racing Alt
+https://tvnid-stream.mantan.workers.dev/Sky_Sports_Racing_Live_TV/index.m3u8
+
+#EXTINF:-1 group-title="Sky" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Golf Alt
+https://tvnid-stream.mantan.workers.dev/Sky_Sports_Golf_Live_TV/index.m3u8
+
+#EXTINF:-1 group-title="Sky" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky F1 Alt
+https://tvnid-stream.mantan.workers.dev/Sky_Sports_F1_Live_TV/index.m3u8
+
+#EXTINF:-1 group-title="Sky" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Tenis Alt
+https://tvnid-stream.mantan.workers.dev/Sky_Sports_Tennis/index.m3u8
+
+#EXTINF:-1 group-title="Sky" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Cricket Alt
+https://tvnid-stream.mantan.workers.dev/Sky_Sports_Cricket_Live_TV/index.m3u8
+
+#EXTINF:-1 group-title="Sky" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Arena Alt
+https://tvnid-stream.mantan.workers.dev/Sky_Sports_Arena_Live_TV/index.m3u8
+
+#EXTINF:-1 group-title="Sky" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Mix Alt
+https://tvnid-stream.mantan.workers.dev/Sky_Sports_Mix_Live_TV/index.m3u8
+
+#EXTINF:-1 group-title="Sky" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Actions Alt
+https://tvnid-stream.mantan.workers.dev/Sky_Sports_Action_Live_TV/index.m3u8
+
+#EXTINF:-1 group-title="Sky" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Premier League Alt
+https://tvnid-stream.mantan.workers.dev/Sky_Sports_Premier_League/index.m3u8
+
+#EXTINF:-1 group-title="Sky" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Main Event Alt
+https://tvnid-stream.mantan.workers.dev/Sky_Sports_Main_Event/index.m3u8
+
+#EXTINF:-1 group-title="Sky" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Football Alt
+https://tvnid-stream.mantan.workers.dev/Sky_Sports_Football_Live_TV/index.m3u8
+
+<==========Premier==========>
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005b3dba78ae0fe7a9288022d3b3736:d2827df80dd7e9243ba6b5bbda5dfa82
+#EXTINF:-1 tvg-id="Premier Sport 1" group-title="Premier"  tvg-logo=" ",Premier Sport 1
+https://skytest.starlive.workers.dev/https://linear001-ie-dash1-prd-cf.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(premiersports1)/manifest_720.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005d61a0ac86aca28176591b21ae2d9:f87ad1430a7a38fd0ac248fc9a8389b1
+#EXTINF:-1 tvg-id="Premier Sport 2" group-title="Premier"  tvg-logo=" ",Premier Sport 2
+https://skytest.starlive.workers.dev/https://linear033-ie-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(premiersports2)/manifest_720.mpd
+
+#EXTINF:-1 group-title="Premier" tvg-logo="https://prod.ctassets.virginmedia.com/uploads/Premier_Sports_full_TV_Stream_439ab52b88.jpg",Premier Sports 1 Alt
+https://tvnid-stream.mantan.workers.dev/Premier_Sports_1/index.m3u8
+
+#EXTINF:-1 group-title="Premier" tvg-logo="https://prod.ctassets.virginmedia.com/uploads/Premier_Sports_full_TV_Stream_439ab52b88.jpg",Premier Sports 2 Alt
+https://tvnid-stream.mantan.workers.dev/Premier_Sports_2/index.m3u8
+
+
+<==========V Sport==========>
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eab13e69793756eda77d8d71fda90d5d:cd022e9bffa6a0d1523ee5d9fcda9ed4
+#EXTINF:-1 tvg-id="V Sport" group-title="V Sport"  tvg-logo=" ",V Sport Premium
+https://proji.glitch.me/https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c02b1c0a644d5aa4b7176ae585c572dc:5a7799ea89ea65e3bac9a10684e616bc
+#EXTINF:-1 tvg-id="V Sport" group-title="V Sport"  tvg-logo=" ",V Sport UHD
+https://proji.glitch.me/https://director.streaming.telia.com/tvm-packager-prod/group3/60b76e87baa9d5ddc9262457/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc972382f04c531983b7aab6bf642ad8:ddfd212680eb891b755610eac5becf85
+#EXTINF:-1 tvg-id="V Sport" group-title="V Sport"  tvg-logo=" ",V Sport Extra
+https://proji.glitch.me/https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4f5e1522bd739f6959a1/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=04c5eaf62cd75f2d947ab4d621f39256:76967598962e7a7314a2b251e9070725
+#EXTINF:-1 tvg-id="V Sport" group-title="V Sport"  tvg-logo=" ",V Sport 1x
+https://proji.glitch.me/https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d808f2b9a74536cadbd95be141888ed:9dd89f67b8885dc65721a8b1fbeae700
+#EXTINF:-1 tvg-id="V Sport" group-title="V Sport"  tvg-logo=" ",V Sport 1
+https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6e91dbc891fd422efc9/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d3ff38c34985fdd81a37567646322b9:6b4504297769acefae2e50920b7c8a77
+#EXTINF:-1 tvg-id="V Sport" group-title="V Sport"  tvg-logo=" ",V Sport 2
+https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6e91dbc891fd422efef/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fdcb8ee4623458e5832a92801fc723b1:634a67c44b7b7030872043df95c1a55e
+#EXTINF:-1 tvg-id="V Sport" group-title="V Sport"  tvg-logo=" ",V Sport 3
+https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6ea1dbc891fd422f01e/manifest.mpd
+
 
 
 <==========Optus==========>
@@ -474,181 +669,7 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-058/stream.mpd
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-059/stream.mpd
 
 
-<==========Arena==========>
 
-#EXTINF:-1 tvg-id="Arena Premier League.rs" tvg-logo=" " group-title="Arena",Arena Sport Premier League
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
-
-#EXTINF:-1 tvg-id="Arena Sport 1.rs" tvg-logo=" " group-title="Arena",Arena Sport 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
-
-#EXTINF:-1 tvg-id="Arena Sport 1x2.rs" tvg-logo=" " group-title="Arena",Arena Sport 1x2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd
-
-#EXTINF:-1 tvg-id="Arena Sport 2.rs" tvg-logo=" " group-title="Arena",Arena Sport 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
-
-#EXTINF:-1 tvg-id="Arena Sport 3.rs" tvg-logo=" " group-title="Arena",Arena Sport 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
-
-#EXTINF:-1 tvg-id="Arena Sport 4.rs" tvg-logo=" " group-title="Arena",Arena Sport 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
-
-#EXTINF:-1 tvg-id="Arena Sport 5.rs" tvg-logo=" " group-title="Arena",Arena Sport 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
-
-#EXTINF:-1 tvg-id="Arena Sport 6.rs" tvg-logo=" " group-title="Arena",Arena Sport 6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
-
-#EXTINF:-1 tvg-id="Arena PREMIUM 1.rs" tvg-logo="https://iili.io/Jmo50Cu.png" group-title="Arena",Arena Premium 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
- 
-#EXTINF:-1 tvg-id="Arena PREMIUM 2.rs" tvg-logo="https://iili.io/Jmo5VYQ.png" group-title="Arena",Arena Premium 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
- 
-#EXTINF:-1 tvg-id="Arena PREMIUM 3.rs" tvg-logo="https://iili.io/Jmo5E4j.png" group-title="Arena",Arena Premium 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
-
-
-<==========Sky==========>
-
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sky",Sky Sport Action
-https://bit.ly/SkySportAction
-
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sky",Sky Sport Arena
-https://bit.ly/Sky-SportArena
-
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sky",Sky Sport F1
-https://bit.ly/Sky-SportF1
-
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sky",Sky Sport Football
-https://bit.ly/Sky-SportFootball
-
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sky",Sky Sport Golf
-https://bit.ly/SkySportGolf
-
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sky",Sky Sport Main Event
-https://bit.ly/SkySportMainEvent
-
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sky",Sky Sport Mix
-https://bit.ly/Sky-SportMix
-
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sky",Sky Sport Premier League 
-https://bit.ly/SkySportPremierLeague
-
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sky",SkySport Tennis
-https://bit.ly/SkySportTennis
-
-#EXTINF:-1 group-title="Sky" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Racing Alt
-https://tvnid-stream.mantan.workers.dev/Sky_Sports_Racing_Live_TV/index.m3u8
-
-#EXTINF:-1 group-title="Sky" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Golf Alt
-https://tvnid-stream.mantan.workers.dev/Sky_Sports_Golf_Live_TV/index.m3u8
-
-#EXTINF:-1 group-title="Sky" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky F1 Alt
-https://tvnid-stream.mantan.workers.dev/Sky_Sports_F1_Live_TV/index.m3u8
-
-#EXTINF:-1 group-title="Sky" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Tenis Alt
-https://tvnid-stream.mantan.workers.dev/Sky_Sports_Tennis/index.m3u8
-
-#EXTINF:-1 group-title="Sky" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Cricket Alt
-https://tvnid-stream.mantan.workers.dev/Sky_Sports_Cricket_Live_TV/index.m3u8
-
-#EXTINF:-1 group-title="Sky" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Arena Alt
-https://tvnid-stream.mantan.workers.dev/Sky_Sports_Arena_Live_TV/index.m3u8
-
-#EXTINF:-1 group-title="Sky" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Mix Alt
-https://tvnid-stream.mantan.workers.dev/Sky_Sports_Mix_Live_TV/index.m3u8
-
-#EXTINF:-1 group-title="Sky" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Actions Alt
-https://tvnid-stream.mantan.workers.dev/Sky_Sports_Action_Live_TV/index.m3u8
-
-#EXTINF:-1 group-title="Sky" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Premier League Alt
-https://tvnid-stream.mantan.workers.dev/Sky_Sports_Premier_League/index.m3u8
-
-#EXTINF:-1 group-title="Sky" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Main Event Alt
-https://tvnid-stream.mantan.workers.dev/Sky_Sports_Main_Event/index.m3u8
-
-#EXTINF:-1 group-title="Sky" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Football Alt
-https://tvnid-stream.mantan.workers.dev/Sky_Sports_Football_Live_TV/index.m3u8
-
-<==========Premier==========>
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0005b3dba78ae0fe7a9288022d3b3736:d2827df80dd7e9243ba6b5bbda5dfa82
-#EXTINF:-1 tvg-id="Premier Sport 1" group-title="Premier"  tvg-logo=" ",Premier Sport 1
-https://skytest.starlive.workers.dev/https://linear001-ie-dash1-prd-cf.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(premiersports1)/manifest_720.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0005d61a0ac86aca28176591b21ae2d9:f87ad1430a7a38fd0ac248fc9a8389b1
-#EXTINF:-1 tvg-id="Premier Sport 2" group-title="Premier"  tvg-logo=" ",Premier Sport 2
-https://skytest.starlive.workers.dev/https://linear033-ie-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(premiersports2)/manifest_720.mpd
-
-#EXTINF:-1 group-title="Premier" tvg-logo="https://prod.ctassets.virginmedia.com/uploads/Premier_Sports_full_TV_Stream_439ab52b88.jpg",Premier Sports 1 Alt
-https://tvnid-stream.mantan.workers.dev/Premier_Sports_1/index.m3u8
-
-#EXTINF:-1 group-title="Premier" tvg-logo="https://prod.ctassets.virginmedia.com/uploads/Premier_Sports_full_TV_Stream_439ab52b88.jpg",Premier Sports 2 Alt
-https://tvnid-stream.mantan.workers.dev/Premier_Sports_2/index.m3u8
-
-
-<==========V Sport==========>
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eab13e69793756eda77d8d71fda90d5d:cd022e9bffa6a0d1523ee5d9fcda9ed4
-#EXTINF:-1 tvg-id="V Sport" group-title="V Sport"  tvg-logo=" ",V Sport Premium
-https://proji.glitch.me/https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c02b1c0a644d5aa4b7176ae585c572dc:5a7799ea89ea65e3bac9a10684e616bc
-#EXTINF:-1 tvg-id="V Sport" group-title="V Sport"  tvg-logo=" ",V Sport UHD
-https://proji.glitch.me/https://director.streaming.telia.com/tvm-packager-prod/group3/60b76e87baa9d5ddc9262457/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bc972382f04c531983b7aab6bf642ad8:ddfd212680eb891b755610eac5becf85
-#EXTINF:-1 tvg-id="V Sport" group-title="V Sport"  tvg-logo=" ",V Sport Extra
-https://proji.glitch.me/https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4f5e1522bd739f6959a1/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=04c5eaf62cd75f2d947ab4d621f39256:76967598962e7a7314a2b251e9070725
-#EXTINF:-1 tvg-id="V Sport" group-title="V Sport"  tvg-logo=" ",V Sport 1x
-https://proji.glitch.me/https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d808f2b9a74536cadbd95be141888ed:9dd89f67b8885dc65721a8b1fbeae700
-#EXTINF:-1 tvg-id="V Sport" group-title="V Sport"  tvg-logo=" ",V Sport 1
-https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6e91dbc891fd422efc9/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d3ff38c34985fdd81a37567646322b9:6b4504297769acefae2e50920b7c8a77
-#EXTINF:-1 tvg-id="V Sport" group-title="V Sport"  tvg-logo=" ",V Sport 2
-https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6e91dbc891fd422efef/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fdcb8ee4623458e5832a92801fc723b1:634a67c44b7b7030872043df95c1a55e
-#EXTINF:-1 tvg-id="V Sport" group-title="V Sport"  tvg-logo=" ",V Sport 3
-https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6ea1dbc891fd422f01e/manifest.mpd
 
 
 
