@@ -684,6 +684,11 @@ https://strm.yandex.ru/kal/match_football3_hd/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=d12e4c9dc52f4cbab7ac9b2278317e47:a7987e5b6ec42db68a25486e108ca9f2
 https://ch11-hls-live.akamaized.net/out/u/433127.mpd
 
+#EXTINF:-1 tvg-id=" " tvg-logo=" " group-title="Test", TV 2 Sport 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c6212056d2f51fcbf569f9a1a8517d1:d07b404deb7c958347d742e6d1d2f3f9
+https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/64393bf81dbc891fd41f53ac/manifest.mpd
+
 #EXTINF:-1 tvg-id="DAZN LaLiga" tvg-logo=" " group-title="Test",DAZN LaLiga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
