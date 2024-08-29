@@ -122,7 +122,7 @@ https://livestream.transtv.co.id/stream/live/ttv.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ID" tvg-logo="https://images.indihometv.com/logo_indosiar_ver3.png",INDOSIAR 2
-http://extraott.com/live/7921751389/6097373662/45098.m3u8
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45098.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ID" tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
