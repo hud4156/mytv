@@ -679,6 +679,30 @@ https://strm.yandex.ru/kal/match_football3_hd/manifest.mpd
 <==========Setanta==========>
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/k6r0nk9/Setanta.png" group-title="Setanta", SETANTA SPORTS 🇰🇿
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://bkm.beetv.kz/btv/live/hls/000002649.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/k6r0nk9/Setanta.png" group-title="Setanta", SETANTA SPORTS 🇰🇿
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://bkm.beetv.kz/btv/live/hls/000004619.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/k6r0nk9/Setanta.png" group-title="Setanta", SETANTA SPORTS 1 🇷🇺
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://bkm.beetv.kz/btv/live/hls/000004498.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/k6r0nk9/Setanta.png" group-title="Setanta", SETANTA SPORTS 1 🇰🇿
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://bkm.beetv.kz/btv/live/hls/000006998.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/k6r0nk9/Setanta.png" group-title="Setanta", SETANTA SPORTS 2 🇷🇺
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://bkm.beetv.kz/btv/live/hls/000004499.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/k6r0nk9/Setanta.png" group-title="Setanta", SETANTA SPORTS 2 🇰🇿
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://bkm.beetv.kz/btv/live/hls/000006899.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/hyShPmQ/setantasp1.png" group-title="Setanta", SETANTA SPORT 1 🇱🇹
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -686,7 +710,6 @@ https://strm.yandex.ru/kal/match_football3_hd/manifest.mpd
 https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png" group-title="Setanta",Setanta Event 2 HD
-#EXTGRP: SPORTS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -694,7 +717,6 @@ https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd
 https://cdnlb.tvplayhome.lt/live/eds/Setanta17_HD_HVC/GO3_LIVE_DASH_HVC/Setanta17_HD_HVC.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png" group-title="Setanta",Setanta Event 3 HD
-#EXTGRP: SPORTS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -702,7 +724,6 @@ https://cdnlb.tvplayhome.lt/live/eds/Setanta17_HD_HVC/GO3_LIVE_DASH_HVC/Setanta1
 https://cdnlb.tvplayhome.lt/live/eds/Setanta18_HD_HVC/GO3_LIVE_DASH_HVC/Setanta18_HD_HVC.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png" group-title="Setanta",Setanta Event 4 HD
-#EXTGRP: SPORTS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -710,7 +731,6 @@ https://cdnlb.tvplayhome.lt/live/eds/Setanta18_HD_HVC/GO3_LIVE_DASH_HVC/Setanta1
 https://cdnlb.tvplayhome.lt/live/eds/Setanta19_HD_HVC/GO3_LIVE_DASH_HVC/Setanta19_HD_HVC.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png" group-title="Setanta",Setanta Event 5 HD
-#EXTGRP: SPORTS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -718,7 +738,6 @@ https://cdnlb.tvplayhome.lt/live/eds/Setanta19_HD_HVC/GO3_LIVE_DASH_HVC/Setanta1
 https://cdnlb.tvplayhome.lt/live/eds/Setanta20_HD_HVC/GO3_LIVE_DASH_HVC/Setanta20_HD_HVC.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png" group-title="Setanta",Setanta Event 6 HD
-#EXTGRP: SPORTS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -726,7 +745,6 @@ https://cdnlb.tvplayhome.lt/live/eds/Setanta20_HD_HVC/GO3_LIVE_DASH_HVC/Setanta2
 https://cdnlb.tvplayhome.lt/live/eds/Setanta21_HD_HVC/GO3_LIVE_DASH_HVC/Setanta21_HD_HVC.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png" group-title="Setanta",Setanta Event 7 HD
-#EXTGRP: SPORTS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -734,7 +752,6 @@ https://cdnlb.tvplayhome.lt/live/eds/Setanta21_HD_HVC/GO3_LIVE_DASH_HVC/Setanta2
 https://cdnlb.tvplayhome.lt/live/eds/Setanta22_HD_HVC/GO3_LIVE_DASH_HVC/Setanta22_HD_HVC.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png" group-title="Setanta",Setanta Event 8 HD
-#EXTGRP: SPORTS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -742,7 +759,6 @@ https://cdnlb.tvplayhome.lt/live/eds/Setanta22_HD_HVC/GO3_LIVE_DASH_HVC/Setanta2
 https://cdnlb.tvplayhome.lt/live/eds/Setanta23_HD_HVC/GO3_LIVE_DASH_HVC/Setanta23_HD_HVC.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png" group-title="Setanta",Setanta Event 9 HD
-#EXTGRP: SPORTS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -750,7 +766,6 @@ https://cdnlb.tvplayhome.lt/live/eds/Setanta23_HD_HVC/GO3_LIVE_DASH_HVC/Setanta2
 https://cdnlb.tvplayhome.lt/live/eds/Setanta24_HD_HVC/GO3_LIVE_DASH_HVC/Setanta24_HD_HVC.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png" group-title="Setanta",Setanta Event 10 HD
-#EXTGRP: SPORTS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -758,7 +773,6 @@ https://cdnlb.tvplayhome.lt/live/eds/Setanta24_HD_HVC/GO3_LIVE_DASH_HVC/Setanta2
 https://cdnlb.tvplayhome.lt/live/eds/Setanta25_HD_HVC/GO3_LIVE_DASH_HVC/Setanta25_HD_HVC.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png" group-title="Setanta",Setanta Event 11 HD
-#EXTGRP: SPORTS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -766,7 +780,6 @@ https://cdnlb.tvplayhome.lt/live/eds/Setanta25_HD_HVC/GO3_LIVE_DASH_HVC/Setanta2
 https://cdnlb.tvplayhome.lt/live/eds/Setanta26_HD_HVC/GO3_LIVE_DASH_HVC/Setanta26_HD_HVC.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png" group-title="Setanta",Setanta Event 12 HD
-#EXTGRP: SPORTS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -774,7 +787,6 @@ https://cdnlb.tvplayhome.lt/live/eds/Setanta26_HD_HVC/GO3_LIVE_DASH_HVC/Setanta2
 https://cdnlb.tvplayhome.lt/live/eds/Setanta27_HD_HVC/GO3_LIVE_DASH_HVC/Setanta27_HD_HVC.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png" group-title="Setanta",Setanta Event 13 HD
-#EXTGRP: SPORTS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -782,7 +794,6 @@ https://cdnlb.tvplayhome.lt/live/eds/Setanta27_HD_HVC/GO3_LIVE_DASH_HVC/Setanta2
 https://cdnlb.tvplayhome.lt/live/eds/Setanta28_HD_HVC/GO3_LIVE_DASH_HVC/Setanta28_HD_HVC.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png" group-title="Setanta",Setanta Event 14 HD
-#EXTGRP: SPORTS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -790,7 +801,6 @@ https://cdnlb.tvplayhome.lt/live/eds/Setanta28_HD_HVC/GO3_LIVE_DASH_HVC/Setanta2
 https://cdnlb.tvplayhome.lt/live/eds/Setanta29_HD_HVC/GO3_LIVE_DASH_HVC/Setanta29_HD_HVC.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png" group-title="Setanta",Setanta Event 15 HD
-#EXTGRP: SPORTS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -798,7 +808,6 @@ https://cdnlb.tvplayhome.lt/live/eds/Setanta29_HD_HVC/GO3_LIVE_DASH_HVC/Setanta2
 https://cdnlb.tvplayhome.lt/live/eds/Setanta30_HD_HVC/GO3_LIVE_DASH_HVC/Setanta30_HD_HVC.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png" group-title="Setanta",Setanta Event 16 HD
-#EXTGRP: SPORTS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -806,7 +815,6 @@ https://cdnlb.tvplayhome.lt/live/eds/Setanta30_HD_HVC/GO3_LIVE_DASH_HVC/Setanta3
 https://cdnlb.tvplayhome.lt/live/eds/Setanta31_HD_HVC/GO3_LIVE_DASH_HVC/Setanta31_HD_HVC.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png" group-title="Setanta",Setanta Event 17 HD
-#EXTGRP: SPORTS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
