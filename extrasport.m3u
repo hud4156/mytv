@@ -103,6 +103,37 @@ https://7pal.short.gy/astross3
 https://7pal.short.gy/astross4
 
 
+
+<==========BeIn==========>
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1200px-Logo_bein_sports_3.png " tvg-id="id" tvg-name=" " group-title="BeIn", bein sports 3
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/901.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/1200px-Logo_bein_sports_4.png " tvg-id="id" tvg-name=" " group-title="BeIn", bein sports 4
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/902.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFiwjxKQNbDaxY-ArbfmOR1MU2eSaVXFQV7w&s " tvg-id="id" tvg-name=" " group-title="BeIn", bein sports 5
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/905.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6oBka4OaGocyKXunfcs8xx01ksm8F0iOt8w&s " tvg-id="id" tvg-name=" " group-title="BeIn", bein sports 6
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/904.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Logo-Beinsports-7MAX.png " tvg-id="id" tvg-name=" " group-title="BeIn ", bein sports 7
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/907.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Logo-Beinsports-8MAX.png " tvg-id="id" tvg-name=" " group-title="BeIn", bein sports 8
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
+http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/906.ts
+
+
+
+
+
 <==========Supersport==========>
 
 #EXTINF:-1 group-title="Supersport" tvg-logo="https://media.licdn.com/dms/image/D4E12AQEhks58OYh-VA/article-cover_image-shrink_600_2000/0/1675754661604?e=2147483647&v=beta&t=TP-JVPPHu7qWFAl9wXMbwVeXiucdQ8Uh253TvCBm2U8",SuperSports Premier League
