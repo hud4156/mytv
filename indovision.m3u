@@ -566,7 +566,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
-#EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-m.png",Metro TV HD
+#EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" group-title="News" tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-m.png",Metro TV HD
 https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
