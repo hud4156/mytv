@@ -330,38 +330,7 @@ https://bit.ly/SkySportPremierLeague
 #EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sky",SkySport Tennis
 https://bit.ly/SkySportTennis
 
-#EXTINF:-1 group-title="Sky" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Racing Alt
-https://tvnid-stream.mantan.workers.dev/Sky_Sports_Racing_Live_TV/index.m3u8
 
-#EXTINF:-1 group-title="Sky" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Golf Alt
-https://tvnid-stream.mantan.workers.dev/Sky_Sports_Golf_Live_TV/index.m3u8
-
-#EXTINF:-1 group-title="Sky" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky F1 Alt
-https://tvnid-stream.mantan.workers.dev/Sky_Sports_F1_Live_TV/index.m3u8
-
-#EXTINF:-1 group-title="Sky" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Tenis Alt
-https://tvnid-stream.mantan.workers.dev/Sky_Sports_Tennis/index.m3u8
-
-#EXTINF:-1 group-title="Sky" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Cricket Alt
-https://tvnid-stream.mantan.workers.dev/Sky_Sports_Cricket_Live_TV/index.m3u8
-
-#EXTINF:-1 group-title="Sky" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Arena Alt
-https://tvnid-stream.mantan.workers.dev/Sky_Sports_Arena_Live_TV/index.m3u8
-
-#EXTINF:-1 group-title="Sky" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Mix Alt
-https://tvnid-stream.mantan.workers.dev/Sky_Sports_Mix_Live_TV/index.m3u8
-
-#EXTINF:-1 group-title="Sky" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Actions Alt
-https://tvnid-stream.mantan.workers.dev/Sky_Sports_Action_Live_TV/index.m3u8
-
-#EXTINF:-1 group-title="Sky" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Premier League Alt
-https://tvnid-stream.mantan.workers.dev/Sky_Sports_Premier_League/index.m3u8
-
-#EXTINF:-1 group-title="Sky" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Main Event Alt
-https://tvnid-stream.mantan.workers.dev/Sky_Sports_Main_Event/index.m3u8
-
-#EXTINF:-1 group-title="Sky" tvg-logo="https://www.cable.co.uk/images/content/sky_sports_branded_landscape_min.jpg",Sky Football Alt
-https://tvnid-stream.mantan.workers.dev/Sky_Sports_Football_Live_TV/index.m3u8
 
 <==========Premier==========>
 
@@ -677,7 +646,20 @@ https://uniproxy.misty.workers.dev/https://linear.aws.optusvideo.tv/v7/OptusSpor
 #EXTINF:-1 tvg-id="Optus Sports 1" group-title="Optus"  tvg-logo=" ",Optus Sport 8
 https://uniproxy.misty.workers.dev/https://linear.aws.optusvideo.tv/v7/OptusSport8/xbtss/drm/avc/dash/plain/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="Optus", OPTUS 1 Australia
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37401.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="Optus", OPTUS 3 Australia
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37399.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="Optus", OPTUS 4 Australia
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37398.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="Optus", OPTUS 5 Australia
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37397.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="Optus", OPTUS 6 Australia
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37396.m3u8
 
 
 <==========UCL Infinity==========>
@@ -877,7 +859,6 @@ https://cdnlb.tvplayhome.lt/live/eds/Setanta31_HD_HVC/GO3_LIVE_DASH_HVC/Setanta3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
 https://cdnlb.tvplayhome.lt/live/eds/Setanta32_HD_HVC/GO3_LIVE_DASH_HVC/Setanta32_HD_HVC.mpd 
-
 
 
 
