@@ -784,6 +784,15 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
 #EXTINF:-1 tvg-id="Music TV - [Channel 111].id" group-title="Music" tvg-logo="https://www.visionplus.id/images/repository/667/667-LOGO-m.png",Music TV
 https://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QHNH3oj.jpeg" group-title="Music",Musik Indonesia
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
+
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.pinimg.com/236x/40/00/c3/4000c3a554dcd4c1ad19133cdbc83a3d.jpg",STINGRAY JAZZ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2227f4b4252d40d5ae642511d71ef818:b90f5564e2bb37227b4636b5a8643ce2
