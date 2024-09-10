@@ -156,6 +156,35 @@ http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/907.ts
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/906.ts
 
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="beINSports1.qa" tvg-logo="https://media.tv4.live/beINSports1.qa.png" group-title="BeIn",beIN 1
+http://ktv.im:8080/kk56712/kk12345/49522
+
+#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="beINSports2.qa" tvg-logo="https://media.tv4.live/beINSports2.qa.png" group-title="BeIn",beIN 2
+http://ktv.im:8080/kk56712/kk12345/49523
+
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="beINSports3.qa" tvg-logo="https://media.tv4.live/beINSports3.qa.png" group-title="BeIn",beIN 3
+http://ktv.im:8080/kk56712/kk12345/49524
+
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="beINSports4.qa" tvg-logo="https://media.tv4.live/beINSports4.qa.png" group-title="BeIn",beIN 4
+http://ktv.im:8080/kk56712/kk12345/49525
+
+#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="beINSports5.qa" tvg-logo="https://media.tv4.live/beINSports5.qa.png" group-title="BeIn",beIN 5
+http://ktv.im:8080/kk56712/kk12345/49526
+
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="beINSports6.qa" tvg-logo="https://media.tv4.live/beINSports6.qa.png" group-title="BeIn",beIN 6
+http://ktv.im:8080/kk56712/kk12345/49527
+                 
+#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 7
+http://ktv.im:8080/kk56712/kk12345/49528
+
+#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 8
+http://ktv.im:8080/kk56712/kk12345/49529
+
+#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 9
+http://ktv.im:8080/kk56712/kk12345/49530
+
+#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN afc
+http://ktv.im:8080/kk56712/kk12345/49531
 
 
 
