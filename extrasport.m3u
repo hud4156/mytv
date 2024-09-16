@@ -178,8 +178,22 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157557
 #EXTINF:-1 group-title="Astro" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg",ASSP 4
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/157558
 
-
-
+#EXTINF:-1 group-title="Astro" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg",Assp 1
+https://z88.ubtvfans.com/live/rx3/444/374f3a89485dae993739529766d65c1b/index.m3u8
+#EXTINF:-1 group-title="Astro" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg",Assp 1.1
+https://z88.ubtvfans.com/live/rx3/1070/a371ed8c364f2e68149a7a97388e95f9/index.m3u8
+#EXTINF:-1 group-title="Astro" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg",Assp 2
+https://z88.ubtvfans.com/live/rx3/445/a051a0bab713f99e7021da86464bdb8e/index.m3u8
+#EXTINF:-1 group-title="Astro" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg",Assp 2.1
+https://z88.ubtvfans.com/live/rx3/1071/2e6f0c8a9ed4d441be34ad70bc40d5ed/index.m3u8
+#EXTINF:-1 group-title="Astro" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg",Assp 3
+https://z88.ubtvfans.com/live/rx3/446/1e3a19eba5731087b35ae8bbf54420ab/index.m3u8
+#EXTINF:-1 group-title="Astro" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg",Assp 4
+https://z88.ubtvfans.com/live/rx3/3234/5016da2dd917732ed971bddb4cefd646/index.m3u8
+#EXTINF:-1 group-title="Astro" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg",Assp 4.1
+https://z88.ubtvfans.com/live/rx3/447/632f3b53ec7433aec73594c6ed966313/index.m3u8
+#EXTINF:-1 group-title="Astro" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg",Assp 5
+https://z88.ubtvfans.com/live/rx3/2432/c408bb9ddb2042813bf949dac9cf681e/index.m3u8
 <==========BeIn==========>
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1200px-Logo_bein_sports_3.png " tvg-id="id" tvg-name=" " group-title="BeIn", bein sports 3
@@ -238,6 +252,9 @@ http://ktv.im:8080/kk56712/kk12345/49531
 
 #EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo=" ",Bein Sport 1 EN
 https://z88.ubtvfans.com/live/rx3/1085/19c856d334244d7aa1b8354af98d9465/index.m3u8
+
+#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo=" ",Bein Sport 2 EN
+https://z88.ubtvfans.com/live/rx1/2366/4829201392395c4f5681829529655b9b/index.m3u8
 
 #EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo=" ",Bein Sport 3 EN
 https://z88.ubtvfans.com/live/rx3/2230/863af0d01f233878718d329206601b47/index.m3u8
