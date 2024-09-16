@@ -236,6 +236,18 @@ http://ktv.im:8080/kk56712/kk12345/49530
 #EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN afc
 http://ktv.im:8080/kk56712/kk12345/49531
 
+#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo=" ",Bein Sport 1 EN
+https://z88.ubtvfans.com/live/rx3/1085/19c856d334244d7aa1b8354af98d9465/index.m3u8
+
+#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo=" ",Bein Sport 3 EN
+https://z88.ubtvfans.com/live/rx3/2230/863af0d01f233878718d329206601b47/index.m3u8
+
+#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo=" ",Bein Sport 4 Max
+https://z88.ubtvfans.com/live/rx3/1405/09bbf56229092481fbb90f8b97d5348a/index.m3u8
+
+#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo=" ",Bein Sport 5 Max
+https://z88.ubtvfans.com/live/rx3/1450/5ac009d3967ada766006b4249049bd9a/index.m3u8
+
 #EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo=" ",BeIN Sport News
 https://z88.ubtvfans.com/live/rx1/2402/b05da80fe0b2856e24e480a1a97b72b9/index.m3u8
 
