@@ -133,7 +133,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ID",NET 2
 https://cdn09jtedge.indihometv.com/joss/133/net/index.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="ID",Antv
+#EXTINF:-1 tvg-logo=" " group-title="ID",Antv 1
+https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ID",Antv 2
 https://cdn09jtedge.indihometv.com/joss/130/antv/index.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ID",RTV
