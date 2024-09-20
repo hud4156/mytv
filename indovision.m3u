@@ -574,8 +574,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AXNHD/mpd/AXNHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8bd8efd4840c37f50f8a053f92e9b015:7f8b3b508bb394919dab1b6e91e7bacf
-#EXTINF:-1 tvg-id="Lifetime - [Channel 167].id" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/639/639-LOGO-m.png",Lifetime Asia
+#EXTINF:-1 tvg-id="Lifetime - [Channel 167].id" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/639/639-LOGO-m.png",Lifetime 
 https://cempedak-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
+
+#EXTINF:-1 tvg-id="Lifetime - [Channel 167].id" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/639/639-LOGO-m.png",Lifetime HD
+https://cdn09jtedge.indihometv.com/joss/134/lifetime/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=50056951f6d5f5fbaf286cd99c965379:4ec78e3b7d66d1db3815a127f792b604
