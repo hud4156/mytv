@@ -30,9 +30,6 @@ https://c.mjh.nz/abc-me.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="KIDS",Baby First
 https://lte.wiseplayout.com/WiseM3U8_12/master.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="KIDS",3ABN Kids
-https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo=" " group-title="KIDS",Battery Pop (XUMO)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
 
@@ -124,8 +121,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ID" tvg-logo="https://images.indihometv.com/logo_indosiar_ver3.png",INDOSIAR 2
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45098.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="ID" tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png",SCTV
+#EXTINF:-1 tvg-logo=" " group-title="ID" tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png",SCTV 1
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ID" tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png",SCTV 2
+http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/03.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ID",NET 1
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
