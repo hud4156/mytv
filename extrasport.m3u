@@ -739,20 +739,7 @@ https://sritv.serv00.net/red/play.mpd?id=17674&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=17701&type=drm
 https://sritv.serv00.net/red/play.mpd?id=17701&type=dash
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png" group-title="Vidio",Moji
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.26.10
-https://tv.burhansyam.com/api/vd.m3u8?ch=moji&t=666
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/PUohBJxY8EMdzVWBNXsMhMe3QOE=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-f23abc.jpg" group-title="Vidio",SCTV
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.26.10
-https://tv.burhansyam.com/api/vd.m3u8?ch=sctv&t=666
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/48F9olniTUdrKcUoUrq-4U45A00=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" group-title="Vidio",Indosiar
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.26.10
-https://tv.burhansyam.com/api/vd.m3u8?ch=indosiar&t=666
 
 <==========Arena==========>
 
