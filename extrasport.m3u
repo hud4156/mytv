@@ -869,6 +869,25 @@ https://z88.ubtvfans.com/live/rx3/2786/2f513c311498fa93c5c5715d23d07827/index.m3
 https://z88.ubtvfans.com/live/rx3/2784/fad281403dbe3d7ca781a3af8ab9c6bb/index.m3u8
 
 
+<==========True==========>
+
+#EXTINF:-1 tvg-name="TRUE PREMIER 1" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="True",TRUE PREMIER 1 
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax/
+https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="TRUE PREMIER 2" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier2.png" group-title="True",TRUE PREMIER 2
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax/
+https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="TRUE PREMIER 3" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier3.png" group-title="True",TRUE PREMIER 3
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax/
+https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
+
+
+
 <==========Telenor==========>
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
