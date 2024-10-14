@@ -458,122 +458,65 @@ https://z88.ubtvfans.com/live/rx3/2432/c408bb9ddb2042813bf949dac9cf681e/index.m3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1200px-Logo_bein_sports_3.png " tvg-id="id" tvg-name=" " group-title="BeIn", bein sports 3
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/901.ts
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/1200px-Logo_bein_sports_4.png " tvg-id="id" tvg-name=" " group-title="BeIn", bein sports 4
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/902.ts
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFiwjxKQNbDaxY-ArbfmOR1MU2eSaVXFQV7w&s " tvg-id="id" tvg-name=" " group-title="BeIn", bein sports 5
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/905.ts
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6oBka4OaGocyKXunfcs8xx01ksm8F0iOt8w&s " tvg-id="id" tvg-name=" " group-title="BeIn", bein sports 6
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/904.ts
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Logo-Beinsports-7MAX.png " tvg-id="id" tvg-name=" " group-title="BeIn ", bein sports 7
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/907.ts
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Logo-Beinsports-8MAX.png " tvg-id="id" tvg-name=" " group-title="BeIn", bein sports 8
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://78.159.119.122:2095/live/Tourobox1-rO9M2n1zrf/dnKwrIakpj/906.ts
 
 #EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="beINSports1.qa" tvg-logo="https://media.tv4.live/beINSports1.qa.png" group-title="BeIn",beIN 1
 http://ktv.im:8080/kk56712/kk12345/49522
-
 #EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="beINSports2.qa" tvg-logo="https://media.tv4.live/beINSports2.qa.png" group-title="BeIn",beIN 2
 http://ktv.im:8080/kk56712/kk12345/49523
-
 #EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="beINSports3.qa" tvg-logo="https://media.tv4.live/beINSports3.qa.png" group-title="BeIn",beIN 3
 http://ktv.im:8080/kk56712/kk12345/49524
-
 #EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="beINSports4.qa" tvg-logo="https://media.tv4.live/beINSports4.qa.png" group-title="BeIn",beIN 4
 http://ktv.im:8080/kk56712/kk12345/49525
-
 #EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="beINSports5.qa" tvg-logo="https://media.tv4.live/beINSports5.qa.png" group-title="BeIn",beIN 5
 http://ktv.im:8080/kk56712/kk12345/49526
-
 #EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="beINSports6.qa" tvg-logo="https://media.tv4.live/beINSports6.qa.png" group-title="BeIn",beIN 6
 http://ktv.im:8080/kk56712/kk12345/49527
-                 
 #EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 7
 http://ktv.im:8080/kk56712/kk12345/49528
-
 #EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 8
 http://ktv.im:8080/kk56712/kk12345/49529
-
 #EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 9
 http://ktv.im:8080/kk56712/kk12345/49530
-
 #EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN afc
 http://ktv.im:8080/kk56712/kk12345/49531
 
-#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo=" ",Bein Sport 1 EN
-https://z88.ubtvfans.com/live/rx3/1085/19c856d334244d7aa1b8354af98d9465/index.m3u8
-
-#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo=" ",Bein Sport 2 EN
-https://z88.ubtvfans.com/live/rx1/2366/4829201392395c4f5681829529655b9b/index.m3u8
-
-#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo=" ",Bein Sport 3 EN
-https://z88.ubtvfans.com/live/rx3/2230/863af0d01f233878718d329206601b47/index.m3u8
-
-#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo=" ",Bein Sport 4 Max
-https://z88.ubtvfans.com/live/rx3/1405/09bbf56229092481fbb90f8b97d5348a/index.m3u8
-
-#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo=" ",Bein Sport 5 Max
-https://z88.ubtvfans.com/live/rx3/1450/5ac009d3967ada766006b4249049bd9a/index.m3u8
-
-#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo=" ",BeIN Sport News
-https://z88.ubtvfans.com/live/rx1/2402/b05da80fe0b2856e24e480a1a97b72b9/index.m3u8
-
-#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo=" ",BeIN Sport 1
-https://z88.ubtvfans.com/live/rx1/2403/1e7a7f7d3ba7acf36796928ec9deb9ea/index.m3u8
-
-#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo=" ",BeIN Sport 2
-https://z88.ubtvfans.com/live/rx1/2404/c90e86b85812b7d1920fbff2b70895b7/index.m3u8
-
-#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo=" ",BeIN Sport 3
-https://z88.ubtvfans.com/live/rx1/2405/b2e567a130b342be942234f5e48c28dc/index.m3u8
-
-#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo=" ",BeIN Sport 4
-https://z88.ubtvfans.com/live/rx1/2406/30ae1126c0f3a6ec5434f3ac7cc6fa56/index.m3u8
-
-#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo=" ",BeIN Sport 5
-https://z88.ubtvfans.com/live/rx1/2407/1a0151d3fd98d915256507b8b38abf34/index.m3u8
-
-#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo=" ",BeIN Sport 6
-https://z88.ubtvfans.com/live/rx1/2408/8f58f04be89292ecdd5e2cc01166767d/index.m3u8
-
-#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo=" ",BeIN Sport 7
-https://z88.ubtvfans.com/live/rx1/2409/358563c7da7f0465b4d2c5884fae9b3e/index.m3u8
-
-#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo=" ",BeIN Sport 8
-https://z88.ubtvfans.com/live/rx1/2410/4da28f584244ad271fb6f47c44c86d47/index.m3u8
-
-#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo=" ",BeIN Sport 9
-https://z88.ubtvfans.com/live/rx1/2411/b2676ff32ff03a35a519151933da9d77/index.m3u8
-
-#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo=" ",BeIN Sport 10
-https://z88.ubtvfans.com/live/rx2/2412/776debe4995c9d61f0a280f7b131da1b/index.m3u8
-
-#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo=" ",BeIN Sport 11
-https://z88.ubtvfans.com/live/rx2/2413/b16d74ac849a21ff4d72900cc7139b26/index.m3u8
-
-#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo=" ",BeIN Sport 12
-https://z88.ubtvfans.com/live/rx2/2414/3ff159dbf54d0c8ca50afe5802da763b/index.m3u8
-
-#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo=" ",Bein Sport 13
-https://z88.ubtvfans.com/live/rx2/2415/59ff989dedc6cbfbdb99113d3aec3c67/index.m3u8
-
-#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo=" ",Bein Sport 14
-https://z88.ubtvfans.com/live/rx2/2418/bb54cedc8376a307ba5fb83f6ce57fbf/index.m3u8
-
-#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo=" ",Bein Sport 15
-https://z88.ubtvfans.com/live/rx2/2416/9bbf4cbf79c511a88d340f4e980f030c/index.m3u8
-
-#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo=" ",Bein sports
-https://z88.ubtvfans.com/live/rx2/2417/9db40e44a5b4a5e36959af90bf62d400/index.m3u8
+#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 1
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben1.m3u8
+#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 2
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben2.m3u8
+#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 3
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben3.m3u8
+#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 4
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben4.m3u8
+#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 5
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben5.m3u8
+#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 6
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben6.m3u8
+#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 7
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben7.m3u8
+#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 8
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben8.m3u8
+#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 9
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben9.m3u8
+#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN EXTRA 1
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Benextra1.m3u8
+#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN EXTRA 2
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Benextra2.m3u8
 
 
 
