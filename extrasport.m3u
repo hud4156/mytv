@@ -771,32 +771,6 @@ https://bit.ly/Sky-SportMix
 #EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sky",SkySport Tennis
 https://bit.ly/SkySportTennis
 
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sky",Sky Sport Main Event 2
-https://z88.ubtvfans.com/live/rx3/2787/540958cfc667da8028df5cba48468db7/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sky",Sky Sport Premier League 2
-https://z88.ubtvfans.com/live/rx3/2783/09a0960767adcd947954d242971951e8/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sky",Sky Sport Football 2
-https://z88.ubtvfans.com/live/rx3/2782/587f1f037511bfe22a9712eba3b8aff4/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sky",Sky Sport Action 2
-https://z88.ubtvfans.com/live/rx3/2785/0ad11dbb55c7faddeac1a3c6d08bd278/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sky",Sky Sport Mix 2
-https://z88.ubtvfans.com/live/rx3/2780/493504c1187efa40be936d0e86de9c1f/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sky",Sky Sport Arena 2
-https://z88.ubtvfans.com/live/rx3/2781/73a1b982aa673e4c829ece3824d9fc28/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sky",Sky Sport F1 2
-https://z88.ubtvfans.com/live/rx3/3237/ed636b06dc881ff4e47522a0cdfecb03/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sky",Sky Sports Cricket 2
-https://z88.ubtvfans.com/live/rx3/2786/2f513c311498fa93c5c5715d23d07827/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/10/Sky-Sports-MAIN.png?w=1080" group-title="Sky",Sky Sports the open 2
-https://z88.ubtvfans.com/live/rx3/2784/fad281403dbe3d7ca781a3af8ab9c6bb/index.m3u8
 
 
 <==========True==========>
@@ -816,6 +790,41 @@ https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
 EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax/
 https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
 
+
+
+<==========NOW SPORT==========>
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW SPORT", HK Now Premier Sports 1
+http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425332.ts
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW SPORT", HK Now Premier Sports 2
+http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425333.ts
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW SPORT", HK Now Premier Sports 3
+http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425334.ts
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW SPORT", HK Now Premier Sports 4
+http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425335.ts
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW SPORT", HK Now Premier Sports 5
+http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425336.ts
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW SPORT", HK Now Premier Sports 6
+http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425337.ts
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW SPORT", HK Now Premier Sports 7
+http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425331.ts
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW SPORT", HK Now Premier Sports 8
+http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425330.ts
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW SPORT", HK Now Sports 1
+http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425329.ts
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW SPORT", HK Now Sports 2
+http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425328.ts
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW SPORT", HK Now Sports 3
+http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425327.ts
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW SPORT", HK Now Sports 4
+http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425326.ts
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW SPORT", HK Now Sports 5
+http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425325.ts
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW SPORT", HK Now Sports 6
+http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425324.ts
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="NOW SPORT", HK Now Sports 7
+http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425323.ts
 
 
 <==========Telenor==========>
