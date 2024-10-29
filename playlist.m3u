@@ -27,6 +27,9 @@ https://c.mjh.nz/abc-kids.m3u8
 #EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/abc-me.png" group-title="KIDS",ABC ME
 https://c.mjh.nz/abc-me.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="KIDS",BabyTV
+http://iptv12k.com:35461/live/test167/12345/616.m3u8
+
 #EXTINF:-1 tvg-logo=" " group-title="KIDS",Baby First
 https://lte.wiseplayout.com/WiseM3U8_12/master.m3u8
 
