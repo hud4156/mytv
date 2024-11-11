@@ -349,18 +349,6 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-048/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-049/stream.mpd
 
-#EXTINF:-1 tvg-id="DAZN Eleven Pro League 2 NL.be" tvg-logo="https://iili.io/d06l6YB.png" group-title="DAZN",DAZN Pro League 2 Dutch
-#EXTVLCOPT:http-user-agent=Roku/DVP-12.0/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=16251e842a834570a8c5a34d45a0d64d:b7243739698cad0d58af01f142d13eae
-https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague2nl/Manifest.mpd
- 
-#EXTINF:-1 tvg-id="DAZN Eleven Pro League 3 NL.be" tvg-logo="https://iili.io/d06l42V.png" group-title="DAZN",DAZN Pro League 3 Dutch
-#EXTVLCOPT:http-user-agent=Roku/DVP-12.0/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6455c5a1ad1484fa4029ba498659838:4329fb08c3444a8ae9b3c477efe11002
-https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague3nl/Manifest.mpd
-
 #EXTINF:-1 tvg-id="DAZN Eleven Pro League 1 FR.be" tvg-logo="https://iili.io/d06lPkP.png" group-title="DAZN",DAZN Pro League 1 Français
 #EXTVLCOPT:http-user-agent=Roku/DVP-12.0/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
