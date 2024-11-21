@@ -85,8 +85,8 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ID"  tvg-logo="https://images.indihometv.com/assets/logo_rcti_hd.png",RCTI 1
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 
-// #EXTINF:-1 tvg-logo=" " group-title="ID" tvg-logo="https://images.indihometv.com/assets/logo_rcti_hd.png",RCTI 2
-// https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-2/sa_hls/rcti-2.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="ID" tvg-logo="https://images.indihometv.com/assets/logo_rcti_hd.png",RCTI 2
+https://d2yxzznf83vq8n.cloudfront.net/index.m3u8
 
 // #EXTINF:-1 tvg-logo=" " group-title="ID" tvg-logo="https://images.indihometv.com/assets/logo_rcti_hd.png",RCTI 3
 // https://1s1.rctiplus.id/rcti2023.m3u8
@@ -96,7 +96,6 @@ https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ID" tvg-logo="https://images.indihometv.com/assets/logo_mnc_hd.png",MNCTV 2
 https://d7kskkgv8ovkq.cloudfront.net/index.m3u8
-//https://1s1.rctiplus.id/mnctv2023.m3u8
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
