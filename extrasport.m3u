@@ -441,28 +441,6 @@ http://ktv.im:8080/kk56712/kk12345/49530
 #EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN afc
 http://ktv.im:8080/kk56712/kk12345/49531
 
-#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 1
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben1.m3u8
-#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 2
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben2.m3u8
-#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 3
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben3.m3u8
-#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 4
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben4.m3u8
-#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 5
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben5.m3u8
-#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 6
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben6.m3u8
-#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 7
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben7.m3u8
-#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 8
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben8.m3u8
-#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 9
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Ben9.m3u8
-#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN EXTRA 1
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Benextra1.m3u8
-#EXTINF:-1 group-title="BeIn" tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN EXTRA 2
-https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/main/Spl_1/Benextra2.m3u8
 
 
 
@@ -610,20 +588,7 @@ http://extraott.com/live/6945574629/7169628753/83011.ts
 
 <==========True==========>
 
-#EXTINF:-1 tvg-name="TRUE PREMIER 1" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="True",TRUE PREMIER 1 
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax/
-https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="TRUE PREMIER 2" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier2.png" group-title="True",TRUE PREMIER 2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax/
-https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="TRUE PREMIER 3" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier3.png" group-title="True",TRUE PREMIER 3
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax/
-https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
 
 
 
