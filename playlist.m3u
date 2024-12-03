@@ -12,10 +12,15 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-
 #EXTINF:-1 group-title="ID" tvg-id=" " tvg-logo=" ",SPOTV
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="ID" tvg-id=" " tvg-logo=" ",SPOTV alt
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 
 #EXTINF:-1 group-title="ID" tvg-id=" " tvg-logo=" ",SPOTV 2
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv2-hd/sa_hls/rcti-spotv2-hd.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="ID" tvg-id=" " tvg-logo=" ",SPOTV 2 alt
 https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 
 #EXTINF:-1 group-title="ID" tvg-id=" " tvg-logo=" ",PSJ TV
@@ -74,16 +79,18 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ID" tvg-logo="https://images.indihometv.com/assets/logo_rcti_hd.png",RCTI 2
-https://d2yxzznf83vq8n.cloudfront.net/index.m3u8
+https://allcutv.rctiplus.id/rcti2023.m3u8
 
-// #EXTINF:-1 tvg-logo=" " group-title="ID" tvg-logo="https://images.indihometv.com/assets/logo_rcti_hd.png",RCTI 3
-// https://1s1.rctiplus.id/rcti2023.m3u8
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 group-title="ID" tvg-logo="https://images.indihometv.com/assets/logo_mnc_hd.png",RCTI (R+)
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 #EXTINF:-1 tvg-logo=" " group-title="ID" tvg-logo="https://images.indihometv.com/assets/logo_mnc_hd.png",MNCTV 1
 https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ID" tvg-logo="https://images.indihometv.com/assets/logo_mnc_hd.png",MNCTV 2
-https://d7kskkgv8ovkq.cloudfront.net/index.m3u8
+https://allcutv.rctiplus.id/mnctv2023.m3u8
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -93,8 +100,8 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 #EXTINF:-1 tvg-logo=" " group-title="ID" tvg-logo="https://images.indihometv.com/assets/logo_gtv_hd.png",GTV 1
 https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 
-// #EXTINF:-1 tvg-logo=" " group-title="ID" tvg-logo="https://images.indihometv.com/assets/logo_gtv_hd.png",GTV 2
-// https://1s1.rctiplus.id/gtv2023.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="ID" tvg-logo="https://images.indihometv.com/assets/logo_gtv_hd.png",GTV 2
+https://allcutv.rctiplus.id/gtv2023.m3u8
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -104,11 +111,13 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #EXTINF:-1 tvg-logo=" " group-title="ID" tvg-logo="https://images.indihometv.com/logo_inews_small.png",INEWS 1
 https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 
-// #EXTINF:-1 tvg-logo=" " group-title="ID" tvg-logo="https://images.indihometv.com/logo_inews_small.png",INEWS 2
-// https://dsgtq5sngxkde.cloudfront.net/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="ID" tvg-logo="https://images.indihometv.com/logo_inews_small.png",INEWS 3
+https://allcutv.rctiplus.id/inews2023.m3u8
 
-// #EXTINF:-1 tvg-logo=" " group-title="ID" tvg-logo="https://images.indihometv.com/logo_inews_small.png",INEWS 3
-// https://1s1.rctiplus.id/inews2023.m3u8
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 group-title="ID" tvg-logo="https://images.indihometv.com/assets/logo_mnc_hd.png",RCTI (R+)
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 #EXTINF:-1 tvg-logo=" " group-title="ID" tvg-logo="https://images.indihometv.com/logo_trans7_ver1.png",TRANS7
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
