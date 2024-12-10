@@ -120,6 +120,9 @@ https://allcutv.rctiplus.id/inews2023.m3u8
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 #EXTINF:-1 tvg-logo=" " group-title="ID" tvg-logo="https://images.indihometv.com/logo_trans7_ver1.png",TRANS7
+https://cdn11jtedge.indihometv.com/atm/hlsv3/trans7/trans7.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="ID" tvg-logo="https://images.indihometv.com/logo_trans7_ver1.png",TRANS7 2
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="ID" tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png",TRANSTV
