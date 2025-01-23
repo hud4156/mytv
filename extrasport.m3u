@@ -917,6 +917,47 @@ https://cdnlb.tvplayhome.lt/live/eds/Setanta31_HD_HVC/GO3_LIVE_DASH_HVC/Setanta3
 https://cdnlb.tvplayhome.lt/live/eds/Setanta32_HD_HVC/GO3_LIVE_DASH_HVC/Setanta32_HD_HVC.mpd 
 
 
+
+<==========ESPN Latino==========>
+
+#EXTINF:-1 tvg-id="ESPN 1.ar" tvg-logo="https://iili.io/JmoIfF2.png" group-title="ESPN Latino",ESPN Latino
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd
+
+#EXTINF:-1 tvg-id="ESPN 2.ar" tvg-logo="https://iili.io/JmoI2nf.png" group-title="ESPN Latino",ESPN 2 Latino
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd
+
+#EXTINF:-1 tvg-id="ESPN 3.ar" tvg-logo="https://iili.io/Jmoudrl.png" group-title="ESPN Latino",ESPN 3 Latino
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8a60d7889ff126ee1895335e92254f8e:de1b0ce19fa804a1c473eb8ef2d5cf6d
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/master.mpd
+
+#EXTINF:-1 tvg-id="ESPN 4.cl" tvg-logo="https://iili.io/JmouJ14.png" group-title="ESPN Latino",ESPN 4 Latino
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=54a2c11085c315ed6ff85c340a86095d:5f0d10cf4a5c7e22e286b7e8cb4e79f4
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(9500bf02-0001-4199-a150-58dc5d692cca)/master.mpd
+
+#EXTINF:-1 tvg-id="ESPN 5.cl" tvg-logo="https://iili.io/d9HjpYN.png" group-title="ESPN Latino",ESPN 5 Latino
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e126297fc7af35c736bdffe98eecaaa:fdb0091cf67d9c596dbfb07cf6f4c8f5
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(80c74968-a2ef-4005-8661-045fe97408a8)/master.mpd
+
+#EXTINF:-1 tvg-id="ESPN 6.cl" tvg-logo="https://iili.io/d9HjyvI.png" group-title="ESPN Latino",ESPN 6 Latino
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5836382452cdca1e1c8bf8b9a713534:7d261930c3309ed2b06d2abb34a64410
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(b30aa51e-97fa-4354-bb38-871fb360e984)/master.mpd
+
+#EXTINF:-1 tvg-id="ESPN 7.cl" tvg-logo="https://iili.io/d9Hjm2p.png" group-title="ESPN Latino",ESPN 7 Latino
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=98ea1e32227adcd3618baac2bbf36814:72a03a09d33e412f14a9bfa4ef24b542
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(5ab5db84-2235-4c10-9066-be9bc2ee087a)/master.mpd
+
+
+
+
 <==========ESPN BR==========>
 
 #EXTINF:-1 tvg-id="ESPN.br" tvg-logo="https://iili.io/JmoIfF2.png" group-title="ESPN BR",ESPN BR
