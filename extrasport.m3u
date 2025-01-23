@@ -467,7 +467,30 @@ http://ktv.im:8080/kk56712/kk12345/49530
 http://ktv.im:8080/kk56712/kk12345/49531
 
 
+<==========Sky Sports==========>
 
+#EXTINF:-1 tvg-id="SkySp+ HD.uk" tvg-logo="https://iili.io/2G3hPwP.png" group-title="Sky Sports",Sky Sports +
+https://ie.sonyrepairs.com/sksparena/index.m3u8
+#EXTINF:-1 tvg-id="SkySp NFL HD.uk" tvg-logo="https://iili.io/JV1bsgj.png" group-title="Sky Sports",Sky Sports Action
+https://ie.sonyrepairs.com/skspnfl/index.m3u8
+#EXTINF:-1 tvg-id="SkySpCricket HD.uk" tvg-logo="https://iili.io/JV1bPqu.png" group-title="Sky Sports",Sky Sports Cricket
+https://ie.sonyrepairs.com/skspcricket/index.m3u8
+#EXTINF:-1 tvg-id="SkySp F1 HD.uk" tvg-logo="https://iili.io/JV1b4se.png" group-title="Sky Sports",Sky Sports F1
+https://ie.sonyrepairs.com/skspf1/index.m3u8
+#EXTINF:-1 tvg-id="SkySp Fball HD.uk" tvg-logo="https://iili.io/JV1bZ5Q.png" group-title="Sky Sports",Sky Sports Football
+https://ie.sonyrepairs.com/skspfootball/index.m3u8
+#EXTINF:-1 tvg-id="SkySp Golf HD.uk" tvg-logo="https://iili.io/JV1bQdx.png" group-title="Sky Sports",Sky Sports Golf
+https://ie.sonyrepairs.com/skspgolf/index.m3u8
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://iili.io/JV1bteV.png" group-title="Sky Sports",Sky Sports Main Event
+https://ie.sonyrepairs.com/skspmainevent/index.m3u8
+#EXTINF:-1 tvg-id="SkySp Mix HD.uk" tvg-logo="https://iili.io/JV1bDmB.png" group-title="Sky Sports",Sky Sports Mix
+https://ie.sonyrepairs.com/spspmix/index.m3u8
+#EXTINF:-1 tvg-id="SkySp News HD.uk" tvg-logo="https://iili.io/JV1bmzP.png" group-title="Sky Sports",Sky Sports News
+https://ie.sonyrepairs.com/skspnews/index.m3u8
+#EXTINF:-1 tvg-id="SkySp PL HD.uk" tvg-logo="https://iili.io/JV1mHqg.png" group-title="Sky Sports",Sky Sports Premier League
+https://ie.sonyrepairs.com/sksppremierleague/index.m3u8
+#EXTINF:-1 tvg-id="SkySp Tennis HD.uk" tvg-logo="https://iili.io/JV1p7cJ.png" group-title="Sky Sports",Sky Sports Tennis
+https://ie.sonyrepairs.com/sktennis/index.m3u8
 
 <==========Arena==========>
 
