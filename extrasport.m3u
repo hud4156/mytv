@@ -917,59 +917,74 @@ https://cdnlb.tvplayhome.lt/live/eds/Setanta31_HD_HVC/GO3_LIVE_DASH_HVC/Setanta3
 https://cdnlb.tvplayhome.lt/live/eds/Setanta32_HD_HVC/GO3_LIVE_DASH_HVC/Setanta32_HD_HVC.mpd 
 
 
+<==========ESPN BR==========>
 
-<==========Brazil==========>
+#EXTINF:-1 tvg-id="ESPN.br" tvg-logo="https://iili.io/JmoIfF2.png" group-title="ESPN BR",ESPN BR
+https://super-cdn.link/espn/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.2.br" tvg-logo="https://iili.io/JmoI2nf.png" group-title="ESPN BR",ESPN 2 BR
+https://super-cdn.link/espn2/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.3.br" tvg-logo="https://iili.io/Jmoudrl.png" group-title="ESPN BR",ESPN 3 BR
+https://super-cdn.link/espn3/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.4.br" tvg-logo="https://iili.io/JmouJ14.png" group-title="ESPN BR",ESPN 4 BR
+https://super-cdn.link/espn4/index.m3u8
+#EXTINF:-1 tvg-id="Fox.Sports.2.HD.br" tvg-logo="https://iili.io/d9HjpYN.png" group-title="ESPN BR",ESPN 5 BR
+https://super-cdn.link/espn5/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.Extra.br" tvg-logo="https://iili.io/d9HjyvI.png" group-title="ESPN BR",ESPN 6 BR
+https://super-cdn.link/espn6/index.m3u8
 
-#EXTINF:-1 tvg-id="Premiere 1 BR" tvg-logo=" " group-title="Brazil",Premiere 1 BR
+
+<==========Premiere BR==========>
+
+#EXTINF:-1 tvg-id="Premiere 1 BR" tvg-logo=" " group-title="Premiere BR",Premiere 1 BR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
 https://thedream.biz.id/prokci/proxy.php/http://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd
 
-#EXTINF:-1 tvg-id="Premiere 2 BR" tvg-logo=" " group-title="Brazil",Premiere 2 BR
+#EXTINF:-1 tvg-id="Premiere 2 BR" tvg-logo=" " group-title="Premiere BR",Premiere 2 BR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd2e8019f37211ca8b78a8b656f1b83a:273189c214e85b43ac36298d1c422330
 https://thedream.biz.id/prokci/proxy.php/http://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd
 
-#EXTINF:-1 tvg-id="Premiere 3 BR" tvg-logo=" " group-title="Brazil",Premiere 3 BR
+#EXTINF:-1 tvg-id="Premiere 3 BR" tvg-logo=" " group-title="Premiere BR",Premiere 3 BR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9547f9aead1237c8a3b1bf0a91ed9995:534fab4541fef31921dd970c65d51848
 https://thedream.biz.id/prokci/proxy.php/http://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd
 
-#EXTINF:-1 tvg-id="Premiere 4 BR" tvg-logo=" " group-title="Brazil",Premiere 4 BR
+#EXTINF:-1 tvg-id="Premiere 4 BR" tvg-logo=" " group-title="Premiere BR",Premiere 4 BR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce5d18ffd68650affce1985201983ab7:397c64e42507d95e5460830918c22a98
 https://thedream.biz.id/prokci/proxy.php/http://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zytzybatcd/out/v1/4e59aa00f6784bb98170741d40b33e3e/cenc.mpd
 
-#EXTINF:-1 tvg-id="Premiere 5 BR" tvg-logo=" " group-title="Brazil",Premiere 5 BR
+#EXTINF:-1 tvg-id="Premiere 5 BR" tvg-logo=" " group-title="Premiere BR",Premiere 5 BR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d5a3ac0b892bfccdf352b6def9cb2764:ac0936acc0036fad2273efaa42b1fafd
 https://thedream.biz.id/prokci/proxy.php/http://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/j4y12ucrx0/out/v1/9135597c4400465e9e752dc32de587fd/cenc.mpd
 
-#EXTINF:-1 tvg-id="Premiere 6 BR" tvg-logo=" " group-title="Brazil",Premiere 6 BR
+#EXTINF:-1 tvg-id="Premiere 6 BR" tvg-logo=" " group-title="Premiere BR",Premiere 6 BR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=05cedc366ce4ec735ee4b33fcefbf01f:475d6dd40eaba6896e02b26a6cf34d95
 https://thedream.biz.id/prokci/proxy.php/http://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cydwktwhqj/out/v1/c6e2919fe4e04a73935691f8284a4afe/cenc.mpd
 
-#EXTINF:-1 tvg-id="Premiere 7 BR" tvg-logo=" " group-title="Brazil",Premiere 7 BR
+#EXTINF:-1 tvg-id="Premiere 7 BR" tvg-logo=" " group-title="Premiere BR",Premiere 7 BR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ce96e01eee54fb77e5cc4e7b753d6b0:184f94303d3357b9a7381ccdeee9b611
 https://thedream.biz.id/prokci/proxy.php/http://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wczqphrl5k/out/v1/7a20b4be236a4a9484fdf5cdfcbe79d5/cenc.mpd
 
-#EXTINF:-1 tvg-id="Premiere 8 BR" tvg-logo=" " group-title="Brazil",Premiere 8 BR
+#EXTINF:-1 tvg-id="Premiere 8 BR" tvg-logo=" " group-title="Premiere BR",Premiere 8 BR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
