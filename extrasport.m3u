@@ -565,13 +565,13 @@ https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
+https://webtvstream.bhtelecom.ba/hls7/as_premium1.mpd
  
 #EXTINF:-1 tvg-id="Arena PREMIUM 2.rs" tvg-logo="https://iili.io/Jmo5VYQ.png" group-title="Arena",Arena Premium 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
+https://webtvstream.bhtelecom.ba/hls7/as_premium2.mpd
  
 #EXTINF:-1 tvg-id="Arena PREMIUM 3.rs" tvg-logo="https://iili.io/Jmo5E4j.png" group-title="Arena",Arena Premium 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
