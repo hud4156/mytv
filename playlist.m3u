@@ -66,6 +66,63 @@ http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61408&extension=t
 #EXTINF:-1 tvg-id="The.Sports.Network.4.HDTV.(TSN4H).ca" tvg-name="The Sports Network 4 HDTV (TSN4H)" tvg-logo="https://docdog.top/Logotv/countries//tsn4.png",TSN 4
 http://supersonictv.live:8080/live/144264/661943/40470.ts
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportfootball.png",SuperSports Priemier League
+http://supersonictv.live:8080/live/144264/661943/86863.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportlaliga.png",SuperSports LA LIGA
+http://supersonictv.live:8080/live/144264/661943/86861.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportfootball.png",SuperSports FOOTBALL
+http://supersonictv.live:8080/live/144264/661943/86869.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety1.png",SuperSports VARIETY 1
+http://supersonictv.live:8080/live/144264/661943/86865.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety2.png",SuperSports VARIETY 2
+http://supersonictv.live:8080/live/144264/661943/86866.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety3.png",SuperSports VARIETY 3
+http://supersonictv.live:8080/live/144264/661943/86867.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety4.png",SuperSports VARIETY 4
+http://supersonictv.live:8080/live/144264/661943/86868.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportaction.png",SuperSports ACTION
+http://supersonictv.live:8080/live/144264/661943/86870.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportcricket.png",SuperSports CRICKET
+http://supersonictv.live:8080/live/144264/661943/86872.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//supersporttennis.png",SuperSports TENNIS
+http://supersonictv.live:8080/live/144264/661943/86876.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportpsl.png",SuperSports PSL
+http://supersonictv.live:8080/live/144264/661943/86862.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportgolf.png",SuperSports GOLF
+http://supersonictv.live:8080/live/144264/661943/86875.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportgrandstand.png",SuperSports GRANDSTAND
+http://supersonictv.live:8080/live/144264/661943/86864.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportrugby.png",SuperSports RUGBY
+http://supersonictv.live:8080/live/144264/661943/86871.ts
+
+#EXTINF:-1 tvg-id="",SuperSports WWE
+http://supersonictv.live:8080/live/144264/661943/86878.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportmotorsport.png",SuperSports MOTORSPORT
+http://supersonictv.live:8080/live/144264/661943/86879.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//supersportmaximo1.png",SuperSports MAXIMO
+http://supersonictv.live:8080/live/144264/661943/86874.ts
+
+#EXTINF:-1 tvg-id="",SuperSports BLITZ
+http://supersonictv.live:8080/live/144264/661943/86873.ts
+
+#EXTINF:-1 tvg-id="",SuperSports PLAY 
+http://supersonictv.live:8080/live/144264/661943/86877.ts
+
 #EXTINF:-1  group-title="ID" tvg-id=" " tvg-logo=" ",Sportstars 1
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar.m3u8
 
