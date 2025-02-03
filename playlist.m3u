@@ -1,5 +1,71 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/abc-kids.png" group-title="KIDS",ABC Kids
+https://c.mjh.nz/abc-kids.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/abc-me.png" group-title="KIDS",ABC ME
+https://c.mjh.nz/abc-me.m3u8
+
+#EXTINF:-1 tvg-id="MoonbugKids.uk",Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Boomerang.(BOOM).us" tvg-logo="https://docdog.top/Logotv/countries//boomerang.png",Boomerang
+http://supersonictv.live:8080/live/144264/661943/21791.ts
+
+#EXTINF:-1 tvg-id="Cartoon.Network.HDTV.(East).(TOONHD).us" tvg-logo="https://docdog.top/Logotv/countries/uk/cartoonnetwork.png",Cartoon Network
+http://supersonictv.live:8080/live/144264/661943/21792.ts
+
+#EXTINF:-1 tvg-id="The.Disney.Channel.HDTV.(East).(DISHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/disney-channel-us.png",Disney Channel
+http://supersonictv.live:8080/live/144264/661943/21795.ts
+
+#EXTINF:-1 tvg-id="The.Disney.Channel.HDTV.(East).(DISHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/disney-channel-us.png",Disney Channel New
+http://supersonictv.live:8080/live/144264/661943/21796.ts
+
+#EXTINF:-1 tvg-id="Disney.Junior.HDTV.East.(DISJr).us" tvg-logo="https://docdog.top/Logotv/countries//disneyjuniorpacific.png",Disney Junior
+http://supersonictv.live:8080/live/144264/661943/21798.ts
+
+#EXTINF:-1 tvg-id="Disney.Junior.HDTV.East.(DISJr).us" tvg-logo="https://docdog.top/Logotv/countries//disneyjuniorpacific.png",Disney Junior New
+http://supersonictv.live:8080/live/144264/661943/21799.ts
+
+#EXTINF:-1 tvg-id="Disney.XD.(East).(DISXD).us" tvg-logo="https://docdog.top/Logotv/countries//disneyxd.png",Disney XD
+http://supersonictv.live:8080/live/144264/661943/21801.ts
+
+#EXTINF:-1 tvg-id="Nick.Jr..(NicJr).us" tvg-logo="https://docdog.top/Logotv/countries//nickjr.png",Nick Jr
+http://supersonictv.live:8080/live/144264/661943/21806.ts
+
+#EXTINF:-1 tvg-id="Nickelodeon.HDTV.(East).(NICHD).us" tvg-logo="https://docdog.top/Logotv/countries//nickelodeon.png",Nickelodeon
+http://supersonictv.live:8080/live/144264/661943/21808.ts
+
+#EXTINF:-1 tvg-id="Nicktoons.Network.(East).(NICKTOON).us" tvg-logo="https://docdog.top/Logotv/countries//nicktoons.png",Nicktoons
+http://supersonictv.live:8080/live/144264/661943/21809.ts
+
+#EXTINF:-1 tvg-id="PBS.(WNET).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries//pbskids.png",PBS
+http://supersonictv.live:8080/live/144264/661943/21810.ts
+
+#EXTINF:-1 tvg-id="TeenNick.(East).(TNCK).us" tvg-logo="https://docdog.top/Logotv/countries//teennick.png",TeenNick
+http://supersonictv.live:8080/live/144264/661943/21811.ts
+
+#EXTINF:-1 tvg-id="Universal.Kids.HDTV.(SPROUTHD).us",UNIVERSAL KIDS
+http://supersonictv.live:8080/live/144264/661943/21812.ts
+
+#EXTINF:-1 tvg-id="Sportsnet.360.HDTV.(360HD).ca" tvg-logo="https://docdog.top/Logotv/countries//sportsnet360.png",SportsNet 360
+http://supersonictv.live:8080/live/144264/661943/40472.ts
+
+#EXTINF:-1 tvg-id="Sportsnet.One.HDTV.(SN1HD).ca" tvg-logo="https://docdog.top/Logotv/countries//sportsnetone.png",Sportsnet One
+http://supersonictv.live:8080/live/144264/661943/40475.ts
+
+#EXTINF:-1 tvg-id="The.Sports.Network.HDTV.(TSNHD).ca" tvg-name="The Sports Network HDTV (TSNHD)" tvg-logo="https://docdog.top/Logotv/countries//tsn1.png",TSN 1
+http://supersonictv.live:8080/live/144264/661943/40467.ts
+
+#EXTINF:-1 tvg-id="The.Sports.Network.2.HDTV.(TSN2D).ca" tvg-name="The Sports Network 2 HDTV (TSN2D)" tvg-logo="https://docdog.top/Logotv/countries//tsn2.png",TSN 2
+http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61409&extension=ts
+
+#EXTINF:-1 tvg-id="The.Sports.Network.3.HDTV.(TSN3HD).ca" tvg-name="The Sports Network 3 HDTV (TSN3HD)" tvg-logo="https://docdog.top/Logotv/countries//tsn3.png",TSN 3
+http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61408&extension=ts
+
+#EXTINF:-1 tvg-id="The.Sports.Network.4.HDTV.(TSN4H).ca" tvg-name="The Sports Network 4 HDTV (TSN4H)" tvg-logo="https://docdog.top/Logotv/countries//tsn4.png",TSN 4
+http://supersonictv.live:8080/live/144264/661943/40470.ts
+
 #EXTINF:-1  group-title="ID" tvg-id=" " tvg-logo=" ",Sportstars 1
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar.m3u8
 
@@ -26,74 +92,126 @@ https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 #EXTINF:-1 group-title="ID" tvg-id=" " tvg-logo=" ",PSJ TV
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/abc-kids.png" group-title="KIDS",ABC Kids
-https://c.mjh.nz/abc-kids.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/abc-me.png" group-title="KIDS",ABC ME
-https://c.mjh.nz/abc-me.m3u8
+#EXTINF:-1 tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/freeform-us.png",Freeform
+http://supersonictv.live:8080/live/144264/661943/21804.ts
 
-#EXTINF:-1 tvg-logo=" " group-title="KIDS",MoonBug
-https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/paramount-plus-us.png",Paramount +
+http://supersonictv.live:8080/live/144264/661943/21805.ts
 
-#EXTINF:-1 tvg-logo=" " group-title="KIDS",Kidoodle
-https://kidoodletv-kdtv-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-us.png",Epix
+http://supersonictv.live:8080/live/144264/661943/22886.ts
 
-#EXTINF:-1 tvg-logo=" " group-title="KIDS",PBS Kids
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 tvg-id="MGM+.Marquee.HDTV.(East).(MGM+MRQ).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-2-us.png",Epix 2
+http://supersonictv.live:8080/live/144264/661943/22889.ts
 
-#EXTINF:-1 tvg-logo=" " group-title="KIDS",TVOKids
-https://bcovlive-a.akamaihd.net/rf86f817779524249abf842af6d16f55f/us-east-1/15364602001/playlist.m3u8
+#EXTINF:-1 tvg-id="MGM+.Drive-In.(MGM+DI).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-drive-in-us.png",Epix Drive-In
+http://supersonictv.live:8080/live/144264/661943/22888.ts
 
-#EXTINF:-1 tvg-logo=" " group-title="KIDS",Zoo Moo (Australia)
-https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8
+#EXTINF:-1 tvg-id="MGM+.Hits.HDTV.(East).(MGM+HTHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-us.png",Epix Hits
+http://supersonictv.live:8080/live/144264/661943/22887.ts
 
-#EXTINF:-1 tvg-logo=" " group-title="KIDS",Boomerang
-http://cord-cutter.net:8080/live/j3McKd/673709/53718.m3u8
+#EXTINF:-1 tvg-id="5StarMAX.HD.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cinemax-5-starmax-us.png",5StarMAX
+http://supersonictv.live:8080/live/144264/661943/22878.ts
 
-#EXTINF:-1 tvg-logo=" " group-title="KIDS",Cartoon Network
-http://cord-cutter.net:8080/live/j3McKd/673709/53719.m3u8
+EXTINF:-1 tvg-id="MOVIEMAX.HDTV.(MMXHD).us" tvg-logo="https://docdog.top/Logotv/countries//actionmax.png",MOVIEMAX
+http://supersonictv.live:8080/live/144264/661943/22883.ts
 
-#EXTINF:-1 tvg-logo=" " group-title="KIDS",CBBC
-http://cord-cutter.net:8080/live/j3McKd/673709/53720.m3u8
+#EXTINF:-1 tvg-id="OuterMax.east.us" tvg-logo="https://docdog.top/Logotv/countries//outermax.png",OUTERMAX
+http://supersonictv.live:8080/live/144264/661943/22884.ts
 
-#EXTINF:-1 tvg-logo=" " group-title="KIDS",Nickelodeon Pluto
-https://dai.google.com/linear/hls/event/0HWMZ7VTTAi8C7Y35fcbgQ/master.m3u8
+#EXTINF:-1 tvg-id="ThrillerMAX.HDTV.(East).(TMXHD).us" tvg-logo="https://docdog.top/Logotv/countries//thrillermax.png",THRILLERMAX
+http://supersonictv.live:8080/live/144264/661943/22885.ts
 
-#EXTINF:-1 tvg-id="Boomerang.(BOOM).us" tvg-logo="https://docdog.top/Logotv/countries//boomerang.png",Boomerang
-http://supersonictv.live:8080/live/144264/661943/21791.ts
+#EXTINF:-1 tvg-id="IndiePlex.HDTV.(INDIEHD).us" tvg-logo="https://docdog.top/Logotv/countries//indieplex.png",INDIEPLEX
+http://supersonictv.live:8080/live/144264/661943/22903.ts
 
-#EXTINF:-1 tvg-id="Cartoon.Network.HDTV.(East).(TOONHD).us" tvg-logo="https://docdog.top/Logotv/countries/uk/cartoonnetwork.png",Cartoon Network
-http://supersonictv.live:8080/live/144264/661943/21792.ts
+#EXTINF:-1 tvg-id="MoviePlex.East.(MPLEX).us" tvg-logo="https://docdog.top/Logotv/countries//movieplex.png",MOVIEPLEX
+http://supersonictv.live:8080/live/144264/661943/22905.ts
 
-#EXTINF:-1 tvg-id="Disney.Junior.HDTV.East.(DISJr).us" tvg-logo="https://docdog.top/Logotv/countries//disneyjuniorpacific.png",Disney Junior
-http://supersonictv.live:8080/live/144264/661943/21798.ts
+#EXTINF:-1 tvg-id="RetroPlex.HDTV.(RETROHD).us" tvg-logo="https://docdog.top/Logotv/countries//retroplex.png",RETROPLEX
+http://supersonictv.live:8080/live/144264/661943/47746.ts
 
-#EXTINF:-1 tvg-id="Disney.XD.(East).(DISXD).us" tvg-logo="https://docdog.top/Logotv/countries//disneyxd.png",Disney XD
-http://supersonictv.live:8080/live/144264/661943/21801.ts
+#EXTINF:-1 tvg-id="Showtime.2.HDTV.(East).(SHO2HD).us" tvg-logo="https://docdog.top/Logotv/countries//showtime.png",Showtime
+http://supersonictv.live:8080/live/144264/661943/22910.ts
 
-#EXTINF:-1 tvg-id="Nickelodeon.HDTV.(East).(NICHD).us" tvg-logo="https://docdog.top/Logotv/countries//nickelodeon.png",Nickelodeon
-http://supersonictv.live:8080/live/144264/661943/21808.ts
+#EXTINF:-1 tvg-id="Showtime.Extreme.(East).(SHOXe).us" tvg-logo="https://docdog.top/Logotv/countries//showtimeextreme.png",Showtime Extreme
+http://supersonictv.live:8080/live/144264/661943/22912.ts
 
-#EXTINF:-1 tvg-id="Nick.Jr..(NicJr).us" tvg-logo="https://docdog.top/Logotv/countries//nickjr.png",Nick Jr
-http://supersonictv.live:8080/live/144264/661943/21806.ts
+#EXTINF:-1 tvg-id="Showtime.FamilyZone.(East).(SHOFe).us" tvg-logo="https://docdog.top/Logotv/countries//showtimefamilyzone.png",Showtime Family Zone
+http://supersonictv.live:8080/live/144264/661943/22913.ts
 
-#EXTINF:-1 tvg-id="Nicktoons.Network.(East).(NICKTOON).us" tvg-logo="https://docdog.top/Logotv/countries//nicktoons.png",Nicktoons
-http://supersonictv.live:8080/live/144264/661943/21809.ts
+#EXTINF:-1 tvg-id="Showtime.Next.East.HDTV.(East).(SHOND).us" tvg-logo="https://docdog.top/Logotv/countries//showtimenext.png",Showtime Next
+http://supersonictv.live:8080/live/144264/661943/22914.ts
 
-#EXTINF:-1 tvg-id="TeenNick.(East).(TNCK).us" tvg-logo="https://docdog.top/Logotv/countries//teennick.png",TeenNick
-http://supersonictv.live:8080/live/144264/661943/21811.ts
+#EXTINF:-1 tvg-id="Showtime.Showcase.HDTV.(East).(SHOCHD).us" tvg-logo="https://docdog.top/Logotv/countries//showtimeshowcase.png",Showtime Showcase
+http://supersonictv.live:8080/live/144264/661943/22915.ts
 
-#EXTINF:-1 tvg-id="The.Disney.Channel.HDTV.(East).(DISHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/disney-channel-us.png",Disney Channel
-http://supersonictv.live:8080/live/144264/661943/21795.ts
+#EXTINF:-1 tvg-id="Showtime.Women.HDTV.(East).(SHOWD).us" tvg-logo="https://docdog.top/Logotv/countries//showtimewomen.png",Showtime Women
+http://supersonictv.live:8080/live/144264/661943/22916.ts
 
-#EXTINF:-1 tvg-id="PBS.(WNET).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries//pbskids.png",PBS
-http://supersonictv.live:8080/live/144264/661943/21810.ts
+#EXTINF:-1 tvg-id="SHOxBET(East).(SHOBET).us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",SHOxBET
+http://supersonictv.live:8080/live/144264/661943/22911.ts
 
-#EXTINF:-1 tvg-id="Universal.Kids.HDTV.(SPROUTHD).us",UNIVERSAL KIDS
-http://supersonictv.live:8080/live/144264/661943/21812.ts
+#EXTINF:-1 tvg-id="STARZ.Comedy.HD.(East).(SZCHD).us" tvg-logo="https://docdog.top/Logotv/countries//starzcomedy.png",STARZ Comedy
+http://supersonictv.live:8080/live/144264/661943/22921.ts
 
-#EXTINF:-1 tvg-id="MoonbugKids.uk",Moonbug Kids
-https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="STARZ.Edge.HD.(East).(SZEHD).us" tvg-logo="https://docdog.top/Logotv/countries//starzedge.png",STARZ Edge
+http://supersonictv.live:8080/live/144264/661943/22922.ts
+
+#EXTINF:-1 tvg-id="STARZ.InBlack.(East).(STZ.B).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/starz-in-black-us.png",STARZ In Black
+http://supersonictv.live:8080/live/144264/661943/22923.ts
+
+#EXTINF:-1 tvg-id="STARZ.Kids.and.Family.HD.(East).(SZKHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/starz-us.png",STARZ Kids and Family
+http://supersonictv.live:8080/live/144264/661943/22924.ts
+
+#EXTINF:-1 tvg-id="STARZ.ENCORE.HD.(East).(STZEH).us" tvg-logo="https://docdog.top/Logotv/countries//starzencore.png",STARZ ENCORE
+http://supersonictv.live:8080/live/144264/661943/22925.ts
+
+#EXTINF:-1 tvg-id="STARZ.ENCORE.Action.(East).(STZAC).us" tvg-logo="https://docdog.top/Logotv/countries//starzencoreaction.png",STARZ ENCORE Action
+http://supersonictv.live:8080/live/144264/661943/22927.ts
+
+#EXTINF:-1 tvg-id="STARZ.ENCORE.Black.(East).(STZBK).us" tvg-logo="https://docdog.top/Logotv/countries//starzencoreblack.png",STARZ ENCORE Black
+http://supersonictv.live:8080/live/144264/661943/22928.ts
+
+#EXTINF:-1 tvg-id="STARZ.ENCORE.Classic.(East).(STZCL).us" tvg-logo="https://docdog.top/Logotv/countries//starzencoreclassic.png",STARZ ENCORE Classic
+http://supersonictv.live:8080/live/144264/661943/22929.ts
+
+#EXTINF:-1 tvg-id="STARZ.ENCORE.Family.(East).(STZFM).us" tvg-logo="https://docdog.top/Logotv/countries//starzencorefamily.png",STARZ ENCORE Family
+http://supersonictv.live:8080/live/144264/661943/22930.ts
+
+#EXTINF:-1 tvg-id="STARZ.ENCORE.Suspense.(East).(STZSU).us" tvg-logo="https://docdog.top/Logotv/countries//starzencoresuspense.png",STARZ ENCORE Suspense
+http://supersonictv.live:8080/live/144264/661943/22931.ts
+
+#EXTINF:-1 tvg-id="STARZ.ENCORE.Westerns.(East).(STZWS).us" tvg-logo="https://docdog.top/Logotv/countries//starzencorewestern.png",STARZ ENCORE Westerns
+http://supersonictv.live:8080/live/144264/661943/22932.ts
+
+#EXTINF:-1 tvg-id="Sky.ScFi/HorHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemasci.png",Sky Cinema ScFi
+http://supersonictv.live:8080/live/144264/661943/77469.ts
+
+
+
+//#EXTINF:-1 tvg-logo=" " group-title="KIDS",Kidoodle
+//https://kidoodletv-kdtv-1-us.samsung.wurl.tv/playlist.m3u8
+//#EXTINF:-1 tvg-logo=" " group-title="KIDS",PBS Kids
+//https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+//#EXTINF:-1 tvg-logo=" " group-title="KIDS",TVOKids
+//https://bcovlive-a.akamaihd.net/rf86f817779524249abf842af6d16f55f/us-east-1/15364602001/playlist.m3u8
+//#EXTINF:-1 tvg-logo=" " group-title="KIDS",Zoo Moo (Australia)
+//https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8
+//#EXTINF:-1 tvg-logo=" " group-title="KIDS",Boomerang
+//http://cord-cutter.net:8080/live/j3McKd/673709/53718.m3u8
+//#EXTINF:-1 tvg-logo=" " group-title="KIDS",Cartoon Network
+//http://cord-cutter.net:8080/live/j3McKd/673709/53719.m3u8
+//#EXTINF:-1 tvg-logo=" " group-title="KIDS",CBBC
+//http://cord-cutter.net:8080/live/j3McKd/673709/53720.m3u8
+//#EXTINF:-1 tvg-logo=" " group-title="KIDS",Nickelodeon Pluto
+//https://dai.google.com/linear/hls/event/0HWMZ7VTTAi8C7Y35fcbgQ/master.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="HBO HD", HBO
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/210.m3u8
