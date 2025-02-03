@@ -48,23 +48,39 @@ http://supersonictv.live:8080/live/144264/661943/21811.ts
 #EXTINF:-1 tvg-id="Universal.Kids.HDTV.(SPROUTHD).us",UNIVERSAL KIDS
 http://supersonictv.live:8080/live/144264/661943/21812.ts
 
+
+#EXTINF:-1 tvg-id="TNT.Sports.1.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png",TNT Sport 1
+http://supersonictv.live:8080/live/144264/661943/40441.ts
+
+#EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsports2vip.png",TNT Sport 2
+http://supersonictv.live:8080/live/144264/661943/40442.ts
+
+#EXTINF:-1 tvg-id="TNT.Sports.3.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport3.png",TNT Sport 3
+http://supersonictv.live:8080/live/144264/661943/40443.ts
+
+#EXTINF:-1 tvg-id="TNT.Sports.4.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",TNT Sport 4
+http://supersonictv.live:8080/live/144264/661943/40440.ts
+
+#EXTINF:-1 tvg-id="The.Sports.Network.HDTV.(TSNHD).ca" tvg-name="The Sports Network HDTV (TSNHD)" tvg-logo="https://docdog.top/Logotv/countries//tsn1.png" group-title="",TSN 1
+http://supersonictv.live:8080/live/144264/661943/40467.ts
+
+#EXTINF:-1 tvg-id="The.Sports.Network.2.HDTV.(TSN2D).ca" tvg-name="The Sports Network 2 HDTV (TSN2D)" tvg-logo="https://docdog.top/Logotv/countries//tsn2.png" group-title="",TSN 2
+http://supersonictv.live:8080/live/144264/661943/40468.ts
+
+#EXTINF:-1 tvg-id="The.Sports.Network.3.HDTV.(TSN3HD).ca" tvg-name="The Sports Network 3 HDTV (TSN3HD)" tvg-logo="https://docdog.top/Logotv/countries//tsn3.png" group-title="",TSN 3
+http://supersonictv.live:8080/live/144264/661943/40469.ts
+
+#EXTINF:-1 tvg-id="The.Sports.Network.4.HDTV.(TSN4H).ca" tvg-name="The Sports Network 4 HDTV (TSN4H)" tvg-logo="https://docdog.top/Logotv/countries//tsn4.png" group-title="",TSN 4
+http://supersonictv.live:8080/live/144264/661943/40470.ts
+
+#EXTINF:-1 tvg-id="The.Sports.Network.5.HDTV.(TSN5HD).ca" tvg-name="The Sports Network 5 HDTV (TSN5HD)" tvg-logo="https://docdog.top/Logotv/countries//tsn5.png" group-title="",TSN 5
+http://supersonictv.live:8080/live/144264/661943/40471.ts
+
 #EXTINF:-1 tvg-id="Sportsnet.360.HDTV.(360HD).ca" tvg-logo="https://docdog.top/Logotv/countries//sportsnet360.png",SportsNet 360
 http://supersonictv.live:8080/live/144264/661943/40472.ts
 
 #EXTINF:-1 tvg-id="Sportsnet.One.HDTV.(SN1HD).ca" tvg-logo="https://docdog.top/Logotv/countries//sportsnetone.png",Sportsnet One
 http://supersonictv.live:8080/live/144264/661943/40475.ts
-
-#EXTINF:-1 tvg-id="The.Sports.Network.HDTV.(TSNHD).ca" tvg-name="The Sports Network HDTV (TSNHD)" tvg-logo="https://docdog.top/Logotv/countries//tsn1.png",TSN 1
-http://supersonictv.live:8080/live/144264/661943/40467.ts
-
-#EXTINF:-1 tvg-id="The.Sports.Network.2.HDTV.(TSN2D).ca" tvg-name="The Sports Network 2 HDTV (TSN2D)" tvg-logo="https://docdog.top/Logotv/countries//tsn2.png",TSN 2
-http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61409&extension=ts
-
-#EXTINF:-1 tvg-id="The.Sports.Network.3.HDTV.(TSN3HD).ca" tvg-name="The Sports Network 3 HDTV (TSN3HD)" tvg-logo="https://docdog.top/Logotv/countries//tsn3.png",TSN 3
-http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61408&extension=ts
-
-#EXTINF:-1 tvg-id="The.Sports.Network.4.HDTV.(TSN4H).ca" tvg-name="The Sports Network 4 HDTV (TSN4H)" tvg-logo="https://docdog.top/Logotv/countries//tsn4.png",TSN 4
-http://supersonictv.live:8080/live/144264/661943/40470.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportfootball.png",SuperSports Priemier League
 http://supersonictv.live:8080/live/144264/661943/86863.ts
@@ -150,10 +166,10 @@ https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/freeform-us.png",Freeform
+#EXTINF:-1 tvg-id="Freeform.HDTV.(East).(FRFHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/freeform-us.png",Freeform
 http://supersonictv.live:8080/live/144264/661943/21804.ts
 
-#EXTINF:-1 tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/paramount-plus-us.png",Paramount +
+#EXTINF:-1 tvg-id="Paramount+.HDTV.(East).(Paramount+HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/paramount-plus-us.png",Paramount +
 http://supersonictv.live:8080/live/144264/661943/21805.ts
 
 #EXTINF:-1 tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-us.png",Epix
@@ -245,6 +261,30 @@ http://supersonictv.live:8080/live/144264/661943/22932.ts
 
 #EXTINF:-1 tvg-id="Sky.ScFi/HorHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemasci.png",Sky Cinema ScFi
 http://supersonictv.live:8080/live/144264/661943/77469.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CHiPs
+http://supersonictv.live:8080/live/144264/661943/77109.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Action Movie
+http://supersonictv.live:8080/live/144264/661943/40480.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Comedy Movie
+http://supersonictv.live:8080/live/144264/661943/40484.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Crime Movie
+http://supersonictv.live:8080/live/144264/661943/40486.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Horror Movie
+http://supersonictv.live:8080/live/144264/661943/40492.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Horror Movie 2
+http://supersonictv.live:8080/live/144264/661943/40493.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Kungfu
+http://supersonictv.live:8080/live/144264/661943/40495.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Western Movie
+http://supersonictv.live:8080/live/144264/661943/40507.ts
 
 
 
