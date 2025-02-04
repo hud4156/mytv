@@ -82,6 +82,51 @@ http://supersonictv.live:8080/live/144264/661943/40472.ts
 #EXTINF:-1 tvg-id="Sportsnet.One.HDTV.(SN1HD).ca" tvg-logo="https://docdog.top/Logotv/countries//sportsnetone.png",Sportsnet One
 http://supersonictv.live:8080/live/144264/661943/40475.ts
 
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmainevent.png",Sky Sport Main Event
+http://supersonictv.live:8080/live/144264/661943/78152.ts
+
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmix.png",Sky Sport Mix
+http://supersonictv.live:8080/live/144264/661943/78153.ts
+
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsgolf.png",Sky Sport Golf
+http://supersonictv.live:8080/live/144264/661943/78151.ts
+
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsaction.png",Sky Sport Action
+http://supersonictv.live:8080/live/144264/661943/78146.ts
+
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsarena.png",Sky Sport Arena
+http://supersonictv.live:8080/live/144264/661943/78147.ts
+
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsf1.png",Sky Sport F1
+http://supersonictv.live:8080/live/144264/661943/78149.ts
+
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-logo="https://docdog.top/Logotv/countries/germany/sky-sport/sky-sport-news-alt-de.png",Sky Sport News
+http://supersonictv.live:8080/live/144264/661943/78154.ts
+
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-sports-cricket-uk.png",Sky Sport Cricket
+http://supersonictv.live:8080/live/144264/661943/78148.ts
+
+#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsracing.png",Sky Sport Racing
+http://supersonictv.live:8080/live/144264/661943/78145.ts
+
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsfootball.png",Sky Sport Football
+http://supersonictv.live:8080/live/144264/661943/78150.ts
+
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-sports-premier-league-uk.png",Sky Sport Primere League
+http://supersonictv.live:8080/live/144264/661943/78155.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Bein Sport 1
+http://supersonictv.live:8080/live/144264/661943/86262.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Bein Sport 2
+http://supersonictv.live:8080/live/144264/661943/86263.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Bein Sport 3
+http://supersonictv.live:8080/live/144264/661943/86264.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",Bein Sport 4
+http://supersonictv.live:8080/live/144264/661943/86265.ts
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportfootball.png",SuperSports Priemier League
 http://supersonictv.live:8080/live/144264/661943/86863.ts
 
@@ -165,6 +210,27 @@ https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 #EXTINF:-1 group-title="ID" tvg-id=" " tvg-logo=" ",PSJ TV
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="hbo.us" tvg-logo="https://docdog.top/Logotv/countries//hbo.png",HBO
+http://supersonictv.live:8080/live/144264/661943/22894.ts
+
+#EXTINF:-1 tvg-id="hbo2.us" tvg-logo="https://docdog.top/Logotv/countries//hbo.png",HBO 2
+http://supersonictv.live:8080/live/144264/661943/22896.ts
+
+#EXTINF:-1 tvg-id="hbocomedy.us" tvg-logo="https://docdog.top/Logotv/countries//hbocomedy.png",HBO Comedy
+http://supersonictv.live:8080/live/144264/661943/22897.ts
+
+#EXTINF:-1 tvg-id="hbofamily.us" tvg-logo="https://docdog.top/Logotv/countries//hbofamily.png",HBO Family
+http://supersonictv.live:8080/live/144264/661943/22898.ts
+
+#EXTINF:-1 tvg-id="hbosignature.us" tvg-logo="https://docdog.top/Logotv/countries//hbosignature.png",HBO Signature
+http://supersonictv.live:8080/live/144264/661943/22900.ts
+
+#EXTINF:-1 tvg-id="hbozone.us" tvg-logo="https://docdog.top/Logotv/countries//hbozone.png",HBO Zone
+http://supersonictv.live:8080/live/144264/661943/22901.ts
+
+#EXTINF:-1 tvg-id="cinemax.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cinemax-us.png",CINEMAX
+http://supersonictv.live:8080/live/144264/661943/22879.ts
 
 #EXTINF:-1 tvg-id="Freeform.HDTV.(East).(FRFHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/freeform-us.png",Freeform
 http://supersonictv.live:8080/live/144264/661943/21804.ts
@@ -259,8 +325,35 @@ http://supersonictv.live:8080/live/144264/661943/22931.ts
 #EXTINF:-1 tvg-id="STARZ.ENCORE.Westerns.(East).(STZWS).us" tvg-logo="https://docdog.top/Logotv/countries//starzencorewestern.png",STARZ ENCORE Westerns
 http://supersonictv.live:8080/live/144264/661943/22932.ts
 
-#EXTINF:-1 tvg-id="Sky.ScFi/HorHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemasci.png",Sky Cinema ScFi
+#EXTINF:-1 tvg-id="skyaction.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaaction.png",Sky Action
+http://supersonictv.live:8080/live/144264/661943/77462.ts
+
+#EXTINF:-1 tvg-id="skycinemacomedyhd.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacomedy.png",Sky Comedy
+http://supersonictv.live:8080/live/144264/661943/77463.ts
+
+#EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemahits.png",Sky Cinema Hits
+http://supersonictv.live:8080/live/144264/661943/77464.ts
+
+#EXTINF:-1 tvg-id="skydrama.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemadrama.png",Sky Drama
+http://supersonictv.live:8080/live/144264/661943/77465.ts
+
+#EXTINF:-1 tvg-id="skyfamily.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-cinema-family-uk.png",Sky Family
+http://supersonictv.live:8080/live/144264/661943/77466.ts
+
+#EXTINF:-1 tvg-id="skygreats.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-cinema-greats-uk.png",Sky Greats
+http://supersonictv.live:8080/live/144264/661943/77467.ts
+
+#EXTINF:-1 tvg-id="skypremiere.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemapremiere.png",Sky Premiere
+http://supersonictv.live:8080/live/144264/661943/77468.ts
+
+#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemasci.png",Sky Cinema ScFi
 http://supersonictv.live:8080/live/144264/661943/77469.ts
+
+#EXTINF:-1 tvg-id="skyselect.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaselect.png",Sky Cinema Select
+http://supersonictv.live:8080/live/144264/661943/77470.ts
+
+#EXTINF:-1 tvg-id="skythriller.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemathriller.png",Sky Thriller
+http://supersonictv.live:8080/live/144264/661943/77471.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CHiPs
 http://supersonictv.live:8080/live/144264/661943/77109.ts
