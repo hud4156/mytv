@@ -1145,20 +1145,15 @@ https://cdnlb.tvplayhome.lt/live/eds/Setanta32_HD_HVC/GO3_LIVE_DASH_HVC/Setanta3
 
 <==========TRUE==========>
 
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp" group-title="True", True SPORT 1
-http://myserver.myphuket.net:25461/test2/test2/58
-#EXTINF:-1  tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp" group-title="True", True SPORT 2
-http://myserver.myphuket.net:25461/test2/test2/59
-#EXTINF:-1  tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="True", True SPORT 3
-http://myserver.myphuket.net:25461/test2/test2/29
-#EXTINF:-1  tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp" group-title="True", True SPORT 7
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/true7.m3u8
-#EXTINF:-1  tvg-logo="https://truevisions.co.th/static/ba1de35c-8a25-47de-a27c-5cd8f705a14f.png" group-title="True", True SPORT PREMIER LEAGUE 1
-http://myserver.myphuket.net:25461/test2/test2/26
-#EXTINF:-1  tvg-logo="https://truevisions.co.th/static/f815743f-72e1-4dcc-ad17-925657183a24.png" group-title="True", True SPORT PREMIER LEAGUE 2
-http://myserver.myphuket.net:25461/test2/test2/27
-#EXTINF:-1  tvg-logo="https://truevisions.co.th/static/1c11f698-75a0-449d-8a79-6a52be569911.png" group-title="True", True SPORT PREMIER LEAGUE 3
-http://myserver.myphuket.net:25461/test2/test2/28
+#EXTINF:-1 tvg-name=" " tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="TRUE",TRUE PREMIER 1 
+https://iptv2.wirdy.workers.dev/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-name=" " tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier2.png" group-title="TRUE",TRUE PREMIER 2
+https://iptv2.wirdy.workers.dev/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-name=" " tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier3.png" group-title="TRUE",TRUE PREMIER 3
+https://iptv2.wirdy.workers.dev/02_PremierHD3_720p/chunklist.m3u8
+
 
 
 <==========ESPN Latino==========>
