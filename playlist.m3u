@@ -429,8 +429,7 @@ https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 #EXTINF:-1 tvg-logo=" " group-title="ID" tvg-logo="https://images.indihometv.com/assets/logo_mnc_hd.png",MNCTV
-https://d1abp075u76pbq.cloudfront.net/live/eds/MNCTV-HD/sa_hls/MNCTV-HD.m3u8
-##https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
+https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 ##https://allcutv.rctiplus.id/mnctv2023.m3u8
 
 #EXTVLCOPT:http-user-agent=android-R+
@@ -439,8 +438,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCTV-HD/sa_hls/MNCTV-HD.m3u8
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 #EXTINF:-1 tvg-logo=" " group-title="ID" tvg-logo="https://images.indihometv.com/assets/logo_gtv_hd.png",GTV
-https://d1abp075u76pbq.cloudfront.net/live/eds/GTV-HD/sa_hls/GTV-HD.m3u8
-##https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
+https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 ##https://allcutv.rctiplus.id/gtv2023.m3u8
 
 #EXTVLCOPT:http-user-agent=android-R+
