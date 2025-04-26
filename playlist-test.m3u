@@ -144,16 +144,6 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/FMN/sa_dash/FMN.mpd
 ##########################################     Sports     ###################################################
 #############################################################################################################
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9182&type=drm 
-#EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://iili.io/2lP4dzl.png" group-title="Sports",Champions TV 5
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9183&type=drm
-#EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://iili.io/2lP4f19.png" group-title="Sports",Champions TV 6
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=112&type=drm
 #EXTINF:-1 tvg-id="MNCSports.id" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png",Sportstar
@@ -466,6 +456,31 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1498.m3u8
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
 
 
+<==========LIVE EPL==========>
+
+#EXTINF:-1 group-title="LIVE EPL" tvg-id="" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/Premier-League-logo-png-900x377.png", LIVE EPL 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://bintangstreaming.my.id/connect/index.m3u8?channel=epl1&type=m3u8
+
+#EXTINF:-1 group-title="LIVE EPL" tvg-id="" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/Premier-League-logo-png-900x377.png", LIVE EPL 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://bintangstreaming.my.id/connect/index.m3u8?channel=epl2&type=m3u8
+
+#EXTINF:-1 group-title="LIVE EPL" tvg-id="" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/Premier-League-logo-png-900x377.png", LIVE EPL 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://bintangstreaming.my.id/connect/index.m3u8?channel=epl3&type=m3u8
+
+#EXTINF:-1 group-title="LIVE EPL" tvg-id="" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/Premier-League-logo-png-900x377.png", LIVE EPL 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://bintangstreaming.my.id/connect/index.m3u8?channel=epl4&type=m3u8
+
+#EXTINF:-1 group-title="LIVE EPL" tvg-id="" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/Premier-League-logo-png-900x377.png", LIVE EPL 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://bintangstreaming.my.id/connect/index.m3u8?channel=epl5&type=m3u8
+
+#EXTINF:-1 group-title="LIVE EPL" tvg-id="" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/Premier-League-logo-png-900x377.png", LIVE EPL 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://bintangstreaming.my.id/connect/index.m3u8?channel=epl6&type=m3u8
 
 
 
