@@ -5,6 +5,27 @@
 ##########################################       Kids      ##################################################
 #############################################################################################################
 
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/abc-kids.png" group-title="Kids",ABC Kids
+https://c.mjh.nz/abc-kids.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/abc-me.png" group-title="Kids",ABC ME
+https://c.mjh.nz/abc-me.m3u8
+
+#EXTINF:-1 tvg-id="The.Disney.Channel.HDTV.(East).(DISHD).us" group-title="Kids" tvg-logo="https://docdog.top/Logotv/countries/united-states/disney-channel-us.png",Disney Channel 1
+http://supersonictv.live:8080/live/144264/661943/21795.ts
+
+#EXTINF:-1 tvg-id="The.Disney.Channel.HDTV.(East).(DISHD).us" group-title="Kids" tvg-logo="https://docdog.top/Logotv/countries/united-states/disney-channel-us.png",Disney Channel 2
+http://supersonictv.live:8080/live/144264/661943/21796.ts
+
+#EXTINF:-1 tvg-id="Disney.Junior.HDTV.East.(DISJr).us" group-title="Kids" tvg-logo="https://docdog.top/Logotv/countries//disneyjuniorpacific.png",Disney Junior 1
+http://supersonictv.live:8080/live/144264/661943/21798.ts
+
+#EXTINF:-1 tvg-id="Disney.Junior.HDTV.East.(DISJr).us" group-title="Kids" tvg-logo="https://docdog.top/Logotv/countries//disneyjuniorpacific.png",Disney Junior 2
+http://supersonictv.live:8080/live/144264/661943/21799.ts
+
+#EXTINF:-1 tvg-id="Disney.XD.(East).(DISXD).us" group-title="Kids" tvg-logo="https://docdog.top/Logotv/countries//disneyxd.png",Disney XD
+http://supersonictv.live:8080/live/144264/661943/21801.ts
+
 #EXTINF:-1 tvg-id="CBeebiesAsia.uk" group-title="Kids" tvg-logo="https://www.visionplus.id/images/repository/624/624-LOGO-m.png",CBeebies
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Cbeebies/sa_dash/Cbeebies.mpd
 
@@ -504,7 +525,26 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db
 #EXTINF:-1 tvg-id="NET.id" group-title="Extra Movies" tvg-logo="https://www.visionplus.id/images/repository/334/320334-LOGO-l.png”,MD TV HD
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/abc-kids.png" group-title="KIDS",ABC Kids
+https://c.mjh.nz/abc-kids.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/abc-me.png" group-title="KIDS",ABC ME
+https://c.mjh.nz/abc-me.m3u8
+
+#EXTINF:-1 tvg-id="The.Disney.Channel.HDTV.(East).(DISHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/disney-channel-us.png",Disney Channel
+http://supersonictv.live:8080/live/144264/661943/21795.ts
+
+#EXTINF:-1 tvg-id="The.Disney.Channel.HDTV.(East).(DISHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/disney-channel-us.png",Disney Channel New
+http://supersonictv.live:8080/live/144264/661943/21796.ts
+
+#EXTINF:-1 tvg-id="Disney.Junior.HDTV.East.(DISJr).us" tvg-logo="https://docdog.top/Logotv/countries//disneyjuniorpacific.png",Disney Junior
+http://supersonictv.live:8080/live/144264/661943/21798.ts
+
+#EXTINF:-1 tvg-id="Disney.Junior.HDTV.East.(DISJr).us" tvg-logo="https://docdog.top/Logotv/countries//disneyjuniorpacific.png",Disney Junior New
+http://supersonictv.live:8080/live/144264/661943/21799.ts
+
+#EXTINF:-1 tvg-id="Disney.XD.(East).(DISXD).us" tvg-logo="https://docdog.top/Logotv/countries//disneyxd.png",Disney XD
+http://supersonictv.live:8080/live/144264/661943/21801.ts
 
 
 
