@@ -466,6 +466,11 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4
 #EXTINF:-1 tvg-id="WarnerTV" group-title="Movies" group-logo="" tvg-logo="https://iili.io/H4AlAtp.png",Warner
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=54
+#EXTINF:-1 tvg-id="StudioUniversal" group-title="Movies" tvg-logo="https://www.visionplus.id/images/repository/114/345114-LOGO-m.png",Studio Universal
+https://fta1-cdn-flr.visionplus.id/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e5c40292f8d01b1d5f0c6b3904d73104:bcb2ac12e11c69594ba217bfe8714efe
 #EXTINF:-1 tvg-id="GALAXY" group-title="Movies" tvg-logo="https://www.visionplus.id/images/repository/617/617-LOGO-m.png",Galaxy
