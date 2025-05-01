@@ -10,6 +10,7 @@
 // #EXTINF:-1 tvg-id="MyKidz" group-title="Kids" tvg-logo="https://www.visionplus.id/images/repository/629/629-LOGO-m.png",My Kidz
 // https://av-ch-cdn.mncnow.id/live/eds/My-Kids/sa_dash/My-Kids.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=194891b41223a5f1ec2beff1c95e2f53:eeb1fb2ec011f9563653495f9ac427b1
 #EXTINF:-1 tvg-id="CBeebiesAsia.uk" group-title="Kids" tvg-logo="https://www.visionplus.id/images/repository/624/624-LOGO-m.png",CBeebies
