@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://www.open-epg.com/app/download.php?file=indonesia1.xml,https://www.open-epg.com/app/download.php?file=indonesia2.xml,https://www.open-epg.com/app/download.php?file=indonesia3.xml,https://www.open-epg.com/app/download.php?file=indonesia4.xml,https://www.open-epg.com/app/download.php?file=indonesia5.xml,https://i.mjh.nz/au/Melbourne/epg.xml"  refresh="3600"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://i.mjh.nz/au/Melbourne/epg.xml"  refresh="3600"
 
 
 #############################################################################################################
