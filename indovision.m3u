@@ -1432,7 +1432,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TV9/mpd/TV9.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2fa7625e3470d5e9429f64150614f9a5:c495ad0e82e2266fd207934327c71ce3
 #EXTINF:-1 tvg-id="" group-title="Religi" tvg-logo="https://www.visionplus.id/images/repository/603/603-LOGO-m.png",TV Mu
-https://av-ch-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash/TVMuhammadiyah.mpd
+https://av-ch-cdn.mncnow.id/live/eds/TVMuhammadiyahnow/sa_dash/TVMuhammadiyahnow.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
