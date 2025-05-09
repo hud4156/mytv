@@ -180,6 +180,8 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 #EXTINF:-1 tvg-id="MNCSports3.id" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/654/654-LOGO-m.png",Sportstar 3
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 #EXTINF:0 tvg-id="Sportstars4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png" group-title="Sports",Sportstar 4
