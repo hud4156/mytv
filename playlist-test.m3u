@@ -533,6 +533,9 @@ http://iptvid.my.id/avc/Mastam/mastam123/indosiar.m3u8
 #EXTINF:-1 tvg-id="SCTV.id" group-title="Extra Movies" tvg-logo="https://raw.githubusercontent.com/hud4156/mytv/main/png/sctv.png",SCTV HD
 http://iptvid.my.id/avc/Mastam/mastam123/sctv.m3u8
 
+#EXTINF:-1 tvg-id="moji.id" group-title="Extra Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png",Moji
+http://iptvid.my.id/avc/Mastam/mastam123/ochannel.m3u8
+
 #EXTINF:-1 tvg-id="mentaritv.id" group-title="Extra Movies" tvg-logo="https://images.indihometv.com/logogrey/grey_logo_mentaritv_small.png",Mentari TV 
 http://iptvid.my.id/avc/Mastam/mastam123/mentaritv.m3u8
 
