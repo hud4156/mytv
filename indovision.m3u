@@ -1268,19 +1268,19 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/dd9cfc9ae76a4f8abbaa89708a915e38/ind
 #EXTINF:-1 tvg-id="MusicTV.id" group-title="Music" tvg-logo="https://www.visionplus.id/images/repository/667/667-LOGO-m.png",Music TV
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QHNH3oj.jpeg" group-title="Music",Musik Indonesia
-https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
+// KODIPROP:inputstreamaddon=inputstream.adaptive
+// #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+// #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+// #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+// #EXTINF:-1 tvg-logo="https://i.imgur.com/QHNH3oj.jpeg" group-title="Music",Musik Indonesia
+// https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
-#EXTINF:-1 tvg-logo="___" group-title="Music",Song TV
-https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff0490184560acf62436a/manifest.mpd
+// KODIPROP:inputstreamaddon=inputstream.adaptive
+// #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+// #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+// #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+// #EXTINF:-1 tvg-logo="___" group-title="Music",Song TV
+// https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff0490184560acf62436a/manifest.mpd
 
 
 
