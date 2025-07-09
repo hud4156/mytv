@@ -53,6 +53,11 @@ https://legacy-global-cdn.visionplus.id/live/eds/Moonbug/sa_dash/Moonbug.mpd
 ##########################################   National TV   ##################################################
 #############################################################################################################
 
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.postimg.cc/PJhxzfhS/RCTI.png" group-title="National TV",RCTI (R+) 
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+
 #EXTINF:-1 tvg-id="RCTI.id" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png",RCTI HD
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 ##https://legacy-global-cdn.visionplus.id/live/eds/rcti-2/sa_dash/rcti-2.mpd
@@ -187,6 +192,14 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 
 #EXTINF:-1 tvg-id="SoccerChannel.id" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png",Soccer Channel
 https://legacy-global-cdn.visionplus.id/live/eds/rcti-soccerchannel-hd/sa_dash/rcti-soccerchannel-hd.mpd
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="Sports",SPOTV tes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://tvking6282.cloud/k0detv2206/Sports/SPOTV1-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="Sports",SPOTV2 tes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://tvking6282.cloud/k0detv2206/Sports/SPOTV2-HD.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=119
