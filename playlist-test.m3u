@@ -562,6 +562,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
 #EXTINF:-1 tvg-id="mentaritv.id" group-title="Extra Movies" tvg-logo="https://images.indihometv.com/logogrey/grey_logo_mentaritv_small.png",Mentari TV 
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+
+#EXTINF:-1 tvg-id="moji.id" group-title="Extra Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png",Moji tes
+http://45.194.86.61:8070/friptv/AwWjvV6QuXDY84xR5meJhk/298550
 =====================================================================================================================================================
 =====================================================================================================================================================
 
