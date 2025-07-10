@@ -75,32 +75,31 @@ https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 ##https://legacy-global-cdn.visionplus.id/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
 
 #EXTINF:-1 tvg-id="ANTV.id" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/587/587-LOGO-m.png",ANTV
-https://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8
-##https://legacy-global-cdn.visionplus.id/live/eds/ANTV/sa_dash/ANTV.mpd
+https://tvking6282.cloud/k0detv2206/Lokal/AnTV-HD.m3u8
 
 #EXTINF:-1 tvg-id="TransTV.id" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/585/585-LOGO-m.png",Trans TV
-https://legacy-global-cdn.visionplus.id/live/eds/TransTV-2/sa_dash/TransTV-2.mpd
+https://tvking6282.cloud/k0detv2206/Lokal/TransTV-HD.m3u8
 
 #EXTINF:-1 tvg-id="Trans7.id" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/586/586-LOGO-m.png",Trans 7
-https://legacy-global-cdn.visionplus.id/live/eds/Trans7-2/sa_dash/Trans7-2.mpd
+https://tvking6282.cloud/k0detv2206/Lokal/Trans7-HD.m3u8
 
 #EXTINF:-1 tvg-id="tvOne.id" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/589/589-LOGO-m.png",TVOne
-https://legacy-global-cdn.visionplus.id/live/eds/TVOne-2/sa_dash/TVOne-2.mpd
+https://tvking6282.cloud/k0detv2206/Lokal/TVONE-HD.m3u8
 
 #EXTINF:-1 tvg-id="MetroTV.id" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-m.png",Metro TV
-https://legacy-global-cdn.visionplus.id/live/eds/Metro-TV2/sa_dash/Metro-TV2.mpd
+https://tvking6282.cloud/k0detv2206/Lokal/MetroTV-HD.m3u8
 
 #EXTINF:-1 tvg-id="KompasTV.id" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/590/590-LOGO-m.png",Kompas TV
-https://legacy-global-cdn.visionplus.id/live/eds/KompasTV/sa_dash/KompasTV.mpd
+https://tvking6282.cloud/k0detv2206/Lokal/kompas.m3u8
 
 #EXTINF:-1 tvg-id="MDTV.id" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/334/320334-LOGO-l.png",MDTV
-https://legacy-global-cdn.visionplus.id/live/eds/NetTV-HD/sa_dash/NetTV-HD.mpd
+https://tvking6282.cloud/k0detv2206/Lokal/MDTV-HD.m3u8
 
 #EXTINF:-1 tvg-id="__" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/588/588-LOGO-m.png",RTV
-https://legacy-global-cdn.visionplus.id/live/eds/RTV/sa_dash/RTV.mpd
+https://tvking6282.cloud/k0detv2206/Lokal/rtv.m3u8
 
 #EXTINF:-1 tvg-id="TVRI.id" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/593/593-LOGO-m.png",TVRI Nasional
-https://legacy-global-cdn.visionplus.id/live/eds/PemersatuBangsa/sa_dash/PemersatuBangsa.mpd
+https://tvking6282.short.gy/Nasional.m3u8
 
 #EXTINF:-1 tvg-id="JakTV.id" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/598/598-LOGO-m.png",Jak TV
 https://legacy-global-cdn.visionplus.id/live/eds/JakTV/sa_dash/JakTV.mpd
@@ -552,19 +551,22 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd
 
 #EXTINF:-1 tvg-id="Indosiar.id" group-title="Extra Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png",Indosiar HD
-https://cdn14jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://tvking6282.cloud/k0detv2206/Lokal/Indosiar-HD.m3u8
 
 #EXTINF:-1 tvg-id="SCTV.id" group-title="Extra Movies" tvg-logo="https://raw.githubusercontent.com/hud4156/mytv/main/png/sctv.png",SCTV HD
-https://cdngb196.indihometv.com/atm/DASH/sctv/manifest.mpd
+https://tvking6282.cloud/k0detv2206/Lokal/ScTv-HD.m3u8
 
 #EXTINF:-1 tvg-id="moji.id" group-title="Extra Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png",Moji
-https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+https://tvking6282.cloud/k0detv2206/Lokal/Moji-HD.m3u8
+
+#EXTINF:-1 tvg-id="moji.id" group-title="Extra Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png",Moji HD
+http://45.194.86.61:8070/friptv/AwWjvV6QuXDY84xR5meJhk/298550
 
 #EXTINF:-1 tvg-id="mentaritv.id" group-title="Extra Movies" tvg-logo="https://images.indihometv.com/logogrey/grey_logo_mentaritv_small.png",Mentari TV 
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
-#EXTINF:-1 tvg-id="moji.id" group-title="Extra Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png",Moji tes
-http://45.194.86.61:8070/friptv/AwWjvV6QuXDY84xR5meJhk/298550
+
 =====================================================================================================================================================
 =====================================================================================================================================================
 
