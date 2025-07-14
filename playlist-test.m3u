@@ -71,32 +71,40 @@ https://fta1-cdn-flr.visionplus.id/out/v1/198f7febb48c4c909d62977d88c195b0/index
 #EXTINF:-1 tvg-id="RCTI.id" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png",RCTI (R+) 
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pluse/index.drm?id=1
 #EXTINF:-1 tvg-id="RCTI.id" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png",RCTI HD
-https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-id="GTV.id" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/582/582-LOGO-m.png",GTV HD (R+)
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pluse/index.drm?id=2
 #EXTINF:-1 tvg-id="GTV.id" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/582/582-LOGO-m.png",GTV HD
-https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
+https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-id="MNCTV.id" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png",MNCTV (R+)
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pluse/index.drm?id=3
 #EXTINF:-1 tvg-id="MNCTV.id" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png",MNCTV HD
-https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-id="iNews.id" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-m.png",iNews (R+)
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pluse/index.drm?id=4
 #EXTINF:-1 tvg-id="iNews.id" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-m.png",iNews HD
-https://inews-cutv.rctiplus.id/inews-sdi.m3u8
+https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 
 #EXTINF:-1 tvg-id="ANTV.id" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/587/587-LOGO-m.png",ANTV
 https://tvking6282.cloud/k0detv2206/Lokal/AnTV-HD.m3u8
