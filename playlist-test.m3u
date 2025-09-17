@@ -387,7 +387,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000110/1024.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000029/1024.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/687/687-LOGO-m.png",TV 5 Monde
-https://legacy-global-cdn.visionplus.id/live/eds/TV5now/sa_dash/TV5now.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000005/1024.m3u8
 
 #EXTINF:-1 tvg-id="ABCAustralia.id" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/689/689-LOGO-m.png",ABC Australia
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000073/1024.m3u8
