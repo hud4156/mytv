@@ -174,7 +174,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000057/1024.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=16
 #EXTINF:-1 tvg-id="TVRI.id" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/593/593-LOGO-m.png",TVRI Nasional
 #https://d84q7nw4qf3j3.cloudfront.net/out/v1/85f6d3da0e064dbe99e7bf1e18bc47c4/index.mpd
-http://103.179.182.117:6768/hls/63/63.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000010/1024.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=25
