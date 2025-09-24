@@ -264,6 +264,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000139/1024.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=112
 #EXTINF:-1 tvg-id="MNCSports.id" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png",Sportstar
 #https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000111/1024.m3u8
 http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1165865
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
