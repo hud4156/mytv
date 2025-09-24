@@ -543,7 +543,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000129/1024.m3u8
 #############################################################################################################
 
 #EXTINF:-1 tvg-id="AlQuranKareem.id" group-title="Religi" tvg-logo="https://www.visionplus.id/images/repository/677/677-LOGO-m.png",Al Quran Al Kareem TV
-http://103.179.182.117:6768/hls/80/80.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000067/1024.m3u8
 
 #EXTINF:-1 tvg-id="TawafTV.id" group-title="Religi" tvg-logo="https://www.visionplus.id/images/repository/602/602-LOGO-m.png",Tawaf TV
 http://khano.nng.cloudns.us/live/m3u8/id/0c9fd875599b836.m3u8
