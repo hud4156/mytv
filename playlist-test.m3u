@@ -209,7 +209,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000042/1024.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000121/1024.m3u8
 
 #EXTINF:-1 tvg-id="GALAXY" group-title="Movies" tvg-logo="https://www.visionplus.id/images/repository/617/617-LOGO-m.png",Galaxy
-http://103.179.182.117:6768/hls/39/39.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000117/1024.m3u8
 
 #EXTINF:-1 tvg-id="GALAXYPremium" group-title="Movies" tvg-logo="https://www.visionplus.id/images/repository/616/616-LOGO-m.png",Galaxy Premium
 http://103.179.182.117:6768/hls/40/40.m3u8
@@ -430,7 +430,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000018/1024.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000041/1024.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://www.visionplus.id/images/repository/584/584-LOGO-m.png",Sindo News
-https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000115/1024.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="News" tvg-logo="https://www.visionplus.id/images/repository/659/659-LOGO-m.png",IDX Channel
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000019/1024.m3u8
