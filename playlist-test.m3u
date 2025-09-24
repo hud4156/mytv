@@ -214,7 +214,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000121/1024.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000117/1024.m3u8
 
 #EXTINF:-1 tvg-id="GALAXYPremium" group-title="Movies" tvg-logo="https://www.visionplus.id/images/repository/616/616-LOGO-m.png",Galaxy Premium
-http://103.179.182.117:6768/hls/40/40.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000126/1024.m3u8
 
 #EXTINF:-1 tvg-id="IMC" group-title="Movies" tvg-logo="https://www.visionplus.id/images/repository/342/10342-LOGO-m.png",IMC
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000133/1024.m3u8
@@ -360,7 +360,7 @@ https://fta2-cdn-flr.visionplus.id/out/v1/a90cb773466446b08595007bab12b920/index
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000122/1024.m3u8
 
 #EXTINF:-1 tvg-id="Ent.id" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/632/632-LOGO-m.png",Ent
-https://legacy-global-cdn.visionplus.id/live/eds/MNCEntertainment/sa_dash/MNCEntertainment.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000013/1024.m3u8
 
 #EXTINF:-1 tvg-id="tvN.id" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/633/633-LOGO-m.png",tvN Asia
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000141/1024.m3u8
