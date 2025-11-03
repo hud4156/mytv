@@ -654,13 +654,13 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd
 
 #EXTINF:-1 tvg-id="Indosiar.id" group-title="Extra Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png",Indosiar HD
-http://103.179.182.117:6768/hls/56/56.m3u8
+http://203.77.246.58:4500/udp/239.1.1.110:5000
 
 #EXTINF:-1 tvg-id="SCTV.id" group-title="Extra Movies" tvg-logo="https://raw.githubusercontent.com/hud4156/mytv/main/png/sctv.png",SCTV HD
-http://103.179.182.117:6768/hls/55/55.m3u8
+http://203.77.246.58:4500/udp/239.1.1.108:5000
 
 #EXTINF:-1 tvg-id="moji.id" group-title="Extra Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png",Moji
-http://103.179.182.117:6768/hls/50/50.m3u8
+http://aromatv.co:80/live/Enjy3637/4JFEBAs359/444150.m3u8
 
 #EXTINF:-1 tvg-id="mentaritv.id" group-title="Extra Movies" tvg-logo="https://images.indihometv.com/logogrey/grey_logo_mentaritv_small.png",Mentari TV 
 http://103.179.182.117:6768/hls/48/48.m3u8
