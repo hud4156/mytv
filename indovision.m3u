@@ -1272,9 +1272,9 @@ https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=21ffca10810542af9734b82f4000c274:e3d2e4843ffadf510f6c91668a03e183
-#EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/B741DD7A-A7F8-4F8A-A549-9EF411020F9D/0-16x9.jpg?width=203" group-title="Extra Movies", HBO HD
+#EXTINF:0 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/B741DD7A-A7F8-4F8A-A549-9EF411020F9D/0-16x9.jpg?width=203" group-title="Extra Movies", HBO HD
 https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHD/mediampd/HBOHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
@@ -1282,7 +1282,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHD/mediampd/HBOHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=47a7ef37081a4ab5937c94272d9988b6:e637e6be1231e14a670120b23dae1a0b
 #EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/CEE83EE5-D870-4B3C-9339-ACA7FF4020D0/0-16x9.jpg?width=203" group-title="Extra Movies", HBO Hits HD
-##https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHitsHD/mediampd/HBOHitsHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHitsHD/mediampd/HBOHitsHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
