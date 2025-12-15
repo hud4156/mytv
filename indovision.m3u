@@ -473,7 +473,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/ind
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=99e736f170b148ffb16d0ad6c8f93ef4:d1b4737ab41f0daae733f11a4b84fa02
 #EXTINF:-1 tvg-id="ROCKAction.id" group-title="Movies" tvg-logo="https://www.visionplus.id/images/repository/645/645-LOGO-m.png",Rock Action HD
-https://atemecdnbalancer-voe.sysln.id/live/eds/RockExtremeHD/mpd/RockExtremeHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/RockExtremeHD/mediampd/RockExtremeHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
@@ -671,19 +671,19 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/ind
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6dc31ac1031242a8b0c37286acb66a37:648286167b494bf9ee122eced0e37de1
 #EXTINF:-1 group-title="Entertainment" tvg-logo=" ",Food Network
-https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mpd/FoodNetworkHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mediampd/FoodNetworkHD.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=367f9bf4d0684f109d74a9eeb68d32be:59983c58c1b0daa1dcc370f697ccaead
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://www.indihometv.com/assets/images/channel/logo_afc_small.png?v=2.0.0.17",AFN
-https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mediampd/AFNHD.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=abac9e0bf2b448f8871145829c68a7fd:eebd1a86367df6c2c4aad70b7a6165a9
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F7-LIFESTYLE%2FTLC%20SD-FirstMedia-Chl-72.jpg&w=1920&q=100",TLC
-https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mpd/TLCHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mediampd/TLCHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62f0fb29203c45419e2ea683c5c365e6:10b227a6ea7d65628f025e41318b927c
@@ -712,7 +712,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/ind
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7e68d7c2667465f976361eb0d6bd0c1:32a856d04efbf93cee7b2c97643d7998
 #EXTINF:-1 tvg-id="ONE.id" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/634/634-LOGO-m.png",ONE HD
-https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mediampd/ONEHD.mpd
 
 // KODIPROP:inputstreamaddon=inputstream.adaptive
 // #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
@@ -732,13 +732,13 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6300053f268640b9b2b695cb5ab0677e:cb81072bd6e4d4ff3b3187efff7928d1
 #EXTINF:-1 tvg-id="KIX.id" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/635/635-LOGO-m.png",KIX HD
-https://atemecdnbalancer-voe.sysln.id/live/eds/KIXHD/mpd/KIXHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/KIXHD/mediampd/KIXHD.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=530cb2294e474e1f910498363a8c3864:e70e6b093930453d1dc66ab0e259131a
 #EXTINF:-1 tvg-id="HITS.id" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/637/637-LOGO-m.png",HITS
-https://atemecdnbalancer-voe.sysln.id/live/eds/HitsHD/mpd/HitsHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/HitsHD/mediampd/HitsHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b095c9946d242cb9108e6a589a26072:8bc2cdfd0e86f7cfa935ef05978be229
@@ -751,7 +751,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b7b00124894d4f1f8b91fba79160b896:bb236ab2b198c2ffd722817bfa74cd08
 #EXTINF:-1 tvg-id="AXN.id" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/638/638-LOGO-m.png",AXN HD
-https://atemecdnbalancer-voe.sysln.id/live/eds/AXNHD/mpd/AXNHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/AXNHD/mediampd/AXNHD.mpd
 
 // KODIPROP:inputstreamaddon=inputstream.adaptive
 // #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
@@ -785,25 +785,25 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6c3379806174be790f50499c6bdab7c:63bd52ffb27c8bd7cf709747efe44e35
 #EXTINF:-1 tvg-id="NHKWorldJapan" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/686/686-LOGO-m.png",NHK World-Japan
-https://atemeshield1-voe.sysln.id/live/eds/NHKWorldJapanHD/mpd/NHKWorldJapanHD.mpd
+https://atemeshield1-voe.sysln.id/live/eds/NHKWorldJapanHD/mediampd/NHKWorldJapanHD.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11d67d0e8b2a455a8358d3d3a23e7529:d5308e3b12a529c959beab1cddacdec4
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/687/687-LOGO-m.png",TV 5 Monde
-https://atemeshield1-voe.sysln.id/live/eds/TV5Monde/mpd/TV5Monde.mpd
+https://atemeshield1-voe.sysln.id/live/eds/TV5Monde/mediampd/TV5Monde.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d3d70298a8f442f9dee7c11a47c3edf:ff7a89f008a62664e5ebd821187296d1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="Entertainment",HGTV 
-https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mediampd/HGTVHD.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16ce4fb658cf41678c72cca871770da3:95509b2ad660b196310e93a0388a8a6b
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.pinimg.com/564x/26/0d/97/260d9789cdda7b9e85099e80f5ca0a2f.jpg",Fashion TV
-https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mpd/FashionTV.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mediampd/FashionTV.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
@@ -844,49 +844,49 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060aab
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fbbccb9d1f9e402293b23dcf62322d83:63d828f9c104b74c1188a651ba39c812
 #EXTINF:-1 tvg-id="ABCAustralia.id" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/689/689-LOGO-m.png",ABC Australia
-https://atemecdnbalancer-voe.sysln.id/live/eds/ABC_Australia/mpd/ABC_Australia.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/ABC_Australia/mediampd/ABC_Australia.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea468ed546bd4f94b9fd8355d5656997:a3b8756a947905cb44c997b656ffb012
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/688/688-LOGO-m.png",Arirang World
-https://atemecdnbalancer-voe.sysln.id/live/eds/ArirangHD/mpd/ArirangHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/ArirangHD/mediampd/ArirangHD.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4dbd7f200e1f43c1a5a7b0bb4d753527:7fa839050222d118f97ba1f770f7d188
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo=" ",KBS World
-https://atemecdnbalancer-voe.sysln.id/live/eds/KBSWorldHD/mpd/KBSWorldHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/KBSWorldHD/mediampd/KBSWorldHD.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3bd78e03448148aeaeebf394b3196bfd:fe09186f7f8a037caed34d684d429fb5
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/685/685-LOGO-m.png",Jiangsu TV HD
-https://atemeshield1-voe.sysln.id/live/eds/JiangsuTV/mpd/JiangsuTV.mpd
+https://atemeshield1-voe.sysln.id/live/eds/JiangsuTV/mediampd/JiangsuTV.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3dd22058fcb94e3790660d256655663b:cacc2086a1ac693d6173084b942e751d
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/853/853-LOGO-m.png",Hunan TV HD
-https://atemeshield1-voe.sysln.id/live/eds/HunanTV/mpd/HunanTV.mpd
+https://atemeshield1-voe.sysln.id/live/eds/HunanTV/mediampd/HunanTV.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=887d3f9e52b3432c8b1a79b1d44ab3fe:4ddc4cd97e7016485cb6d25bc2ba3cda
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/683/683-LOGO-m.png",Dragon TV HD
-https://atemeshield1-voe.sysln.id/live/eds/DragonTV/mpd/DragonTV.mpd
+https://atemeshield1-voe.sysln.id/live/eds/DragonTV/mediampd/DragonTV.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f123a83acae4361b3c2d5d8d918ff1a:7031880a4c0c7e29014e32554b8b422d
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/858/858-LOGO-m.png",Xing Kong TV HD
-https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mediampd/TVBXingHe.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d71b38eb626d4e9c9297c04a174ab1f8:ed551459c28dacd8a8a3f16a8c5c985b
 #EXTINF:-1 tvg-id="" group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/681/681-LOGO-m.png",Anhui TV HD
-https://atemeshield1-voe.sysln.id/live/eds/AnhuiTV/mpd/AnhuiTV.mpd
+https://atemeshield1-voe.sysln.id/live/eds/AnhuiTV/mediampd/AnhuiTV.mpd
 
 
 
@@ -898,19 +898,19 @@ https://atemeshield1-voe.sysln.id/live/eds/AnhuiTV/mpd/AnhuiTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
 #EXTINF:-1 tvg-id="MetroTV.id" group-title="News" tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-m.png",Metro TV HD
-https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mediampd/MetroTVHD.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
 #EXTINF:-1 tvg-id="KompasTV.id" group-title="News" tvg-logo="https://www.visionplus.id/images/repository/590/590-LOGO-m.png",Kompas TV HD
-https://atemecdnbalancer-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/KOMPASTVHD/mediampd/KOMPASTVHD.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6486d00c9d842d88ba1660deec8becc:67ed72016590f2138d9fc10b807708b2
 #EXTINF:-1 tvg-id="tvOne.id" group-title="News" tvg-logo="https://www.visionplus.id/images/repository/589/589-LOGO-m.png",TVOne HD
-https://atemecdnbalancer-voe.sysln.id/live/eds/TvOne/mpd/TvOne.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/TvOne/mediampd/TvOne.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
@@ -1046,7 +1046,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/ind
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bf7ec2974fa14a248e338280a6e64cb8:7e81ae9282d08881e304aa527a1d7e72
 #EXTINF:-1 tvg-id="" group-title="Knowledge" tvg-logo="https://www.visionplus.id/images/repository/650/650-LOGO-m.png",History HD
-https://atemecdnbalancer-voe.sysln.id/live/eds/HistoryHD/mpd/HistoryHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/HistoryHD/mediampd/HistoryHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c4190749d6f4b51bde2df71715e843b:9dfc9803c0fdbb1cd6df2188a6f29064
@@ -1066,31 +1066,31 @@ https://d1ebgtxjo246w3.cloudfront.net/out/v1/9757e131659a4ab8ba08d448c4a3779e/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
 #EXTINF:-1 tvg-id="" group-title="Knowledge" tvg-logo="https://images.indihometv.com/assets/ANIMALPLANET-OTT-88-HD.png",Animal Planet
-https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mediampd/AnimalPlanetHD.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00cff33589a6468eb98e4db7aad46ca0:53bb2de4f3a4ed84661e4fc527a1fc09
 #EXTINF:-1 tvg-id="Discovery Channel" group-title="Knowledge" tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F1-DOCUMENTARY%2FDiscovery%20Channel%20SD-FirstMedia-Chl-101.jpg&w=1920&q=100",Discovery Channel
-https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mediampd/DiscoveryHD.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
 #EXTINF:-1 tvg-id="Discovery Asia (HD).sg" group-title="Knowledge" tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Fpackages%2FDA-LOGO_FINAL_HD_black.jpg&w=256&q=100",Discovery Asia
-https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryAsiaHD/mediampd/DiscoveryAsiaHD.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=62fae935e91c4e8d9e835a294ea81909:328cfed51cba1bfa41f1bda219ceeff8
 #EXTINF:-1 tvg-id="" group-title="Knowledge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png",DMAX 
-https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mediampd/DMAXHD.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d3d70298a8f442f9dee7c11a47c3edf:ff7a89f008a62664e5ebd821187296d1
 #EXTINF:-1 tvg-id="HGTV" group-title="Knowledge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png",HGTV 
-https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mediampd/HGTVHD.mpd
 
 
 
@@ -1109,7 +1109,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/c169ca1dcbe249c5bf233aabc3db4a4f/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=87ca873142174f2bbdcfadd878422c77:bb51816f7407f68830dcdc215416f385
 #EXTINF:-1 tvg-id="GlobalTrekker.id" group-title="Lifestyle" tvg-logo="https://www.visionplus.id/images/repository/649/649-LOGO-m.png",Global Trekker
-https://atemecdnbalancer-voe.sysln.id/live/eds/GlobalTrekkerHD/mpd/GlobalTrekkerHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/GlobalTrekkerHD/mediampd/GlobalTrekkerHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=10bba49df37c42e78365a9995ca93f79:1d504b9bf2efa10d4d00058222b5020a
@@ -1136,13 +1136,13 @@ https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
 #EXTINF:-1 tvg-id="MTVLive.id" group-title="Music" tvg-logo="https://www.visionplus.id/images/repository/668/668-LOGO-m.png",MTV Live
-https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mediampd/MTVLiveHD.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e83b7a7c66c941d48dfd393086077745:71f4a249b41cb62db6164b47fb22722f
 #EXTINF:-1 tvg-id="MTV90s" group-title="Music" tvg-logo="https://www.visionplus.id/images/repository/669/669-LOGO-m.png",MTV 90s
-https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mediampd/MTV90sHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
@@ -1175,7 +1175,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/ind
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d2b87b73266741bc9e82b6296f732cd6:acc999bccde4bcdb93a00c5058a2def5
 #EXTINF:-1 tvg-id="AlQuranKareem.id" group-title="Religi" tvg-logo="https://www.visionplus.id/images/repository/677/677-LOGO-m.png",Al Quran Al Kareem TV HD
-https://atemeshield1-voe.sysln.id/live/eds/ALQuranAlKareem/mpd/ALQuranAlKareem.mpd
+https://atemeshield1-voe.sysln.id/live/eds/ALQuranAlKareem/mediampd/ALQuranAlKareem.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
@@ -1196,7 +1196,7 @@ https://av-ch-cdn.mncnow.id/live/eds/TV9/sa_dash/TV9.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae21f8dbfe264f7ca52245ac5db9191d:5c7d955344f05e32f3c0899a3baacfaf
 #EXTINF:-1 tvg-id="" group-title="Religi" tvg-logo="https://www.visionplus.id/images/repository/601/601-LOGO-m.png",TV9 HD
-https://atemecdnbalancer-voe.sysln.id/live/eds/TV9/mpd/TV9.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/TV9/mediampd/TV9.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
